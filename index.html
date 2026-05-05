@@ -84,7 +84,9 @@
         ::-webkit-scrollbar-thumb { background: #3a3a3a; border-radius: 2px; }
         .empty-state { text-align: center; padding: 30px; color: #666; font-size: 14px; }
         .badge { display: inline-block; background: rgba(139,92,246,0.2); color: #A78BFA; padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 600; }
-        .response-msg { background: #2a2a2a; border: 1px solid var(--pri, #8B5CF6); border-radius: 12px; padding: 16px; margin-top: 16px; text-align: center; animation: fadeIn 0.3s ease; }
+        .response-msg { background: #2a2a2a; border: 1px solid var(--pri, #8B5CF6); border-radius: 12px; padding: 16px; margin-top: 16px; text-align: center; animation: fadeIn 0.3s ease; font-size: 14px; }
+        .response-msg.success { border-color: #10B981; color: #10B981; }
+        .response-msg.error { border-color: #EF4444; color: #EF4444; }
         .loading-spinner { display: inline-block; width: 24px; height: 24px; border: 3px solid #3a3a3a; border-top-color: var(--pri, #8B5CF6); border-radius: 50%; animation: spin 0.6s linear infinite; }
         @keyframes spin { to { transform: rotate(360deg); } }
     </style>
@@ -128,9 +130,9 @@
             <button class="back-btn" onclick="navigateTo('main')">← Volver</button>
             <h2 style="margin-bottom:16px;color:#A78BFA;">📊 Reporte De Ventas</h2>
             <div class="sub-menu">
-                <button class="sub-btn" onclick="webhookAI({comando:'/reporte',parametro:'hoy'})">📅 Hoy</button>
-                <button class="sub-btn" onclick="webhookAI({comando:'/reporte',parametro:'ayer'})">📆 Ayer</button>
-                <button class="sub-btn" onclick="webhookAI({comando:'/reporte',parametro:'semana'})">📊 Esta Semana</button>
+                <button class="sub-btn" onclick="webhookAI('reporte', {tipo:'hoy'}, 'response-reporte')">📅 Hoy</button>
+                <button class="sub-btn" onclick="webhookAI('reporte', {tipo:'ayer'}, 'response-reporte')">📆 Ayer</button>
+                <button class="sub-btn" onclick="webhookAI('reporte', {tipo:'semana'}, 'response-reporte')">📊 Esta Semana</button>
                 <button class="sub-btn" onclick="navigateTo('reporte-personalizado')">🗓️ Período Personalizado</button>
             </div>
             <div id="response-reporte"></div>
@@ -195,7 +197,7 @@
             <h2 style="margin-bottom:16px;color:#A78BFA;">📝 Actualizar Producto Existente</h2>
             <div class="form-group"><label class="form-label">Código del Producto</label><input type="text" id="act-existente-codigo" class="form-input" placeholder="Código"></div>
             <div class="form-group"><label class="form-label">Cantidad a Agregar</label><input type="number" id="act-existente-cantidad" class="form-input" placeholder="Cantidad"></div>
-            <div class="form-group"><label class="form-label">Nuevo Precio Bs (dejar vacío si no cambia)</label><input type="number" id="act-existente-precio-bs" class="form-input" placeholder="Precio Bs" step="0.01"></div>
+            <div class="form-group"><label class="form-label">Nuevo Precio USD (dejar vacío si no cambia)</label><input type="number" id="act-existente-precio-usd" class="form-input" placeholder="Precio USD" step="0.01"></div>
             <button class="btn-primary btn-full" onclick="actualizarExistente()">💾 Guardar Cambios</button>
             <div id="response-act-existente"></div>
         </div>
@@ -204,11 +206,11 @@
         <div class="screen" id="screen-actualizar-nuevo">
             <button class="back-btn" onclick="navigateTo('actualizar')">← Volver</button>
             <h2 style="margin-bottom:16px;color:#A78BFA;">➕ Producto Nuevo</h2>
-            <div class="form-group"><label class="form-label">Nombre</label><input type="text" id="nuevo-nombre" class="form-input" placeholder="Nombre del producto"></div>
             <div class="form-group"><label class="form-label">Código</label><input type="text" id="nuevo-codigo" class="form-input" placeholder="Código único"></div>
-            <div class="form-group"><label class="form-label">Cantidad Inicial</label><input type="number" id="nuevo-cantidad" class="form-input" placeholder="Stock inicial"></div>
+            <div class="form-group"><label class="form-label">Nombre</label><input type="text" id="nuevo-nombre" class="form-input" placeholder="Nombre del producto"></div>
             <div class="form-group"><label class="form-label">Categoría</label><select id="nuevo-categoria" class="form-input"><option value="">Seleccionar categoría</option><option value="Bebidas">Bebidas</option><option value="Alimentos">Alimentos</option><option value="Granos">Granos</option><option value="Panaderia">Panadería</option><option value="Lacteos">Lácteos</option><option value="Limpieza">Limpieza</option><option value="Otros">Otros</option></select></div>
-            <div class="form-group"><label class="form-label">Precio Bs</label><input type="number" id="nuevo-precio-bs" class="form-input" placeholder="Precio en Bs" step="0.01"></div>
+            <div class="form-group"><label class="form-label">Cantidad Inicial</label><input type="number" id="nuevo-cantidad" class="form-input" placeholder="Stock inicial"></div>
+            <div class="form-group"><label class="form-label">Precio USD</label><input type="number" id="nuevo-precio-usd" class="form-input" placeholder="Precio en USD" step="0.01"></div>
             <button class="btn-primary btn-full" onclick="agregarNuevoProducto()">💾 Guardar Producto</button>
             <div id="response-nuevo"></div>
         </div>
@@ -288,13 +290,13 @@
             <h2 style="margin-bottom:16px;color:#A78BFA;">❓ Ayuda 🆘</h2>
             <div class="sub-menu">
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">📊 <small>Reporte: ver ventas por período</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">🛒 <small>Vender: registrar venta al contado</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">💰 <small>Crédito: registrar venta a crédito</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">📦 <small>Actualizar: stock, nuevo producto o eliminar</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">💲 <small>Ajustar: cambiar tasa del dólar</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">📖 <small>Catálogo: ver inventario completo</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">🤑 <small>Cobros: ver cuentas por cobrar</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">🏭 <small>Proveedores: gestionar proveedores</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">🛒 <small>Vender: venta al contado</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">💰 <small>Crédito: venta a crédito</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">📦 <small>Actualizar: stock, nuevo o eliminar</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">💲 <small>Ajustar: tasa del dólar</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">📖 <small>Catálogo: ver inventario</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">🤑 <small>Cobros: cuentas por cobrar</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">🏭 <small>Proveedores: gestionar</small></div>
             </div>
         </div>
 
@@ -311,16 +313,16 @@
     </div>
 
     <script>
-        // ========== CONFIGURACIÓN (desde config.js) ==========
+        // ========== CONFIGURACIÓN ==========
         document.querySelector('.business-name').textContent = TIENDA.nombre;
         document.querySelector('.business-rif').textContent = 'RIF: ' + TIENDA.rif;
         document.querySelector('#footer-text').textContent = 'Powered by ' + TIENDA.nombre + ' • n8n • Firebase';
         document.title = TIENDA.nombre + ' POS';
-
+        
         const M = TIENDA.moneda;
         const RIF = TIENDA.rif;
         const NOMBRE = TIENDA.nombre;
-        const WEBHOOK_URL = TIENDA.webhookUrl || 'https://TU-N8N.com/webhook/siembra-webhook';
+        const WEBHOOK_URL = TIENDA.webhookUrl || '';
 
         document.documentElement.style.setProperty('--pri', TIENDA.colorPrimario);
         document.documentElement.style.setProperty('--sec', TIENDA.colorSecundario);
@@ -341,33 +343,27 @@
         function fV(n) { return Number(n).toLocaleString('es-VE', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
 
         // ========== WEBHOOK AI ==========
-        async function webhookAI(data, responseDivId) {
+        async function webhookAI(accion, data, responseDivId) {
             const div = responseDivId ? document.getElementById(responseDivId) : null;
-            if (div) div.innerHTML = '<div class="response-msg"><div class="loading-spinner"></div><br>Procesando...</div>';
+            if (div) div.innerHTML = '<div class="response-msg"><div class="loading-spinner"></div> Procesando...</div>';
+            
+            const payload = { accion, ...data, tienda: NOMBRE, rif: RIF, usuario: user ? { id: user.id, nombre: user.first_name } : null };
             
             try {
                 const resp = await fetch(WEBHOOK_URL, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                        ...data,
-                        usuario: user ? { id: user.id, nombre: user.first_name } : null,
-                        tienda: NOMBRE,
-                        rif: RIF
-                    })
+                    body: JSON.stringify(payload)
                 });
                 const result = await resp.json();
-                if (div) div.innerHTML = '<div class="response-msg" style="border-color:#10B981;">✅ ' + (result.mensaje || result.response || 'Completado') + '</div>';
+                if (div) {
+                    const msg = result.mensaje || result.message || result.response || '✅ Completado';
+                    div.innerHTML = '<div class="response-msg success">' + msg + '</div>';
+                    setTimeout(() => { if (div) div.innerHTML = ''; }, 5000);
+                }
                 return result;
             } catch (e) {
-                if (div) div.innerHTML = '<div class="response-msg" style="border-color:#EF4444;">❌ Error de conexión con n8n</div>';
-                // Fallback: enviar comando al chat
-                if (data.comando) {
-                    let cmd = data.comando;
-                    if (data.parametro) cmd += ' ' + data.parametro;
-                    tg.sendData(cmd);
-                    tg.close();
-                }
+                if (div) div.innerHTML = '<div class="response-msg error">❌ Error de conexión con n8n</div>';
                 return null;
             }
         }
@@ -454,39 +450,24 @@
 
             const totalBs = c.reduce((s, i) => s + (i.precio_bs || 0) * i.cantidad, 0);
             const totalUsd = c.reduce((s, i) => s + (i.precio_usd || 0) * i.cantidad, 0);
+            const productos = c.map(i => ({ id: i.id, nombre: i.nombre, cantidad: i.cantidad, precio_bs: i.precio_bs, precio_usd: i.precio_usd }));
 
+            // Enviar a n8n
+            const respDiv = 'response-' + pf;
+            const result = await webhookAI(tipo === 'contado' ? 'vender' : 'credito', {
+                cliente, telefono: tel, productos, total_bs: totalBs, total_usd: totalUsd
+            }, respDiv);
+
+            // Guardar local
             const coleccion = tipo === 'contado' ? 'ventas' : 'creditos';
             db.collection(coleccion).add({
-                fecha: new Date(), cliente, telefono: tel,
-                productos: c.map(i => ({ nombre: i.nombre, cantidad: i.cantidad, precio_bs: i.precio_bs, precio_usd: i.precio_usd })),
+                fecha: new Date(), cliente, telefono: tel, productos,
                 total_bs: totalBs, total_usd: totalUsd, tipo,
                 pagado: tipo === 'contado' ? true : false
             });
 
-            // Enviar a n8n por webhook
-            const respDiv = 'response-' + pf;
-            const result = await webhookAI({
-                comando: tipo === 'contado' ? '/vender' : '/credito',
-                cliente: cliente,
-                telefono: tel,
-                productos: c.map(i => ({ id: i.id, nombre: i.nombre, cantidad: i.cantidad, precio_bs: i.precio_bs })),
-                total_bs: totalBs,
-                total_usd: totalUsd
-            }, respDiv);
-
             mostrarTicket({ cliente, telefono: tel, productos: c, total_bs: totalBs, total_usd: totalUsd, tipo: tipo === 'contado' ? 'VENTA AL CONTADO' : 'VENTA A CRÉDITO' });
             if (tipo === 'contado') carritoVender = []; else carritoCredito = [];
-            
-            if (!result) {
-                // Si falló webhook, cerrar y enviar al chat
-                let cmd = tipo === 'contado' ? '/vender' : '/credito';
-                cmd += ' ' + cliente;
-                if (tel) cmd += ' ' + tel;
-                c.forEach(i => { cmd += ' ' + i.id + ' ' + i.cantidad; });
-                tg.sendData(cmd);
-                tg.close();
-            }
-            
             navigateTo('ticket');
         }
 
@@ -524,26 +505,33 @@
 
         function generarReportePersonalizado() {
             const d = document.getElementById('fecha-desde').value, h = document.getElementById('fecha-hasta').value;
-            if (d && h) webhookAI({ comando: '/reporte', parametro: d + ' ' + h }, 'response-reporte-pers');
+            if (d && h) webhookAI('reporte', { tipo: 'personalizado', desde: d, hasta: h }, 'response-reporte-pers');
             else alert('Selecciona ambas fechas');
         }
 
         function actualizarExistente() {
-            const co = document.getElementById('act-existente-codigo').value.trim();
-            const ca = document.getElementById('act-existente-cantidad').value.trim();
-            const pb = document.getElementById('act-existente-precio-bs').value.trim();
-            if (!co || !ca) return alert('Código y cantidad obligatorios');
-            webhookAI({ comando: '/actualizar', codigo: co, cantidad: ca, precio_bs: pb }, 'response-act-existente');
+            const codigo = document.getElementById('act-existente-codigo').value.trim();
+            const cantidad = document.getElementById('act-existente-cantidad').value.trim();
+            const precioUsd = document.getElementById('act-existente-precio-usd').value.trim();
+            if (!codigo || !cantidad) return alert('Código y cantidad obligatorios');
+            webhookAI('actualizar_stock', {
+                tipo: 'existente',
+                codigo, cantidad,
+                precio_usd: precioUsd || null
+            }, 'response-act-existente');
         }
 
         function agregarNuevoProducto() {
-            const n = document.getElementById('nuevo-nombre').value.trim();
-            const co = document.getElementById('nuevo-codigo').value.trim();
-            const ca = document.getElementById('nuevo-cantidad').value.trim();
-            const cat = document.getElementById('nuevo-categoria').value;
-            const pb = document.getElementById('nuevo-precio-bs').value.trim();
-            if (!n || !co || !ca || !cat || !pb) return alert('Todos los campos obligatorios');
-            webhookAI({ comando: '/actualizar', accion: 'nuevo', nombre: n, codigo: co, cantidad: ca, categoria: cat, precio_bs: pb }, 'response-nuevo');
+            const codigo = document.getElementById('nuevo-codigo').value.trim();
+            const nombre = document.getElementById('nuevo-nombre').value.trim();
+            const categoria = document.getElementById('nuevo-categoria').value;
+            const cantidad = document.getElementById('nuevo-cantidad').value.trim();
+            const precioUsd = document.getElementById('nuevo-precio-usd').value.trim();
+            if (!codigo || !nombre || !categoria || !cantidad || !precioUsd) return alert('Todos los campos obligatorios');
+            webhookAI('actualizar_stock', {
+                tipo: 'nuevo',
+                codigo, nombre, categoria, cantidad, precio_usd: precioUsd
+            }, 'response-nuevo');
         }
 
         function ajustarTasa() {
@@ -551,7 +539,7 @@
             if (!t) return alert('Ingresa la tasa');
             tasaActual = parseFloat(t);
             db.collection('config').doc('tasa').set({ valor: parseFloat(t), fecha: new Date() });
-            webhookAI({ comando: '/tasa', tasa: t }, 'response-tasa');
+            webhookAI('ajustar_tasa', { tasa: t }, 'response-tasa');
         }
 
         async function cargarCatalogo() {
@@ -580,14 +568,7 @@
                 const deu = [];
                 snap.forEach(d => {
                     const data = d.data();
-                    deu.push({
-                        id: d.id,
-                        cliente: data.cliente_nombre,
-                        telefono: data.cliente_whatsapp,
-                        deuda: data.total_bs,
-                        deuda_usd: data.total_usd,
-                        fecha: data.fecha_credito
-                    });
+                    deu.push({ id: d.id, cliente: data.cliente_nombre, telefono: data.cliente_whatsapp, deuda: data.total_bs, deuda_usd: data.total_usd, fecha: data.fecha_credito });
                 });
                 if (!deu.length) { ct.innerHTML = '<div class="empty-state">🎉 No hay cuentas por cobrar</div>'; return; }
                 ct.innerHTML = deu.map(d =>
@@ -606,14 +587,7 @@
                     snap2.forEach(d => {
                         const data = d.data();
                         if (data.estado === 'pendiente') {
-                            deu2.push({
-                                id: d.id,
-                                cliente: data.cliente_nombre,
-                                telefono: data.cliente_whatsapp,
-                                deuda: data.total_bs,
-                                deuda_usd: data.total_usd,
-                                fecha: data.fecha_credito
-                            });
+                            deu2.push({ id: d.id, cliente: data.cliente_nombre, telefono: data.cliente_whatsapp, deuda: data.total_bs, deuda_usd: data.total_usd, fecha: data.fecha_credito });
                         }
                     });
                     if (!deu2.length) { ct.innerHTML = '<div class="empty-state">🎉 No hay cuentas por cobrar</div>'; return; }
@@ -626,29 +600,16 @@
                         '</div>' +
                         '<button class="add-btn" style="background:#10B981;" onclick="cobrarCredito(\'' + d.id + '\',\'' + (d.cliente || '').replace(/'/g, "\\'") + '\',' + (d.deuda || 0) + ')">💰 Cobrar</button></div>'
                     ).join('');
-                } catch (e2) { ct.innerHTML = '<div class="empty-state">Error: ' + e2.message + '</div>'; }
+                } catch (e2) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
             }
         }
 
         async function cobrarCredito(id, cliente, deuda) {
-            // Confirmar
             if (!confirm('¿Confirmar cobro de ' + cliente + ' por ' + M + ' ' + fV(deuda) + '?')) return;
-            
-            const result = await webhookAI({
-                comando: '/cobrar',
-                credito_id: d.id,
-                cliente: d.cliente,
-                monto: d.deuda
-            }, null);
-            
+            const result = await webhookAI('cobrar', { credito_id: id, cliente, monto: deuda }, null);
             if (result) {
-                // Marcar como pagado en Firebase
-                await db.collection('creditos').doc(d.id).update({ estado: 'pagado' });
+                await db.collection('creditos').doc(id).update({ estado: 'pagado' });
                 cargarCobros();
-            } else {
-                // Fallback: enviar al chat y cerrar
-                tg.sendData('/cobrar ' + d.cliente + ' ' + d.deuda);
-                tg.close();
             }
         }
 
@@ -658,7 +619,7 @@
             const t = document.getElementById('prov-telefono').value.trim(), c = document.getElementById('prov-correo').value.trim();
             const pr = document.getElementById('prov-productos').value.trim(), nt = document.getElementById('prov-notas').value.trim();
             db.collection('proveedores').add({ nombre: n, telefono: t, correo: c, productos: pr, notas: nt, fechaCreacion: new Date() });
-            webhookAI({ comando: '/proveedor', accion: 'agregar', nombre: n, telefono: t, correo: c, productos: pr }, 'response-prov');
+            webhookAI('proveedor', { tipo: 'agregar', nombre: n, telefono: t, correo: c, productos: pr }, 'response-prov');
         }
 
         async function cargarProveedoresModificar() {
@@ -667,7 +628,7 @@
                 const snap = await db.collection('proveedores').get();
                 const provs = []; snap.forEach(d => provs.push({ id: d.id, ...d.data() }));
                 if (!provs.length) { ct.innerHTML = '<div class="empty-state">No hay proveedores</div>'; return; }
-                ct.innerHTML = provs.map(p => '<div class="product-item"><div class="product-info"><div class="product-name">' + p.nombre + '</div><div class="product-stock">📱 ' + (p.telefono || 'N/A') + ' | ✉️ ' + (p.correo || 'N/A') + '</div></div><button class="add-btn" onclick="webhookAI({comando:\'/proveedor\',accion:\'modificar\',id:\'' + p.id + '\'})">✏️</button></div>').join('');
+                ct.innerHTML = provs.map(p => '<div class="product-item"><div class="product-info"><div class="product-name">' + p.nombre + '</div><div class="product-stock">📱 ' + (p.telefono || 'N/A') + ' | ✉️ ' + (p.correo || 'N/A') + '</div></div><button class="add-btn" onclick="webhookAI(\'proveedor\',{tipo:\'modificar\',id:\'' + p.id + '\'})">✏️</button></div>').join('');
             } catch (e) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
         }
 
@@ -681,7 +642,7 @@
             } catch (e) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
         }
 
-        function eliminarProveedor(id) { db.collection('proveedores').doc(id).delete(); webhookAI({ comando: '/proveedor', accion: 'eliminar', id: id }); cargarProveedoresEliminar(); }
+        function eliminarProveedor(id) { db.collection('proveedores').doc(id).delete(); webhookAI('proveedor', { tipo: 'eliminar', id }); cargarProveedoresEliminar(); }
 
         async function cargarProductosEliminar() {
             const lista = document.getElementById('eliminar-lista');
@@ -692,7 +653,7 @@
             } catch (e) { lista.innerHTML = '<div class="empty-state">Error</div>'; }
         }
 
-        function eliminarProducto(id) { db.collection('productos').doc(id).delete(); webhookAI({ comando: '/eliminar', producto_id: id }); cargarProductosEliminar(); }
+        function eliminarProducto(id) { db.collection('productos').doc(id).delete(); webhookAI('eliminar_producto', { producto_id: id }); cargarProductosEliminar(); }
 
         function filtrarProductosEliminar() {
             const b = document.getElementById('eliminar-buscar')?.value?.toLowerCase() || '';
