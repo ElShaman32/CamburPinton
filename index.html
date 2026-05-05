@@ -345,7 +345,13 @@
             if (sn === 'eliminar') cargarProductosEliminar();
         }
 
-        function sendCommand(cmd) { tg.sendData(cmd); tg.close(); }
+        function sendCommand(cmd) { 
+    // Copiar al portapapeles y cerrar
+     navigator.clipboard.writeText(cmd).then(() => {
+         tg.showPopup({ title: 'Comando copiado', message: 'Pégalo en el chat: ' + cmd, buttons: [{ type: 'close' }] });
+ });
+         tg.close(); 
+    }
 
         // PRODUCTOS
         async function cargarProductos(modo) {
