@@ -370,7 +370,7 @@
             lista.innerHTML = productos.map(p => {
                 const precioBs = p.precio_bs || 0;
                 const precioUsd = p.precio_usd || 0;
-                const precioMostrar = 'Bs. ' + Number(precioBs).toFixed(2);
+                const precioMostrar = 'Bs. ' + formatoVenezolano(precioBs);
                 const precioUsdMostrar = precioUsd > 0 ? ' | $' + Number(precioUsd).toFixed(2) : '';
                 const nombreSeguro = (p.nombre || p.id || '').replace(/'/g, "\\'");
                 return '<div class="product-item">' +
@@ -416,10 +416,14 @@
             itemsContainer.innerHTML = carrito.map((item, index) => {
                 const subtotal = (item.precio_bs || 0) * item.cantidad;
                 totalBs += subtotal;
-                const precioMostrar = 'Bs. ' + subtotal.toFixed(2);
+                const precioMostrar = 'Bs. ' + formatoVenezolano(subtotal);
                 return '<div class="cart-item"><span>' + item.nombre + ' x' + item.cantidad + '</span><span>' + precioMostrar + ' <small style="color:#EF4444;cursor:pointer;margin-left:6px;" onclick="eliminarDelCarrito(\'' + modo + '\', ' + index + ')">✕</small></span></div>';
             }).join('');
-            totalSpan.textContent = 'Bs. ' + totalBs.toFixed(2);
+            totalSpan.textContent = 'Bs. ' + formatoVenezolano(totalBs);
+        }
+
+        function formatoVenezolano(numero) {
+            return Number(numero).toLocaleString('es-VE', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
         }
         
         function eliminarDelCarrito(modo, index) {
@@ -491,7 +495,7 @@
                     '<div class="ticket-row"><span>' + p.nombre + ' x' + p.cantidad + '</span><span>Bs. ' + ((p.precio_bs || 0) * p.cantidad).toFixed(2) + '</span></div>'
                 ).join('') +
                 '<hr class="ticket-divider">' +
-                '<div class="ticket-row total"><span>TOTAL Bs:</span><span>Bs. ' + data.total_bs.toFixed(2) + '</span></div>' +
+                '<div class="ticket-row total"><span>TOTAL Bs:</span><span>Bs. ' + formatoVenezolano(data.total_bs) + '</span></div>'
                 (data.total_usd > 0 ? '<div class="ticket-row" style="font-size:12px;color:#888;"><span>TOTAL USD:</span><span>$' + data.total_usd.toFixed(2) + '</span></div>' : '') +
                 '<hr class="ticket-divider">' +
                 '<div style="text-align:center;color:#A78BFA;font-size:13px;margin-top:8px;">¡Gracias por tu compra!</div>';
@@ -557,7 +561,7 @@
                     '<div class="product-item">' +
                         '<div class="product-info">' +
                             '<div class="product-name">' + (p.nombre || p.id) + '</div>' +
-                            '<div class="product-price">Bs. ' + (p.precio_bs || 0).toFixed(2) + (p.precio_usd ? ' | $' + p.precio_usd.toFixed(2) : '') + '</div>' +
+                            '<div class="product-price">Bs. ' + formatoVenezolano(p.precio_bs || 0) + ...
                             '<div class="product-stock">Stock: ' + (p.stock || p.cantidad || 0) + ' | Código: ' + (p.codigo || 'N/A') + '</div>' +
                             '<span class="badge">' + (p.categoria || 'Sin categoría') + '</span>' +
                         '</div>' +
