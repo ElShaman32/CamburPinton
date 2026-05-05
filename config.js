@@ -13,5 +13,5 @@ const TIENDA = {
         messagingSenderId: "1058808192755",
         appId: "1:1058808192755:web:a1ebeb9a3625f42cd56186"
     },
-    webhookUrl: "https://TU-N8N.com/webhook/siembra-webhook"
+    webhookUrl: ""
 };
