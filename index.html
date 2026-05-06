@@ -157,10 +157,7 @@
             <div class="search-box"><span class="search-icon">🔍</span><input type="text" id="vender-buscar" class="form-input" placeholder="Buscar producto..." oninput="filtrarProductos('vender')"></div>
             <div class="product-list" id="vender-lista-productos"></div>
             <div class="cart-container"><div class="cart-title">📋 Carrito</div><div id="vender-items"></div><div class="cart-total"><span>TOTAL:</span><span id="vender-total">Bs. 0,00</span></div></div>
-            <div class="btn-row">
-                <button class="btn-secondary btn-danger" onclick="vaciarCarrito('vender')">🗑️ Vaciar</button>
-                <button class="btn-primary" onclick="finalizarVenta('contado')">✅ Finalizar Venta</button>
-            </div>
+            <div class="btn-row"><button class="btn-secondary btn-danger" onclick="vaciarCarrito('vender')">🗑️ Vaciar</button><button class="btn-primary" onclick="finalizarVenta('contado')">✅ Finalizar Venta</button></div>
             <div id="response-vender"></div>
         </div>
 
@@ -173,10 +170,7 @@
             <div class="search-box"><span class="search-icon">🔍</span><input type="text" id="credito-buscar" class="form-input" placeholder="Buscar producto..." oninput="filtrarProductos('credito')"></div>
             <div class="product-list" id="credito-lista-productos"></div>
             <div class="cart-container"><div class="cart-title">📋 Carrito (Crédito)</div><div id="credito-items"></div><div class="cart-total"><span>TOTAL:</span><span id="credito-total">Bs. 0,00</span></div></div>
-            <div class="btn-row">
-                <button class="btn-secondary btn-danger" onclick="vaciarCarrito('credito')">🗑️ Vaciar</button>
-                <button class="btn-primary" onclick="finalizarVenta('credito')">✅ Finalizar Crédito</button>
-            </div>
+            <div class="btn-row"><button class="btn-secondary btn-danger" onclick="vaciarCarrito('credito')">🗑️ Vaciar</button><button class="btn-primary" onclick="finalizarVenta('credito')">✅ Finalizar Crédito</button></div>
             <div id="response-credito"></div>
         </div>
 
@@ -185,16 +179,17 @@
             <button class="back-btn" onclick="navigateTo('main')">← Volver</button>
             <h2 style="margin-bottom:16px;color:#A78BFA;">📦 Actualizar Inventario</h2>
             <div class="sub-menu">
-                <button class="sub-btn" onclick="navigateTo('actualizar-existente')">📝 Producto Existente</button>
+                <button class="sub-btn" onclick="navigateTo('actualizar-existente')">📝 Agregar Stock a Existente</button>
                 <button class="sub-btn" onclick="navigateTo('actualizar-nuevo')">➕ Producto Nuevo</button>
+                <button class="sub-btn" onclick="navigateTo('producto-modificar')">✏️ Modificar Producto</button>
                 <button class="sub-btn" onclick="navigateTo('eliminar')" style="border-color:#EF4444;"><span style="color:#EF4444;">🗑️ Eliminar Producto</span></button>
             </div>
         </div>
 
-        <!-- ACTUALIZAR PRODUCTO EXISTENTE -->
+        <!-- ACTUALIZAR PRODUCTO EXISTENTE (AGREGAR STOCK) -->
         <div class="screen" id="screen-actualizar-existente">
             <button class="back-btn" onclick="navigateTo('actualizar')">← Volver</button>
-            <h2 style="margin-bottom:16px;color:#A78BFA;">📝 Actualizar Producto Existente</h2>
+            <h2 style="margin-bottom:16px;color:#A78BFA;">📝 Agregar Stock</h2>
             <div class="form-group"><label class="form-label">Código del Producto</label><input type="text" id="act-existente-codigo" class="form-input" placeholder="Código"></div>
             <div class="form-group"><label class="form-label">Cantidad a Agregar</label><input type="number" id="act-existente-cantidad" class="form-input" placeholder="Cantidad"></div>
             <div class="form-group"><label class="form-label">Nuevo Precio USD (dejar vacío si no cambia)</label><input type="number" id="act-existente-precio-usd" class="form-input" placeholder="Precio USD" step="0.01"></div>
@@ -213,6 +208,29 @@
             <div class="form-group"><label class="form-label">Precio USD</label><input type="number" id="nuevo-precio-usd" class="form-input" placeholder="Precio en USD" step="0.01"></div>
             <button class="btn-primary btn-full" onclick="agregarNuevoProducto()">💾 Guardar Producto</button>
             <div id="response-nuevo"></div>
+        </div>
+
+        <!-- MODIFICAR PRODUCTO -->
+        <div class="screen" id="screen-producto-modificar">
+            <button class="back-btn" onclick="navigateTo('actualizar')">← Volver</button>
+            <h2 style="margin-bottom:16px;color:#A78BFA;">✏️ Modificar Producto</h2>
+            <div class="search-box"><span class="search-icon">🔍</span><input type="text" id="modificar-buscar" class="form-input" placeholder="Buscar producto..." oninput="filtrarProductosModificar()"></div>
+            <div id="producto-modificar-lista"></div>
+        </div>
+
+        <!-- MODIFICAR PRODUCTO FORM -->
+        <div class="screen" id="screen-producto-modificar-form">
+            <button class="back-btn" onclick="navigateTo('producto-modificar')">← Volver a la lista</button>
+            <h2 style="margin-bottom:16px;color:#A78BFA;">✏️ Editar Producto</h2>
+            <input type="hidden" id="modificar-id">
+            <div class="form-group"><label class="form-label">Código</label><input type="text" id="modificar-codigo" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Nombre</label><input type="text" id="modificar-nombre" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Categoría</label><select id="modificar-categoria" class="form-input"><option value="">Seleccionar</option><option value="Bebidas">Bebidas</option><option value="Alimentos">Alimentos</option><option value="Granos">Granos</option><option value="Panaderia">Panadería</option><option value="Lacteos">Lácteos</option><option value="Limpieza">Limpieza</option><option value="Otros">Otros</option></select></div>
+            <div class="form-group"><label class="form-label">Stock</label><input type="number" id="modificar-stock" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Precio USD</label><input type="number" id="modificar-precio-usd" class="form-input" step="0.01"></div>
+            <div class="form-group"><label class="form-label">Precio Bs</label><input type="number" id="modificar-precio-bs" class="form-input" step="0.01"></div>
+            <button class="btn-primary btn-full" onclick="guardarModificacionProducto()">💾 Guardar Cambios</button>
+            <div id="response-modificar-prod"></div>
         </div>
 
         <!-- AJUSTAR TASA -->
@@ -262,11 +280,25 @@
             <div id="response-prov"></div>
         </div>
 
-        <!-- MODIFICAR PROVEEDOR -->
+        <!-- MODIFICAR PROVEEDOR (LISTA) -->
         <div class="screen" id="screen-proveedor-modificar">
             <button class="back-btn" onclick="navigateTo('proveedores')">← Volver</button>
             <h2 style="margin-bottom:16px;color:#A78BFA;">✏️ Modificar Proveedor</h2>
             <div id="proveedor-modificar-contenido"><div class="empty-state">Cargando...</div></div>
+        </div>
+
+        <!-- MODIFICAR PROVEEDOR (FORM) -->
+        <div class="screen" id="screen-proveedor-modificar-form">
+            <button class="back-btn" onclick="navigateTo('proveedor-modificar')">← Volver a la lista</button>
+            <h2 style="margin-bottom:16px;color:#A78BFA;">✏️ Editar Proveedor</h2>
+            <input type="hidden" id="modificar-prov-id">
+            <div class="form-group"><label class="form-label">Nombre</label><input type="text" id="modificar-prov-nombre" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Teléfono</label><input type="tel" id="modificar-prov-telefono" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Correo</label><input type="email" id="modificar-prov-correo" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Productos</label><input type="text" id="modificar-prov-productos" class="form-input"></div>
+            <div class="form-group"><label class="form-label">Notas</label><input type="text" id="modificar-prov-notas" class="form-input"></div>
+            <button class="btn-primary btn-full" onclick="guardarModificacionProveedor()">💾 Guardar Cambios</button>
+            <div id="response-modificar-prov"></div>
         </div>
 
         <!-- ELIMINAR PROVEEDOR -->
@@ -292,11 +324,11 @@
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">📊 <small>Reporte: ver ventas por período</small></div>
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">🛒 <small>Vender: venta al contado</small></div>
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">💰 <small>Crédito: venta a crédito</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">📦 <small>Actualizar: stock, nuevo o eliminar</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">📦 <small>Actualizar: stock, nuevo, modificar o eliminar</small></div>
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">💲 <small>Ajustar: tasa del dólar</small></div>
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">📖 <small>Catálogo: ver inventario</small></div>
                 <div class="sub-btn" style="cursor:default;border-color:transparent;">🤑 <small>Cobros: cuentas por cobrar</small></div>
-                <div class="sub-btn" style="cursor:default;border-color:transparent;">🏭 <small>Proveedores: gestionar</small></div>
+                <div class="sub-btn" style="cursor:default;border-color:transparent;">🏭 <small>Proveedores: agregar, modificar o eliminar</small></div>
             </div>
         </div>
 
@@ -318,18 +350,11 @@
         document.querySelector('.business-rif').textContent = 'RIF: ' + TIENDA.rif;
         document.querySelector('#footer-text').textContent = 'Powered by ' + TIENDA.nombre + ' • n8n • Firebase';
         document.title = TIENDA.nombre + ' POS';
-        
-        const M = TIENDA.moneda;
-        const RIF = TIENDA.rif;
-        const NOMBRE = TIENDA.nombre;
-        const WEBHOOK_URL = TIENDA.webhookUrl || '';
-
+        const M = TIENDA.moneda, RIF = TIENDA.rif, NOMBRE = TIENDA.nombre, WEBHOOK_URL = TIENDA.webhookUrl || '';
         document.documentElement.style.setProperty('--pri', TIENDA.colorPrimario);
         document.documentElement.style.setProperty('--sec', TIENDA.colorSecundario);
-
         firebase.initializeApp(TIENDA.firebase);
         const db = firebase.firestore();
-
         let carritoVender = [], carritoCredito = [], todosProductos = [], tasaActual = 35.50;
 
         const tg = window.Telegram.WebApp; tg.ready(); tg.expand();
@@ -346,26 +371,13 @@
         async function webhookAI(accion, data, responseDivId) {
             const div = responseDivId ? document.getElementById(responseDivId) : null;
             if (div) div.innerHTML = '<div class="response-msg"><div class="loading-spinner"></div> Procesando...</div>';
-            
             const payload = { accion, ...data, tienda: NOMBRE, rif: RIF, usuario: user ? { id: user.id, nombre: user.first_name } : null };
-            
             try {
-                const resp = await fetch(WEBHOOK_URL, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(payload)
-                });
+                const resp = await fetch(WEBHOOK_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
                 const result = await resp.json();
-                if (div) {
-                    const msg = result.mensaje || result.message || result.response || '✅ Completado';
-                    div.innerHTML = '<div class="response-msg success">' + msg + '</div>';
-                    setTimeout(() => { if (div) div.innerHTML = ''; }, 5000);
-                }
+                if (div) { const msg = result.mensaje || result.message || '✅ Completado'; div.innerHTML = '<div class="response-msg success">' + msg + '</div>'; setTimeout(() => { if (div) div.innerHTML = ''; }, 5000); }
                 return result;
-            } catch (e) {
-                if (div) div.innerHTML = '<div class="response-msg error">❌ Error de conexión con n8n</div>';
-                return null;
-            }
+            } catch (e) { if (div) div.innerHTML = '<div class="response-msg error">❌ Error de conexión</div>'; return null; }
         }
 
         function navigateTo(sn) {
@@ -379,14 +391,12 @@
             if (sn === 'vender') cargarProductos('vender');
             if (sn === 'credito') cargarProductos('credito');
             if (sn === 'eliminar') cargarProductosEliminar();
+            if (sn === 'producto-modificar') cargarProductosModificar();
         }
 
+        // ========== PRODUCTOS ==========
         async function cargarProductos(modo) {
-            try {
-                const snap = await db.collection('productos').get();
-                todosProductos = []; snap.forEach(d => todosProductos.push({ id: d.id, ...d.data() }));
-                mostrarProductos(modo, todosProductos);
-            } catch (e) { console.error(e); }
+            try { const snap = await db.collection('productos').get(); todosProductos = []; snap.forEach(d => todosProductos.push({ id: d.id, ...d.data() })); mostrarProductos(modo, todosProductos); } catch (e) {}
         }
 
         function mostrarProductos(modo, prods) {
@@ -394,46 +404,24 @@
             if (!lista) return;
             if (!prods.length) { lista.innerHTML = '<div class="empty-state">No hay productos</div>'; return; }
             lista.innerHTML = prods.map(p => {
-                const pb = p.precio_bs || 0, pu = p.precio_usd || 0;
-                const nombre = (p.nombre || p.id || '').replace(/'/g, "\\'");
-                return '<div class="product-item">' +
-                    '<div class="product-info">' +
-                        '<div class="product-name">' + (p.nombre || p.id) + '</div>' +
-                        '<div class="product-price">' + M + ' ' + fV(pb) + '</div>' +
-                        (pu > 0 ? '<div class="product-price-usd">$' + Number(pu).toFixed(2) + '</div>' : '') +
-                        '<div class="product-stock">Stock: ' + (p.stock || p.cantidad || 0) + ' | ' + (p.codigo || '') + '</div>' +
-                    '</div>' +
-                    '<input type="number" class="qty-input" id="qty-' + modo + '-' + p.id + '" value="1" min="1" style="width:55px;">' +
-                    '<button class="add-btn" onclick="agregarAlCarrito(\'' + modo + '\',\'' + p.id + '\',\'' + nombre + '\',' + pb + ',' + pu + ')">➕</button>' +
-                '</div>';
+                const pb = p.precio_bs || 0, pu = p.precio_usd || 0, nombre = (p.nombre || p.id || '').replace(/'/g, "\\'");
+                return '<div class="product-item"><div class="product-info"><div class="product-name">' + (p.nombre || p.id) + '</div><div class="product-price">' + M + ' ' + fV(pb) + '</div>' + (pu > 0 ? '<div class="product-price-usd">$' + Number(pu).toFixed(2) + '</div>' : '') + '<div class="product-stock">Stock: ' + (p.stock || p.cantidad || 0) + ' | ' + (p.codigo || '') + '</div></div><input type="number" class="qty-input" id="qty-' + modo + '-' + p.id + '" value="1" min="1" style="width:55px;"><button class="add-btn" onclick="agregarAlCarrito(\'' + modo + '\',\'' + p.id + '\',\'' + nombre + '\',' + pb + ',' + pu + ')">➕</button></div>';
             }).join('');
         }
 
-        function filtrarProductos(modo) {
-            const b = document.getElementById(modo + '-buscar').value.toLowerCase();
-            mostrarProductos(modo, todosProductos.filter(p => (p.nombre || '').toLowerCase().includes(b) || (p.codigo || '').toLowerCase().includes(b)));
-        }
+        function filtrarProductos(modo) { const b = document.getElementById(modo + '-buscar').value.toLowerCase(); mostrarProductos(modo, todosProductos.filter(p => (p.nombre || '').toLowerCase().includes(b) || (p.codigo || '').toLowerCase().includes(b))); }
 
         function agregarAlCarrito(modo, id, nombre, pb, pu) {
-            const q = parseInt(document.getElementById('qty-' + modo + '-' + id)?.value) || 1;
-            const c = modo === 'vender' ? carritoVender : carritoCredito;
-            const ex = c.find(i => i.id === id);
+            const q = parseInt(document.getElementById('qty-' + modo + '-' + id)?.value) || 1, c = modo === 'vender' ? carritoVender : carritoCredito, ex = c.find(i => i.id === id);
             if (ex) ex.cantidad += q; else c.push({ id, nombre, precio_bs: pb, precio_usd: pu, cantidad: q });
-            actualizarCarrito(modo);
-            tg.HapticFeedback.impactOccurred('light');
+            actualizarCarrito(modo); tg.HapticFeedback.impactOccurred('light');
         }
 
         function actualizarCarrito(modo) {
-            const c = modo === 'vender' ? carritoVender : carritoCredito;
-            const ic = document.getElementById(modo + '-items');
-            const ts = document.getElementById(modo + '-total');
+            const c = modo === 'vender' ? carritoVender : carritoCredito, ic = document.getElementById(modo + '-items'), ts = document.getElementById(modo + '-total');
             if (!c.length) { ic.innerHTML = '<div class="empty-state" style="padding:10px;font-size:13px;">Carrito vacío</div>'; ts.textContent = M + ' 0,00'; return; }
             let total = 0;
-            ic.innerHTML = c.map((item, i) => {
-                const sub = (item.precio_bs || 0) * item.cantidad;
-                total += sub;
-                return '<div class="cart-item"><span>' + item.nombre + ' x' + item.cantidad + '</span><span>' + M + ' ' + fV(sub) + ' <small style="color:#EF4444;cursor:pointer;margin-left:6px;" onclick="eliminarDelCarrito(\'' + modo + '\',' + i + ')">✕</small></span></div>';
-            }).join('');
+            ic.innerHTML = c.map((item, i) => { const sub = (item.precio_bs || 0) * item.cantidad; total += sub; return '<div class="cart-item"><span>' + item.nombre + ' x' + item.cantidad + '</span><span>' + M + ' ' + fV(sub) + ' <small style="color:#EF4444;cursor:pointer;margin-left:6px;" onclick="eliminarDelCarrito(\'' + modo + '\',' + i + ')">✕</small></span></div>'; }).join('');
             ts.textContent = M + ' ' + fV(total);
         }
 
@@ -441,165 +429,111 @@
         function vaciarCarrito(modo) { if (modo === 'vender') carritoVender = []; else carritoCredito = []; actualizarCarrito(modo); }
 
         async function finalizarVenta(tipo) {
-            const c = tipo === 'contado' ? carritoVender : carritoCredito;
-            const pf = tipo === 'contado' ? 'vender' : 'credito';
-            const cliente = document.getElementById(pf + '-cliente').value.trim();
-            const tel = document.getElementById(pf + '-telefono').value.trim();
+            const c = tipo === 'contado' ? carritoVender : carritoCredito, pf = tipo === 'contado' ? 'vender' : 'credito';
+            const cliente = document.getElementById(pf + '-cliente').value.trim(), tel = document.getElementById(pf + '-telefono').value.trim();
             if (!cliente) return alert('Ingresa el nombre del cliente');
             if (!c.length) return alert('Carrito vacío');
-
-            const totalBs = c.reduce((s, i) => s + (i.precio_bs || 0) * i.cantidad, 0);
-            const totalUsd = c.reduce((s, i) => s + (i.precio_usd || 0) * i.cantidad, 0);
+            const totalBs = c.reduce((s, i) => s + (i.precio_bs || 0) * i.cantidad, 0), totalUsd = c.reduce((s, i) => s + (i.precio_usd || 0) * i.cantidad, 0);
             const productos = c.map(i => ({ id: i.id, nombre: i.nombre, cantidad: i.cantidad, precio_bs: i.precio_bs, precio_usd: i.precio_usd }));
-
-            // Enviar a n8n
             const respDiv = 'response-' + pf;
-            const result = await webhookAI(tipo === 'contado' ? 'vender' : 'credito', {
-                cliente, telefono: tel, productos, total_bs: totalBs, total_usd: totalUsd
-            }, respDiv);
-
-            // Guardar local
+            await webhookAI(tipo === 'contado' ? 'vender' : 'credito', { cliente, telefono: tel, productos, total_bs: totalBs, total_usd: totalUsd }, respDiv);
             const coleccion = tipo === 'contado' ? 'ventas' : 'creditos';
-            db.collection(coleccion).add({
-                fecha: new Date(), cliente, telefono: tel, productos,
-                total_bs: totalBs, total_usd: totalUsd, tipo,
-                pagado: tipo === 'contado' ? true : false
-            });
-
+            db.collection(coleccion).add({ fecha: new Date(), cliente, telefono: tel, productos, total_bs: totalBs, total_usd: totalUsd, tipo, pagado: tipo === 'contado' });
             mostrarTicket({ cliente, telefono: tel, productos: c, total_bs: totalBs, total_usd: totalUsd, tipo: tipo === 'contado' ? 'VENTA AL CONTADO' : 'VENTA A CRÉDITO' });
             if (tipo === 'contado') carritoVender = []; else carritoCredito = [];
             navigateTo('ticket');
         }
 
         function mostrarTicket(d) {
-            const a = new Date();
-            const logoHtml = TIENDA.logo ? '<img src="' + TIENDA.logo + '" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display=\'none\'">' : NOMBRE.charAt(0);
-            document.getElementById('ticket-contenido').innerHTML =
-                '<div class="ticket-header">' +
-                    '<div class="ticket-logo">' + logoHtml + '</div>' +
-                    '<div class="ticket-business">' + NOMBRE + '</div>' +
-                    '<div class="ticket-rif">RIF: ' + RIF + '</div>' +
-                    '<small style="color:#888;">Tu tienda de confianza</small>' +
-                '</div><hr class="ticket-divider">' +
-                '<div class="ticket-row"><span>Fecha:</span><span>' + a.toLocaleDateString('es-VE') + '</span></div>' +
-                '<div class="ticket-row"><span>Hora:</span><span>' + a.toLocaleTimeString('es-VE', { hour: '2-digit', minute: '2-digit' }) + '</span></div>' +
-                '<hr class="ticket-divider">' +
-                '<div class="ticket-row"><span>Cliente:</span><span>' + d.cliente + '</span></div>' +
-                (d.telefono ? '<div class="ticket-row"><span>Tel:</span><span>' + d.telefono + '</span></div>' : '') +
-                '<div class="ticket-row"><span>Tipo:</span><span>' + d.tipo + '</span></div>' +
-                '<hr class="ticket-divider">' +
-                '<div style="font-size:12px;font-weight:600;color:#888;margin-bottom:6px;">PRODUCTOS</div>' +
-                d.productos.map(p => '<div class="ticket-row"><span>' + p.nombre + ' x' + p.cantidad + '</span><span>' + M + ' ' + fV((p.precio_bs || 0) * p.cantidad) + '</span></div>').join('') +
-                '<hr class="ticket-divider">' +
-                '<div class="ticket-row total"><span>TOTAL ' + M.replace('.', '') + ':</span><span>' + M + ' ' + fV(d.total_bs) + '</span></div>' +
-                (d.total_usd > 0 ? '<div class="ticket-row" style="font-size:12px;color:#888;"><span>TOTAL USD:</span><span>$' + d.total_usd.toFixed(2) + '</span></div>' : '') +
-                '<hr class="ticket-divider">' +
-                '<div style="text-align:center;color:#A78BFA;font-size:13px;margin-top:8px;">¡Gracias por tu compra!</div>';
+            const a = new Date(), logoHtml = TIENDA.logo ? '<img src="' + TIENDA.logo + '" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display=\'none\'">' : NOMBRE.charAt(0);
+            document.getElementById('ticket-contenido').innerHTML = '<div class="ticket-header"><div class="ticket-logo">' + logoHtml + '</div><div class="ticket-business">' + NOMBRE + '</div><div class="ticket-rif">RIF: ' + RIF + '</div><small style="color:#888;">Tu tienda de confianza</small></div><hr class="ticket-divider"><div class="ticket-row"><span>Fecha:</span><span>' + a.toLocaleDateString('es-VE') + '</span></div><div class="ticket-row"><span>Hora:</span><span>' + a.toLocaleTimeString('es-VE', { hour: '2-digit', minute: '2-digit' }) + '</span></div><hr class="ticket-divider"><div class="ticket-row"><span>Cliente:</span><span>' + d.cliente + '</span></div>' + (d.telefono ? '<div class="ticket-row"><span>Tel:</span><span>' + d.telefono + '</span></div>' : '') + '<div class="ticket-row"><span>Tipo:</span><span>' + d.tipo + '</span></div><hr class="ticket-divider"><div style="font-size:12px;font-weight:600;color:#888;margin-bottom:6px;">PRODUCTOS</div>' + d.productos.map(p => '<div class="ticket-row"><span>' + p.nombre + ' x' + p.cantidad + '</span><span>' + M + ' ' + fV((p.precio_bs || 0) * p.cantidad) + '</span></div>').join('') + '<hr class="ticket-divider"><div class="ticket-row total"><span>TOTAL ' + M.replace('.', '') + ':</span><span>' + M + ' ' + fV(d.total_bs) + '</span></div>' + (d.total_usd > 0 ? '<div class="ticket-row" style="font-size:12px;color:#888;"><span>TOTAL USD:</span><span>$' + d.total_usd.toFixed(2) + '</span></div>' : '') + '<hr class="ticket-divider"><div style="text-align:center;color:#A78BFA;font-size:13px;margin-top:8px;">¡Gracias por tu compra!</div>';
         }
 
-        function compartirTicket() {
-            const txt = document.getElementById('ticket-contenido').innerText;
-            tg.sendData('COMPARTIR_TICKET:' + txt);
-            if (navigator.share) navigator.share({ title: 'Ticket ' + NOMBRE, text: txt }).catch(() => {});
-        }
+        function compartirTicket() { const txt = document.getElementById('ticket-contenido').innerText; tg.sendData('COMPARTIR_TICKET:' + txt); if (navigator.share) navigator.share({ title: 'Ticket ' + NOMBRE, text: txt }).catch(() => {}); }
 
-        function generarReportePersonalizado() {
-            const d = document.getElementById('fecha-desde').value, h = document.getElementById('fecha-hasta').value;
-            if (d && h) webhookAI('reporte', { tipo: 'personalizado', desde: d, hasta: h }, 'response-reporte-pers');
-            else alert('Selecciona ambas fechas');
-        }
+        function generarReportePersonalizado() { const d = document.getElementById('fecha-desde').value, h = document.getElementById('fecha-hasta').value; if (d && h) webhookAI('reporte', { tipo: 'personalizado', desde: d, hasta: h }, 'response-reporte-pers'); else alert('Selecciona ambas fechas'); }
 
-        function actualizarExistente() {
-            const codigo = document.getElementById('act-existente-codigo').value.trim();
-            const cantidad = document.getElementById('act-existente-cantidad').value.trim();
-            const precioUsd = document.getElementById('act-existente-precio-usd').value.trim();
-            if (!codigo || !cantidad) return alert('Código y cantidad obligatorios');
-            webhookAI('actualizar_stock', {
-                tipo: 'existente',
-                codigo, cantidad,
-                precio_usd: precioUsd || null
-            }, 'response-act-existente');
-        }
+        function actualizarExistente() { const co = document.getElementById('act-existente-codigo').value.trim(), ca = document.getElementById('act-existente-cantidad').value.trim(), pu = document.getElementById('act-existente-precio-usd').value.trim(); if (!co || !ca) return alert('Código y cantidad obligatorios'); webhookAI('actualizar_stock', { tipo: 'existente', codigo: co, cantidad: ca, precio_usd: pu || null }, 'response-act-existente'); }
 
-        function agregarNuevoProducto() {
-            const codigo = document.getElementById('nuevo-codigo').value.trim();
-            const nombre = document.getElementById('nuevo-nombre').value.trim();
-            const categoria = document.getElementById('nuevo-categoria').value;
-            const cantidad = document.getElementById('nuevo-cantidad').value.trim();
-            const precioUsd = document.getElementById('nuevo-precio-usd').value.trim();
-            if (!codigo || !nombre || !categoria || !cantidad || !precioUsd) return alert('Todos los campos obligatorios');
-            webhookAI('actualizar_stock', {
-                tipo: 'nuevo',
-                codigo, nombre, categoria, cantidad, precio_usd: precioUsd
-            }, 'response-nuevo');
-        }
+        function agregarNuevoProducto() { const co = document.getElementById('nuevo-codigo').value.trim(), n = document.getElementById('nuevo-nombre').value.trim(), cat = document.getElementById('nuevo-categoria').value, ca = document.getElementById('nuevo-cantidad').value.trim(), pu = document.getElementById('nuevo-precio-usd').value.trim(); if (!co || !n || !cat || !ca || !pu) return alert('Todos los campos obligatorios'); webhookAI('actualizar_stock', { tipo: 'nuevo', codigo: co, nombre: n, categoria: cat, cantidad: ca, precio_usd: pu }, 'response-nuevo'); }
 
-        function ajustarTasa() {
-            const t = document.getElementById('nueva-tasa').value.trim();
-            if (!t) return alert('Ingresa la tasa');
-            tasaActual = parseFloat(t);
-            db.collection('config').doc('tasa').set({ valor: parseFloat(t), fecha: new Date() });
-            webhookAI('ajustar_tasa', { tasa: t }, 'response-tasa');
-        }
-
-        async function cargarCatalogo() {
-            const ct = document.getElementById('catalogo-contenido');
-            ct.innerHTML = '<div class="empty-state">Cargando...</div>';
+        // ========== MODIFICAR PRODUCTO ==========
+        async function cargarProductosModificar() {
+            const lista = document.getElementById('producto-modificar-lista');
             try {
                 const snap = await db.collection('productos').get();
                 const prods = []; snap.forEach(d => prods.push({ id: d.id, ...d.data() }));
+                if (!prods.length) { lista.innerHTML = '<div class="empty-state">No hay productos</div>'; return; }
+                lista.innerHTML = '<div class="search-box"><span class="search-icon">🔍</span><input type="text" class="form-input" placeholder="Buscar..." oninput="filtrarProductosModificar()"></div><div id="modificar-lista-items">' + prods.map(p => '<div class="product-item" data-nombre="' + (p.nombre || '').toLowerCase() + '" data-codigo="' + (p.codigo || '').toLowerCase() + '"><div class="product-info"><div class="product-name">' + (p.nombre || p.id) + '</div><div class="product-stock">Código: ' + (p.codigo || 'N/A') + ' | Stock: ' + (p.stock || 0) + '</div></div><button class="add-btn" onclick="abrirFormModificarProducto(\'' + p.id + '\')">✏️</button></div>').join('') + '</div>';
+                window._modificarProds = prods;
+            } catch (e) { lista.innerHTML = '<div class="empty-state">Error</div>'; }
+        }
+
+        function filtrarProductosModificar() {
+            const b = document.getElementById('modificar-buscar')?.value?.toLowerCase() || '';
+            document.querySelectorAll('#modificar-lista-items .product-item').forEach(item => {
+                const nombre = item.dataset.nombre || '', codigo = item.dataset.codigo || '';
+                item.style.display = nombre.includes(b) || codigo.includes(b) ? 'flex' : 'none';
+            });
+        }
+
+        function abrirFormModificarProducto(id) {
+            const p = (window._modificarProds || []).find(x => x.id === id);
+            if (!p) return;
+            document.getElementById('modificar-id').value = p.id;
+            document.getElementById('modificar-codigo').value = p.codigo || '';
+            document.getElementById('modificar-nombre').value = p.nombre || '';
+            document.getElementById('modificar-categoria').value = p.categoria || '';
+            document.getElementById('modificar-stock').value = p.stock || p.cantidad || 0;
+            document.getElementById('modificar-precio-usd').value = p.precio_usd || '';
+            document.getElementById('modificar-precio-bs').value = p.precio_bs || '';
+            document.getElementById('response-modificar-prod').innerHTML = '';
+            navigateTo('producto-modificar-form');
+        }
+
+        async function guardarModificacionProducto() {
+            const id = document.getElementById('modificar-id').value;
+            const datos = {
+                codigo: document.getElementById('modificar-codigo').value.trim(),
+                nombre: document.getElementById('modificar-nombre').value.trim(),
+                categoria: document.getElementById('modificar-categoria').value,
+                stock: parseInt(document.getElementById('modificar-stock').value) || 0,
+                precio_usd: parseFloat(document.getElementById('modificar-precio-usd').value) || 0,
+                precio_bs: parseFloat(document.getElementById('modificar-precio-bs').value) || 0
+            };
+            if (!datos.nombre) return alert('El nombre es obligatorio');
+            await db.collection('productos').doc(id).update(datos);
+            const result = await webhookAI('actualizar_stock', { tipo: 'modificar', producto_id: id, ...datos }, 'response-modificar-prod');
+            if (result) { setTimeout(() => navigateTo('producto-modificar'), 1500); }
+        }
+
+        // ========== AJUSTAR TASA ==========
+        function ajustarTasa() { const t = document.getElementById('nueva-tasa').value.trim(); if (!t) return alert('Ingresa la tasa'); tasaActual = parseFloat(t); db.collection('config').doc('tasa').set({ valor: parseFloat(t), fecha: new Date() }); webhookAI('ajustar_tasa', { tasa: t }, 'response-tasa'); }
+
+        // ========== CATÁLOGO ==========
+        async function cargarCatalogo() {
+            const ct = document.getElementById('catalogo-contenido'); ct.innerHTML = '<div class="empty-state">Cargando...</div>';
+            try {
+                const snap = await db.collection('productos').get(); const prods = []; snap.forEach(d => prods.push({ id: d.id, ...d.data() }));
                 if (!prods.length) { ct.innerHTML = '<div class="empty-state">No hay productos</div>'; return; }
-                ct.innerHTML = prods.map(p =>
-                    '<div class="product-item"><div class="product-info">' +
-                        '<div class="product-name">' + (p.nombre || p.id) + '</div>' +
-                        '<div class="product-price">' + M + ' ' + fV(p.precio_bs || 0) + (p.precio_usd ? ' | $' + p.precio_usd.toFixed(2) : '') + '</div>' +
-                        '<div class="product-stock">Stock: ' + (p.stock || p.cantidad || 0) + ' | Código: ' + (p.codigo || 'N/A') + '</div>' +
-                        '<span class="badge">' + (p.categoria || 'Sin categoría') + '</span>' +
-                    '</div></div>'
-                ).join('');
+                ct.innerHTML = prods.map(p => '<div class="product-item"><div class="product-info"><div class="product-name">' + (p.nombre || p.id) + '</div><div class="product-price">' + M + ' ' + fV(p.precio_bs || 0) + (p.precio_usd ? ' | $' + p.precio_usd.toFixed(2) : '') + '</div><div class="product-stock">Stock: ' + (p.stock || p.cantidad || 0) + ' | Código: ' + (p.codigo || 'N/A') + '</div><span class="badge">' + (p.categoria || 'Sin categoría') + '</span></div></div>').join('');
             } catch (e) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
         }
 
-        async function cargarCobros() {
-            const ct = document.getElementById('cobros-contenido');
-            ct.innerHTML = '<div class="empty-state">Cargando...</div>';
+        // ========== COBROS ==========
+        async function cargarCobros() { /* ... igual que antes ... */ 
+            const ct = document.getElementById('cobros-contenido'); ct.innerHTML = '<div class="empty-state">Cargando...</div>';
             try {
-                const snap = await db.collection('creditos').where('estado', '==', 'pendiente').get();
-                const deu = [];
-                snap.forEach(d => {
-                    const data = d.data();
-                    deu.push({ id: d.id, cliente: data.cliente_nombre, telefono: data.cliente_whatsapp, deuda: data.total_bs, deuda_usd: data.total_usd, fecha: data.fecha_credito });
-                });
+                const snap = await db.collection('creditos').where('estado', '==', 'pendiente').get(); const deu = [];
+                snap.forEach(d => { const data = d.data(); deu.push({ id: d.id, cliente: data.cliente_nombre, telefono: data.cliente_whatsapp, deuda: data.total_bs, deuda_usd: data.total_usd }); });
                 if (!deu.length) { ct.innerHTML = '<div class="empty-state">🎉 No hay cuentas por cobrar</div>'; return; }
-                ct.innerHTML = deu.map(d =>
-                    '<div class="product-item"><div class="product-info">' +
-                        '<div class="product-name">👤 ' + (d.cliente || 'Sin nombre') + '</div>' +
-                        '<div class="product-price" style="color:#F59E0B;">Debe: ' + M + ' ' + fV(d.deuda || 0) + '</div>' +
-                        (d.deuda_usd > 0 ? '<div class="product-price-usd">$' + Number(d.deuda_usd).toFixed(2) + '</div>' : '') +
-                        '<div class="product-stock">📱 ' + (d.telefono || 'Sin teléfono') + '</div>' +
-                    '</div>' +
-                    '<button class="add-btn" style="background:#10B981;" onclick="cobrarCredito(\'' + d.id + '\',\'' + (d.cliente || '').replace(/'/g, "\\'") + '\',' + (d.deuda || 0) + ')">💰 Cobrar</button></div>'
-                ).join('');
+                ct.innerHTML = deu.map(d => '<div class="product-item"><div class="product-info"><div class="product-name">👤 ' + (d.cliente || 'Sin nombre') + '</div><div class="product-price" style="color:#F59E0B;">Debe: ' + M + ' ' + fV(d.deuda || 0) + '</div>' + (d.deuda_usd > 0 ? '<div class="product-price-usd">$' + Number(d.deuda_usd).toFixed(2) + '</div>' : '') + '<div class="product-stock">📱 ' + (d.telefono || 'Sin teléfono') + '</div></div><button class="add-btn" style="background:#10B981;" onclick="cobrarCredito(\'' + d.id + '\',\'' + (d.cliente || '').replace(/'/g, "\\'") + '\',' + (d.deuda || 0) + ')">💰 Cobrar</button></div>').join('');
             } catch (e) {
                 try {
-                    const snap2 = await db.collection('creditos').get();
-                    const deu2 = [];
-                    snap2.forEach(d => {
-                        const data = d.data();
-                        if (data.estado === 'pendiente') {
-                            deu2.push({ id: d.id, cliente: data.cliente_nombre, telefono: data.cliente_whatsapp, deuda: data.total_bs, deuda_usd: data.total_usd, fecha: data.fecha_credito });
-                        }
-                    });
+                    const snap2 = await db.collection('creditos').get(); const deu2 = [];
+                    snap2.forEach(d => { const data = d.data(); if (data.estado === 'pendiente') deu2.push({ id: d.id, cliente: data.cliente_nombre, telefono: data.cliente_whatsapp, deuda: data.total_bs, deuda_usd: data.total_usd }); });
                     if (!deu2.length) { ct.innerHTML = '<div class="empty-state">🎉 No hay cuentas por cobrar</div>'; return; }
-                    ct.innerHTML = deu2.map(d =>
-                        '<div class="product-item"><div class="product-info">' +
-                            '<div class="product-name">👤 ' + (d.cliente || 'Sin nombre') + '</div>' +
-                            '<div class="product-price" style="color:#F59E0B;">Debe: ' + M + ' ' + fV(d.deuda || 0) + '</div>' +
-                            (d.deuda_usd > 0 ? '<div class="product-price-usd">$' + Number(d.deuda_usd).toFixed(2) + '</div>' : '') +
-                            '<div class="product-stock">📱 ' + (d.telefono || 'Sin teléfono') + '</div>' +
-                        '</div>' +
-                        '<button class="add-btn" style="background:#10B981;" onclick="cobrarCredito(\'' + d.id + '\',\'' + (d.cliente || '').replace(/'/g, "\\'") + '\',' + (d.deuda || 0) + ')">💰 Cobrar</button></div>'
-                    ).join('');
+                    ct.innerHTML = deu2.map(d => '<div class="product-item"><div class="product-info"><div class="product-name">👤 ' + (d.cliente || 'Sin nombre') + '</div><div class="product-price" style="color:#F59E0B;">Debe: ' + M + ' ' + fV(d.deuda || 0) + '</div>' + (d.deuda_usd > 0 ? '<div class="product-price-usd">$' + Number(d.deuda_usd).toFixed(2) + '</div>' : '') + '<div class="product-stock">📱 ' + (d.telefono || 'Sin teléfono') + '</div></div><button class="add-btn" style="background:#10B981;" onclick="cobrarCredito(\'' + d.id + '\',\'' + (d.cliente || '').replace(/'/g, "\\'") + '\',' + (d.deuda || 0) + ')">💰 Cobrar</button></div>').join('');
                 } catch (e2) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
             }
         }
@@ -607,17 +541,13 @@
         async function cobrarCredito(id, cliente, deuda) {
             if (!confirm('¿Confirmar cobro de ' + cliente + ' por ' + M + ' ' + fV(deuda) + '?')) return;
             const result = await webhookAI('cobrar', { credito_id: id, cliente, monto: deuda }, null);
-            if (result) {
-                await db.collection('creditos').doc(id).update({ estado: 'pagado' });
-                cargarCobros();
-            }
+            if (result) { await db.collection('creditos').doc(id).update({ estado: 'pagado' }); cargarCobros(); }
         }
 
+        // ========== PROVEEDORES ==========
         function agregarProveedor() {
-            const n = document.getElementById('prov-nombre').value.trim();
-            if (!n) return alert('Nombre obligatorio');
-            const t = document.getElementById('prov-telefono').value.trim(), c = document.getElementById('prov-correo').value.trim();
-            const pr = document.getElementById('prov-productos').value.trim(), nt = document.getElementById('prov-notas').value.trim();
+            const n = document.getElementById('prov-nombre').value.trim(); if (!n) return alert('Nombre obligatorio');
+            const t = document.getElementById('prov-telefono').value.trim(), c = document.getElementById('prov-correo').value.trim(), pr = document.getElementById('prov-productos').value.trim(), nt = document.getElementById('prov-notas').value.trim();
             db.collection('proveedores').add({ nombre: n, telefono: t, correo: c, productos: pr, notas: nt, fechaCreacion: new Date() });
             webhookAI('proveedor', { tipo: 'agregar', nombre: n, telefono: t, correo: c, productos: pr }, 'response-prov');
         }
@@ -625,18 +555,49 @@
         async function cargarProveedoresModificar() {
             const ct = document.getElementById('proveedor-modificar-contenido');
             try {
-                const snap = await db.collection('proveedores').get();
-                const provs = []; snap.forEach(d => provs.push({ id: d.id, ...d.data() }));
+                const snap = await db.collection('proveedores').get(); const provs = []; snap.forEach(d => provs.push({ id: d.id, ...d.data() }));
                 if (!provs.length) { ct.innerHTML = '<div class="empty-state">No hay proveedores</div>'; return; }
-                ct.innerHTML = provs.map(p => '<div class="product-item"><div class="product-info"><div class="product-name">' + p.nombre + '</div><div class="product-stock">📱 ' + (p.telefono || 'N/A') + ' | ✉️ ' + (p.correo || 'N/A') + '</div></div><button class="add-btn" onclick="webhookAI(\'proveedor\',{tipo:\'modificar\',id:\'' + p.id + '\'})">✏️</button></div>').join('');
+                window._modificarProvs = provs;
+                ct.innerHTML = '<div class="search-box"><span class="search-icon">🔍</span><input type="text" class="form-input" placeholder="Buscar..." id="prov-mod-buscar" oninput="filtrarProveedores()"></div>' + provs.map(p => '<div class="product-item" data-nombre="' + (p.nombre || '').toLowerCase() + '"><div class="product-info"><div class="product-name">' + p.nombre + '</div><div class="product-stock">📱 ' + (p.telefono || 'N/A') + ' | ✉️ ' + (p.correo || 'N/A') + '</div></div><button class="add-btn" onclick="abrirFormModificarProveedor(\'' + p.id + '\')">✏️</button></div>').join('');
             } catch (e) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
+        }
+
+        function filtrarProveedores() {
+            const b = document.getElementById('prov-mod-buscar')?.value?.toLowerCase() || '';
+            document.querySelectorAll('#proveedor-modificar-contenido .product-item').forEach(item => { item.style.display = (item.dataset.nombre || '').includes(b) ? 'flex' : 'none'; });
+        }
+
+        function abrirFormModificarProveedor(id) {
+            const p = (window._modificarProvs || []).find(x => x.id === id); if (!p) return;
+            document.getElementById('modificar-prov-id').value = p.id;
+            document.getElementById('modificar-prov-nombre').value = p.nombre || '';
+            document.getElementById('modificar-prov-telefono').value = p.telefono || '';
+            document.getElementById('modificar-prov-correo').value = p.correo || '';
+            document.getElementById('modificar-prov-productos').value = p.productos || '';
+            document.getElementById('modificar-prov-notas').value = p.notas || '';
+            document.getElementById('response-modificar-prov').innerHTML = '';
+            navigateTo('proveedor-modificar-form');
+        }
+
+        async function guardarModificacionProveedor() {
+            const id = document.getElementById('modificar-prov-id').value;
+            const datos = {
+                nombre: document.getElementById('modificar-prov-nombre').value.trim(),
+                telefono: document.getElementById('modificar-prov-telefono').value.trim(),
+                correo: document.getElementById('modificar-prov-correo').value.trim(),
+                productos: document.getElementById('modificar-prov-productos').value.trim(),
+                notas: document.getElementById('modificar-prov-notas').value.trim()
+            };
+            if (!datos.nombre) return alert('El nombre es obligatorio');
+            await db.collection('proveedores').doc(id).update(datos);
+            const result = await webhookAI('proveedor', { tipo: 'modificar', id, ...datos }, 'response-modificar-prov');
+            if (result) { setTimeout(() => navigateTo('proveedor-modificar'), 1500); }
         }
 
         async function cargarProveedoresEliminar() {
             const ct = document.getElementById('proveedor-eliminar-contenido');
             try {
-                const snap = await db.collection('proveedores').get();
-                const provs = []; snap.forEach(d => provs.push({ id: d.id, ...d.data() }));
+                const snap = await db.collection('proveedores').get(); const provs = []; snap.forEach(d => provs.push({ id: d.id, ...d.data() }));
                 if (!provs.length) { ct.innerHTML = '<div class="empty-state">No hay proveedores</div>'; return; }
                 ct.innerHTML = provs.map(p => '<div class="product-item"><div class="product-info"><div class="product-name">' + p.nombre + '</div></div><button class="add-btn" style="background:#EF4444;" onclick="if(confirm(\'¿Eliminar ' + (p.nombre || '').replace(/'/g, "\\'") + '?\'))eliminarProveedor(\'' + p.id + '\')">🗑️</button></div>').join('');
             } catch (e) { ct.innerHTML = '<div class="empty-state">Error</div>'; }
@@ -644,11 +605,11 @@
 
         function eliminarProveedor(id) { db.collection('proveedores').doc(id).delete(); webhookAI('proveedor', { tipo: 'eliminar', id }); cargarProveedoresEliminar(); }
 
+        // ========== ELIMINAR PRODUCTO ==========
         async function cargarProductosEliminar() {
             const lista = document.getElementById('eliminar-lista');
             try {
-                const snap = await db.collection('productos').get();
-                const prods = []; snap.forEach(d => prods.push({ id: d.id, ...d.data() }));
+                const snap = await db.collection('productos').get(); const prods = []; snap.forEach(d => prods.push({ id: d.id, ...d.data() }));
                 lista.innerHTML = prods.map(p => '<div class="product-item"><div class="product-info"><div class="product-name">' + (p.nombre || p.id) + '</div><div class="product-stock">Código: ' + (p.codigo || 'N/A') + '</div></div><button class="add-btn" style="background:#EF4444;" onclick="if(confirm(\'¿Eliminar ' + (p.nombre || p.id).replace(/'/g, "\\'") + '?\'))eliminarProducto(\'' + p.id + '\')">🗑️</button></div>').join('');
             } catch (e) { lista.innerHTML = '<div class="empty-state">Error</div>'; }
         }
