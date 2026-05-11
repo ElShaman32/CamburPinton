@@ -1,25 +1,27 @@
+```json
 {
-  "actualizado": "16 de Mayo de 2024, 09:30 AM",
+  "actualizado": "2024-07-30 10:30:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Venezuela va con todo en los Bolivarianos!",
-      "resumen": "Nuestra delegación está lista para dejar el nombre del país en alto, con esa garra que nos caracteriza. Los chamos del baloncesto U17 andan que se las traen, ¡pura fibra criolla en la cancha!"
+      "titulo": "¡La Vinotinto de Rueda y Carrucha se lanzó al ruedo!",
+      "resumen": "La selección nacional, más criolla que una arepa con perico, se prepara con un optimismo que ni el precio del dólar nos quita. Dicen que vienen con una estrategia nueva, ¡más enredada que un cable de cargador! Pero aquí estamos, ¡con el corazón en la mano y la esperanza en los pies!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Reinas y Reyes de Venezuela: ¡La corona busca dueño!",
-      "resumen": "Globovisión se volvió una pasarela de sueños con el casting de Reinas y Reyes. Muchachas y muchachos con el tumbao venezolano buscando brillar, ¡la belleza criolla no tiene límites!"
+      "titulo": "¡El Festival del Joropo Caliente encendió la sabana!",
+      "resumen": "Los llanos venezolanos vibraron al ritmo del arpa, cuatro y maracas, ¡más potente que el bajo de una miniteca caraqueña! Artistas de talla internacional y talentos emergentes le pusieron sabor a la noche, demostrando que el joropo es el 'reggaeton' original de nuestra tierra. ¡Zapateo garantizado!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¡Robots con sabor a cocada en Falcón!",
-      "resumen": "Falcón se puso las pilas con unas Olimpiadas de Robótica Creativa. Los carajitos programando bichos que parecen sacados de una película, ¡quién diría que los venezolanos somos tan pilosos para estas cosas!"
+      "titulo": "¡Chamo GPT, la inteligencia artificial que te entiende hasta el 'echeverría'!",
+      "resumen": "Llegó una nueva inteligencia artificial hecha en casa, ¡que habla más venezolano que tú! Dicen que Chamo GPT te ayuda con todo, desde buscar la receta de las hallacas hasta entender por qué la nevera solo enfría la luz. ¡Ahora sí hablamos el mismo idioma, mi pana!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "Mensaje del día: ¡No te rindas, mi pana!",
-      "resumen": "Recuerda que con constancia y esa chispa venezolana, no hay meta que se te resista. ¡Pa'lante es pa' allá!"
+      "titulo": "Mensaje del día: ¡No te rindas, que la vida es un tequeño!",
+      "resumen": "Así como un buen tequeño, la vida a veces nos trae una sorpresa crujiente y deliciosa, y otras veces un poquito de queso derretido que se nos escapa. ¡Pero la clave es no dejar de morderle con ganas! ¡Arriba ese ánimo, mi gente!"
     }
   ]
 }
+```
