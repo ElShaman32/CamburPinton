@@ -470,7 +470,7 @@
             const newsContainer = document.getElementById('newsContainer');
             try {
                 // URL del webhook de n8n (actualizar cuando esté listo)
-                const NEWS_WEBHOOK = 'https://tu-n8n.camburpinton.com.ve/webhook/noticias';
+                const NEWS_WEBHOOK = 'https://n8n.camburpinton.com.ve/webhook/noticias';
                 const response = await fetch(NEWS_WEBHOOK);
                 if (!response.ok) throw new Error('Webhook no disponible');
                 const news = await response.json();
