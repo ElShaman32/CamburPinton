@@ -471,30 +471,53 @@
         nowPlayingInterval = setInterval(fetchNowPlaying, 15000);
         fetchNowPlaying();
 
-        // ─── NOTICIAS (preparado para n8n) ───
-        async function loadNews() {
-            const newsContainer = document.getElementById('newsContainer');
-            try {
-                // URL del webhook de n8n (actualizar cuando esté listo)
-                const NEWS_WEBHOOK = 'ttps://api.jsonbin.io/v3/b/663c0dc0acd3cb34a8468b02';
-                const response = await fetch(NEWS_WEBHOOK);
-                if (!response.ok) throw new Error('Webhook no disponible');
-                const news = await response.json();
-                
-                if (news && news.length > 0) {
-                    newsContainer.innerHTML = news.map(item => `
-                        <div class="news-card">
-                            <div class="news-date">${item.fecha || 'Reciente'}</div>
-                            <div class="news-title">${item.titulo}</div>
-                            <div class="news-excerpt">${item.resumen}</div>
-                        </div>
-                    `).join('');
-                }
-            } catch (err) {
-                console.log('Noticias no disponibles aún. Mostrando placeholder.');
-                // Mantiene el placeholder
-            }
+        // ─── NOTICIAS ───
+const NEWS_WEBHOOK = 'https://api.jsonbin.io/v3/b/663c0dc0acd3cb34a8468b02';
+
+async function loadNews() {
+    const newsContainer = document.getElementById('newsContainer');
+    console.log('🔍 Intentando cargar noticias...');
+    
+    try {
+        const response = await fetch(NEWS_WEBHOOK);
+        console.log('📡 Respuesta recibida:', response.status);
+        
+        if (!response.ok) {
+            throw new Error('HTTP ' + response.status);
         }
+        
+        const data = await response.json();
+        console.log('📰 Datos crudos:', data);
+        
+        // Algunas APIs envuelven los datos en un objeto "record"
+        let news = Array.isArray(data) ? data : (data.record || []);
+        
+        if (news.length > 0) {
+            console.log('✅ Noticias encontradas:', news.length);
+            newsContainer.innerHTML = news.map(item => `
+                <div class="news-card">
+                    <div class="news-date">${item.fecha || item.categoria || '📰 Noticia'}</div>
+                    <div class="news-title">${item.titulo || 'Sin título'}</div>
+                    <div class="news-excerpt">${item.resumen || item.contenido || ''}</div>
+                </div>
+            `).join('');
+        } else {
+            throw new Error('Array vacío');
+        }
+    } catch (err) {
+        console.log('⚠️ Noticias no disponibles:', err.message);
+        newsContainer.innerHTML = `
+            <div class="news-card">
+                <div class="news-date">🍌 Próximamente</div>
+                <div class="news-title">Noticias en camino</div>
+                <div class="news-excerpt">Estamos preparando contenido fresco para ti. ¡Vuelve pronto!</div>
+            </div>
+        `;
+    }
+}
+
+// Cargar noticias al iniciar
+loadNews();
 
         // Intentar cargar noticias (no falla si el webhook no existe)
         loadNews();
