@@ -1,25 +1,25 @@
 {
-  "actualizado": "2024-07-30 10:30:00",
+  "actualizado": "2023-12-07T14:30:00",
   "noticias": [
     {
-      "categoria": "🏅 Deportes",
-      "titulo": "¡La Vinotinto de Rueda y Carrucha se lanzó al ruedo!",
-      "resumen": "La selección nacional, más criolla que una arepa con perico, se prepara con un optimismo que ni el precio del dólar nos quita. Dicen que vienen con una estrategia nueva, ¡más enredada que un cable de cargador! Pero aquí estamos, ¡con el corazón en la mano y la esperanza en los pies!"
+      "categoria": "\ud83d\udcf7 Deportes",
+      "titulo": "La Organización Musical Orion ofrece el reportorio más completo para animar tus fiestas con los mejores géneros bailables",
+      "resumen": "Con la fundación de Julio Castillo, esta organización musical te proporciona una variedad de opciones para hacer que tu evento sea inolvidable."
     },
     {
-      "categoria": "🎭 Espectáculos",
-      "titulo": "¡El Festival del Joropo Caliente encendió la sabana!",
-      "resumen": "Los llanos venezolanos vibraron al ritmo del arpa, cuatro y maracas, ¡más potente que el bajo de una miniteca caraqueña! Artistas de talla internacional y talentos emergentes le pusieron sabor a la noche, demostrando que el joropo es el 'reggaeton' original de nuestra tierra. ¡Zapateo garantizado!"
+      "categoria": "\ud83c\udfc8 Espectáculos",
+      "titulo": "El arte en Venezuela: Un reflejo de la realidad y la esperanza",
+      "resumen": "Descubre cómo el arte venezolano ha sido un escape para muchos, ofreciendo una perspectiva única sobre la situación actual del país."
     },
     {
-      "categoria": "💡 Tecnología",
-      "titulo": "¡Chamo GPT, la inteligencia artificial que te entiende hasta el 'echeverría'!",
-      "resumen": "Llegó una nueva inteligencia artificial hecha en casa, ¡que habla más venezolano que tú! Dicen que Chamo GPT te ayuda con todo, desde buscar la receta de las hallacas hasta entender por qué la nevera solo enfría la luz. ¡Ahora sí hablamos el mismo idioma, mi pana!"
+      "categoria": "\ud83d\udcbb Tecnología",
+      "titulo": "¿Qué es inteligencia artificial y cómo se está aplicando en Venezuela?",
+      "resumen": "La IA está cambiando la forma en que vivimos, desde la salud hasta la educación. Descubre cómo se está implementando en nuestro país."
     },
     {
-      "categoria": "🌞 Motivación",
-      "titulo": "Mensaje del día: ¡No te rindas, que la vida es un tequeño!",
-      "resumen": "Así como un buen tequeño, la vida a veces nos trae una sorpresa crujiente y deliciosa, y otras veces un poquito de queso derretido que se nos escapa. ¡Pero la clave es no dejar de morderle con ganas! ¡Arriba ese ánimo, mi gente!"
+      "categoria": "\ud83c\udfe5 Motivación",
+      "titulo": "Aprende a levantarte de las caídas y sigue adelante",
+      "resumen": "Recuerda que la vida es un viaje con altibajos. Sé fuerte y nunca desistas de tus objetivos."
     }
   ]
 }
