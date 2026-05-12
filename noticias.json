@@ -1,25 +1,25 @@
 {
-  "actualizado": "2023-12-07T14:30:00",
+  "actualizado": "2023-12-01 14:30:00",
   "noticias": [
     {
-      "categoria": "\ud83d\udcf7 Deportes",
-      "titulo": "La Organización Musical Orion ofrece el reportorio más completo para animar tus fiestas con los mejores géneros bailables",
-      "resumen": "Con la fundación de Julio Castillo, esta organización musical te proporciona una variedad de opciones para hacer que tu evento sea inolvidable."
+      "categoria": "",
+      "titulo": "El equipo nacional de fútbol se enfrentará a Brasil en la final del Campeonato Sudamericano",
+      "resumen": "Después de una emocionante victoria sobre Colombia, el equipo nacional de fútbol se prepara para enfrentar al poderoso seleccionado brasileño en la final del Campeonato Sudamericano. La hinchada venezolana está ansiosa por apoyar a su equipo y gritar \"¡Viva Venezuela!\""
     },
     {
-      "categoria": "\ud83c\udfc8 Espectáculos",
-      "titulo": "El arte en Venezuela: Un reflejo de la realidad y la esperanza",
-      "resumen": "Descubre cómo el arte venezolano ha sido un escape para muchos, ofreciendo una perspectiva única sobre la situación actual del país."
+      "categoria": "",
+      "titulo": "La estrella de la música venezolana, Karol G, lanza nuevo álbum con ritmos auténticos",
+      "resumen": "La cantante Karol G ha lanzado su nuevo álbum, que cuenta con una mezcla de géneros como el reggaetón y la cumbia. La hinchada musical venezolana está emocionada por escuchar sus nuevos ritmos"
     },
     {
-      "categoria": "\ud83d\udcbb Tecnología",
-      "titulo": "¿Qué es inteligencia artificial y cómo se está aplicando en Venezuela?",
-      "resumen": "La IA está cambiando la forma en que vivimos, desde la salud hasta la educación. Descubre cómo se está implementando en nuestro país."
+      "categoria": "",
+      "titulo": "La aplicación de pago móvil, Pago Fácil, permite a los usuarios realizar transacciones seguras y rápidas",
+      "resumen": "Con la creciente demanda de servicios de pago en línea, la aplicación Pago Fácil se ha convertido en una herramienta valiosa para los venezolanos. Los usuarios pueden realizar pagos fácilmente y con seguridad"
     },
     {
-      "categoria": "\ud83c\udfe5 Motivación",
-      "titulo": "Aprende a levantarte de las caídas y sigue adelante",
-      "resumen": "Recuerda que la vida es un viaje con altibajos. Sé fuerte y nunca desistas de tus objetivos."
+      "categoria": "",
+      "titulo": "\"La vida es un regalo, no te rindas\"",
+      "resumen": "Recuerda que cada desafío es una oportunidad para aprender y crecer. ¡No te rindas!"
     }
   ]
 }
