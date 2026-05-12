@@ -1,25 +1,25 @@
 {
-  "actualizado": "2023-12-01 14:30:00",
+  "actualizado": "2023-12-01 15:00:00",
   "noticias": [
     {
-      "categoria": "",
-      "titulo": "El equipo nacional de fútbol se enfrentará a Brasil en la final del Campeonato Sudamericano",
-      "resumen": "Después de una emocionante victoria sobre Colombia, el equipo nacional de fútbol se prepara para enfrentar al poderoso seleccionado brasileño en la final del Campeonato Sudamericano. La hinchada venezolana está ansiosa por apoyar a su equipo y gritar \"¡Viva Venezuela!\""
+      "categoria": "🏅 Deportes",
+      "titulo": "¡Venezuela con sabor a arepa en el Mundial de Dominó!",
+      "resumen": "Nuestros panas del dominó están dando la talla en el Mundial, repartiendo fichas y tumbando la mesa con pura estrategia criolla. ¡Ya se escuchan los gritos de \"zapato\" desde lejos! El orgullo nacional está en cada ficha jugada, dejando a más de uno con la boca abierta y la cuenta 'clara'."
     },
     {
-      "categoria": "",
-      "titulo": "La estrella de la música venezolana, Karol G, lanza nuevo álbum con ritmos auténticos",
-      "resumen": "La cantante Karol G ha lanzado su nuevo álbum, que cuenta con una mezcla de géneros como el reggaetón y la cumbia. La hinchada musical venezolana está emocionada por escuchar sus nuevos ritmos"
+      "categoria": "🎭 Espectáculos",
+      "titulo": "El nuevo viral: ¡La Tiktoker que baila joropo en el Metro de Caracas!",
+      "resumen": "Una valiente criolla está revolucionando TikTok al sacar sus mejores pasos de joropo entre vagón y vagón. Los pasajeros quedan boquiabiertos y hasta le siguen el ritmo. ¡Esta sí es una influencer con sabor a Venezuela que te hace bailar hasta la chancleta!"
     },
     {
-      "categoria": "",
-      "titulo": "La aplicación de pago móvil, Pago Fácil, permite a los usuarios realizar transacciones seguras y rápidas",
-      "resumen": "Con la creciente demanda de servicios de pago en línea, la aplicación Pago Fácil se ha convertido en una herramienta valiosa para los venezolanos. Los usuarios pueden realizar pagos fácilmente y con seguridad"
+      "categoria": "💡 Tecnología",
+      "titulo": "El 'Panasaurio' Inteligente: ¡Tu nuevo amigo robótico para echar un cuento!",
+      "resumen": "Llegó al mercado el 'Panasaurio', un robot asistente que no solo te pone la música, sino que te echa un cuento, te recita un poema de Andrés Eloy Blanco y hasta te dice \"¡Epa, ponte las pilas!\". ¡Ideal para la abuela que le encanta la tecnología con toque criollo!"
     },
     {
-      "categoria": "",
-      "titulo": "\"La vida es un regalo, no te rindas\"",
-      "resumen": "Recuerda que cada desafío es una oportunidad para aprender y crecer. ¡No te rindas!"
+      "categoria": "🌞 Motivación",
+      "titulo": "¡Que nada te quite lo bailao'!",
+      "resumen": "Hoy recuerda que, como el buen ron venezolano, la vida mejora con los años. ¡Así que no te amargues el día por cualquier vaina, y échale pichón con una sonrisa de oreja a oreja!"
     }
   ]
 }
