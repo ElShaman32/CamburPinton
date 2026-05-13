@@ -1,1 +1,25 @@
-{"actualizado":"19 de abril de 2026","noticias":[{"categoria":"🏅 Deportes","titulo":"La selección de fútbol de Venezuela gana contra Colombia","resumen":"La vinotinto derrotó a sus vecinos colombianos en un partido emocionante. El equipo venezolano demostró su garra y habilidad en el campo de juego"},{"categoria":"🎭 Espectáculos","titulo":"El concierto de Franco y Oscarcito es un éxito en Caracas","resumen":"Los dos artistas venezolanos llenaron el estadio de Caracas con su música y energía. El público disfrutó de un espectáculo inolvidable"},{"categoria":"💡 Tecnología","titulo":"Se lanza una nueva aplicación para entrega de arepas en Venezuela","resumen":"La aplicación permite a los usuarios pedir arepas y otros platos típicos venezolanos a través de su teléfono móvil. La entrega es rápida y segura"},{"categoria":"🌞 Motivación","titulo":"Mensaje del día","resumen":"No te rindas, sigue adelante con fe y perseverancia. La victoria es tuya, ¡Vamos Venezuela!"}]}
+{
+  "actualizado": "2024-02-20 14:30",
+  "noticias": [
+    {
+      "categoria": " Deportes",
+      "titulo": "Venezuela arrasa en Juegos Deportivos Bolivarianos",
+      "resumen": "La delegación de Venezuela se lleva la medalla de oro en baloncesto U17, ¡un gran logro para el país! Nuestros atletas están demostrando su talento y dedicación en los Juegos Deportivos Bolivarianos."
+    },
+    {
+      "categoria": " Espectáculos",
+      "titulo": "Concierto de Franco y Oscarcito en Caracas",
+      "resumen": "El dúo más famoso de la música venezolana se presentará en vivo en Caracas, ¡no te pierdas la oportunidad de ver a Franco y Oscarcito en escena! Será una noche inolvidable de música y diversión."
+    },
+    {
+      "categoria": " Tecnología",
+      "titulo": "Nuevas tecnologías para mejorar la conectividad en Venezuela",
+      "resumen": "Se están implementando nuevas tecnologías para mejorar la conectividad en Venezuela, ¡pronto podrás disfrutar de internet más rápido y confiable! Esto beneficiará a todos los venezolanos que necesitan estar conectados para trabajar, estudiar o simplemente para divertirse."
+    },
+    {
+      "categoria": " Motivación",
+      "titulo": "Mensaje del día",
+      "resumen": "Recuerda que cada día es una oportunidad para empezar de nuevo, ¡así que sonríe y haz que hoy sea un día increíble! Como dice el refrán venezolano: '¡Si se puede, se puede!'"
+    }
+  ]
+}
