@@ -1,1 +1,27 @@
-{"actualizado": "2024-02-20 12:00:00", "noticias": [{"categoria": "\u2705 Deportes", "titulo": "Grandes Ligas de Beisbol", "resumen": "El beisbol es uno de los deportes mas populares en Venezuela, con muchos jugadores destacados en las Grandes Ligas."}, {"categoria": "\ud83c\udfa5 Espectaculos", "titulo": "Ultimas noticias de espectaculos", "resumen": "Noticias de ultima hora de Venezuela y el mundo en Actualidad, Deportes, Sucesos, Internacionales, Economia, Tecnologia, Espectaculos, informacion En Vivo."}, {"categoria": "\ud83d\udd0b Tecnologia", "titulo": "La ciencia y la tecnologia en Venezuela", "resumen": "La ciencia y la tecnologia en Venezuela incluyen investigaciones basadas en la exploracion de la ecologia diversa de Venezuela y las vidas de sus pueblos."}, {"categoria": "\ud83c\udf1e Motivacion", "titulo": "Mensaje del dia", "resumen": "Creacion de contenido motivacional, siguenos y comparte."}]}
+```json
+{
+  "actualizado": "2024-05-15 11:27:00",
+  "noticias": [
+    {
+      "categoria": "🏅 Deportes",
+      "titulo": "¡Ay, mi madre! Francisco Álvarez, el 'Troll' de los Mets, a quirófano por la rodilla",
+      "resumen": "Nuestro Francisco Álvarez, el catcher criollo de los Mets, ¡se nos lesionó otra vez! Desgarro de menisco y al quirófano. ¡Esperamos que se recupere pronto para que siga dando palos y no se quede pegado en la enfermería como un chicle en zapato!"
+    },
+    {
+      "categoria": "🎭 Espectáculos",
+      "titulo": "¡El Calipso de El Callao prende la rumba en Caracas, pa' que bailen con sabor!",
+      "resumen": "¡Agárrense, caraqueños! La fiesta más colorida de El Callao llega a la capital. Conciertos, talleres y conversatorios para que el calipso, Patrimonio de la Humanidad, te ponga a mover el esqueleto. ¡Esto se va a poner bueno, como sancocho de gallina criolla!"
+    },
+    {
+      "categoria": "💡 Tecnología",
+      "titulo": "¡Apple y sus nuevos AirPods con cámaras para que no se te escape ni un chisme!",
+      "resumen": "Imagínate la perla: Apple está desarrollando unos AirPods con cámaras incorporadas. ¡Ahora sí que no se te escapa ni el vecino chismoso! Más que para ver, esto es para documentar todo el 'bochinche' que nos rodea. ¡La tecnología al servicio del 'pájarito que anda en el aire'!"
+    },
+    {
+      "categoria": "🌞 Motivación",
+      "titulo": "¡Échale pichón a la vida, mi gente!",
+      "resumen": "Hoy es un buen día para meterle corazón y ganas a todo lo que hagas. ¡No te rindas que la vida es como un buen mondongo, a veces pesado, pero siempre sabroso si le pones sazón! ¡Pa' lante es pa' allá que 'caballo que alcanza gana'!"
+    }
+  ]
+}
+```
