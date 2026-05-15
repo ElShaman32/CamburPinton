@@ -1,1 +1,27 @@
-{"actualizado":"15 de mayo de 2026, 10:30 AM","noticias":[{"categoria":"🏅 Deportes","titulo":"¡Samanes de Aragua sale del letargo!","resumen":"Los orientales despertaron con jonrón de José Sanabria (4-4, 2 HR, 4 CI) y derrotaron 7-4 a Centauros. El batazo llegó en el primer inning y luego came un rally de 5 carreras. ¡Pa'que vean que en Aragua también se juega pelota!"},{"categoria":"🎭 Espectáculos","titulo":"El Calipso de El Callao llegó a Caracas","resumen":"Del 19 al 31 de mayo los cultores del Calipso Patrimonio de la Humanidad traen su fiesta a la capital. Habrá conversatorios, talleres y conciertos. El 30 de mayo el gran cierre en El Marchante. ¡Que_SUENE_EL_CALIPSO!"},{"categoria":"💡 Tecnología","titulo":"¡Ciencia zuliana拯救!","resumen":"Científicos del Zulia crean apósitos biológicos del caparazón del cangrejo azul para tratar quemaduras graves. Lo que era basura pesquera ahora sana heridas. Maracaibo ya los usa en hospitales. ¡Del mar a la medicina!"},{"categoria":"🌞 Motivación","titulo":"¡Venezuela, arriba y pa'lante!","resumen":"Como dice el dicho: 'Donde hay voluntad, hay camino'. Hoy es un buen día para sonreír y seguir adelante. ¡Que la fuerza nos acompañe!"}]}
+
+
+{
+  "actualizado": "15 de mayo de 2026, 10:45 AM",
+  "noticias": [
+    {
+      "categoria": "🏅 Deportes",
+      "titulo": "Alcides Escobar: 'Centauros es un equipo compacto'",
+      "resumen": "El bateador venezolano Alcides Escobar lidera a Centauros con un promedio de .492 y un brillante rendimiento ofensivo. Su experiencia y liderazgo han unido al equipo, consolidándolo en la cima de la tabla de la LMBP."
+    },
+    {
+      "categoria": "🎭 Espectáculos",
+      "titulo": "Exposición 'El mensajero del color' de Evelio Giusseppi",
+      "resumen": "La galería 5 del Museo Alejandro Otero muestra 42 obras del artista Aragua, que fusionan el rigor técnico con una crítica social y espiritual. Su paleta vibrante y temas indígenas reflejan la identidad venezolana."
+    },
+    {
+      "categoria": "💡 Tecnología",
+      "titulo": "Estrella de mar ilumina con tube foot",
+      "resumen": "Un estudio científico reveló que las estrellas de mar utilizan su 'tube foot' como escudo UV natural, protegiéndose de la radiación solar. Este descubrimiento abre nuevas posibilidades para la biotecnología y la conservación marina."
+    },
+    {
+      "categoria": "🌞 Motivación",
+      "titulo": "La Gran Misión Viva Venezuela: 500 mil cultores inspirados",
+      "resumen": "Con más de 500 mil participantes, la Gran Misión Viva Venezuela refuerza la identidad venezolana a través de la cultura. Como dijo Tarek William Saab: 'La cultura es la salvación del ser humano, un recordatorio contra la guerra y la muerte'."
+    }
+  ]
+}
