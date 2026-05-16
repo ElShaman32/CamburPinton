@@ -1,27 +1,20 @@
-
-
 {
-  "actualizado": "15 de mayo de 2026, 10:45 AM",
+  "actualizado": "2026-05-17 15:30:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Alcides Escobar: 'Centauros es un equipo compacto'",
-      "resumen": "El bateador venezolano Alcides Escobar lidera a Centauros con un promedio de .492 y un brillante rendimiento ofensivo. Su experiencia y liderazgo han unido al equipo, consolidándolo en la cima de la tabla de la LMBP."
+      "titulo": "José Alvarado firma el triunfo para los Phillies en mirada histórica",
+      "resumen": "El relevista venezolano closing 벗어 crecimiento en juego crucial, asegurando la victoria 11-9 y reforzando su promedio de efectividad. hábil aliviador celebra su primer triunfo de la temporada con rendición de cuentas al equipo."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Exposición 'El mensajero del color' de Evelio Giusseppi",
-      "resumen": "La galería 5 del Museo Alejandro Otero muestra 42 obras del artista Aragua, que fusionan el rigor técnico con una crítica social y espiritual. Su paleta vibrante y temas indígenas reflejan la identidad venezolana."
+      "titulo": "Trujillo vibra con Trova Fest 2026 y raíces culturales",
+      "resumen": "Artistas nacionales y locales celebran la identidad criolla mediante música y baile. El evento resalta el legado de Alí Primera y conecta con la espiritualidad trujillana, fusionando tradición y contemporary."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Estrella de mar ilumina con tube foot",
-      "resumen": "Un estudio científico reveló que las estrellas de mar utilizan su 'tube foot' como escudo UV natural, protegiéndose de la radiación solar. Este descubrimiento abre nuevas posibilidades para la biotecnología y la conservación marina."
-    },
-    {
-      "categoria": "🌞 Motivación",
-      "titulo": "La Gran Misión Viva Venezuela: 500 mil cultores inspirados",
-      "resumen": "Con más de 500 mil participantes, la Gran Misión Viva Venezuela refuerza la identidad venezolana a través de la cultura. Como dijo Tarek William Saab: 'La cultura es la salvación del ser humano, un recordatorio contra la guerra y la muerte'."
+      "titulo": "Inteligencia artificial redefinirá la seguridad urbana en Ciudad de México",
+      "resumen": "Nuevo satélite de la NASA monitorea en tiempo real el hundimiento de la ciudad, permitiendo planear estrategias adaptativas contra el cambio climático. Tecnología que fusiona ciencia y vida cotidiana en el prado de la metrópoli."
     }
   ]
 }
