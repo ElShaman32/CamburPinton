@@ -1,20 +1,27 @@
+```json
 {
-  "actualizado": "2026-05-17 15:30:00",
+  "actualizado": "2024-05-18 11:00:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "José Alvarado firma el triunfo para los Phillies en mirada histórica",
-      "resumen": "El relevista venezolano closing 벗어 crecimiento en juego crucial, asegurando la victoria 11-9 y reforzando su promedio de efectividad. hábil aliviador celebra su primer triunfo de la temporada con rendición de cuentas al equipo."
+      "titulo": "¡Ildemaro Vargas se prendió! El 'Comandante' la batea como la arepa en la calle",
+      "resumen": "Nuestro Ildemaro Vargas, más criollo que la hallaca en Navidad, la botó del estadio con los D-Backs. Parece que al bat le puso sabor a pabellón criollo, ¡y los de Colorado quedaron más fríos que cerveza en la playa! ¡A seguir así, campeón!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Trujillo vibra con Trova Fest 2026 y raíces culturales",
-      "resumen": "Artistas nacionales y locales celebran la identidad criolla mediante música y baile. El evento resalta el legado de Alí Primera y conecta con la espiritualidad trujillana, fusionando tradición y contemporary."
+      "titulo": "¡El Calipso de El Callao llegó a Caracas con su sabrosura!",
+      "resumen": "¡Agarren dato, mi gente! Los cultores del Calipso de El Callao se vinieron con todo para Caracas, trayendo ese tumbao que nos pone a mover el esqueleto. La capital se llenará de ritmo, color y esa alegría que solo el calipso callaoense sabe dar. ¡A bailar se ha dicho!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Inteligencia artificial redefinirá la seguridad urbana en Ciudad de México",
-      "resumen": "Nuevo satélite de la NASA monitorea en tiempo real el hundimiento de la ciudad, permitiendo planear estrategias adaptativas contra el cambio climático. Tecnología que fusiona ciencia y vida cotidiana en el prado de la metrópoli."
+      "titulo": "¡Rawayana con inteligencia artificial! ¿Será que la 'curda' digital también pega?",
+      "resumen": "La gente de Rawayana, siempre innovando, nos tiene con el chisme de una mujer creada con Inteligencia Artificial para su tour. La cuestión es si la IA también le puso saborcito venezolano o si es más gringa que hamburguesa sin tajadas. ¡Veremos qué tal esa 'Patria' digital!"
+    },
+    {
+      "categoria": "🌞 Motivación",
+      "titulo": "¡No te aflijas, mi pana!",
+      "resumen": "Hoy es un nuevo día para echarle pichón y no rendirse. Recuerda, \"Barriga llena, corazón contento\"... ¡y si es con arepa, mejor! ¡Pa'lante es pa' allá!"
     }
   ]
 }
+```
