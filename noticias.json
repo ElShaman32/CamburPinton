@@ -1,25 +1,27 @@
+```json
 {
-  "actualizado": "2024-05-18 11:00:00",
+  "actualizado": "2026-05-16T18:30:00Z",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Ildemaro Vargas se prendió! El 'Comandante' la batea como la arepa en la calle",
-      "resumen": "Nuestro Ildemaro Vargas, más criollo que la hallaca en Navidad, la botó del estadio con los D-Backs. Parece que al bat le puso sabor a pabellón criollo, ¡y los de Colorado quedaron más fríos que cerveza en la playa! ¡A seguir así, campeón!"
+      "titulo": "¡Senadores de Caracas remonta y hunde a Marineros!",
+      "resumen": "Los Senadores de Caracas le propinaron la cuarta derrota consecutiva a Marineros de Carabobo con un marcador de 9-3. ¡La racha de los carbobeños sigue cuesta abajo!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "¡El Calipso de El Callao llegó a Caracas con su sabrosura!",
-      "resumen": "¡Agarren dato, mi gente! Los cultores del Calipso de El Callao se vinieron con todo para Caracas, trayendo ese tumbao que nos pone a mover el esqueleto. La capital se llenará de ritmo, color y esa alegría que solo el calipso callaoense sabe dar. ¡A bailar se ha dicho!"
+      "titulo": "Moda sostenible con sabor a café",
+      "resumen": "La diseñadora Scarleth Ochoa crea piezas únicas con borra de café y otros materiales reciclados. ¡Moda que cuida el planeta y huele delicioso!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¡Rawayana con inteligencia artificial! ¿Será que la 'curda' digital también pega?",
-      "resumen": "La gente de Rawayana, siempre innovando, nos tiene con el chisme de una mujer creada con Inteligencia Artificial para su tour. La cuestión es si la IA también le puso saborcito venezolano o si es más gringa que hamburguesa sin tajadas. ¡Veremos qué tal esa 'Patria' digital!"
+      "titulo": "¡Adiós al cáncer de cuello uterino!",
+      "resumen": "Australia se la juega para ser el primer país en erradicar el cáncer de cuello uterino. ¡Un paso gigante para la salud mundial!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "¡No te aflijas, mi pana!",
-      "resumen": "Hoy es un nuevo día para echarle pichón y no rendirse. Recuerda, \"Barriga llena, corazón contento\"... ¡y si es con arepa, mejor! ¡Pa'lante es pa' allá!"
+      "titulo": "¡Actitud de campeón!",
+      "resumen": "No dejes que las caídas te detengan. Levántate con más fuerza y demuestra de qué estás hecho. ¡Tú puedes con todo!"
     }
   ]
 }
+```
