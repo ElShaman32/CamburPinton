@@ -1,1 +1,27 @@
-{   "dollar": "52.40",   "states": [     { "name": "Amazonas", "32°C"},     { "name": "Anzoátegui", "20°C" },     { "name": "Apure", "30°C"},     { "name": "Aragua", "22°C" },     { "name": "Barinas", "21°C"},     { "name": "Bolívar", "26°C":},     { "name": "Carabobo", "27°C" },     { "name": "Cojedes", "25°C" },     { "name": "Delta Amacuro", "23°C"},     { "name": "Distrito Capital", "20°C"},     { "name": "Falcón", "30°C"},     { "name": "Guárico", "20°C" },     { "name": "Lara", "24°C"},     { "name": "Mérida", "21°C"},     { "name": "Miranda", "24°C"},     { "name": "Monagas", "22°C"},     { "name": "Nueva Esparta", "32°C"},     { "name": "Portuguesa", "31°C"},     { "name": "Sucre", "21°C"},     { "name": "Táchira", "31°C"},     { "name": "Trujillo", "30°C"},     { "name": "La Guaira", "26°C"},     { "name": "Yaracuy", "20°C"},     { "name": "Zulia", "25°C"}   ] }
+{   
+"dollar": "💵515.18",   
+"states": [     
+{ "name": "Amazonas", "☁️ 31°C"},     
+{ "name": "", "" },     
+{ "name": "", ""},     
+{ "name": "", "" },     
+{ "name": "", ""},     
+{ "name": "", "":},    
+{ "name": "Carabobo", "" },     
+{ "name": "Cojedes", "" },
+{ "name": "Delta Amacuro", ""},     
+{ "name": "Distrito Capital", ""},     
+{ "name": "Falcón", ""},  
+{ "name": "Guárico", "" },     
+{ "name": "Lara", ""},  
+{ "name": "Mérida", ""},  { "name": "Miranda", ""}, 
+{ "name": "Monagas", ""}, 
+{ "name": "Nueva Esparta", ""},    
+{ "name": "Portuguesa", ""},     
+{ "name": "Sucre", ""},   
+{ "name": "Táchira", ""}, 
+{ "name": "Trujillo", ""},     
+{ "name": "La Guaira", ""},     
+{ "name": "Yaracuy", ""}, 
+{ "name": "Zulia", ""}   ] 
+}
