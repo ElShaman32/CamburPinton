@@ -1,30 +1,25 @@
 {
-  "actualizado": "2026-05-17 21:50:00", 
+  "actualizado": "2026-05-17 21:50:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
       "titulo": "Jesús Ramírez, goleador criollo en Portugal",
-      "resumen": "El delantero venezolano Jesús Ramírez la rompió con el Nacional de Madeira, 
-siendo el cuarto máximo artillero de la liga portuguesa con 18 goles. 
-¡Un orgullo pa' Venezuela!"
-    }, 
+      "resumen": "El delantero venezolano Jesús Ramírez la rompió con el Nacional de Madeira, siendo el cuarto máximo artillero de la liga portuguesa con 18 goles. ¡Un orgullo pa' Venezuela!"
+    },
     {
-      "categoria": "🎭 Espectáculos", 
-      "titulo": "Moda con conciencia: Scarleth Ochoa y su biomaterial", 
-      "resumen": "La diseñadora venezolana Scarleth Ochoa crea moda sostenible con borra de café y cáscara de huevo. 
-      ¡Diseño que cuida el planeta y tiene sabor a nuestra tierra!"
-    }, 
+      "categoria": "🎭 Espectáculos",
+      "titulo": "Moda con conciencia: Scarleth Ochoa y su biomaterial",
+      "resumen": "La diseñadora venezolana Scarleth Ochoa crea moda sostenible con borra de café y cáscara de huevo. ¡Diseño que cuida el planeta y tiene sabor a nuestra tierra!"
+    },
     {
-      "categoria": "💡 Tecnología", 
-      "titulo": "IA para diseñar antibióticos: ¡Una maravilla!", 
-      "resumen": "Unos genios crearon una IA que diseña antibióticos en horas. 
-¡Imagínate, en vez de esperar meses, ahora es rapidísimo! ¡Esto sí es un avance!"
-    }, 
+      "categoria": "💡 Tecnología",
+      "titulo": "IA para diseñar antibióticos: ¡Una maravilla!",
+      "resumen": "Unos genios crearon una IA que diseña antibióticos en horas. ¡Imagínate, en vez de esperar meses, ahora es rapidísimo! ¡Esto sí es un avance!"
+    },
     {
-      "categoria": "🌞 Motivación", 
-      "titulo": "¡Tú puedes lograrlo!", 
-      "resumen": "No dejes que nadie te diga que no puedes. 
-Con fe y trabajo duro, hasta el cielo es poco. ¡Dale con todo, mi gente!"
+      "categoria": "🌞 Motivación",
+      "titulo": "¡Tú puedes lograrlo!",
+      "resumen": "No dejes que nadie te diga que no puedes. Con fe y trabajo duro, hasta el cielo es poco. ¡Dale con todo, mi gente!"
     }
   ]
 }
