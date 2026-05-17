@@ -1,0 +1,17 @@
+[
+  {
+    "imagen": "https://ejemplo.com/banner1.jpg",
+    "enlace": "https://www.anunciante1.com",
+    "alt": "Anunciante 1"
+  },
+  {
+    "imagen": "https://ejemplo.com/banner2.jpg",
+    "enlace": "https://www.anunciante2.com",
+    "alt": "Anunciante 2"
+  },
+  {
+    "imagen": "https://ejemplo.com/banner3.jpg",
+    "enlace": "https://www.anunciante3.com",
+    "alt": "Anunciante 3"
+  }
+]
