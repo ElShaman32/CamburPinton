@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-05-18T06:00:11.016-04:00",
+  "actualizado": "2026-05-18T19:00:28.016-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Napoli Asegura Cupo en Champions League",
-      "resumen": "El Napoli clasificó a la Champions League, pero las otras plazas europeas están que arden en la Serie A. ¡Partidos de infarto para cerrar la temporada!"
+      "titulo": "Sasaki domina a los Angelinos",
+      "resumen": "El lanzador de los Dodgers, Roki Sasaki, tuvo su mejor actuación, ponchando a 8 y sin dar bases, en la victoria de su equipo. ¡UnJapanese sensation en la lomita!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Javier Rosa Lanza Salsa Caraqueña",
-      "resumen": "El pastoreño Javier Rosa trae 'Guayaba con Piña', una salsa fresca con sabor a barrio y anécdotas criollas. ¡Pa' que lo bailes!"
+      "titulo": "Poesía con sabor a infancia",
+      "resumen": "José Gabriel Rondón gana premio con 'Comiquitas', un poemario que evoca la nostalgia de la niñez. ¡Pura melancolía criolla!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Timmy, la Ballena No Corrió con Suerte",
-      "resumen": "A pesar de los esfuerzos, la ballena Timmy no logró sobrevivir tras quedar varada en Alemania. ¡Un triste final para el gigante marino!"
+      "titulo": "Virus en el sistema: ¡Cuidado, caballeros!",
+      "resumen": "El hantavirus se queda a vivir en el 'kit de supervivencia' masculino, ¡así que a cuidarse y a investigar más para prevenir!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "Actitud Positiva Venezolana",
-      "resumen": "Con ganas y sabor criollo, ¡a comernos el mundo! Cada día es una nueva oportunidad para brillar con luz propia."
+      "titulo": "Conquistando el mundo",
+      "resumen": "No te rindas, ¡que cada día es una nueva oportunidad para brillar y comerte el mundo a punta de perseverancia y arepas!"
     }
   ]
 }
