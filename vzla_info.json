@@ -13,11 +13,11 @@
     { "name": "Distrito Capital", "weather": "☁️ 24°C" },
     { "name": "Falcón", "weather": "☁️ 29°C" },
     { "name": "Guárico", "weather": "☁️ 31°C" },
-{ "name": "Guayana Esequiba", "weather": "🌥️ 29°C" }
+    { "name": "Guayana Esequiba", "weather": "🌥️ 29°C" },
     { "name": "La Guaira", "weather": "🌥️ 29°C" },
     { "name": "Lara", "weather": "☁️ 32°C" },
     { "name": "Mérida", "weather": "☁️ 23°C" },
-    { "name": "Miranda", "weather": "☀️ 27°C" },
+    { "name": "Miranda", "weather": "☀️ 29°C" },
     { "name": "Monagas", "weather": "⛅ 24°C" },
     { "name": "Nueva Esparta", "weather": "🌥️ 32°C" },
     { "name": "Portuguesa", "weather": "☁️ 26°C" },
