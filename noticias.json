@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-05-22T06:00:00.018-04:00",
+  "actualizado": "2026-05-22T12:00:27.013-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Carabobo pone a temblar a Sudamérica!",
-      "resumen": "El granate dio el golpe en Bolivia y dejó a Blooming contando estrellas. Con goles de Eric Ramírez y Sebastián Mendoza, los muchachos de Daniel Farias demostraron que el fútbol venezolano tiene con qué dar la pelea. Ahora a soñar con Bragantino, que el que persevera... ¡triunfa!"
+      "titulo": "Javier 'El Relámpago' Gómez bate récord y pone a Venezuela a correr de alegría",
+      "resumen": "Nuestro velocista aragüeño paró el cronómetro en 44.66 segundos, dejando atrás la marca de Kelvis Padrino. ¡Así se habla, carajo! Ahora a prepararse para los Juegos Centroamericanos con el orgullo bien puesto."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Garabato pinta el Museo de Bellas Artes",
-      "resumen": "Más de 200 artistas, desde los consagrados hasta los que recién empiezan, se dan cita en esta fiesta visual. El festival, que es como una arepa rellena de creatividad, tendrá pintura en vivo, música y hasta un concierto de DJs. ¡Y lo mejor! La entrada es gratis, como el sol de Caracas."
+      "titulo": "Garabato se pinta solo: arte urbano invadió el Bellas Artes",
+      "resumen": "Más de 200 artistas, desde los clásicos hasta los nuevos, se dieron cita en el museo. Habrá pintura en vivo, muralismo y hasta conciertos. ¡Como para ir con la familia y comer una buena arepa después!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Spotify quiere que remezcles como un DJ profesional",
-      "resumen": "La plataforma lanzará una herramienta con IA para que, con un par de clics, conviertas cualquier canción en un tema de fiesta. Es como tener un superpoder en el celular: le metes el dedo y ¡pum!, sale un remix. Los artistas ya dieron el sí, así que preparen los parlantes."
+      "titulo": "Google y Samsung se unen para crear gafas que hasta tu abuela querrá usar",
+      "resumen": "Estas gafas no solo ven, ¡también piensan! Con IA integrada, pueden ayudarte desde leer menús hasta traducir lo que tu suegra dice en chino. ¡El futuro está aquí, y es venezolano!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Hoy es un día perfecto para empezar. Como dice el refrán, 'el que persevera alcanza', y en Venezuela lo sabemos. Con una sonrisa y una buena arepa, cualquier obstáculo se convierte en oportunidad. ¡Vamos, que se puede!"
+      "resumen": "Hoy es un buen día para sonreír, aunque el café esté amargo. Recuerda: 'El que persevera, alcanza', y en Venezuela, ¡el que tiene arepa, tiene fe!"
     }
   ]
 }
