@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-05-21T13:46:02.977-04:00",
+  "actualizado": "2026-05-22T06:00:00.018-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Ozzie, Ozzie, Ozzie, se queda en la casa!",
-      "resumen": "Tigres de Aragua dice 'gracias, pero no' a Ozzie Guillén. Más enredado que un bolero en Navidad, el equipo busca nuevo mánager. Al menos nos queda el consuelo de que su bigote sigue siendo historia pura."
+      "titulo": "¡Carabobo pone a temblar a Sudamérica!",
+      "resumen": "El granate dio el golpe en Bolivia y dejó a Blooming contando estrellas. Con goles de Eric Ramírez y Sebastián Mendoza, los muchachos de Daniel Farias demostraron que el fútbol venezolano tiene con qué dar la pelea. Ahora a soñar con Bragantino, que el que persevera... ¡triunfa!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Garabato: donde los pinceles bailan salsa",
-      "resumen": "El Museo de Bellas Artes se llena de color con el Festival Garabato. Más de 200 artistas, desde los clásicos hasta los que recién aprenden a mezclar colores. ¡Hasta el marco de los cuadros se mueve al ritmo de la creatividad!"
+      "titulo": "Garabato pinta el Museo de Bellas Artes",
+      "resumen": "Más de 200 artistas, desde los consagrados hasta los que recién empiezan, se dan cita en esta fiesta visual. El festival, que es como una arepa rellena de creatividad, tendrá pintura en vivo, música y hasta un concierto de DJs. ¡Y lo mejor! La entrada es gratis, como el sol de Caracas."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Cangrejos salvadores: la tecnología que viene del mar",
-      "resumen": "Científicos zulianos crean apósitos para quemaduras con caparazón de cangrejo azul. ¿La próxima? ¿Un celular que se carga con una arepa? La innovación venezolana sigue dando de qué hablar, ¡y con mucho sabor a mar!"
+      "titulo": "Spotify quiere que remezcles como un DJ profesional",
+      "resumen": "La plataforma lanzará una herramienta con IA para que, con un par de clics, conviertas cualquier canción en un tema de fiesta. Es como tener un superpoder en el celular: le metes el dedo y ¡pum!, sale un remix. Los artistas ya dieron el sí, así que preparen los parlantes."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como dice el refrán: 'El que persevera, alcanza... y si no, al menos se ejercita el alma'. ¡Pa'lante, Venezuela, que el café de la tarde sabe mejor con actitud!"
+      "resumen": "Hoy es un día perfecto para empezar. Como dice el refrán, 'el que persevera alcanza', y en Venezuela lo sabemos. Con una sonrisa y una buena arepa, cualquier obstáculo se convierte en oportunidad. ¡Vamos, que se puede!"
     }
   ]
 }
