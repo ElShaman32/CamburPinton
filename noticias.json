@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-05-22T12:00:27.013-04:00",
+  "actualizado": "2026-05-23T13:12:09.943-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Javier 'El Relámpago' Gómez bate récord y pone a Venezuela a correr de alegría",
-      "resumen": "Nuestro velocista aragüeño paró el cronómetro en 44.66 segundos, dejando atrás la marca de Kelvis Padrino. ¡Así se habla, carajo! Ahora a prepararse para los Juegos Centroamericanos con el orgullo bien puesto."
+      "titulo": "Samanes de Aragua: 'Hacemos las cosas pequeñas para ganar'",
+      "resumen": "José Tábata confía en su equipo pese al 0-8 de arranque. 'Esto es béisbol y así tocó el calendario', dice el mánager mientras el Gigante enfrenta nueve juegos de visita. ¡Arrancá compadre, que el béisbol no espera!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Garabato se pinta solo: arte urbano invadió el Bellas Artes",
-      "resumen": "Más de 200 artistas, desde los clásicos hasta los nuevos, se dieron cita en el museo. Habrá pintura en vivo, muralismo y hasta conciertos. ¡Como para ir con la familia y comer una buena arepa después!"
+      "titulo": "Títeres Tuqueque reviven 'El Principito' con magia y criollada",
+      "resumen": "Este sábado y domingo en el Teatro San Martín, los Tuqueque nos invitan a soñar con valores como el amor, la amistad y la tolerancia. 'Es un canto a la vida ante las adversidades', dice la directora Elaine Méndez. ¡A desvelarse con los muñequitos!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Google y Samsung se unen para crear gafas que hasta tu abuela querrá usar",
-      "resumen": "Estas gafas no solo ven, ¡también piensan! Con IA integrada, pueden ayudarte desde leer menús hasta traducir lo que tu suegra dice en chino. ¡El futuro está aquí, y es venezolano!"
+      "titulo": "Spotify quiere remezclar tus canciones con IA: ¿o te la va a meter?",
+      "resumen": "La herramienta promete que los artistas dan su consentimiento, pero en Venezuela sabemos que hasta la abuela dice que sí para que no le den cucaracha. ¡Quédate atento al playlist que ni tú mismo reconoces!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Hoy es un buen día para sonreír, aunque el café esté amargo. Recuerda: 'El que persevera, alcanza', y en Venezuela, ¡el que tiene arepa, tiene fe!"
+      "resumen": "Si el béisbol te golpea, lávate la cara con arepa y sigue en la caja. En Venezuela el optimismo se hereda junto con la genealogía y las recetas de la abuela."
     }
   ]
 }
