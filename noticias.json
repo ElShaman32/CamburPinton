@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-05-26T12:00:19.026-04:00",
+  "actualizado": "2026-05-27T06:00:19.036-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Miguel Cairo toma las riendas de los Gigantes del Cibao",
-      "resumen": "El criollo Anaco dictó cátedra en la isla caribeña. Con 17 años en las Grandes Ligas y experiencia como timonel de los Navegantes, Cairo llega para conquistar Quisqueya. ¡Lánzale, Miguel, que allá se juega bonito!"
+      "titulo": "William Contreras atrapa rayitas en Milwaukee como si fuera en un chivo",
+      "resumen": "El criollo le pegó tres con treinta al rival y mantuvo su promedio en .308, porque aquí no hay barras que la bajen y el cuadrangular de Piñango le robó la miel a Sandy Alcántara."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "El Cercado se vistió de fiesta con la Feria Artesanal",
-      "resumen": "Vasijas de arcilla, chinchorros tejidos a mano y décimas orientales pusieron a temblar el cuatro en Margarita. Los galeronistas del Galerón Artesanal demostraron que la tradición neoespartana no tiene fecha de caducidad."
+      "titulo": "Museo Casa Pulpería de Zamora: donde el café sabe a historia y a revolución",
+      "resumen": "Restauraron la pulpería entera, abrieron sala con baile y decidieron que los turistas también sientan el chivo. Tierra y hombres libres, con sabor a arepa y café."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Zancudos con chip: científicos zulianos transforman cangrejo en apósitos",
-      "resumen": "Del caparazón del cangrejo azul del Zulia salen apósitos biológicos que curan quemaduras graves. ¡Hasta los cangrejos se pusieron a servir la patria! Transformando desechos en milagros médicos."
+      "titulo": "Spotify quiere remezclar tus canciones con IA y tú ni te das cuenta",
+      "resumen": "La app planea que una inteligencia artificial te arme el playlist perfecto sin que tú hagas nada, así como tu tía que siempre pone la misma salsa y piensa que sabe de música."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Si el cangrejo puede convertirse en médico, tú puedes lograr cualquier cosa. ¡Arriba esa bandera tricolor y que el coco te acompañe!"
+      "resumen": "Levántate chevere, que hoy hay sol en Caracas y las metas no se alzan solas. ¡Ánimo, parce, que esta vaina vale la pena!"
     }
   ]
 }
