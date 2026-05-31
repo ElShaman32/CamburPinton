@@ -11,11 +11,11 @@
     },
     {
       "name": "Apure",
-      "weather": "🌧️ 24°C"
+      "weather": "🌧️ 23°C"
     },
     {
       "name": "Aragua",
-      "weather": "🌦️ 22°C"
+      "weather": "🌤️ 21°C"
     },
     {
       "name": "Barinas",
@@ -27,59 +27,59 @@
     },
     {
       "name": "Carabobo",
-      "weather": "🌦️ 21°C"
+      "weather": "🌫️ 20°C"
     },
     {
       "name": "Cojedes",
-      "weather": "🌦️ 22°C"
+      "weather": "🌦️ 23°C"
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌫️ 23°C"
+      "weather": "🌫️ 22°C"
     },
     {
       "name": "Distrito Capital",
-      "weather": "🌦️ 18°C"
+      "weather": "🌤️ 17°C"
     },
     {
       "name": "Falcón",
-      "weather": "☀️ 25°C"
+      "weather": "☀️ 24°C"
     },
     {
       "name": "Guárico",
-      "weather": "🌦️ 24°C"
-    },
-    {
-      "name": "Guayana Esequiba",
       "weather": "🌤️ 24°C"
     },
     {
+      "name": "Guayana Esequiba",
+      "weather": "🌫️ 24°C"
+    },
+    {
       "name": "La Guaira",
-      "weather": "☀️ 26°C"
+      "weather": "🌦️ 25°C"
     },
     {
       "name": "Lara",
-      "weather": "🌤️ 12°C"
+      "weather": "☁️ 11°C"
     },
     {
       "name": "Mérida",
-      "weather": "🌫️ 18°C"
+      "weather": "🌤️ 17°C"
     },
     {
       "name": "Miranda",
-      "weather": "🌦️ 24°C"
+      "weather": "🌥️ 23°C"
     },
     {
       "name": "Monagas",
-      "weather": "☀️ 25°C"
+      "weather": "🌤️ 25°C"
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 22°C"
+      "weather": "🌦️ 23°C"
     },
     {
       "name": "Portuguesa",
-      "weather": "☀️ 25°C"
+      "weather": "🌤️ 24°C"
     },
     {
       "name": "Sucre",
@@ -87,11 +87,11 @@
     },
     {
       "name": "Táchira",
-      "weather": "☀️ 18°C"
+      "weather": "☀️ 17°C"
     },
     {
       "name": "Trujillo",
-      "weather": "🌤️ 20°C"
+      "weather": "☀️ 19°C"
     },
     {
       "name": "Yaracuy",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Zulia",
-      "weather": "☀️ 27°C"
+      "weather": "🌤️ 27°C"
     }
   ]
 }
