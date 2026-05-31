@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-05-31T06:00:19.035-04:00",
+  "actualizado": "2026-05-31T12:00:19.020-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Caciques aplastan a Senadores 13-1",
-      "resumen": "Con jonrón de Diego Infante y un rally de cinco carreras en el primer inning, la ‘Raza’ dejó sin aliento a los Senadores. ¡Así se pone el béisbol venezolano bien picante!"
+      "titulo": "Acuña Jr. dispara dos jonrones y los Bravos vencen",
+      "resumen": "El venezolano Ronald Acuña Jr. conectó dos cuadrangulares contra los Rojos de Cincinnati, liderando la victoria 5-2 de los Bravos de Atlanta. ¡Clarita la pelota no se le escapó ni un instante!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Folklore Aragüeño se toma la calle",
-      "resumen": "Tambores, joropo y las famosas Burriquitas de San Casimiro hicieron bailar a más de 1.700 cultores en Maracay. ¡Venezuela se viste de tradición y sabor!"
+      "titulo": "Festival de flores pinta de verde Delta Amacuro",
+      "resumen": "En Tucupita, 43 instituciones llenaron las calles de color para celebrar el sexto festival de las flores, homenaje a la naturaleza del estado. Desfiles, rosas y la flor de Bora hicieron soñar a grandes y chicos."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¿El smartphone se queda sin vidas?",
-      "resumen": "Según experto, el teléfono inteligente podría desaparecer antes de 2030, pero igual que un gato, quizá tenga siete oportunidades de reinventarse. ¡Prepárate para la era de los lentes de realidad aumentada!"
+      "titulo": "Cohete de Blue Origin explode en ensayo",
+      "resumen": "Durante una prueba previa a una misión satelital, un cohete de Blue Origin explotó, pero la compañía aseguró que nadie resultó herido. ¡Así es la carrera espacial, a veces con chispas y sin víctimas!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Recuerda que, como el arepa, tú también puedes rellenarte de sueños y salir siempre bien dorado. ¡Sigue adelante con sazón y alegría!"
+      "resumen": "Hoy recuerda que, como el arepa bien caliente, tu energía puede llenar cualquier hueco. ¡Sigue adelante con sazón y sonrisa!"
     }
   ]
 }
