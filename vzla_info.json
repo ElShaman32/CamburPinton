@@ -3,11 +3,11 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌫️ 22°C"
+      "weather": "🌦️ 23°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "🌦️ 25°C"
+      "weather": "🌤️ 25°C"
     },
     {
       "name": "Apure",
@@ -19,27 +19,27 @@
     },
     {
       "name": "Barinas",
-      "weather": "🌫️ 22°C"
+      "weather": "☀️ 22°C"
     },
     {
       "name": "Bolívar",
-      "weather": "🌦️ 25°C"
+      "weather": "🌤️ 24°C"
     },
     {
       "name": "Carabobo",
-      "weather": "🌫️ 19°C"
+      "weather": "🌤️ 19°C"
     },
     {
       "name": "Cojedes",
-      "weather": "🌦️ 22°C"
+      "weather": "🌫️ 21°C"
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌦️ 23°C"
+      "weather": "🌫️ 23°C"
     },
     {
       "name": "Distrito Capital",
-      "weather": "🌦️ 19°C"
+      "weather": "🌫️ 18°C"
     },
     {
       "name": "Falcón",
@@ -55,15 +55,15 @@
     },
     {
       "name": "La Guaira",
-      "weather": "🌦️ 25°C"
+      "weather": "☀️ 24°C"
     },
     {
       "name": "Lara",
-      "weather": "🌦️ 12°C"
+      "weather": "☀️ 10°C"
     },
     {
       "name": "Mérida",
-      "weather": "🌦️ 18°C"
+      "weather": "🌫️ 19°C"
     },
     {
       "name": "Miranda",
@@ -71,11 +71,11 @@
     },
     {
       "name": "Monagas",
-      "weather": "☀️ 25°C"
+      "weather": "🌦️ 25°C"
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 22°C"
+      "weather": "🌫️ 21°C"
     },
     {
       "name": "Portuguesa",
@@ -83,15 +83,15 @@
     },
     {
       "name": "Sucre",
-      "weather": "🌦️ 15°C"
+      "weather": "☀️ 14°C"
     },
     {
       "name": "Táchira",
-      "weather": "🌦️ 18°C"
+      "weather": "☀️ 17°C"
     },
     {
       "name": "Trujillo",
-      "weather": "🌦️ 21°C"
+      "weather": "☀️ 21°C"
     },
     {
       "name": "Yaracuy",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Zulia",
-      "weather": "☀️ 28°C"
+      "weather": "☀️ 27°C"
     }
   ]
 }
