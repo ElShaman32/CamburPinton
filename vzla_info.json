@@ -3,27 +3,27 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 21°C"
+      "weather": "🌧️ 21°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "🌦️ 25°C"
+      "weather": "🌤️ 24°C"
     },
     {
       "name": "Apure",
-      "weather": "🌦️ 23°C"
+      "weather": "🌦️ 22°C"
     },
     {
       "name": "Aragua",
-      "weather": "🌦️ 20°C"
+      "weather": "🌫️ 19°C"
     },
     {
       "name": "Barinas",
-      "weather": "🌤️ 22°C"
+      "weather": "🌦️ 21°C"
     },
     {
       "name": "Bolívar",
-      "weather": "🌦️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Carabobo",
@@ -35,71 +35,71 @@
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌦️ 23°C"
+      "weather": "🌫️ 23°C"
     },
     {
       "name": "Distrito Capital",
-      "weather": "🌫️ 19°C"
+      "weather": "🌤️ 18°C"
     },
     {
       "name": "Falcón",
-      "weather": "🌦️ 24°C"
-    },
-    {
-      "name": "Guárico",
-      "weather": "🌦️ 23°C"
-    },
-    {
-      "name": "Guayana Esequiba",
-      "weather": "🌦️ 23°C"
-    },
-    {
-      "name": "La Guaira",
-      "weather": "🌤️ 24°C"
-    },
-    {
-      "name": "Lara",
-      "weather": "🌦️ 11°C"
-    },
-    {
-      "name": "Mérida",
-      "weather": "🌫️ 19°C"
-    },
-    {
-      "name": "Miranda",
-      "weather": "🌦️ 23°C"
-    },
-    {
-      "name": "Monagas",
-      "weather": "🌦️ 26°C"
-    },
-    {
-      "name": "Nueva Esparta",
-      "weather": "🌤️ 21°C"
-    },
-    {
-      "name": "Portuguesa",
       "weather": "☁️ 24°C"
     },
     {
+      "name": "Guárico",
+      "weather": "🌫️ 23°C"
+    },
+    {
+      "name": "Guayana Esequiba",
+      "weather": "🌦️ 24°C"
+    },
+    {
+      "name": "La Guaira",
+      "weather": "🌦️ 23°C"
+    },
+    {
+      "name": "Lara",
+      "weather": "🌡️ 11°C"
+    },
+    {
+      "name": "Mérida",
+      "weather": "🌫️ 18°C"
+    },
+    {
+      "name": "Miranda",
+      "weather": "🌫️ 22°C"
+    },
+    {
+      "name": "Monagas",
+      "weather": "☁️ 24°C"
+    },
+    {
+      "name": "Nueva Esparta",
+      "weather": "🌦️ 21°C"
+    },
+    {
+      "name": "Portuguesa",
+      "weather": "☀️ 24°C"
+    },
+    {
       "name": "Sucre",
-      "weather": "🌦️ 13°C"
+      "weather": "🌫️ 13°C"
     },
     {
       "name": "Táchira",
-      "weather": "🌤️ 16°C"
+      "weather": "🌦️ 17°C"
     },
     {
       "name": "Trujillo",
-      "weather": "🌤️ 27°C"
+      "weather": "🌤️ 26°C"
     },
     {
       "name": "Yaracuy",
-      "weather": "🌦️ 20°C"
+      "weather": "🌡️ 22°C"
     },
     {
       "name": "Zulia",
-      "weather": "🌦️ 25°C"
+      "weather": "🌧️ 25°C"
     }
   ]
 }
