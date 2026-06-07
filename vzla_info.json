@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 27°C"
+      "weather": "🌦️ 26°C"
     },
     {
       "name": "Anzoátegui",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌦️ 27°C"
+      "weather": "🌦️ 28°C"
     },
     {
       "name": "Distrito Capital",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "🌦️ 26°C"
+      "weather": "🌤️ 29°C"
     },
     {
       "name": "Guárico",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌧️ 19°C"
+      "weather": "🌦️ 23°C"
     },
     {
       "name": "Portuguesa",
