@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "🌦️ 24°C"
+      "weather": "🌤️ 27°C"
     },
     {
       "name": "Guárico",
@@ -95,11 +95,11 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌧️ 23°C"
+      "weather": "🌦️ 22°C"
     },
     {
       "name": "Zulia",
-      "weather": "🌧️ 31°C"
+      "weather": "🌦️ 28°C"
     }
   ]
 }
