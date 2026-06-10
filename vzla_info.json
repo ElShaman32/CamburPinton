@@ -15,7 +15,7 @@
     },
     {
       "name": "Aragua",
-      "weather": "☀️ 30°C"
+      "weather": "☀️ 31°C"
     },
     {
       "name": "Barinas",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌤️ 24°C"
+      "weather": "🌦️ 27°C"
     },
     {
       "name": "La Guaira",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Trujillo",
-      "weather": "🌤️ 30°C"
+      "weather": "🌤️ 29°C"
     },
     {
       "name": "Yaracuy",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Zulia",
-      "weather": "🌤️ 30°C"
+      "weather": "☀️ 29°C"
     }
   ]
 }
