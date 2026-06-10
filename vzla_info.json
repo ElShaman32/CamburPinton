@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 22°C"
+      "weather": "🌫️ 20°C"
     },
     {
       "name": "Anzoátegui",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "☀️ 27°C"
+      "weather": "☀️ 25°C"
     },
     {
       "name": "Guárico",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌫️ 22°C"
+      "weather": "☀️ 12°C"
     },
     {
       "name": "Portuguesa",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌫️ 22°C"
+      "weather": "🌫️ 20°C"
     },
     {
       "name": "Zulia",
