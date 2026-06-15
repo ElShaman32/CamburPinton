@@ -1,25 +1,25 @@
-{
-  "actualizado": "2026-06-15T06:00:19.030-04:00",
+ {
+  "actualizado": "15/06/2026T10:00:58-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Yoendrys Gómez le puso candado a la victoria",
-      "resumen": "El pitcher criollo de los Mellizos de Minnesota salvó el juego contra San Luis con una actuación impecable. Este yaracuyano demostró que en la MLB también hay cerradores con sabor venezolano que saben ponerle el candado cuando la cosa está caliente."
+      "titulo": "¡Noticia deportiva del día!",
+      "resumen": "Información deportiva no disponible en este momento."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Rubén Blades llora a su doble venezolano",
-      "resumen": "El panameño Rubén Blades lamentó el fallecimiento de Jhonny Heredia, su doble venezolano que durante más de 10 años hizo vibrar a los salseros con su parecido vocal. Un artista que llevó la salsa de Venezuela al mundo y ahora deja un vacío en los escenarios."
+      "titulo": "¡Evento cultural del día!",
+      "resumen": "Información cultural no disponible en este momento."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Instagram y Facebook se recuperan después del apagón",
-      "resumen": "Meta restableció sus servicios tras una caída mundial que dejó a los venezolanos sin poder compartir sus arepas digitales. Ya podemos volver a publicar fotos de nuestras hallacas y memes criollos sin interrupciones tecnológicas."
+      "titulo": "¡Novedad tecnológica del día!",
+      "resumen": "Información tecnológica no disponible en este momento."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como dice el pitcher Yoendrys Gómez cuando pone candado: 'En la vida hay que saber cerrar bien los episodios y dominar los momentos cruciales'. Hoy es tu oportunidad para ser el cerrador de tus propios sueños."
+      "resumen": "Como dice el dicho: '¡Pa'lante es pa'llá!' ¡Arriba ese ánimo, Venezuela!"
     }
   ]
 }
