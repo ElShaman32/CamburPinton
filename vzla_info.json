@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 22°C"
+      "weather": "🌦️ 23°C"
     },
     {
       "name": "Anzoátegui",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Aragua",
-      "weather": "☀️ 19°C"
+      "weather": "☀️ 17°C"
     },
     {
       "name": "Barinas",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌦️ 26°C"
+      "weather": "🌦️ 24°C"
     },
     {
       "name": "Distrito Capital",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "☀️ 27°C"
+      "weather": "🌤️ 27°C"
     },
     {
       "name": "Guárico",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌦️ 25°C"
+      "weather": "🌫️ 24°C"
     },
     {
       "name": "La Guaira",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 22°C"
+      "weather": "🌫️ 13°C"
     },
     {
       "name": "Portuguesa",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Trujillo",
-      "weather": "☀️ 26°C"
+      "weather": "🌫️ 18°C"
     },
     {
       "name": "Yaracuy",
