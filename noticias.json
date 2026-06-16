@@ -1,25 +1,25 @@
- {
-  "actualizado": "15/06/2026T10:00:58-04:00",
+{
+  "actualizado": "2026-06-16T06:00:19.027-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Noticia deportiva del día!",
-      "resumen": "Información deportiva no disponible en este momento."
+      "titulo": "¡Jackson Chourio es el Jugador de la Semana!",
+      "resumen": "El zuliano Jackson Chourio está encendiendo la Liga Nacional con un promedio de .448, 5 jonrones y 10 remolcadas en 6 juegos. ¡Este criollo de 22 años está demostrando que Venezuela tiene poderío en Milwaukee!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "¡Evento cultural del día!",
-      "resumen": "Información cultural no disponible en este momento."
+      "titulo": "¡Carota, Ñema y Tajá siguen sonando!",
+      "resumen": "A 45 años de su creación, la agrupación larense Carota, Ñema y Tajá mantiene su legado musical con nuevos talentos. Con clásicos como 'El espanto' y 'Los dos gavilanes', siguen sembrando la raíz musical venezolana en nuevas generaciones."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¡Novedad tecnológica del día!",
-      "resumen": "Información tecnológica no disponible en este momento."
+      "titulo": "YouTube ahora tiene mensajes directos",
+      "resumen": "YouTube incorporó una función para compartir videos directamente con amigos, inspirada en Spotify. Ahora puedes enviar desde un tutorial hasta un short musical sin pasar por redes sociales externas."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como dice el dicho: '¡Pa'lante es pa'llá!' ¡Arriba ese ánimo, Venezuela!"
+      "resumen": "Como Jackson Chourio bateando jonrones: cada día es una nueva oportunidad para demostrar tu poder criollo. ¡No te quedés quieto, echale pichón!"
     }
   ]
 }
