@@ -1,0 +1,28 @@
+{
+  "current_season": "default",
+  "seasons": [
+    {
+      "id": "navidad",
+      "name": "Navidad 2024",
+      "start": "12-01",
+      "end": "12-31",
+      "logo_overlay": "santa_hat.png",
+      "effects": ["snowfall", "sparkles"],
+      "colors": {
+        "accent": "#FF0000",
+        "secondary_accent": "#00FF00"
+      },
+      "greeting": "¡Feliz Navidad, Racimo! 🎄"
+    },
+    {
+      "id": "carnaval",
+      "name": "Carnavales 2025",
+      "start": "02-01",
+      "end": "02-15",
+      "effects": ["confetti"],
+      "colors": {
+        "accent": "#FF69B4"
+      }
+    }
+  ]
+}
