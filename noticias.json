@@ -1,25 +1,25 @@
 {
-  "actualizado": "20-06-2026 H04:00 PM",
+  "actualizado": "21-06-2026 H10:00 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Senza y Suárez en la cima! Dos venezolanos encienden el MLB",
-      "resumen": "El valenciano Antonio Senzatela sigue invicto en el bullpen de los Rockies, mientras Ranger Suarez, con un juego sin hits hasta el séptimo, lleva a los Medias Rojas a la victoria. ¡Venezuela no para de brillar en Grandes Ligas!"
+      "titulo": "¡Rosa Martínez se llevó el oro en casa! Triatleta criolla domino el trío de la gloria",
+      "resumen": "La triatleta venezolana Rosa Martínez se coronó campeona en el Campeonato Centroamericano y del Caribe, con un tiempo de 57 minutos y 15 segundos. Lideró desde el agua hasta la meta, dejando a sus rivales con el corazón en la boca. ¡Eso es pasión criolla en cada kilómetro!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Batalla de Outfits: moda, autenticidad y ¡el ring de Caracas!",
-      "resumen": "Este sábado, en el Nuevo Circo, más de cien creativos se enfrentan en una batalla de estilos sin reglas. ¡Hasta 2.000 espectadores podrán disfrutar de moda urbana, música y fiesta en el corazón de Caracas!"
+      "titulo": "Batalla de Outfits: moda urbana, creatividad y ¡todo en el ring!",
+      "resumen": "Caracas se llenó de color y estilo este sábado en el Nuevo Circo. La cuarta edición de la Batalla de Outfits reunió a cien creadores que desfilaron con outfits únicos, inspirados en la cultura urbana. ¡El respeto, la autenticidad y la música fueron los verdaderos ganadores!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¿Tu celular te está robando el apego? La IA lo sabe.",
-      "resumen": "Un estudio revela que el uso constante del celular crea un 'apego ansioso' en los niños. ¡La tecnología que debería conectar nos aleja si no la usamos con sabiduría!"
+      "titulo": "¿Tu celular te está robando la atención? ¡La IA ya lo sabe!",
+      "resumen": "Un estudio revela que el uso constante del celular genera un apego ansioso en los niños. La tecnología, aunque útil, puede afectar las relaciones familiares. ¡Cuidado, chamos! A veces, el mejor app es apagar el móvil y salir a jugar."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como el maíz en Piñate, si sembramos con fe, aunque el clima pese, la cosecha será dulce. ¡Sigue adelante, compatriota, tu esfuerzo vale oro!"
+      "resumen": "Siempre hay una manera de levantarse, como dijo el tío José: 'Hoy no fue, pero mañana sí'. ¡Con fe, sudor y un buen cachito de arepa, todo se puede!'"
     }
   ]
 }
