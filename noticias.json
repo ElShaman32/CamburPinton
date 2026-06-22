@@ -1,25 +1,25 @@
 {
-  "actualizado": "21-06-2026 H10:00 AM",
+  "actualizado": "22-06-2026 H06:45 PM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Rosa Martínez se llevó el oro en casa! Triatleta criolla domino el trío de la gloria",
-      "resumen": "La triatleta venezolana Rosa Martínez se coronó campeona en el Campeonato Centroamericano y del Caribe, con un tiempo de 57 minutos y 15 segundos. Lideró desde el agua hasta la meta, dejando a sus rivales con el corazón en la boca. ¡Eso es pasión criolla en cada kilómetro!"
+      "titulo": "¡Lindor regresa! Los Mets vuelven a creer en el milagro de la caja de bateo",
+      "resumen": "Francisco Lindor, el maestro del corte y el cuadrangular, está de vuelta en el lineup de los Mets. A pesar de dos meses fuera, su presencia es como un tiro de pólvora en el corazón de Queens. Con su defensa impecable y su bate que se come las pelotas, el puertorriqueño no solo da esperanza, sino también un poco de sabor a “cachapa con queso” al futuro de Nueva York."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Batalla de Outfits: moda urbana, creatividad y ¡todo en el ring!",
-      "resumen": "Caracas se llenó de color y estilo este sábado en el Nuevo Circo. La cuarta edición de la Batalla de Outfits reunió a cien creadores que desfilaron con outfits únicos, inspirados en la cultura urbana. ¡El respeto, la autenticidad y la música fueron los verdaderos ganadores!"
+      "titulo": "Batalla de Outfits: cuando el ring es más fashion que una pasarela",
+      "resumen": "En Caracas, la moda no se pone en la pasarela, se pone en el ring. La cuarta edición de la Batalla de Outfits reunió a cien creativos que desafiaron las reglas del estilo con outfits personalísimos, customizados y hasta pintados a mano. ¡El ganador no solo lleva el premio, sino también el alma de la calle!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¿Tu celular te está robando la atención? ¡La IA ya lo sabe!",
-      "resumen": "Un estudio revela que el uso constante del celular genera un apego ansioso en los niños. La tecnología, aunque útil, puede afectar las relaciones familiares. ¡Cuidado, chamos! A veces, el mejor app es apagar el móvil y salir a jugar."
+      "titulo": "La IA ya detecta si tu comida está podrida… y lo hace con nariz electrónica",
+      "resumen": "Con un chip que analiza olores como un perro de trazas, esta nueva 'nariz electrónica' puede identificar alimentos en mal estado con un 92,6% de precisión. No necesitas olfato, ni tampoco miedo al almuerzo del viernes. Solo confía en la tecnología que huele mejor que tu abuela."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Siempre hay una manera de levantarse, como dijo el tío José: 'Hoy no fue, pero mañana sí'. ¡Con fe, sudor y un buen cachito de arepa, todo se puede!'"
+      "resumen": "Como el maíz en la Feria Piñate, aunque estés en medio de la tierra dura, sigue sembrando. El sol siempre sale, incluso si hoy te cae un aguacero criollo. ¡Sigue adelante, herman@!"
     }
   ]
 }
