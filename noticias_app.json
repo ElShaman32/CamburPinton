@@ -1,0 +1,24 @@
+{
+  "actualizado": "23-06-2026 H10:30 AM",
+  "noticias": [
+    {
+      "id": "noti-001",
+      "categoria": "🏅 Deportes",
+      "titulo": "Título de la noticia",
+      "resumen": "Resumen corto para el Home (máximo 100 caracteres)",
+      "contenido": "Contenido completo para la pantalla de detalle",
+      "imagen": "https://url-de-imagen-opcional.jpg",
+      "fecha": "23-06-2026"
+    },
+    {
+      "id": "noti-002",
+      "categoria": "🎭 Espectáculos",
+      "titulo": "Otro título",
+      "resumen": "Otro resumen corto",
+      "contenido": "Contenido completo",
+      "imagen": "",
+      "fecha": "22-06-2026"
+    }
+  ],
+  "mensaje_motivacional": "Como el maíz en la Feria Piñate..."
+}
