@@ -1,25 +1,25 @@
 {
-  "actualizado": "23-06-2026 H10:00 AM",
+  "actualizado": "2026-06-23T06:00:19.033-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Messi rompió récords y se fue con el guante de oro!",
-      "resumen": "Lionel Messi lideró la victoria de Argentina ante Austria con un doblete que lo colocó como el máximo goleador en la historia de los Mundiales. ¡Con 18 tantos, superó a Miroslav Klose! El capitán argentino también recibió elogios del propio Klose, quien lo llamó 'el mejor de todos los tiempos'. ¡La leyenda sigue escribiendo su historia!"
+      "titulo": "Kylian Mbappé la rompe en Francia y Messi sigue siendo el León de Argentina",
+      "resumen": "Mbappé marcó dos goles para que Francia vapule a Irak 3-0 y se clasifique a los dieciseisavos de final. Por su parte, Messi superó el récord mundial de Klose con 18 goles en Mundiales, y Argentina también avanzó. ¡La selección francesa ya tiene el pase y Mbappé demostró que es el crack que manda!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "¡El pez que fuma regresa al cine con más brillo que nunca!",
-      "resumen": "Este jueves 25 de junio, la Cinemateca Nacional reestrena «El pez que fuma», la obra cumbre de Román Chalbaud, tras una restauración digital de lujo. La proyección será en el Museo de Bellas Artes con entrada de solo 40 bolívares. ¡Un homenaje a la genialidad venezolana que no puedes perderte!"
+      "titulo": "El Pez que Fuma vuelve a la pantalla con restauración digital",
+      "resumen": "La obra cumbre de Román Chalbaud, 'El Pez que Fuma', será reestreno este jueves en la Cinemateca tras su restauración digital. Con Miguel Ángel Landa, Hilda Vera y Orlando Urdaneta, esta historia trágica y cómica sobre un burdel vuelve a brillar. ¡Una joya del cine venezolano que no te puedes perder!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¿Tu fruta está podrida? ¡La nueva nariz electrónica lo detecta!",
-      "resumen": "Un chip inteligente puede identificar si los alimentos están malos con un 92,6% de precisión. Solo necesita olerlos y analizar sus patrones olfativos. ¡Adiós a las sopas rancias y bienvenido a la tecnología que cuida tu estómago!"
+      "titulo": "Instagram ahora permite textos diferentes en cada foto del carrusel",
+      "resumen": "La nueva función de Instagram transforma la experiencia: puedes añadir múltiples descripciones en cada foto del carrusel. Esto abre un nuevo espacio para creadores y usuarios que quieren contar historias largas. ¡Ahora tus carruseles serán más creativos y personalizados que nunca!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Hoy, aunque el mundo parezca un poco loco, recuerda: tú eres el actor principal de tu historia. Como el maíz en Ocumare, crece con fuerza, incluso en tierra difícil. ¡Sigue adelante, venezolano!"
+      "resumen": "Como el mango en Cojedes, aprovecha cada momento dulce de la vida. Hoy es día para celebrar tus pequeños logros con el sabor criollo que te hace único. ¡Arriba ese ánimo, que la vida es una parranda!"
     }
   ]
 }
