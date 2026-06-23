@@ -1,25 +1,25 @@
 {
-  "actualizado": "22-06-2026 H06:45 PM",
+  "actualizado": "23-06-2026 H10:00 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Lindor regresa! Los Mets vuelven a creer en el milagro de la caja de bateo",
-      "resumen": "Francisco Lindor, el maestro del corte y el cuadrangular, está de vuelta en el lineup de los Mets. A pesar de dos meses fuera, su presencia es como un tiro de pólvora en el corazón de Queens. Con su defensa impecable y su bate que se come las pelotas, el puertorriqueño no solo da esperanza, sino también un poco de sabor a “cachapa con queso” al futuro de Nueva York."
+      "titulo": "¡Messi rompió récords y se fue con el guante de oro!",
+      "resumen": "Lionel Messi lideró la victoria de Argentina ante Austria con un doblete que lo colocó como el máximo goleador en la historia de los Mundiales. ¡Con 18 tantos, superó a Miroslav Klose! El capitán argentino también recibió elogios del propio Klose, quien lo llamó 'el mejor de todos los tiempos'. ¡La leyenda sigue escribiendo su historia!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Batalla de Outfits: cuando el ring es más fashion que una pasarela",
-      "resumen": "En Caracas, la moda no se pone en la pasarela, se pone en el ring. La cuarta edición de la Batalla de Outfits reunió a cien creativos que desafiaron las reglas del estilo con outfits personalísimos, customizados y hasta pintados a mano. ¡El ganador no solo lleva el premio, sino también el alma de la calle!"
+      "titulo": "¡El pez que fuma regresa al cine con más brillo que nunca!",
+      "resumen": "Este jueves 25 de junio, la Cinemateca Nacional reestrena «El pez que fuma», la obra cumbre de Román Chalbaud, tras una restauración digital de lujo. La proyección será en el Museo de Bellas Artes con entrada de solo 40 bolívares. ¡Un homenaje a la genialidad venezolana que no puedes perderte!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "La IA ya detecta si tu comida está podrida… y lo hace con nariz electrónica",
-      "resumen": "Con un chip que analiza olores como un perro de trazas, esta nueva 'nariz electrónica' puede identificar alimentos en mal estado con un 92,6% de precisión. No necesitas olfato, ni tampoco miedo al almuerzo del viernes. Solo confía en la tecnología que huele mejor que tu abuela."
+      "titulo": "¿Tu fruta está podrida? ¡La nueva nariz electrónica lo detecta!",
+      "resumen": "Un chip inteligente puede identificar si los alimentos están malos con un 92,6% de precisión. Solo necesita olerlos y analizar sus patrones olfativos. ¡Adiós a las sopas rancias y bienvenido a la tecnología que cuida tu estómago!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como el maíz en la Feria Piñate, aunque estés en medio de la tierra dura, sigue sembrando. El sol siempre sale, incluso si hoy te cae un aguacero criollo. ¡Sigue adelante, herman@!"
+      "resumen": "Hoy, aunque el mundo parezca un poco loco, recuerda: tú eres el actor principal de tu historia. Como el maíz en Ocumare, crece con fuerza, incluso en tierra difícil. ¡Sigue adelante, venezolano!"
     }
   ]
 }
