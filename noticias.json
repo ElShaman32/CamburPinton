@@ -1,25 +1,25 @@
 {
-  "actualizado": "23-06-2026 H04:00 PM",
+  "actualizado": "2026-06-23T12:00:19.034-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Plata y bronces para Venezuela en tenis de mesa!",
-      "resumen": "La selección venezolana se lució en Chile con una medalla de plata y dos de bronce. Cristina Gómez brilló en individual, mientras que los dobles masculino y femenino también subieron al podio. ¡Qué orgullo nacional!"
+      "titulo": "Venezolana Gómez mete de plata en tenis de mesa",
+      "resumen": "Cristina Gómez dejó el sabor criollo en Chile con medalla de plata en tenis de mesa suramericano. La criolla pasó como una arepa por la mesa con victorias ajustadas y bronce en equipo femenino. ¡Así se juega con calor venezolano!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Yaracuy vibra con San Juan Bautista y su cultura afrodescendiente",
-      "resumen": "Más de 1.900 sanjuaneros celebran con parrandas, música y tradición en siete municipios. Yaracuy reafirma su identidad con el Día del Tambor Luango. ¡La fiesta no para!"
+      "titulo": "El Pez que Fuma vuelve restaurado",
+      "resumen": "La obra cumbre de Román Chalbaud, 'El Pez que Fuma', regresa con restauración digital en Cinemateca. Como un buen tequeño frito, esta película de 1977 vuelve más dorada y sabrosa para celebrar casi 50 años de cine nacional."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Apple apuesta fuerte por el iPhone plegable y gafas con IA",
-      "resumen": "Con nuevo ejecutivo, Apple planea lanzar más productos innovadores. El iPhone plegable y las gafas inteligentes son parte de su portafolio más prolífico hasta ahora. ¡El futuro está cerca!"
+      "titulo": "Apple subirá precios por boom de IA",
+      "resumen": "La manzanita se pone más cara como un buen queso guayanés! Apple aumentará los precios de sus dispositivos porque la construcción de centros de datos para IA disparó los chips de memoria. El iPhone Pro será más premium, como nuestro café."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como el maíz en la tierra venezolana, si sembramos esfuerzo con fe, tarde o temprano florecerá. ¡Sigue adelante, compatriota!"
+      "resumen": "Como el guarapo de caña, dulce y fuerte: Hoy es día para crecer, para ser mejor que la vaina que pasó. ¡Con sabor venezolano todo se puede!"
     }
   ]
 }
