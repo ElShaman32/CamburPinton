@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌫️ 22°C"
+      "weather": "🌦️ 22°C"
     },
     {
       "name": "Anzoátegui",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌫️ 24°C"
+      "weather": "🌦️ 25°C"
     },
     {
       "name": "Distrito Capital",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "🌤️ 27°C"
+      "weather": "☀️ 26°C"
     },
     {
       "name": "Guárico",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌫️ 21°C"
+      "weather": "🌫️ 23°C"
     },
     {
       "name": "Zulia",
