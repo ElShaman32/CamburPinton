@@ -1,25 +1,25 @@
 {
-  "actualizado": "25-06-2026 H10:00 AM",
+  "actualizado": "26-06-2026 H04:00 PM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Lara en fuego! 5-5 y doblete de fuego en Triple-A",
-      "resumen": "Luis Lara, el criollo que no para, encendió el diamante con 5 hits, incluyendo un doblete impulsor. Su bateo de 102.1 mph dejó al equipo de Nashville sin respirar. ¡El futuro de los Cerveceros está en llamas!"
+      "titulo": "¡Ecuador se mete en los 16vos con gol de Plata!",
+      "resumen": "¡Sí, che! Ecuador venció a Alemania 2-1 y respira en el Mundial. Con un golazo de Gonzalo Plata tras un tiro de esquina, la Tri se clasificó como segunda del Grupo E. ¡Pura emoción criolla y mucho chavismo en el campo!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Frank Quintero cierra el Trova Fest con fuego latino",
-      "resumen": "El Pingüino regresa a la escena con su disco 'Laguneando' y un concierto mágico en Tiuna El Fuerte. Con éxitos como 'Sin querer evitarlo', se lleva a cuestas a todo el público. ¡Venezuela sigue cantando!"
+      "titulo": "Frank Quintero cierra el Trova Fest con su voz de oro",
+      "resumen": "El Pingüino regresa al escenario con todo: una gira internacional, un disco nuevo y un concierto en Tiuna El Fuerte que promete ser un homenaje a la canción necesaria. ¡Se sigue cantando, venezolanos!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "WhatsApp ahora llama desde la PC con hasta 32 personas",
-      "resumen": "¡Ya no necesitas el celular! WhatsApp Web ya permite llamadas de grupo con hasta 32 participantes. Todo con cifrado de extremo a extremo. Ahora puedes hablar con tu familia mientras trabajas en la laptop."
+      "titulo": "WhatsApp Web ahora permite llamadas grupales de hasta 32 personas",
+      "resumen": "¡Qué bueno! WhatsApp Web ya no solo sirve para ver mensajes, sino que ahora puedes hacer llamadas de grupo con hasta 32 participantes, todo con cifrado extremo. ¡Perfecto para reuniones familiares o parrandas digitales!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Como dice el refrán: ‘Si caes, levántate, porque el viento te empuja hacia adelante’. Hoy, más que nunca, confía en tu fuerza. ¡Tú puedes, venezolano!"
+      "resumen": "Aunque la tierra tiemble, el corazón sigue latiendo fuerte. ¡Sigamos adelante con fe, coraje y buena onda, porque aquí nadie se rinde!"
     }
   ]
 }
