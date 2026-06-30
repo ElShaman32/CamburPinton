@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "⛈️ 23°C"
+      "weather": "🌦️ 22°C"
     },
     {
       "name": "Anzoátegui",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Aragua",
-      "weather": "🌤️ 20°C"
+      "weather": "🌤️ 18°C"
     },
     {
       "name": "Barinas",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "☀️ 28°C"
+      "weather": "☀️ 26°C"
     },
     {
       "name": "Guárico",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌤️ 26°C"
+      "weather": "🌫️ 23°C"
     },
     {
       "name": "La Guaira",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Trujillo",
-      "weather": "🌫️ 20°C"
+      "weather": "🌤️ 27°C"
     },
     {
       "name": "Yaracuy",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Zulia",
-      "weather": "☀️ 28°C"
+      "weather": "☀️ 27°C"
     }
   ]
 }
