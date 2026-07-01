@@ -1,25 +1,25 @@
 {
-  "actualizado": "01-07-2026 H04:00 PM",
+  "actualizado": "2026-07-01T12:00:19.044-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Arráez a la escalera! El criollo se rompe el pico en el MLB",
-      "resumen": "Luis Arráez, el 'Regadera' venezolano, no solo bateó con fuego, sino que casi completa la escalera de hits. Con triple, cuadrangular y 4-3 en el juego, elevó su promedio a .331. ¡Hasta el oído del cielo le hizo eco!"
+      "titulo": "¡La Regadera mojando la MLB!",
+      "resumen": "Luis Arráez sigue siendo el bateador más contagioso de las Grandes Ligas. El criollo le dio su cuarto cuadrangular de la temporada y casi completa la escalera. ¡El venezolano está hecho de arepas y pelota!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Músicos en Madrid unen sus guitarras por Venezuela",
-      "resumen": "Desde Madrid, artistas venezolanos como Mar Morena y Gioco ofrecerán un concierto benéfico para ayudar a los afectados. «Crearemos un refugio de esperanza», dicen. ¡El amor musical viaja más rápido que el terremoto!"
+      "titulo": "La guitarra solidaria de Nirse González",
+      "resumen": "Desde Alemania, el músico venezolano ofrecerá concierto solidario para ayudar a los afectados por los sismos. ¡La música venezolana cura más que una sopa de guarapo!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Starlink da internet gratis en zonas de terremotos",
-      "resumen": "En medio del caos, Starlink ofrece conexión sin costo en zonas afectadas por los sismos. La tecnología salvaguarda la comunicación cuando la tierra tiembla. ¡Internet al rescate!"
+      "titulo": "Starlink ayuda en la emergencia",
+      "resumen": "En tiempos de sismos, la conectividad es clave. Starlink ofrece internet gratuito en zonas afectadas, demostrando que la tecnología también puede ser más humana que un abrazo."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Si la tierra se opone, luchamos contra ella… y hacemos que nos obedezca. Como dijo Bolívar. ¡Venezuela, sigue siendo la reina del coraje!"
+      "resumen": "Como dijo Bolívar en los escombros de 1812: 'Si la naturaleza se opone, lucharemos contra ella'. Hoy seguimos siendo venezolanos: resistentes, solidarios y con más sabor que una empanada."
     }
   ]
 }
