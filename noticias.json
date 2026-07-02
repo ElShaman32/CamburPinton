@@ -1,25 +1,25 @@
 {
-  "actualizado": "02-07-2026 H04:00 PM",
+  "actualizado": "2026-07-02T12:00:19.035-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Sanoja se vuelve leyenda en Miami con triple histórico",
-      "resumen": "Javier Sanoja, el maracayero de los Marlins, se metió en la historia al ser el primero en conectar dos triples y ocho carreras impulsadas en tres juegos seguidos. Con un promedio de .583 y OPS de 1.893, ¡el Tropi está encendido y no hay quien lo pare! ¡Viva el criollo del diamante!"
+      "titulo": "Samy Camacho no afloja en Florida",
+      "resumen": "El jinetazo criollo Samy Camacho sigue coleando en Gulfstream Park, manteniendo cerrada pelea con Diego Herrera por el primer lugar. ¡Ese venezolano tiene la sazón del hipismo y nos pone a galopar con sus victorias!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Nirse González toca en Alemania por Venezuela: arte como abrazo",
-      "resumen": "El guitarrista venezolano Nirse González, en Essen, Alemania, hará un concierto benéfico con piezas de Lauro y Piazzolla. 'Extraño mucho a mi país', dice. El arte, su lucha contra el dolor, y una guitarra que canta solidaridad."
+      "titulo": "Músicos venezolanos en Madrid hacen parranda solidaria",
+      "resumen": "Desde España nuestros artistas se unen en el concierto 'Desde Afuera', echando un palo con la música para ayudar a los afectados por los sismos. Inés de Lis, Gioco y otros talentos criollos demostrando que aunque estén lejos, el corazón está en Venezuela."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Starlink da internet gratis tras terremotos: conexión en medio del caos",
-      "resumen": "Tras los sismos, Starlink ofrece servicio gratuito en zonas afectadas. Los usuarios con equipos dañados pueden pedir reemplazo sin costo. La tecnología salvó el contacto cuando todo se vino abajo."
+      "titulo": "Apple anuncia ayuda financiera para Venezuela",
+      "resumen": "La manzanita tecnológica echó un cable al país con ayuda financiera tras los terremotos. ¡Ni iPhone ni MacBook, pero sí un apoyo económico para la emergencia! Una muestra de que la tecnología también puede ser solidaria."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Aunque el piso tiemble, el corazón no debe rendirse. Como dijo Simón Bolívar: si la naturaleza se opone, ¡luchamos contra ella y haremos que nos obedezca! ¡Venezuela, levantemos la cabeza!"
+      "resumen": "Como dice nuestra arepa: ¡No hay mal que por bien no venga! Hoy levantémonos con el sabor criollo de la esperanza, porque el venezolano sabe que después de la tempestad viene la calma y un buen café."
     }
   ]
 }
