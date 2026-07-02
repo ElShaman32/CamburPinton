@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 23°C"
+      "weather": "🌦️ 20°C"
     },
     {
       "name": "Anzoátegui",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 22°C"
+      "weather": "🌤️ 14°C"
     },
     {
       "name": "Portuguesa",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌫️ 21°C"
+      "weather": "🌫️ 20°C"
     },
     {
       "name": "Zulia",
