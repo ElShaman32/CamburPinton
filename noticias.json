@@ -1,25 +1,25 @@
 {
-  "actualizado": "03-07-2026 H10:00 AM",
+  "actualizado": "2026-07-03T06:00:19.037-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Rocchio y su jonrón de oro! Cleveland vence con sabor criollo",
-      "resumen": "Brayan Rocchio, el venezolano que no para, pegó un jonrón de oro en la novena entrada para darle la victoria a los Guardianes. ¡Con ese batazo, se convirtió en héroe del día y dejó al rival con el corazón roto! ¡Viva el talento criollo!"
+      "titulo": "Venezolanos brillan en Futuras Estrellas",
+      "resumen": "¡Arrancamos bien patria! Kendry Chourio, Franklin Arias, Nelson Rada, Ethan Salas y Alfredo Duno, cinco criollos frescos para el Juego de Futuras Estrellas de MLB. Arias es el número 1 de Boston y el #7 del béisbol mundial ¡Como si fuera un guarapo de primera!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Onai Quiñonez: un artista que se fue, pero dejó huella en el alma",
-      "resumen": "El joven pintor merideño Onai Quiñonez, víctima de los terremotos, nos dejó sin decir adiós. Su arte, lleno de pasión y color, sigue hablando por él. Hoy, más que nunca, recordamos que el talento venezolano es eterno."
+      "titulo": "San Pedro no sale este año",
+      "resumen": "¡Un toque de tambor diferente! Guatire y Guarenas suspendieron las parrandas de San Pedro por los terremotos. Los parranderos dicen que 'celebrar en medio del llanto sería ajeno a nuestro espíritu solidario'. Así que este 29 de junio, el tambor guarda silencio pero el corazón sigue bailando."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Starlink da internet gratis en zonas afectadas por los sismos",
-      "resumen": "¿Te quedaste sin conexión tras el temblor? No te preocupes, Starlink ahora ofrece internet gratuito en las zonas afectadas. Así, hasta en medio del caos, Venezuela sigue conectada y con voz."
+      "titulo": "Starlink ayuda gratis",
+      "resumen": "¡Señores, internet de emergencia! SpaceX ofrece Starlink gratis en zonas afectadas por los terremotos. Si tu equipo quedó dañado, puedes solicitar reemplazo. Es como tener un cable directo al cielo para mandar un mensaje: 'Aquí estamos, ¡cobijados con tecnología!'"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "No importa cuántas veces la tierra tiemble, el alma venezolana sigue firme como una roca. ¡Sigamos adelante con coraje, amor y mucho sabor!"
+      "resumen": "Como dijo el cantautor: 'Si la naturaleza se opone, lucharemos contra ella'. Hoy, después de los temblores, somos más fuertes que la tierra misma. ¡Arriba el corazón venezolano!"
     }
   ]
 }
