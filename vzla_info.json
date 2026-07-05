@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 24°C"
+      "weather": "⛈️ 23°C"
     },
     {
       "name": "Anzoátegui",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "🌦️ 30°C"
+      "weather": "☀️ 33°C"
     },
     {
       "name": "Guárico",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 23°C"
+      "weather": "🌫️ 23°C"
     },
     {
       "name": "Portuguesa",
