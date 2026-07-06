@@ -43,7 +43,7 @@
     },
     {
       "name": "Falcón",
-      "weather": "🌤️ 31°C"
+      "weather": "🌤️ 32°C"
     },
     {
       "name": "Guárico",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 29°C"
+      "weather": "☀️ 28°C"
     },
     {
       "name": "Portuguesa",
@@ -95,11 +95,11 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌤️ 32°C"
+      "weather": "🌤️ 33°C"
     },
     {
       "name": "Zulia",
-      "weather": "☀️ 33°C"
+      "weather": "🌤️ 32°C"
     }
   ]
 }
