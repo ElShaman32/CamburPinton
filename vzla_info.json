@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌫️ 20°C"
+      "weather": "🌫️ 22°C"
     },
     {
       "name": "Anzoátegui",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Delta Amacuro",
-      "weather": "🌧️ 23°C"
+      "weather": "🌦️ 25°C"
     },
     {
       "name": "Distrito Capital",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌤️ 25°C"
+      "weather": "⛈️ 25°C"
     },
     {
       "name": "La Guaira",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌫️ 15°C"
+      "weather": "🌫️ 23°C"
     },
     {
       "name": "Portuguesa",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌫️ 23°C"
+      "weather": "🌫️ 21°C"
     },
     {
       "name": "Zulia",
