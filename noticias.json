@@ -1,25 +1,25 @@
 {
-  "actualizado": "07-07-2026 H04:00 PM",
+  "actualizado": "2026-07-07T12:00:19.009-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Vuelta a la cancha, Torrens! El carabobeño pone el triunfo en los Mets",
-      "resumen": "Luis Torrens no solo bateó con fuego, sino que con su doblete en el décimo inning le dio el triunfo a los Mets de Nueva York. ¡Qué momento para el venezolano en el Truist Park! Ahora sí, el corazón del béisbol criollo late fuerte en las Grandes Ligas."
+      "titulo": "¡Venezuela se colgó bronce en tenis de mesa adaptado!",
+      "resumen": "Yoleidy Fernández y Roberto Quijada brillaron en Valledupar, conquistando el bronce en dobles mixtos clase XD-7. Aunque cayeron en semifinales ante Argentina, su determinación y corazón venezolano no se rompieron. ¡Hasta Los Ángeles 2028, campeones!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "¡La música que habla con la Tierra! Caribano y su video viral desde la azotea",
-      "resumen": "Mientras el Waraira Repano temblaba, Víctor Bolívar (Caribano) grabó un video inesperado en su azotea. La música, el miedo y la esperanza se mezclaron. ¡Cuatro millones de reproducciones en menos de 24 horas! Un grito de vida con sabor a Venezuela."
+      "titulo": "Roger Waters reinventa «Comfortably numb» a favor del pueblo de Palestina",
+      "resumen": "El genio del rock lanzó una versión épica con versos en inglés y árabe, gritando justicia para Gaza. Todo el dinero recaudado irá al Fondo de Ayuda para los Niños Palestinos. ¡La música como arma contra la indiferencia!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "WhatsApp prueba un punto verde: ¿estás en línea o solo mirando?",
-      "resumen": "Ahora WhatsApp te dice si tu contacto está realmente en línea con un punto verde. No más 'desconectado' por error. Aunque aún no es oficial, ya se rumorea que esta función llegará pronto. ¡Atención, chavos!"
+      "titulo": "Starlink ofrece Internet gratuito en zonas afectadas por los terremotos",
+      "resumen": "En medio del caos, Starlink abrió sus puertas a las comunidades de Venezuela. Usuarios que perdieron sus equipos pueden pedir reemplazo gratis. La tecnología salvó el internet y también el alma."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Hoy, aunque el mundo tiemble, recuerda: cada sonrisa que das es un puente hacia la calma. Como dicen en el barrio: "Si el cielo cae, tú levántalo con una canción"."
+      "resumen": "Como dijo Caribano desde su azotea: "Todo lo que damos por sentado puede derrumbarse, pero también da paso a algo nuevo". Sigue adelante, hermano, porque tu coraje es más fuerte que cualquier sismo."
     }
   ]
 }
