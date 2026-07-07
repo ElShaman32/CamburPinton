@@ -3,7 +3,7 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 28°C"
+      "weather": "🌦️ 31°C"
     },
     {
       "name": "Anzoátegui",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Aragua",
-      "weather": "🌦️ 28°C"
+      "weather": "🌦️ 27°C"
     },
     {
       "name": "Barinas",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌤️ 30°C"
+      "weather": "🌦️ 29°C"
     },
     {
       "name": "La Guaira",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Nueva Esparta",
-      "weather": "🌦️ 27°C"
+      "weather": "🌧️ 27°C"
     },
     {
       "name": "Portuguesa",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Trujillo",
-      "weather": "🌦️ 27°C"
+      "weather": "🌦️ 26°C"
     },
     {
       "name": "Yaracuy",
-      "weather": "🌦️ 34°C"
+      "weather": "🌦️ 30°C"
     },
     {
       "name": "Zulia",
-      "weather": "☀️ 33°C"
+      "weather": "☀️ 30°C"
     }
   ]
 }
