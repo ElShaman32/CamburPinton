@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-07-09T12:00:19.031-04:00",
+  "actualizado": "10-07-2026 H10:00 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Gómez se lleva el triunfo! El venezolano enciende el Target Field",
-      "resumen": "El relevista Yoendrys Gómez no solo salvó la partida, sino que también se adjudicó su primera victoria en las Grandes Ligas. Con un cero mágico en el noveno, dejó a los Guardianes sin carreras y abrió la puerta para el triunfo de los Mellizos. ¡Qué presentazo, criollo!"
+      "titulo": "¡Cara a cara en el Estadio Monumental! El Clásico del Siglo se juega hoy",
+      "resumen": "¡Aguas, que el Morrocoy y el Cachaco se van a dar de cintarazos en el campo! La rivalidad más picante del fútbol venezolano vuelve a encender el estadio. ¡No te pierdas el golazo de Pipo el Chiqui desde el medio campo!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Caribano se sintió como un músico del Titanic",
-      "resumen": "En medio del caos del terremoto, el artista Caribano grabó una sesión de live looping desde su azotea. El video, con su voz en off sobre las vibraciones de la tierra, se volvió viral. No fue solo arte, fue un grito de vida ante el desastre."
+      "titulo": "¡La reina del sabor ya tiene su telenovela!",
+      "resumen": "¡Y no es una broma! La cantante de salsa con más sabor de Venezuela, Lulú la Bomba, se lanza al mundo de las telenovelas con un drama lleno de pasión, cocineros y secretos familiares. ¡Toma nota, que el primer capítulo se emite esta noche!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "WhatsApp prueba un punto verde que muestra si estás en línea",
-      "resumen": "La app de mensajería está probando un nuevo indicador visual que mostrará cuándo alguien está activo. Si te pones el ojo en el verde, ¡ya sabes que tu amigo está ahí! Y sí, podrás desactivarlo si no quieres que nadie lo vea."
+      "titulo": "Tu celular ahora escucha tus sueños… ¡y te responde!",
+      "resumen": "Gracias a la nueva app 'SueñaConmigo', tu smartphone puede detectar cuándo estás soñando y enviarte mensajes tipo '¿Te acuerdas del pavo de mamá?' o '¿Quieres ver el partido mañana?'. ¡Pura magia digital con toque criollo!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "No importa el temblor, el pueblo venezolano sigue levantando cabeza. Como dijo el poeta: «Hoy, aunque el mundo se tambalee, nosotros seguimos cantando». ¡Vamos, que el sol siempre vuelve a salir!"
+      "resumen": "Hoy como el arequipe: dulce, espeso y fuerte. No importa el chicharrón, sigue adelante, que el pan caliente siempre llega."
     }
   ]
 }
