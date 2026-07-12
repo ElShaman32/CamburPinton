@@ -1,25 +1,25 @@
 {
-  "actualizado": "12-07-2026 H10:00 AM",
+  "actualizado": "2026-07-12T06:00:19.010-04:00",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Valencia estalla! Cuadrangular en el Comerica Park",
-      "resumen": "Eduardo Valencia, el novato venezolano de los Tigres, encendió el bate con un cuadrangular de primera entrada ante Cristopher Sánchez. Batea .556 y ya tiene 11 bases alcanzadas. ¡El pueblo lo celebra desde Caracas!"
+      "titulo": "¡Venezuela en el Juego de Futuras Estrellas! Cinco criollos brillan en la gran cita",
+      "resumen": "En una semana llena de emociones, cinco peloteros venezolanos se destacan en el Juego de Futuras Estrellas: Franklin Arias, Alfredo Dunó, Ethan Salas, Kendry Chourio y Nelson Rada. ¡De los jardines a las cajas de bateo, la sangre criolla enciende el futuro del béisbol!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Un poeta que no se rinde, ni siquiera ante la muerte",
-      "resumen": "La película 'Un poeta' de Simón Mesa Soto es una comedia melancólica donde el fracaso no es derrota, sino elección. Óscar, un poeta sin fama, vive su vida con dignidad y orgullo. ¡Hasta en la miseria hay poesía!"
+      "titulo": "Roger Waters reinventa «Comfortably numb» para gritar por Gaza",
+      "resumen": "El genio del rock conmovedor lanzó una versión inédita en inglés y árabe, con versos que claman justicia. La canción, con beneficios para niños palestinos, es un grito de solidaridad contra el silencio mundial."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "WhatsApp anuncia cumpleaños automáticos: ¿y si te olvidas?",
-      "resumen": "Ahora WhatsApp recordará los cumpleaños de tus contactos y te enviará un mensaje. No más vergüenza de olvidar a tu abuela. ¡Aunque si le pones una foto de tigre, seguro te responde con memes!"
+      "titulo": "WhatsApp anuncia cumpleaños automáticos: ¿ya le avisaste a tu mejor amigo?",
+      "resumen": "Ahora podrás saber cuándo nació tu contacto sin tener que recordarlo tú. WhatsApp enviará recordatorios y hasta te ayudará a organizar el regalo. ¡No más excusas!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Si hoy el cielo está nublado, recuerda: hasta el sol más fuerte necesita un buen trago de café para salir. ¡Venezuela, levanta esa frente y sigue adelante!"
+      "resumen": "Hoy, como el poeta Óscar, recuerda: no necesitas ser famoso para ser valioso. Sigue siendo tú, aunque el mundo diga lo contrario. ¡Tu existencia ya es un triunfo!"
     }
   ]
 }
