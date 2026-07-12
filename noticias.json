@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-07-12T06:00:19.010-04:00",
+  "actualizado": "12-07-2026 H04:00 PM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Venezuela en el Juego de Futuras Estrellas! Cinco criollos brillan en la gran cita",
-      "resumen": "En una semana llena de emociones, cinco peloteros venezolanos se destacan en el Juego de Futuras Estrellas: Franklin Arias, Alfredo Dunó, Ethan Salas, Kendry Chourio y Nelson Rada. ¡De los jardines a las cajas de bateo, la sangre criolla enciende el futuro del béisbol!"
+      "titulo": "¡Espy volvió a encender el Japón! 8 triunfos ya",
+      "resumen": "Anderson Espinoza, el caraqueño del Orix Buffaloes, no se detiene. Con siete entradas completas y ocho victorias en la temporada, sigue siendo la estrella del béisbol japonés. ¡Y ni el viento de Osaka lo detuvo!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Roger Waters reinventa «Comfortably numb» para gritar por Gaza",
-      "resumen": "El genio del rock conmovedor lanzó una versión inédita en inglés y árabe, con versos que claman justicia. La canción, con beneficios para niños palestinos, es un grito de solidaridad contra el silencio mundial."
+      "titulo": "Un poeta que no se rinde… y nos hace reír con lágrimas",
+      "resumen": "En 'Un poeta', Simón Mesa Soto te lleva a una historia donde el fracaso es un acto de valentía. Óscar, un poeta sin fama, vive su vida con dignidad, y eso, querido lector, es más poderoso que cualquier premio."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "WhatsApp anuncia cumpleaños automáticos: ¿ya le avisaste a tu mejor amigo?",
-      "resumen": "Ahora podrás saber cuándo nació tu contacto sin tener que recordarlo tú. WhatsApp enviará recordatorios y hasta te ayudará a organizar el regalo. ¡No más excusas!"
+      "titulo": "WhatsApp va a recordar tu cumpleaños… ¿y si no quieres?",
+      "resumen": "Ahora WhatsApp te avisa cuándo nació tu contacto favorito. Pero tranquilo, puedes desactivarlo. Solo que… ¿quién quiere perderse el mensaje de “¡Feliz cumple, chamo!”?"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Hoy, como el poeta Óscar, recuerda: no necesitas ser famoso para ser valioso. Sigue siendo tú, aunque el mundo diga lo contrario. ¡Tu existencia ya es un triunfo!"
+      "resumen": "Si hoy te sientes como un poeta sin publicación, recuerda: hasta el más pequeño gesto puede ser un poema. Y tú, mi amor, eres un verso de esperanza en medio de la tormenta."
     }
   ]
 }
