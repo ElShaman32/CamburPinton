@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-07-11T06:00:19.015-04:00",
+  "actualizado": "12-07-2026 H10:00 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Abreu estaca y desata el caos! El criollo enciende a Boston",
-      "resumen": "Wilyer Abreu se volvió el héroe del día con su undécimo jonrón, un estacazo en la novena que selló la victoria de los Medias Rojas. Con el batazo, elevó su promedio a .266 y dejó al mundo entero con ganas de más. ¡Viva el criollo!"
+      "titulo": "¡Valencia estalla! Cuadrangular en el Comerica Park",
+      "resumen": "Eduardo Valencia, el novato venezolano de los Tigres, encendió el bate con un cuadrangular de primera entrada ante Cristopher Sánchez. Batea .556 y ya tiene 11 bases alcanzadas. ¡El pueblo lo celebra desde Caracas!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Zoey Deutsch sigue enviando mensajes… a una hermana que ya no responde",
-      "resumen": "En ‘Mensajes de voz para Isabelle’, Zoey Deutsch encarna a una pastelera que mantiene viva la conexión con su hermana fallecida. Una comedia romántica llena de nostalgia, amor y lágrimas. Netflix lo tiene todo, incluso el corazón."
+      "titulo": "Un poeta que no se rinde, ni siquiera ante la muerte",
+      "resumen": "La película 'Un poeta' de Simón Mesa Soto es una comedia melancólica donde el fracaso no es derrota, sino elección. Óscar, un poeta sin fama, vive su vida con dignidad y orgullo. ¡Hasta en la miseria hay poesía!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "WhatsApp va a recordarte los cumpleaños… ¡y hasta si te olvidas!",
-      "resumen": "Ahora WhatsApp enviará recordatorios automáticos de cumpleaños de tus contactos. No más vergüenza por olvidarle a tu tía. Y si quieres, puedes compartir tu fecha de nacimiento… o no. ¡Tu decisión!"
+      "titulo": "WhatsApp anuncia cumpleaños automáticos: ¿y si te olvidas?",
+      "resumen": "Ahora WhatsApp recordará los cumpleaños de tus contactos y te enviará un mensaje. No más vergüenza de olvidar a tu abuela. ¡Aunque si le pones una foto de tigre, seguro te responde con memes!"
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "Mensaje del día",
-      "resumen": "Hoy, como el sol que no se rinde tras el temblor, levanta la cabeza, chamo. Venezuela no se hunde, se renueva. ¡Seguimos adelante, con sabor y coraje!"
+      "resumen": "Si hoy el cielo está nublado, recuerda: hasta el sol más fuerte necesita un buen trago de café para salir. ¡Venezuela, levanta esa frente y sigue adelante!"
     }
   ]
 }
