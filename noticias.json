@@ -1,25 +1,25 @@
 {
-  "actualizado": "27-07-2026 H10:00 AM",
+  "actualizado": "27-07-2026 H04:00 PM",
   "noticias": [
     {
-      "categoria": "🏅 Deportes",
-      "titulo": "Lara y Chourio explotan en la paliza de Milwaukee",
-      "resumen": "Luis Lara y Jackson Chourio sorprenden a todos con dobletes decisivos en el duelo contra Rockies, asegurando la victoria 11-2. ¡Demuestran que Venezuela no duerme en la cancha y el flavor cubano está presente en cada jugada!"
+      "categoria": "🎭 Espectáculos",
+      "titulo": "Voy a bailar en el Carnaval: Así se celebra 'Venezuela se levanta'",
+      "resumen": "La nueva canción que viraliza por redes sociales se convierte en el himno del Carnaval. Músicos y populares se reúnen enpardos coloridos para coreografías que mezclan salsa, bomba y Zumba. En el verso final, se añade un guiño: 'Until next time, ¡vamos a reírte otro día!'"
     },
     {
-      "categoria": "🎭 Espectáculos",
-      "titulo": "Canción 'Venezuela se levanta' mezclando salsa y esperanza",
-      "resumen": "Artistas venezolanos y cubanos colaboran en el nuevo himno que mezcla salsa y rumba. Con cantantes como Yasmir Manrique y Rumba deliblanco, es una celebración de la identidad. ¡Hasta los peatones están bailando en las calles!"
+      "categoria": "🏅 Deportes",
+      "titulo": "El taekwondo vuelve a la cima con Anriquelis",
+      "resumen": "La campeona guayanesa vence por ippon a la favorita mexicana en Santo Domingo. El combate termina en un minuto, y los fans gritan '¡Anriquelis, ¡Anriquelis!'. El comentarista, sin embargo, comparó el golpe con un 'piquete de un caracol viejito'."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Robots cubanoVENESELANos revisan daños tras los sismos",
-      "resumen": "Una startup basisada en Santiago de Cuba diseñó drones para mapear zonas afectadas. ¡Hasta los robots usan ají picante en su interfaz de seguridad! ¡Tecnología con sabor a la receta familiar!"
+      "titulo": "La IA se vuelve pelirroja por los sismos",
+      "resumen": "Tras el 24 de junio, una aplicación de IA comienza a generar memes con avatares de tsunamis salvando personas. Las imágenes virales incluyen a un cangrejo en un sismo de 8.0 y una pierna artificial bailando salsa. El modelo recuerda: 'No soy un sobreviviente, soy unreato' (reparado en portada)."
     },
     {
-      "categoria": "🌞 Motivación",
-      "titulo": "Delcy Rodríguez: 'Levántate Venezuela, el 24 de junio nos enseñó fuerza'",
-      "resumen": "Delcy destacó cómo las familias afectadas por los sismos están reconstruyendo con canoa, tambora y abrazos. Recordó: 'Si con la naturaleza se equivocamos, con el amor nos corregimos'. ¡Mensaje de resiliencia con guindo!"
+      "categoria": "",
+      "titulo": "",
+      "resumen": ""
     }
   ]
 }
