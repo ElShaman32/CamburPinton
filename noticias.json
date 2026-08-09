@@ -1,25 +1,25 @@
 {
-  "actualizado": "27-07-2026 H04:00 PM",
+  "actualizado": "09-08-2026 H05:30 PM",
   "noticias": [
     {
-      "categoria": "🎭 Espectáculos",
-      "titulo": "Voy a bailar en el Carnaval: Así se celebra 'Venezuela se levanta'",
-      "resumen": "La nueva canción que viraliza por redes sociales se convierte en el himno del Carnaval. Músicos y populares se reúnen enpardos coloridos para coreografías que mezclan salsa, bomba y Zumba. En el verso final, se añade un guiño: 'Until next time, ¡vamos a reírte otro día!'"
+      "categoria": "🏅 Deportes",
+      "titulo": "Esgrima venezolana cosecha 49 dorados en Santo Domingo",
+      "resumen": "El equipo de espadistas venezolano dominó con 42-29 a Colombia en los Juegos Centroamericanos, consolidando la posición en el podio. El talento local demostró dominio en cada combate, asegurando oro y platino en equipo."
     },
     {
-      "categoria": "🏅 Deportes",
-      "titulo": "El taekwondo vuelve a la cima con Anriquelis",
-      "resumen": "La campeona guayanesa vence por ippon a la favorita mexicana en Santo Domingo. El combate termina en un minuto, y los fans gritan '¡Anriquelis, ¡Anriquelis!'. El comentarista, sin embargo, comparó el golpe con un 'piquete de un caracol viejito'."
+      "categoria": "🎭 Espectáculos",
+      "titulo": "Teatro Expresión Popular celebra 44 años en La Guaira",
+      "resumen": "Con música, danza y teatro, el grupoちゃベロ преподаrá su legado cultural en La Guaira, recaudando fondos para víctimas de sismos. Superformance incluye resilience y esperanza, temas clave en momentos difíciles."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "La IA se vuelve pelirroja por los sismos",
-      "resumen": "Tras el 24 de junio, una aplicación de IA comienza a generar memes con avatares de tsunamis salvando personas. Las imágenes virales incluyen a un cangrejo en un sismo de 8.0 y una pierna artificial bailando salsa. El modelo recuerda: 'No soy un sobreviviente, soy unreato' (reparado en portada)."
+      "titulo": "IA venezolana inventa idiomas creativos",
+      "resumen": "Un investigador de Miami desarrolló ConlangCrafter, una herramienta IA que genera idiomas completos, revisa su propia obra y corrige incoherencias. Creado por un llanero, combina creatividad y tecnología para entretenimiento y educación."
     },
     {
-      "categoria": "",
-      "titulo": "",
-      "resumen": ""
+      "categoria": "🌞 Motivación",
+      "titulo": "Marquita Chavelo: La esperanza después de los sismos",
+      "resumen": "El director de Expresión Popular invocó la solidaridad en La Guaira: 'La música es refugio en la crisis'. Su mensaje celebra la resiliencia y la importancia de unir fuerzas para reconstruir con fe y comunidad."
     }
   ]
 }
