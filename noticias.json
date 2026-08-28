@@ -1,25 +1,25 @@
 {
-  "actualizado": "25-08-2026 H05:05 PM",
+  "actualizado": "24-09-2025 H10:24 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Tigres deanzas: Brandon Williams firma con Warriors",
-      "resumen": "El punto guardante Brandon Williams, con promedios de 13 puntos en su última temporada, firma un contrato mínimo de un año con los Golden State Warriors, reforzando su defensa y anotación desde el perímetro."
+      "titulo": "Jackson Chourio dispara par de jonrones y lidera triunfo de los Cerveceros",
+      "resumen": "El jardinero venezolano Jackson Chourio se fue de 5-4 con dos jonrones, cuatro empujadas y una base robada, liderando el 8-2 de los Cerveceros sobre los Mets y dejando su promedio al bate en .283."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Peliculas criollas en La Habana",
-      "resumen": "Venezuela presenta 19 obras en la XXXIV Feria International del Libro en La Habana, incluyendo poemas de Esmeralda Torres y narrativas de José Javier Sánchez que celebran la identidad nacional."
+      "titulo": "«Turba» conquista 26 salas de Venezuela con su fuerza afrodescendiente",
+      "resumen": "«Turba», película de Luis y Andrés Rodríguez, se estrena en 26 salas venezolanas y narra la lucha de cinco mujeres afrodescendientes por su identidad y supervivencia, con poesía y actuación de primera."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Tecnología para sanar heridas",
-      "resumen": "Un libro de arteterapia con 1.700 ejemplares distribuidos en comunidades afectadas por los sismos del 2024, permitiendo a niños y adultos irañosjseguir sus emociones a través del dibujo."
+      "titulo": "Google lanza Pixel Watch 5 que avisa si te falta el aire",
+      "resumen": "Google presenta el Pixel Watch 5 con sensor que detecta caídas de saturación en sangre y activa alerta automática ante problemas respiratorios, cuidando tu salud desde la muñeca."
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "De Venezuela, resistencia con humor",
-      "resumen": "En medio de las crisis, artistas como Yurimia Boscán y los hermanos Tacoa usan la música y la poesía para recordar que, aunque difícil, siempre hay forma de reír, crear y seguir adelante."
+      "titulo": "Mensaje del día: ¡Sigue adelante como un llanero en plena zafra!",
+      "resumen": "Aunque el camino se ponga cuesta arriba, recuerda que la perseverancia venezolana siempre encuentra un atajo; hoy respira profundo, sonríe y cree en ti, porque el éxito sabe mejor con una buena cachapa y mucho corazón."
     }
   ]
 }
