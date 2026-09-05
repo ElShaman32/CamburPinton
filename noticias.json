@@ -1,32 +1,25 @@
 {
-  "actualizado": "05-09-2026 H08:58 AM",
+  "actualizado": "05-09-2026 H10:00 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Elías Díaz conecta gran slam y mantiene viva la esperanza",
-      "resumen": "Elías Díaz, el 'Bambino de El Bajo', sacó un jonrón con bases llenas que dejó a los Rangers a un carrera de los Rays.
-Aunque el pitcheo no alcanzó, su batazo hizo que hasta los pájaros del estadio se detuvieran a aplaudir.
-Un swing que sabe a arepa recién hecha y orgullo llanero."
+      "titulo": "Álvarez conecta doble jonrón y levanta a los Mets",
+      "resumen": "El receptor de Guatire rompió su sequía con dos cuadrangulares en el Citi Field, impulsando a Nueva York a un 10-6 sobre los Gigantes. ¡Que batazo, compañero!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Premio Aníbal Nazoa destaca a los cronistas de la patria",
-      "resumen": "El Premio Aníbal Nazoa 2026 galardonó a destacados periodistas como Federico Ruiz Tirado y Joel Ochoa, resaltando la fuerza de la palabra venezolana.
-La ceremonia, llena de anécdotas y risas, recordó que la prensa sigue siendo el sazón del guiso nacional.
-Un reconocimiento que sabe a papel periódico y café con leche."
+      "titulo": "Se estrena ‘Puerteños’, viaje por el alma barinense",
+      "resumen": "El documental de Miguel Guédez rescata la vida fluvial de Puerto de Nutrias, mezclando historia, IA y corazón llanero. ¡Apúntate a verlo y siente el Apure en tu sala!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "OpenAI presenta GPT-6 Astra, la IA que cuida hasta a los niños",
-      "resumen": "OpenAI lanzó GPT-6 Astra, su nuevo modelo más seguro y capaz, como un guardian angel de la IA.
-Con filtros que hasta la abuela aprobaría, este modelo busca evitar que la tecnología se ponga brava.
-Una actualización que llega más rápido que un cambio de gobierno en Plaza Bolívar."
+      "titulo": "Llega GPT-6 Astra, el nuevo cerebro de OpenAI",
+      "resumen": "OpenAI presenta su modelo más seguro y capaz, prometiendo menos errores y más creatividad. ¡Así la IA se pone las pilas para servirnos mejor!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "Mensaje del día",
-      "resumen": "Mensaje del día: ¡Echale ganas, pana! Hoy el sol brinda más vitamina D que una taza de chocolate caliente.
-Levántate, sonríe y recuerda que hasta el peor día tiene su toque de sonrisas venezolanas."
+      "titulo": "Gran Misión Viva Venezuela lleva arte y esperanza a los campamentos",
+      "resumen": "Tras los sismos, artistas como Tarek William Saab visitan refugios, usando música y pintura para sanar almas. ¡Porque la cultura también reconstruye!"
     }
   ]
 }
