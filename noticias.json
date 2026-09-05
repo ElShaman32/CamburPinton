@@ -1,25 +1,25 @@
 {
-  "actualizado": "05-09-2026 H10:00 AM",
+  "actualizado": "24-09-2025 H10:00 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Álvarez conecta doble jonrón y levanta a los Mets",
-      "resumen": "El receptor de Guatire rompió su sequía con dos cuadrangulares en el Citi Field, impulsando a Nueva York a un 10-6 sobre los Gigantes. ¡Que batazo, compañero!"
+      "titulo": "Jinetes venezolanos apuntan al Express Tours Stakes",
+      "resumen": "Samy Camacho y Leonel Reyes Ramos llegan tras brillar en el meeting de Gulfstream y prometen luchar por el Express Tours Stakes de 150.000 dólares. Con su experiencia en pista de arena, buscan llevar en alto el nombre de Venezuela. ¡Que viva el turf criollo!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Se estrena ‘Puerteños’, viaje por el alma barinense",
-      "resumen": "El documental de Miguel Guédez rescata la vida fluvial de Puerto de Nutrias, mezclando historia, IA y corazón llanero. ¡Apúntate a verlo y siente el Apure en tu sala!"
+      "titulo": "‘Alí Primera’ conquista Rusia con premio a Mejor Largometraje",
+      "resumen": "La película venezolana ‘Alí Primera’ se lleva el galardón en el Festival Internacional de Cine ‘Luces de la Gran Ciudad’ en San Petersburgo. El documental celebra la vida del cantor y su mensaje de soberanía y justicia social. El equipo ya sueña con llevar el filme al Oscar 2026. ¡Orgullo patrio en cada cuadro!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Llega GPT-6 Astra, el nuevo cerebro de OpenAI",
-      "resumen": "OpenAI presenta su modelo más seguro y capaz, prometiendo menos errores y más creatividad. ¡Así la IA se pone las pilas para servirnos mejor!"
+      "titulo": "ChatGPT, Gemini, Claude y Grok caen a nivel global",
+      "resumen": "Las principales plataformas de inteligencia artificial sufrieron una caída simultánea en más de 70 países según DownDetector. Usuarios reportaron fallos de servicio y risas nerviosas en los grupos de WhatsApp. Los técnicos ya trabajan para restablecer el servicio. ¡Hasta las IA necesitan un café!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "Gran Misión Viva Venezuela lleva arte y esperanza a los campamentos",
-      "resumen": "Tras los sismos, artistas como Tarek William Saab visitan refugios, usando música y pintura para sanar almas. ¡Porque la cultura también reconstruye!"
+      "titulo": "Mensaje del día",
+      "resumen": "Ronald Acuña Jr. alcanzó los 200 jonrones y 225 bases robadas, convirtiéndose en el más rápido en lograr el 200‑200 en la MLB. A pesar de las lesiones, sigue bateando fuerte y mirando hacia octubre. Un ejemplo venezolano de que la constancia rompe cualquier bache. ¡Sigue adelante, criollo!"
     }
   ]
 }
