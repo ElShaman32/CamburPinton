@@ -1,25 +1,25 @@
 {
-  "actualizado": "13-09-2026 H07:11 AM",
+  "actualizado": "14-09-2026 H05:15 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "¡Acuña Jr. Prendió la Rumba en Atlanta!",
-      "resumen": "El 'Abusador' Ronald Acuña Jr. se fue de jonrón y puso a bailar la salsa en las Grandes Ligas. Con un palo que casi llega a Venezuela, demostró por qué es el MVP. ¡Sigan su ejemplo, mi gente, que la vida es un home run!"
+      "titulo": "Resultados de La Rinconada",
+      "resumen": "Tinta Fina se llevó la primera carrera, Grand Sensation la segunda, y Wicked Game la tercera. My Amazing Mate, Gran Torrente y The Exquisite Girl también sumaron victorias en sus respectivas carreras. Gran Andrés se impuso en la séptima, y Fátima Blush en el Clásico Gelinotte. En las válidas del 5y6, Brother Will, Zucchero, Ekati King, Chosen Factor, Black Stone y Sr. Gato Pardo demostraron su poderío hípico. ¡Un día de pura adrenalina en las pistas!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "¡Vaselina al Estilo Criollo! El Teresa Carreño se Viste de Rock and Roll",
-      "resumen": "El clásico 'Vaselina' llega al Teresa Carreño con sabor a tequeño y patacón. Víctor Drija y un elenco de lujo prometen un show que te hará bailar como en los 50. ¡Agarren a su pareja y no se pierdan este bochinche musical!"
+      "titulo": "Cultura en La Guaira y Caracas",
+      "resumen": "El Festival Eurovenezolano de Jazz llega a su cuarta edición con el lema 'Unidos en la diversidad, unidos en la solidaridad'. Artistas de ocho países se darán cita en Caracas y La Guaira para ofrecer conciertos, clases magistrales y jam sessions, apoyando al público venezolano tras los recientes sismos. ¡Música que sana y une!"
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "¡Apple Dobló su Apuesta (y su Teléfono)! Llega el iPhone Plegable con su Dosis de Memes",
-      "resumen": "La gente de Apple lanzó su iPhone plegable y, como buen lanzamiento, ya le sacaron sus memes. Ahora podrás tener un celular que se dobla cual arepa de la abuela, pero cuidado no lo pliegues mucho y se te convierta en cachapa."
+      "titulo": "IA sin fronteras",
+      "resumen": "OpenAI, la mente maestra detrás de ChatGPT, exploró la resolución de problemas matemáticos complejos, mientras que Meta busca potenciar sus servicios con IA multilingüe. ¡El futuro es ahora y viene con sabor a código!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "Mensaje del Día: ¡Pa' Lante es Pa' Allá, Mi Gente!",
-      "resumen": "No hay palo que aguante, ni problema que no tenga solución. Con la chispa del venezolano, la alegría en el alma y un cafecito bien cerrero, a ponerle pecho a la brisa y a sonreírle a la vida. ¡Éxito y bendiciones para todos!"
+      "titulo": "¡Con sabor a Venezuela!",
+      "resumen": "Desde el hipódromo hasta los escenarios de jazz, pasando por los algoritmos más innovadores, Venezuela demuestra su talento y resiliencia. ¡Sigue echando pa' lante, que el éxito te espera!"
     }
   ]
 }
