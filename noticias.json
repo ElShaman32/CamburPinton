@@ -1,25 +1,25 @@
 {
-  "actualizado": "14-09-2026 H05:15 AM",
+  "actualizado": "16-09-2026 H06:03 AM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "Resultados de La Rinconada",
-      "resumen": "Tinta Fina se llevó la primera carrera, Grand Sensation la segunda, y Wicked Game la tercera. My Amazing Mate, Gran Torrente y The Exquisite Girl también sumaron victorias en sus respectivas carreras. Gran Andrés se impuso en la séptima, y Fátima Blush en el Clásico Gelinotte. En las válidas del 5y6, Brother Will, Zucchero, Ekati King, Chosen Factor, Black Stone y Sr. Gato Pardo demostraron su poderío hípico. ¡Un día de pura adrenalina en las pistas!"
+      "titulo": "¡Rocctember! Rocchio da el triunfo a los Guardianes",
+      "resumen": "Brayan Rocchio conectó un doble clave para la victoria de los Guardianes, manteniéndolos en la pelea por el título divisional. ¡El "Playoff Rocchio" lo hizo de nuevo!"
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Cultura en La Guaira y Caracas",
-      "resumen": "El Festival Eurovenezolano de Jazz llega a su cuarta edición con el lema 'Unidos en la diversidad, unidos en la solidaridad'. Artistas de ocho países se darán cita en Caracas y La Guaira para ofrecer conciertos, clases magistrales y jam sessions, apoyando al público venezolano tras los recientes sismos. ¡Música que sana y une!"
+      "titulo": "Tarek William Saab celebra a Francisco Pacheco en el Poliedro",
+      "resumen": "El Gran Misión Viva Venezuela festejó los 50 años de trayectoria del cultor Francisco Pacheco en un campamento de damnificados, llevando arte y alegría."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "IA sin fronteras",
-      "resumen": "OpenAI, la mente maestra detrás de ChatGPT, exploró la resolución de problemas matemáticos complejos, mientras que Meta busca potenciar sus servicios con IA multilingüe. ¡El futuro es ahora y viene con sabor a código!"
+      "titulo": "Ex-Google DeepMind advierte sobre riesgos de IA",
+      "resumen": "Bilal Chughtai renunció a Google DeepMind y alerta sobre la falta de control en la inteligencia artificial. ¡Ojo con los robots!"
     },
     {
       "categoria": "🌞 Motivación",
-      "titulo": "¡Con sabor a Venezuela!",
-      "resumen": "Desde el hipódromo hasta los escenarios de jazz, pasando por los algoritmos más innovadores, Venezuela demuestra su talento y resiliencia. ¡Sigue echando pa' lante, que el éxito te espera!"
+      "titulo": "¡Con sabor a patria!",
+      "resumen": "Hoy celebramos la resiliencia y el ingenio venezolano. ¡Con un cafecito y buena vibra, conquistamos lo que nos propongamos!"
     }
   ]
 }
