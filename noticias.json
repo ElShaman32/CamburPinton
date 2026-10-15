@@ -1,25 +1,25 @@
 {
-  "actualizado": "23-05-2024 H10:00 AM",
+  "actualizado": "23-05-2024 H06:00 PM",
   "noticias": [
     {
       "categoria": "🏅 Deportes",
-      "titulo": "El beisbol criollo prende motores",
-      "resumen": "Nuestros muchachos en las Grandes Ligas siguen repartiendo palos como si fuera jonrón en el barrio. ¡La pelota caliente no descansa y aquí seguimos con la fiebre beisbolera a millón, pendiente de cada batazo!"
+      "titulo": "La Vinotinto calienta los motores",
+      "resumen": "Nuestros muchachos andan afinando la puntería para los próximos encuentros. Hay más fe que en un juego de dominó con los panas, y todo el país está listo para gritar esos goles con una arepita en mano."
     },
     {
       "categoria": "🎭 Espectáculos",
-      "titulo": "Farándula con sabor a arepa",
-      "resumen": "Nuestras estrellas criollas andan dando de qué hablar en el mundo entero. Entre música nueva y proyectos que suenan más fuerte que una descarga de tambores, la movida artística venezolana no para de brillar."
+      "titulo": "¡El sabor criollo sigue marcando pauta!",
+      "resumen": "Nuestros artistas siguen poniendo a bailar hasta a las piedras. Entre estrenos musicales y giras, el talento venezolano está dando de qué hablar, demostrando que donde hay un criollo, la rumba está garantizada."
     },
     {
       "categoria": "💡 Tecnología",
-      "titulo": "Inteligencia Artificial hasta en la sopa",
-      "resumen": "Ahora la tecnología está más viva que nunca, ayudando a resolver desde el trabajo hasta cómo cocinar el mejor pabellón. ¡Cuidado no te deje la IA haciendo las hallacas por ti, que eso sí es sagrado!"
+      "titulo": "La Inteligencia Artificial ya habla nuestro idioma",
+      "resumen": "Ahora las máquinas andan aprendiendo hasta jerga venezolana. Es como si tuvieras a un asistente que entiende perfectamente cuando dices que algo te da 'tuki' o que te vas a 'volar' a hacer un mandado."
     },
     {
       "categoria": "🌞 Motivación",
       "titulo": "¡Echándole pichón!",
-      "resumen": "No te me achicopales, mi llave. Hoy es un buen día para sonreír, tomarse un cafecito bien cerrero y seguir echándole pichón que lo bueno viene en camino."
+      "resumen": "No importa si el día está nublado, aquí le ponemos buena cara. Recuerda que no hay mal que dure cien años ni cuerpo que no lo resista, ¡a darle con todo que tú eres un guerrero!"
     }
   ]
 }
