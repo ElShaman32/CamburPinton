@@ -7,7 +7,7 @@
     },
     {
       "name": "Anzoátegui",
-      "weather": "☁️ 15°C"
+      "weather": "☀️ 18°C"
     },
     {
       "name": "Apure",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Barinas",
-      "weather": "🌧️ 22°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Bolívar",
-      "weather": "🌧️ 26°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Carabobo",
-      "weather": "🌔 14°C"
+      "weather": "☀️ 19°C"
     },
     {
       "name": "Cojedes",
-      "weather": "☁️ 23°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Delta Amacuro",
@@ -39,11 +39,11 @@
     },
     {
       "name": "Distrito Capital",
-      "weather": "☁️ 22°C"
+      "weather": "☁️ 21°C"
     },
     {
       "name": "Falcón",
-      "weather": "☁️ 28°C"
+      "weather": "🌧️ 28°C"
     },
     {
       "name": "Guárico",
@@ -51,11 +51,11 @@
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "☁️ 32°C"
+      "weather": "☁️ 31°C"
     },
     {
       "name": "La Guaira",
-      "weather": "☁️ 27°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Lara",
@@ -63,23 +63,23 @@
     },
     {
       "name": "Mérida",
-      "weather": "☁️ 26°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Miranda",
-      "weather": "☁️ 20°C"
+      "weather": "☁️ 19°C"
     },
     {
       "name": "Monagas",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Nueva Esparta",
-      "weather": "☁️ 27°C"
+      "weather": "🌔 27°C"
     },
     {
       "name": "Portuguesa",
-      "weather": "☁️ 23°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Sucre",
@@ -87,7 +87,7 @@
     },
     {
       "name": "Táchira",
-      "weather": "☁️ 22°C"
+      "weather": "🌧️ 20°C"
     },
     {
       "name": "Trujillo",
@@ -95,11 +95,11 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "☁️ 22°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Zulia",
-      "weather": "🌧️ 25°C"
+      "weather": "☁️ 24°C"
     }
   ]
 }
