@@ -3,91 +3,91 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "☁️ 31°C"
+      "weather": "🌦️ 28°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "🌤️ 21°C"
+      "weather": "🌔 17°C"
     },
     {
       "name": "Apure",
-      "weather": "🌦️ 31°C"
-    },
-    {
-      "name": "Aragua",
-      "weather": "🌦️ 30°C"
-    },
-    {
-      "name": "Barinas",
-      "weather": "🌦️ 25°C"
-    },
-    {
-      "name": "Bolívar",
-      "weather": "☁️ 33°C"
-    },
-    {
-      "name": "Carabobo",
-      "weather": "☀️ 22°C"
-    },
-    {
-      "name": "Cojedes",
       "weather": "☁️ 30°C"
     },
     {
+      "name": "Aragua",
+      "weather": "🌦️ 27°C"
+    },
+    {
+      "name": "Barinas",
+      "weather": "☁️ 28°C"
+    },
+    {
+      "name": "Bolívar",
+      "weather": "☁️ 31°C"
+    },
+    {
+      "name": "Carabobo",
+      "weather": "☁️ 16°C"
+    },
+    {
+      "name": "Cojedes",
+      "weather": "☁️ 26°C"
+    },
+    {
       "name": "Delta Amacuro",
-      "weather": "☁️ 33°C"
+      "weather": "☁️ 30°C"
     },
     {
       "name": "Distrito Capital",
-      "weather": "🌦️ 28°C"
+      "weather": "🌦️ 24°C"
     },
     {
       "name": "Falcón",
-      "weather": "🌦️ 33°C"
+      "weather": "☁️ 30°C"
     },
     {
       "name": "Guárico",
-      "weather": "🌦️ 31°C"
+      "weather": "🌦️ 27°C"
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌧️ 27°C"
+      "weather": "🌧️ 26°C"
     },
     {
       "name": "La Guaira",
-      "weather": "🌦️ 32°C"
+      "weather": "🌦️ 30°C"
     },
     {
       "name": "Lara",
-      "weather": "🌦️ 28°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Mérida",
-      "weather": "☁️ 29°C"
+      "weather": "☀️ 30°C"
     },
     {
       "name": "Miranda",
-      "weather": "🌦️ 26°C"
+      "weather": "🌦️ 22°C"
     },
     {
       "name": "Monagas",
-      "weather": "🌦️ 31°C"
+      "weather": "☁️ 29°C"
     },
     {
       "name": "Nueva Esparta",
-      "weather": "☁️ 33°C"
+      "weather": "☁️ 29°C"
     },
     {
       "name": "Portuguesa",
-      "weather": "☁️ 26°C"
+      "weather": "☁️ 27°C"
     },
     {
       "name": "Sucre",
-      "weather": "☁️ 26°C"
+      "weather": "☁️ 29°C"
     },
     {
       "name": "Táchira",
-      "weather": "🌦️ 21°C"
+      "weather": "☁️ 21°C"
     },
     {
       "name": "Trujillo",
@@ -95,11 +95,11 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "🌦️ 28°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Zulia",
-      "weather": "☁️ 31°C"
+      "weather": "☁️ 29°C"
     }
   ]
 }
