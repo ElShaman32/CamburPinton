@@ -3,103 +3,103 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌦️ 28°C"
+      "weather": "🌧️ 24°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "🌔 17°C"
+      "weather": "🌔 15°C"
     },
     {
       "name": "Apure",
-      "weather": "☁️ 30°C"
+      "weather": "🌧️ 25°C"
     },
     {
       "name": "Aragua",
-      "weather": "🌦️ 27°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Barinas",
-      "weather": "☁️ 28°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Bolívar",
-      "weather": "☁️ 31°C"
+      "weather": "☁️ 28°C"
     },
     {
       "name": "Carabobo",
-      "weather": "☁️ 16°C"
+      "weather": "☁️ 13°C"
     },
     {
       "name": "Cojedes",
-      "weather": "☁️ 26°C"
-    },
-    {
-      "name": "Delta Amacuro",
-      "weather": "☁️ 30°C"
-    },
-    {
-      "name": "Distrito Capital",
-      "weather": "🌦️ 24°C"
-    },
-    {
-      "name": "Falcón",
-      "weather": "☁️ 30°C"
-    },
-    {
-      "name": "Guárico",
-      "weather": "🌦️ 27°C"
-    },
-    {
-      "name": "Guayana Esequiba",
-      "weather": "🌧️ 26°C"
-    },
-    {
-      "name": "La Guaira",
-      "weather": "🌦️ 30°C"
-    },
-    {
-      "name": "Lara",
-      "weather": "☁️ 26°C"
-    },
-    {
-      "name": "Mérida",
-      "weather": "☀️ 30°C"
-    },
-    {
-      "name": "Miranda",
-      "weather": "🌦️ 22°C"
-    },
-    {
-      "name": "Monagas",
-      "weather": "☁️ 29°C"
-    },
-    {
-      "name": "Nueva Esparta",
-      "weather": "☁️ 29°C"
-    },
-    {
-      "name": "Portuguesa",
-      "weather": "☁️ 27°C"
-    },
-    {
-      "name": "Sucre",
-      "weather": "☁️ 29°C"
-    },
-    {
-      "name": "Táchira",
-      "weather": "☁️ 21°C"
-    },
-    {
-      "name": "Trujillo",
-      "weather": "☁️ 26°C"
-    },
-    {
-      "name": "Yaracuy",
       "weather": "☁️ 25°C"
     },
     {
-      "name": "Zulia",
+      "name": "Delta Amacuro",
+      "weather": "☁️ 26°C"
+    },
+    {
+      "name": "Distrito Capital",
+      "weather": "☁️ 22°C"
+    },
+    {
+      "name": "Falcón",
       "weather": "☁️ 29°C"
+    },
+    {
+      "name": "Guárico",
+      "weather": "☁️ 26°C"
+    },
+    {
+      "name": "Guayana Esequiba",
+      "weather": "🌫️ 29°C"
+    },
+    {
+      "name": "La Guaira",
+      "weather": "☁️ 27°C"
+    },
+    {
+      "name": "Lara",
+      "weather": "☁️ 23°C"
+    },
+    {
+      "name": "Mérida",
+      "weather": "🌔 24°C"
+    },
+    {
+      "name": "Miranda",
+      "weather": "☁️ 20°C"
+    },
+    {
+      "name": "Monagas",
+      "weather": "☁️ 25°C"
+    },
+    {
+      "name": "Nueva Esparta",
+      "weather": "☁️ 27°C"
+    },
+    {
+      "name": "Portuguesa",
+      "weather": "🌧️ 23°C"
+    },
+    {
+      "name": "Sucre",
+      "weather": "☁️ 27°C"
+    },
+    {
+      "name": "Táchira",
+      "weather": "🌧️ 18°C"
+    },
+    {
+      "name": "Trujillo",
+      "weather": "☁️ 24°C"
+    },
+    {
+      "name": "Yaracuy",
+      "weather": "☁️ 24°C"
+    },
+    {
+      "name": "Zulia",
+      "weather": "🌧️ 25°C"
     }
   ]
 }
