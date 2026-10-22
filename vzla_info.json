@@ -1,17 +1,17 @@
 {
-  "dollar": "883,40",
+  "dollar": "884,75",
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌧️ 24°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "🌔 15°C"
+      "weather": "🌔 14°C"
     },
     {
       "name": "Apure",
-      "weather": "🌧️ 25°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Aragua",
@@ -19,11 +19,11 @@
     },
     {
       "name": "Barinas",
-      "weather": "☁️ 24°C"
+      "weather": "🌧️ 23°C"
     },
     {
       "name": "Bolívar",
-      "weather": "☁️ 28°C"
+      "weather": "☁️ 27°C"
     },
     {
       "name": "Carabobo",
@@ -31,15 +31,15 @@
     },
     {
       "name": "Cojedes",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Delta Amacuro",
-      "weather": "☁️ 26°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Distrito Capital",
-      "weather": "☁️ 22°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Falcón",
@@ -47,15 +47,15 @@
     },
     {
       "name": "Guárico",
-      "weather": "☁️ 26°C"
+      "weather": "☁️ 27°C"
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "🌫️ 29°C"
+      "weather": "🌫️ 30°C"
     },
     {
       "name": "La Guaira",
-      "weather": "☁️ 27°C"
+      "weather": "☁️ 28°C"
     },
     {
       "name": "Lara",
@@ -67,11 +67,11 @@
     },
     {
       "name": "Miranda",
-      "weather": "☁️ 20°C"
+      "weather": "☁️ 21°C"
     },
     {
       "name": "Monagas",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Nueva Esparta",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Yaracuy",
-      "weather": "☁️ 24°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Zulia",
