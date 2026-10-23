@@ -1,13 +1,13 @@
 {
-  "dollar": "884,75",
+  "dollar": "886,23",
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌧️ 25°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "🌔 16°C"
+      "weather": "🌔 17°C"
     },
     {
       "name": "Apure",
@@ -23,31 +23,31 @@
     },
     {
       "name": "Bolívar",
-      "weather": "☁️ 28°C"
+      "weather": "🌔 27°C"
     },
     {
       "name": "Carabobo",
-      "weather": "🌔 13°C"
+      "weather": "☁️ 13°C"
     },
     {
       "name": "Cojedes",
-      "weather": "☁️ 24°C"
-    },
-    {
-      "name": "Delta Amacuro",
-      "weather": "☁️ 26°C"
-    },
-    {
-      "name": "Distrito Capital",
       "weather": "☁️ 23°C"
     },
     {
+      "name": "Delta Amacuro",
+      "weather": "☁️ 25°C"
+    },
+    {
+      "name": "Distrito Capital",
+      "weather": "☁️ 22°C"
+    },
+    {
       "name": "Falcón",
-      "weather": "☁️ 30°C"
+      "weather": "☁️ 29°C"
     },
     {
       "name": "Guárico",
-      "weather": "☁️ 27°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Guayana Esequiba",
@@ -55,7 +55,7 @@
     },
     {
       "name": "La Guaira",
-      "weather": "☁️ 28°C"
+      "weather": "☁️ 27°C"
     },
     {
       "name": "Lara",
@@ -63,23 +63,23 @@
     },
     {
       "name": "Mérida",
-      "weather": "🌔 25°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Miranda",
-      "weather": "☁️ 21°C"
+      "weather": "☁️ 20°C"
     },
     {
       "name": "Monagas",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Nueva Esparta",
-      "weather": "☁️ 28°C"
+      "weather": "☁️ 27°C"
     },
     {
       "name": "Portuguesa",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Sucre",
@@ -87,7 +87,7 @@
     },
     {
       "name": "Táchira",
-      "weather": "🌧️ 18°C"
+      "weather": "☁️ 17°C"
     },
     {
       "name": "Trujillo",
