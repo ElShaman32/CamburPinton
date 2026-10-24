@@ -3,19 +3,19 @@
   "states": [
     {
       "name": "Amazonas",
-      "weather": "🌧️ 24°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Anzoátegui",
-      "weather": "☁️ 15°C"
+      "weather": "☁️ 16°C"
     },
     {
       "name": "Apure",
-      "weather": "🌧️ 25°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Aragua",
-      "weather": "☁️ 29°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Barinas",
@@ -23,15 +23,15 @@
     },
     {
       "name": "Bolívar",
-      "weather": "☁️ 27°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Carabobo",
-      "weather": "☁️ 11°C"
+      "weather": "☁️ 17°C"
     },
     {
       "name": "Cojedes",
-      "weather": "☁️ 24°C"
+      "weather": "☁️ 25°C"
     },
     {
       "name": "Delta Amacuro",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Distrito Capital",
-      "weather": "🌔 25°C"
+      "weather": "☁️ 22°C"
     },
     {
       "name": "Falcón",
@@ -47,31 +47,31 @@
     },
     {
       "name": "Guárico",
-      "weather": "☁️ 29°C"
+      "weather": "☁️ 26°C"
     },
     {
       "name": "Guayana Esequiba",
-      "weather": "☁️ 28°C"
+      "weather": "🌦️ 29°C"
     },
     {
       "name": "La Guaira",
-      "weather": "🌔 28°C"
+      "weather": "☁️ 27°C"
     },
     {
       "name": "Lara",
-      "weather": "☁️ 24°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Mérida",
-      "weather": "🌔 23°C"
+      "weather": "🌔 22°C"
     },
     {
       "name": "Miranda",
-      "weather": "☁️ 21°C"
+      "weather": "☁️ 20°C"
     },
     {
       "name": "Monagas",
-      "weather": "☁️ 23°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Nueva Esparta",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Portuguesa",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Sucre",
@@ -87,11 +87,11 @@
     },
     {
       "name": "Táchira",
-      "weather": "☁️ 22°C"
+      "weather": "☁️ 23°C"
     },
     {
       "name": "Trujillo",
-      "weather": "☁️ 25°C"
+      "weather": "☁️ 24°C"
     },
     {
       "name": "Yaracuy",
