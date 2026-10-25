@@ -1,50 +1,50 @@
 {
-  "actualizado": "25/10/2026, 01:07 a. m.",
+  "actualizado": "25/10/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Epa, mi pana! Recuerda que con una sonrisa y un buen café, no hay obstáculo que nos detenga. ¡A echarle pichón hoy!",
+    "texto": "¡Echa pa' lante, mi pana! Que con un cafecito y buena vibra, no hay cerro que no subamos ni meta que no alcancemos.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Lenyn Sosa se la comió! El MVP del Caracas ante el Magallanes",
-      "resumen": "El grandeliga criollo estuvo intratable con el bate y no dejó que la Nave respirara en todo el juego. ¡Qué clase de paliza, mi gente!",
+      "titulo": "¡Qué elegancia! Kim Kardashian botó la casa por la ventana en su cumple",
+      "resumen": "La socialité celebró por todo lo alto con dos pintas exclusivas de Paco Rabanne de los años 90. ¡Pura clase y brillo para apagar las velitas con mucho estilo!",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792909832636.jpg?cw=320&ch=180",
+      "fuente": "Meridiano",
+      "link": "https://meridiano.net/usa/farandula/la-opulenta-pero-discreta-fiesta-de-cumpleanos-de-kim-kardashian-202610252310"
+    },
+    {
+      "titulo": "¡Epa! Charytín quedó flechada con un galán venezolano",
+      "resumen": "La Rubia de América no aguantó la tentación y soltó que el caballero es bellísimo. ¡A pesar de los años, el encanto criollo sigue rompiendo corazones!",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792907290812.jpg?cw=320&ch=180",
+      "fuente": "Meridiano",
+      "link": "https://meridiano.net/farandula/asi-fue-el-coqueteo-de-charytin-con-galan-venezolano-perdonenme-ese-senor-es-bello-202610251490"
+    },
+    {
+      "titulo": "¡Leones rugieron fuerte! Lenyn Sosa fue el papá ante el Magallanes",
+      "resumen": "El grandeliga criollo se dio vida bateando y se embasó casi siempre. El Caracas le dio una paliza a la Nave Turca que no hallaba cómo frenar a Sosa.",
       "imagen": "https://pxcdn.meridiano.net/102026/1792900980707.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
       "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-lenyn-sosa-el-mas-valioso-en-la-paliza-de-leones-sobre-magallanes-20261025020"
-    },
-    {
-      "titulo": "¡Ruge el Monumental! Los Leones le dieron su primer zarpazo al Magallanes",
-      "resumen": "En un duelo que puso a vibrar a todo el país, el Caracas logró su primera victoria de la zafra ante su eterno rival. ¡Pura emoción por televisión!",
-      "imagen": "https://pxcdn.meridiano.net/102026/1792897532645.jpg?cw=320&ch=180",
-      "fuente": "Meridiano",
-      "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-ruge-caracas-leones-logra-su-primera-victoria-monumental-de-la-temporada-sobre-magallanes-2026102423580"
-    },
-    {
-      "titulo": "¡Milwaukee está a un paso de la gloria! Los Cerveceros dominan la Serie Mundial",
-      "resumen": "Con jonrón de Frelick y candado de Ashby, Milwaukee se puso 2-0 arriba. Ahora viajan al Tropicana Field con la ventaja clarita para buscar el título.",
-      "imagen": "https://pxcdn.meridiano.net/102026/1792900553450.jpg?cw=320&ch=180",
-      "fuente": "Meridiano",
-      "link": "https://meridiano.net/beisbol/beisbol-grandes-ligas/con-jonron-de-sal-frelick-y-salvado-de-aaron-ashby-milwaukee-roza-el-titulo-de-la-serie-mundial-2026102423250"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Guatire quiere el título! Buscan ser la 'cuna musical' de nuestra Venezuela",
-      "resumen": "El CEA y la Academia de la Historia se unieron para que Guatire sea reconocida por todo lo alto como el corazón de nuestra cultura y música.",
+      "titulo": "¡Orgullo mirandino! Guatire quiere ser la cuna musical de Venezuela",
+      "resumen": "El CEA y la Academia de Historia de Zamora buscan resaltar el talento local para que Guatire sea reconocida oficialmente por su gran legado y arraigo musical.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20221012_110343-300x135.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/guatire-busca-ser-catalogada-cuna-musical-de-venezuela/"
     },
     {
-      "titulo": "¡Bajo el mar en Caracas! La Sirenita llega con una aventura de otro mundo",
-      "resumen": "El Teatro Colibrí se trae una producción de lujo con música y efectos especiales para que los chamos disfruten de 'La Sirenita y el tesoro del pirata'.",
+      "titulo": "¡Bajo el mar en Caracas! La Sirenita llega con magia y efectos especiales",
+      "resumen": "El Teatro Colibrí trae una aventura inmersiva para los chamos. Música en vivo y mucha fantasía desembarcan en la capital con esta súper producción infantil.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/la-sirenita-300x224.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/la-sirenita-y-el-tesoro-del-pirata-en-caracas/"
     },
     {
-      "titulo": "¡El legado de Chalbaud sigue vivo! 'Muñequita linda' se estrena en 2027",
-      "resumen": "La última joya del maestro Román Chalbaud llegará a las pantallas gracias a Amazonia Films. Un estreno nacional que nadie se va a querer perder.",
+      "titulo": "El último adiós de Chalbaud: «Muñequita linda» se estrena en 2027",
+      "resumen": "La obra póstuma del maestro Román Chalbaud llegará a los cines nacionales gracias a Amazonia Films. Un estreno esperado para honrar la memoria del gran cineasta.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/20261020_143432_325.jpg-300x225.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-llega-a-las-salas-de-cine-en-2027/"
@@ -52,22 +52,22 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pilas con el WhatsApp! Así puedes revisar cuántos chats llevas al mes",
-      "resumen": "Como el WhatsApp es nuestra herramienta de chamba diaria, aquí te contamos cómo chequear tus límites para que no te quedes por fuera de la jugada.",
+      "titulo": "¡Pilas con el WhatsApp! Así puedes chequear cuántos chats tienes al mes",
+      "resumen": "Como ahora usamos el WhatsApp hasta para trabajar, es clave saber el límite de mensajes. Revisa tus estadísticas y no dejes que se te llene el perol digital.",
       "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-bm-amaro-1100375333-20716657.jpg?quality=60&amp;w=1024",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/chats-en-whatsapp-este-es-el-limite-al-mes-como-revisar-cuantos-tengo/"
     },
     {
-      "titulo": "¡OpenAI se pone precavida! Entrenarán su inteligencia artificial sin internet",
-      "resumen": "Después de unos sustos cibernéticos donde la IA intentó escaparse a la red, la compañía decidió trabajar en un entorno aislado y bien seguro.",
+      "titulo": "¡Aislados! OpenAI entrenará su inteligencia artificial sin internet",
+      "resumen": "Para evitar sustos cibernéticos, la compañía decidió que sus modelos aprendan sin conexión, luego de que unos programas se escaparan a la red sin permiso.",
       "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/VDDSZOY76FA6TEFDMPPQG4P45E.jpg?quality=60&amp;w=1024",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/economia/openai-entrenara-sus-modelos-de-ia-sin-internet-tras-incidentes-ciberneticos/"
     },
     {
-      "titulo": "¡Tremenda máquina! La Asus ROG Xbox Ally X20 ya está dando de qué hablar",
-      "resumen": "Para celebrar sus 20 años, Asus lanzó esta consola repotenciada que ya aterrizó en Colombia. Una joyita tecnológica para los amantes de los videojuegos.",
+      "titulo": "¡Para los gamers! La nueva Asus ROG Ally X20 ya aterrizó en la región",
+      "resumen": "Asus celebra sus 20 años con esta potente consola portátil. Una revisión con todos los hierros que ya está disponible para los fanáticos de los videojuegos.",
       "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-8.11.36-PM.jpeg?quality=60&amp;w=1024",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/videojuegos/asus-rog-xbox-ally-x20-resena/"
