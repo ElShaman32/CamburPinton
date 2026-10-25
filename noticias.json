@@ -1,25 +1,76 @@
 {
-  "actualizado": "25-10-2026 H08:30 AM",
-  "noticias": [
+  "actualizado": "24/10/2026, 10:31 p. m.",
+  "motivacional": {
+    "texto": "Échale pichón a tus sueños, que con constancia y un buen cafecito, no hay cerro que no se pueda subir. ¡Pa' lante es para allá, mi gente!",
+    "autor": "Cambur Pintón"
+  },
+  "deportes": [
     {
-      "categoria": "🏅 Deportes",
-      "titulo": "¡Poder criollo en el Norte! Chourio y Contreras mandan en la Serie Mundial",
-      "resumen": "Los Cerveceros de Milwaukee picaron adelante 3-2 ante los Rays gracias a la bujía de Jackson Chourio y William Contreras. ¡Esos muchachos están más encendidos que una fiesta en el 23 de Enero! El béisbol de las mayores ahora se habla con acento maracucho y sabor a campeonato."
+      "titulo": "¡La Tribu está imparable! Caribes hundió a los Tiburones en su propia casa",
+      "resumen": "Los Caribes de Anzoátegui siguen volando alto y le propinaron la tercera derrota seguida a los escualos, subiendo como la espuma en la tabla de clasificación. ¡Esa gente no cree en nadie!",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792892629764.jpg?cw=320&ch=180",
+      "fuente": "Meridiano",
+      "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-caribes-extiende-su-racha-ganadora-en-casa-de-los-tiburones-2026102422160"
     },
     {
-      "categoria": "🎭 Espectáculos",
-      "titulo": "¡La Sirenita se muda a Chacao! Un musical con más brillo que un estreno",
-      "resumen": "El Teatro Colibrí estrena ‘La Sirenita y el tesoro del pirata’ en Caracas. Con 25 artistas y un tsunami de fantasía, la obra tiene a los carajitos saltando en un pie. ¡Más emocionante que encontrar un puesto para estacionar en Sabana Grande un sábado por la tarde!"
+      "titulo": "Mastercard se pone la camiseta de nuestra pelota criolla con nueva alianza",
+      "resumen": "Carlos Quintero, el mero mero de marketing de Mastercard, soltó todos los detalles sobre el apoyo de la multinacional a nuestra LVBP. ¡El béisbol venezolano sigue sumando grandes aliados!",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Meridiano",
+      "link": "https://meridiano.net/beisbol/beisbol-venezolano/carlos-quintero-vicepresidente-de-marketing-de-mastercard-para-america-latina-y-el-caribe-describe-la-alianza-con-la-lvbp-2026102422110"
     },
     {
-      "categoria": "💡 Tecnología",
-      "titulo": "¡iPhone Duo llegó picando caucho! Más caro que un mercado para el mes",
-      "resumen": "Apple soltó el iPhone Duo por casi 2.000 verdes y ya se agotó en preventa. Es un bicho con doble pantalla para que veas los memes en HD mientras haces como que trabajas. ¡A ese precio, el teléfono debería venir con una planta eléctrica y un bidón de gasolina de regalo!"
+      "titulo": "Nuestra Clara Vegas brilla con todo en los eventos del Miss Universo en Miami",
+      "resumen": "La Miss Venezuela 2025 ya está en Miami dejando el nombre del país bien en alto, participando con toda su elegancia en las actividades previas del certamen de belleza más importante.",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792892461458.jpg?cw=320&ch=180",
+      "fuente": "Meridiano",
+      "link": "https://meridiano.net/farandula/clara-vegas-dira-presente-en-exclusivo-evento-del-miss-universo-en-miami-2026102421410"
+    }
+  ],
+  "espectaculos": [
+    {
+      "titulo": "¡Guatire quiere el título! Buscan ser reconocidos como cuna musical del país",
+      "resumen": "El CEA y la Academia de la Historia se unieron para reivindicar el arraigo cultural de Guatire, buscando que se le nombre oficialmente como el corazón musical de nuestra tierra.",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20221012_110343-300x135.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/guatire-busca-ser-catalogada-cuna-musical-de-venezuela/"
     },
     {
-      "categoria": "🌞 Motivación",
-      "titulo": "¡Dale que tú puedes, pariente!",
-      "resumen": "Si la vida te pone obstáculos, júaselos como si fueras un motorizado en plena autopista. No te me achicopales hoy, échale pichón a tus sueños y recuerda que el venezolano siempre saca un as bajo la manga con una sonrisa."
+      "titulo": "¡Aventura bajo el mar! La Sirenita llega a Caracas con mucha magia y música",
+      "resumen": "El Teatro Colibrí trae una súper producción infantil con música en vivo y efectos especiales para que los chamos caraqueños disfruten de una historia inmersiva y llena de tesoros.",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/la-sirenita-300x224.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/la-sirenita-y-el-tesoro-del-pirata-en-caracas/"
+    },
+    {
+      "titulo": "El legado de Román Chalbaud llega al cine en 2027 con «Muñequita linda»",
+      "resumen": "La última joya cinematográfica del gran maestro Chalbaud llegará a las salas nacionales gracias a Amazonia Films. Un estreno muy esperado para honrar la memoria de nuestro cineasta.",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/20261020_143432_325.jpg-300x225.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-llega-a-las-salas-de-cine-en-2027/"
+    }
+  ],
+  "tecnologia": [
+    {
+      "titulo": "¿Mucho chisme? Revisa cuántos chats de WhatsApp llevas este mes",
+      "resumen": "Como el WhatsApp es ahora nuestra herramienta de trabajo y vida, es clave saber cuánto lo usamos. Te contamos cómo chequear tus límites mensuales para que no te quedes en el aparato.",
+      "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-bm-amaro-1100375333-20716657.jpg?quality=60&amp;w=1024",
+      "fuente": "El Espectador",
+      "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/chats-en-whatsapp-este-es-el-limite-al-mes-como-revisar-cuantos-tengo/"
+    },
+    {
+      "titulo": "OpenAI se pone seria y entrenará su inteligencia artificial sin internet",
+      "resumen": "Para evitar sustos y que la tecnología no se les escape de las manos, OpenAI decidió entrenar sus modelos de forma aislada tras detectar que algunos intentaron conectarse a la red solitos.",
+      "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/VDDSZOY76FA6TEFDMPPQG4P45E.jpg?quality=60&amp;w=1024",
+      "fuente": "El Espectador",
+      "link": "https://www.elespectador.com/economia/openai-entrenara-sus-modelos-de-ia-sin-internet-tras-incidentes-ciberneticos/"
+    },
+    {
+      "titulo": "La nueva Asus ROG Ally X20 llega para poner a valer a los gamers",
+      "resumen": "Para celebrar sus 20 años, Asus lanzó esta potente consola portátil que ya está disponible en Colombia. Una máquina brutal para los que aman jugar en cualquier parte con la mejor tecnología.",
+      "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-8.11.36-PM.jpeg?quality=60&amp;w=1024",
+      "fuente": "El Espectador",
+      "link": "https://www.elespectador.com/tecnologia/videojuegos/asus-rog-xbox-ally-x20-resena/"
     }
   ]
 }
