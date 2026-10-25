@@ -1,27 +1,27 @@
 {
   "actualizado": "25/10/2026, 12:48 a. m.",
   "motivacional": {
-    "texto": "¡Échale pichón, mi pana! Que aunque se vaya la luz, el brillo lo llevas tú por dentro. ¡Pa' lante es para allá!",
+    "texto": "¡Epa, mi pana! No importa si la luz se va o el camino se pone rudo, con un cafecito y buena vibra, ¡nadie nos quita lo bailao!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Lenyn Sosa se la comió! El MVP del Caracas ante el Magallanes",
-      "resumen": "El grandeliga no tuvo compasión con la Nave y se embasó en casi todos sus turnos para darle la victoria a los Leones. ¡Qué clase de juego!",
+      "titulo": "¡Lenyn Sosa se la comió! El MVP de la paliza caraquista al Magallanes",
+      "resumen": "El grandeliga criollo estuvo intratable y se embasó casi siempre para que los Leones le dieran su buena tunda a la Nave en el Monumental.",
       "imagen": "https://pxcdn.meridiano.net/102026/1792900980707.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
       "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-lenyn-sosa-el-mas-valioso-en-la-paliza-de-leones-sobre-magallanes-20261025020"
     },
     {
-      "titulo": "¡Ruge el Caracas! Los Leones mandaron en el primer duelo de eternos rivales",
-      "resumen": "El Monumental vibró con el primer choque de la temporada. Los melenudos sacaron la garra y Meridiano TV llevó toda la emoción a los hogares.",
+      "titulo": "¡Ruge el Caracas! Los Leones ganan el primero contra el Magallanes",
+      "resumen": "En un duelo de infarto entre los eternos rivales, el Caracas se llevó la victoria monumental que puso a gozar a toda la fanaticada.",
       "imagen": "https://pxcdn.meridiano.net/102026/1792897532645.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
       "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-ruge-caracas-leones-logra-su-primera-victoria-monumental-de-la-temporada-sobre-magallanes-2026102423580"
     },
     {
-      "titulo": "¡Milwaukee a un paso de la gloria! Los Cerveceros dominan la Serie Mundial",
-      "resumen": "Con jonrón de Frelick y candado de Ashby, Milwaukee puso la serie 2-0. Ahora van al Tropicana Field con la ventaja clarita para coronarse.",
+      "titulo": "¡Milwaukee huele a campeón! Los Cerveceros dominan la Serie Mundial",
+      "resumen": "Con jonrón de Frelick y salvado de Ashby, Milwaukee puso la serie 2-0 y ahora van al Tropicana Field con la ventaja clarita.",
       "imagen": "https://pxcdn.meridiano.net/102026/1792900553450.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
       "link": "https://meridiano.net/beisbol/beisbol-grandes-ligas/con-jonron-de-sal-frelick-y-salvado-de-aaron-ashby-milwaukee-roza-el-titulo-de-la-serie-mundial-2026102423250"
@@ -29,22 +29,22 @@
   ],
   "espectaculos": [
     {
-      "titulo": "¡Epa! El periodista se quedó frito porque se fue la luz",
-      "resumen": "Mil disculpas, mi gente. Al colega se le fue la luz de madrugada y se quedó dormido. Apenas despierte les trae los chismes de la farándula.",
+      "titulo": "¡Ay vale! El periodista se quedó frito porque se le fue la luz",
+      "resumen": "Al pana se le fue la luz de madrugada y se quedó dormido. Apenas abra un ojo y se tome un café, les actualiza todo el chisme.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "Cambur Pintón",
       "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "¡Paciencia, vale! El sueño le ganó al periodista tras el apagón",
-      "resumen": "Sin luz no hay paraíso ni noticias. El periodista se quedó dormido por el corte eléctrico, pero ya viene con todo lo nuevo del espectáculo.",
+      "titulo": "¡Paciencia, mi gente! El reportero está roncando tras el apagón",
+      "resumen": "Sin luz no hay paraíso y el periodista se quedó en los brazos de Morfeo. En lo que despierte, les pone al día con los espectáculos.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "Cambur Pintón",
       "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "¡Se quedó privado! El periodista espera que vuelva la luz",
-      "resumen": "El hombre se quedó dormido porque le quitaron la electricidad en la madrugada. En lo que abra el ojo, actualiza las noticias de los famosos.",
+      "titulo": "¡Se quedó sin pilas! El periodista espera que vuelva la luz",
+      "resumen": "El hombre se quedó dormido porque el apagón de la madrugada lo dejó fuera de juego. Ya viene con más noticias de la farándula.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "Cambur Pintón",
       "link": "https://camburpinton.com.ve"
@@ -52,22 +52,22 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Se cayó el sistema! El periodista se durmió por falta de luz",
-      "resumen": "La tecnología espera. El periodista se quedó dormido tras el apagón de madrugada. Pronto les trae lo último en aparatos y redes.",
+      "titulo": "¡Sin luz y roncando! El periodista se quedó pegado a la almohada",
+      "resumen": "La luz se fue de madrugada y el periodista aprovechó para dormir un poco más. Apenas despierte, les trae lo último en tecnología.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "Cambur Pintón",
       "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "¡Sin batería! El periodista se quedó dormido por el corte de luz",
-      "resumen": "El colega no pudo más y se quedó frito cuando quitaron la luz. En un ratico les cuenta todas las novedades tecnológicas del momento.",
+      "titulo": "¡Paciencia, chamos! El periodista se quedó frito por el apagón",
+      "resumen": "Se fue la luz y el pana se quedó dormido. En lo que despierte y se tome su guayoyo, les cuenta todo sobre los nuevos aparaticos.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "Cambur Pintón",
       "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "¡Reiniciando al periodista! Se quedó dormido tras el apagón",
-      "resumen": "Por culpa de la luz, el periodista se quedó en los brazos de Morfeo. Apenas despierte, les pone al día con lo mejor de la tecnología.",
+      "titulo": "¡El periodista está en modo ahorro! Se quedó dormido sin luz",
+      "resumen": "El apagón de la madrugada lo mandó a dormir y todavía no despierta. Pronto les trae las mejores noticias tecnológicas.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "Cambur Pintón",
       "link": "https://camburpinton.com.ve"
