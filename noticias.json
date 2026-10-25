@@ -1,76 +1,76 @@
 {
-  "actualizado": "24/10/2026, 10:31 p. m.",
+  "actualizado": "25/10/2026, 12:48 a. m.",
   "motivacional": {
-    "texto": "Échale pichón a tus sueños, que con constancia y un buen cafecito, no hay cerro que no se pueda subir. ¡Pa' lante es para allá, mi gente!",
+    "texto": "¡Échale pichón, mi pana! Que aunque se vaya la luz, el brillo lo llevas tú por dentro. ¡Pa' lante es para allá!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡La Tribu está imparable! Caribes hundió a los Tiburones en su propia casa",
-      "resumen": "Los Caribes de Anzoátegui siguen volando alto y le propinaron la tercera derrota seguida a los escualos, subiendo como la espuma en la tabla de clasificación. ¡Esa gente no cree en nadie!",
-      "imagen": "https://pxcdn.meridiano.net/102026/1792892629764.jpg?cw=320&ch=180",
+      "titulo": "¡Lenyn Sosa se la comió! El MVP del Caracas ante el Magallanes",
+      "resumen": "El grandeliga no tuvo compasión con la Nave y se embasó en casi todos sus turnos para darle la victoria a los Leones. ¡Qué clase de juego!",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792900980707.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
-      "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-caribes-extiende-su-racha-ganadora-en-casa-de-los-tiburones-2026102422160"
+      "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-lenyn-sosa-el-mas-valioso-en-la-paliza-de-leones-sobre-magallanes-20261025020"
     },
     {
-      "titulo": "Mastercard se pone la camiseta de nuestra pelota criolla con nueva alianza",
-      "resumen": "Carlos Quintero, el mero mero de marketing de Mastercard, soltó todos los detalles sobre el apoyo de la multinacional a nuestra LVBP. ¡El béisbol venezolano sigue sumando grandes aliados!",
-      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "titulo": "¡Ruge el Caracas! Los Leones mandaron en el primer duelo de eternos rivales",
+      "resumen": "El Monumental vibró con el primer choque de la temporada. Los melenudos sacaron la garra y Meridiano TV llevó toda la emoción a los hogares.",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792897532645.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
-      "link": "https://meridiano.net/beisbol/beisbol-venezolano/carlos-quintero-vicepresidente-de-marketing-de-mastercard-para-america-latina-y-el-caribe-describe-la-alianza-con-la-lvbp-2026102422110"
+      "link": "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-ruge-caracas-leones-logra-su-primera-victoria-monumental-de-la-temporada-sobre-magallanes-2026102423580"
     },
     {
-      "titulo": "Nuestra Clara Vegas brilla con todo en los eventos del Miss Universo en Miami",
-      "resumen": "La Miss Venezuela 2025 ya está en Miami dejando el nombre del país bien en alto, participando con toda su elegancia en las actividades previas del certamen de belleza más importante.",
-      "imagen": "https://pxcdn.meridiano.net/102026/1792892461458.jpg?cw=320&ch=180",
+      "titulo": "¡Milwaukee a un paso de la gloria! Los Cerveceros dominan la Serie Mundial",
+      "resumen": "Con jonrón de Frelick y candado de Ashby, Milwaukee puso la serie 2-0. Ahora van al Tropicana Field con la ventaja clarita para coronarse.",
+      "imagen": "https://pxcdn.meridiano.net/102026/1792900553450.jpg?cw=320&ch=180",
       "fuente": "Meridiano",
-      "link": "https://meridiano.net/farandula/clara-vegas-dira-presente-en-exclusivo-evento-del-miss-universo-en-miami-2026102421410"
+      "link": "https://meridiano.net/beisbol/beisbol-grandes-ligas/con-jonron-de-sal-frelick-y-salvado-de-aaron-ashby-milwaukee-roza-el-titulo-de-la-serie-mundial-2026102423250"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Guatire quiere el título! Buscan ser reconocidos como cuna musical del país",
-      "resumen": "El CEA y la Academia de la Historia se unieron para reivindicar el arraigo cultural de Guatire, buscando que se le nombre oficialmente como el corazón musical de nuestra tierra.",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20221012_110343-300x135.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/guatire-busca-ser-catalogada-cuna-musical-de-venezuela/"
+      "titulo": "¡Epa! El periodista se quedó frito porque se fue la luz",
+      "resumen": "Mil disculpas, mi gente. Al colega se le fue la luz de madrugada y se quedó dormido. Apenas despierte les trae los chismes de la farándula.",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Cambur Pintón",
+      "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "¡Aventura bajo el mar! La Sirenita llega a Caracas con mucha magia y música",
-      "resumen": "El Teatro Colibrí trae una súper producción infantil con música en vivo y efectos especiales para que los chamos caraqueños disfruten de una historia inmersiva y llena de tesoros.",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/la-sirenita-300x224.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/la-sirenita-y-el-tesoro-del-pirata-en-caracas/"
+      "titulo": "¡Paciencia, vale! El sueño le ganó al periodista tras el apagón",
+      "resumen": "Sin luz no hay paraíso ni noticias. El periodista se quedó dormido por el corte eléctrico, pero ya viene con todo lo nuevo del espectáculo.",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Cambur Pintón",
+      "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "El legado de Román Chalbaud llega al cine en 2027 con «Muñequita linda»",
-      "resumen": "La última joya cinematográfica del gran maestro Chalbaud llegará a las salas nacionales gracias a Amazonia Films. Un estreno muy esperado para honrar la memoria de nuestro cineasta.",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/20261020_143432_325.jpg-300x225.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-llega-a-las-salas-de-cine-en-2027/"
+      "titulo": "¡Se quedó privado! El periodista espera que vuelva la luz",
+      "resumen": "El hombre se quedó dormido porque le quitaron la electricidad en la madrugada. En lo que abra el ojo, actualiza las noticias de los famosos.",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Cambur Pintón",
+      "link": "https://camburpinton.com.ve"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¿Mucho chisme? Revisa cuántos chats de WhatsApp llevas este mes",
-      "resumen": "Como el WhatsApp es ahora nuestra herramienta de trabajo y vida, es clave saber cuánto lo usamos. Te contamos cómo chequear tus límites mensuales para que no te quedes en el aparato.",
-      "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-bm-amaro-1100375333-20716657.jpg?quality=60&amp;w=1024",
-      "fuente": "El Espectador",
-      "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/chats-en-whatsapp-este-es-el-limite-al-mes-como-revisar-cuantos-tengo/"
+      "titulo": "¡Se cayó el sistema! El periodista se durmió por falta de luz",
+      "resumen": "La tecnología espera. El periodista se quedó dormido tras el apagón de madrugada. Pronto les trae lo último en aparatos y redes.",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Cambur Pintón",
+      "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "OpenAI se pone seria y entrenará su inteligencia artificial sin internet",
-      "resumen": "Para evitar sustos y que la tecnología no se les escape de las manos, OpenAI decidió entrenar sus modelos de forma aislada tras detectar que algunos intentaron conectarse a la red solitos.",
-      "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/VDDSZOY76FA6TEFDMPPQG4P45E.jpg?quality=60&amp;w=1024",
-      "fuente": "El Espectador",
-      "link": "https://www.elespectador.com/economia/openai-entrenara-sus-modelos-de-ia-sin-internet-tras-incidentes-ciberneticos/"
+      "titulo": "¡Sin batería! El periodista se quedó dormido por el corte de luz",
+      "resumen": "El colega no pudo más y se quedó frito cuando quitaron la luz. En un ratico les cuenta todas las novedades tecnológicas del momento.",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Cambur Pintón",
+      "link": "https://camburpinton.com.ve"
     },
     {
-      "titulo": "La nueva Asus ROG Ally X20 llega para poner a valer a los gamers",
-      "resumen": "Para celebrar sus 20 años, Asus lanzó esta potente consola portátil que ya está disponible en Colombia. Una máquina brutal para los que aman jugar en cualquier parte con la mejor tecnología.",
-      "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-8.11.36-PM.jpeg?quality=60&amp;w=1024",
-      "fuente": "El Espectador",
-      "link": "https://www.elespectador.com/tecnologia/videojuegos/asus-rog-xbox-ally-x20-resena/"
+      "titulo": "¡Reiniciando al periodista! Se quedó dormido tras el apagón",
+      "resumen": "Por culpa de la luz, el periodista se quedó en los brazos de Morfeo. Apenas despierte, les pone al día con lo mejor de la tecnología.",
+      "imagen": "https://camburpinton.com.ve/placeholder.png",
+      "fuente": "Cambur Pintón",
+      "link": "https://camburpinton.com.ve"
     }
   ]
 }
