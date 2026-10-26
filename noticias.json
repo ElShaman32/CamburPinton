@@ -1,76 +1,76 @@
 {
-  "actualizado": "25/10/2026, 05:00 p. m.",
+  "actualizado": "26/10/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Échale pichón a tus sueños, que con constancia y un buen cafecito, no hay cerro que no podamos subir. ¡Pa' lante es pa' allá, mi gente!",
+    "texto": "Echa pa' lante, mi pana, que el sol sale para todos y con un buen cafecito no hay meta que se nos resista.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Caracas 2030 va con todo! Recibimos el visto bueno para los Juegos CAC",
-      "resumen": "Nuestra capital se la comió y recibió el apoyo unánime de Centro Caribe Sports para organizar los Juegos CAC. ¡Estamos listos para recibir a los atletas con los brazos abiertos!",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Caracas-1-300x225.jpg",
-      "fuente": "Lider1",
-      "link": "https://www.liderendeportes.com/mas-deportes/propuesta-caracas-2030-paso-eximida/"
+      "titulo": "¡El Caracas mandó en Valencia! Leones rugieron ante el Magallanes",
+      "resumen": "Los melenudos sacaron la casta en el décimo inning para ganarle 8-3 a la Nave Turca en su propia casa. ¡Tremendo palo de agua ofensivo en el José Bernardo Pérez!",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Leones-300x225.jpg",
+      "fuente": "Lider",
+      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-le-aplico-su-poder-ofensivo-a-magallanes/"
     },
     {
-      "titulo": "El básquet 3x3 criollo va por el oro en los Juegos de Dakar",
-      "resumen": "Nuestros muchachos del baloncesto 3x3 se preparan para su tercera cita en los Juegos Olímpicos de la Juventud. Van con la puntería fina buscando traerse esas medallas para la casa.",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Baloncesto-3x3-1-300x225.jpg",
-      "fuente": "Lider1",
-      "link": "https://www.liderendeportes.com/sin-categoria/basquet-3x3-a-escalar-en-dakar/"
+      "titulo": "¡Se dio el timbre en La Rinconada! El Pequeño José mandó en la primera",
+      "resumen": "En una carrera de 1.100 metros, el ejemplar El Pequeño José se llevó los honores con la monta de Y. González. ¡Pura adrenalina en el óvalo de Coche!",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/03/Caracas-300x225.png",
+      "fuente": "Lider",
+      "link": "https://www.liderendeportes.com/hipismo/resultadosde-la-rinconada-7/"
     },
     {
-      "titulo": "Chita Sanvicente dolido tras caer en el Clásico ante el Táchira",
-      "resumen": "El técnico del Caracas FC no se guardó nada y analizó con autocrítica la derrota frente al Táchira. Perder un clásico siempre pega fuerte en el corazón de la fanaticada y del equipo.",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Noel-Sanvicente-300x200.jpg",
-      "fuente": "Lider1",
-      "link": "https://www.liderendeportes.com/futbol/futve/sanvicente-perder-un-clasico-duele-muchisimo/"
+      "titulo": "¡Mbappé se lució! El Real Madrid se llevó el Clásico ante el Barça",
+      "resumen": "Con un doblete del francés, el Madrid venció 2-1 al Barcelona y se mete de lleno en la pelea por el título. ¡Kylian estuvo intratable en el campo!",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Kylian-Mbappe-300x225.jpg",
+      "fuente": "Lider",
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/real-madrid-gano-el-clasico-con-doblete-de-mbappe/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Qué molleja de concierto! Homenaje a Gualberto Ibarreto llenó la Concha Acústica",
-      "resumen": "El folclore nacional retumbó en Bello Monte con un tributo emotivo al gran Gualberto Ibarreto. La gente disfrutó un puyero recordando los éxitos de nuestro ídolo oriental.",
+      "titulo": "¡Puro talento en La Guaira! Orquestas y tradición brillaron en el teatro",
+      "resumen": "El concierto «Venezuela Esperanza que Renace» unió al Sistema de Orquestas y la cultura popular en el Teatro Pedro Elías Gutiérrez. ¡Una jornada musical de lujo!",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-4.13.05-PM-6-300x169.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-la-tradicion-popular-y-el-sistema-de-orquestas-se-unieron-en-la-guaira/"
+    },
+    {
+      "titulo": "¡Homenaje de altura! Bello Monte vibró con el gran Gualberto Ibarreto",
+      "resumen": "La Concha Acústica se llenó de sentimiento nacional para rendirle tributo al 'Pichón'. El folclore venezolano fue el gran protagonista de esta noche mágica.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/images-6-300x279.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/emotivo-homenaje-a-gualberto-ibarreto-reboso-la-concha-acustica-de-bello-monte/"
     },
     {
-      "titulo": "¿Libros o puro negocio? El debate que pica y se extiende sobre el Premio Planeta",
-      "resumen": "En las redes se armó el zafarrancho discutiendo si el Premio Planeta es por talento literario o puro marketing. Muchos dicen que ahora se enfocan más en la fama que en las letras.",
+      "titulo": "¿Libros o puro negocio? El debate sobre el Premio Planeta está encendido",
+      "resumen": "En redes sociales se armó el zafarrancho sobre si este galardón literario sigue premiando la calidad o si ahora es solo una vitrina para gente famosa.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/liberarte-1-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/premio-planeta-literatura-o-negocio/"
-    },
-    {
-      "titulo": "Guatire alza la voz para ser reconocida como la cuna musical de Venezuela",
-      "resumen": "En Guatire se pusieron las pilas para reivindicar su historia cultural. Buscan que el municipio sea catalogado oficialmente como el epicentro de nuestra música nacional.",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20221012_110343-300x135.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/guatire-busca-ser-catalogada-cuna-musical-de-venezuela/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¿Vale la pena gastar los reales en el EA Sports FC 27 o nos quedamos con el 26?",
-      "resumen": "El dilema de los panas gamers: ¿Es el nuevo FC 27 un cambio de verdad o solo un cariñito costoso? Analizan si vale la pena la inversión o si es mejor saltar a otras opciones.",
+      "titulo": "¡Pon tus audífonos al pelo! Aprende a limpiarlos como es debido",
+      "resumen": "No es solo por pinta, sino por salud y para que suenen fino. Mantener la higiene de tus audífonos es clave para cuidar tus oídos y que la música no pare.",
+      "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-hs-studio-by-hussnain-595837849-30981655.jpg?quality=60&amp;w=1024",
+      "fuente": "El Espectador",
+      "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/audifonos-como-limpiarlos-correctamente/"
+    },
+    {
+      "titulo": "¿Vale la pena el nuevo EA Sports FC 27 o nos quedamos con el anterior?",
+      "resumen": "La duda está en la calle: ¿es una evolución real o solo un cambio de fachada? Comparamos si el nuevo juego de fútbol justifica el gasto frente a otras opciones.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/videojuegos/borrador-automatico-3/"
     },
     {
-      "titulo": "¡Pilas con los chats! Aprende a revisar cuántos mensajes mandas por WhatsApp",
-      "resumen": "WhatsApp es nuestra herramienta de batalla diaria, pero ¿sabías que hay límites? Te contamos cómo chequear tus estadísticas en una app donde se envían miles de millones de mensajes.",
+      "titulo": "¡Ojo con los chats de WhatsApp! Revisa cuántos mensajes llevas al mes",
+      "resumen": "Como el WhatsApp es nuestra oficina móvil, los mensajes vuelan. Te contamos cómo chequear tu límite mensual en esta herramienta que ya es parte de nuestro día a día.",
       "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-bm-amaro-1100375333-20716657.jpg?quality=60&amp;w=1024",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/chats-en-whatsapp-este-es-el-limite-al-mes-como-revisar-cuantos-tengo/"
-    },
-    {
-      "titulo": "OpenAI pone orden: entrenarán su inteligencia artificial sin conexión a internet",
-      "resumen": "Tras unos sustos cibernéticos donde la IA intentó escaparse a la web, OpenAI decidió entrenar sus modelos en un entorno cerradito y seguro para evitar incidentes.",
-      "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/VDDSZOY76FA6TEFDMPPQG4P45E.jpg?quality=60&amp;w=1024",
-      "fuente": "El Espectador",
-      "link": "https://www.elespectador.com/economia/openai-entrenara-sus-modelos-de-ia-sin-internet-tras-incidentes-ciberneticos/"
     }
   ]
 }
