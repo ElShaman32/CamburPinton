@@ -1,50 +1,50 @@
 {
-  "actualizado": "26/10/2026, 06:00 a. m.",
+  "actualizado": "26/10/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Echa pa' lante, mi pana, que el sol sale para todos y con un buen cafecito no hay meta que se nos resista.",
+    "texto": "¡Epa, mi pana! Recuerda que después de un buen café y con ganas de echarle pichón, no hay cerro que no se pueda subir. ¡Dale que tú puedes!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡El Caracas mandó en Valencia! Leones rugieron ante el Magallanes",
-      "resumen": "Los melenudos sacaron la casta en el décimo inning para ganarle 8-3 a la Nave Turca en su propia casa. ¡Tremendo palo de agua ofensivo en el José Bernardo Pérez!",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Leones-300x225.jpg",
+      "titulo": "¡Puro poder! José Rondón llegó a las 200 impulsadas con el Caracas",
+      "resumen": "El 'Loco' Rondón sigue repartiendo leña con los Leones del Caracas. Ya alcanzó las 200 remolcadas, demostrando que es el bateador más rendidor de la cueva temporada tras temporada.",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Jose-Rondon-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-le-aplico-su-poder-ofensivo-a-magallanes/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/jose-rondon-llego-a-200-impulsadas-con-el-uniforme-de-leones/"
     },
     {
-      "titulo": "¡Se dio el timbre en La Rinconada! El Pequeño José mandó en la primera",
-      "resumen": "En una carrera de 1.100 metros, el ejemplar El Pequeño José se llevó los honores con la monta de Y. González. ¡Pura adrenalina en el óvalo de Coche!",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/03/Caracas-300x225.png",
+      "titulo": "¡A los playoffs! El LAFC sacó la casta y empató el clásico ante el Galaxy",
+      "resumen": "Con un golazo de Leo Walta al minuto 62, el LAFC remontó dos goles en contra para pactar 2-2 con el Galaxy. Con este resultado, el equipo angelino ya tiene su cupo seguro en la postemporada.",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/LAFC-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/hipismo/resultadosde-la-rinconada-7/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/lafc-asegura-un-puesto-en-los-playoffs-tras-empate-con-el-la-galaxy/"
     },
     {
-      "titulo": "¡Mbappé se lució! El Real Madrid se llevó el Clásico ante el Barça",
-      "resumen": "Con un doblete del francés, el Madrid venció 2-1 al Barcelona y se mete de lleno en la pelea por el título. ¡Kylian estuvo intratable en el campo!",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Kylian-Mbappe-300x225.jpg",
+      "titulo": "¡Orgullo latino! Francisco Lindor se alzó con el Premio Roberto Clemente 2026",
+      "resumen": "El campocorto boricua de los Mets, Francisco Lindor, fue reconocido por su gran corazón y labor humanitaria. Un premio que honra el legado del gran Roberto Clemente en las Grandes Ligas.",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/04/Francisco-Lindor-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/real-madrid-gano-el-clasico-con-doblete-de-mbappe/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/francisco-lindor-recibe-el-premio-roberto-clemente-2026/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro talento en La Guaira! Orquestas y tradición brillaron en el teatro",
-      "resumen": "El concierto «Venezuela Esperanza que Renace» unió al Sistema de Orquestas y la cultura popular en el Teatro Pedro Elías Gutiérrez. ¡Una jornada musical de lujo!",
+      "titulo": "¡Música y tradición! El Sistema y la cultura brillaron en La Guaira",
+      "resumen": "En el Teatro Pedro Elías Gutiérrez se vivió el concierto «Venezuela Esperanza que Renace». Una jornada donde la música de nuestras orquestas y la tradición popular se dieron la mano.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-4.13.05-PM-6-300x169.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-la-tradicion-popular-y-el-sistema-de-orquestas-se-unieron-en-la-guaira/"
     },
     {
-      "titulo": "¡Homenaje de altura! Bello Monte vibró con el gran Gualberto Ibarreto",
-      "resumen": "La Concha Acústica se llenó de sentimiento nacional para rendirle tributo al 'Pichón'. El folclore venezolano fue el gran protagonista de esta noche mágica.",
+      "titulo": "¡Qué molleja de homenaje! Bello Monte vibró con el canto de Gualberto Ibarreto",
+      "resumen": "La Concha Acústica se llenó hasta los teques para rendirle tributo al 'Pichón' Gualberto Ibarreto. El folclore nacional retumbó con fuerza en un evento que conmovió a todos los presentes.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/images-6-300x279.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/emotivo-homenaje-a-gualberto-ibarreto-reboso-la-concha-acustica-de-bello-monte/"
     },
     {
-      "titulo": "¿Libros o puro negocio? El debate sobre el Premio Planeta está encendido",
-      "resumen": "En redes sociales se armó el zafarrancho sobre si este galardón literario sigue premiando la calidad o si ahora es solo una vitrina para gente famosa.",
+      "titulo": "¿Libros o puro negocio? El debate que pica y se extiende sobre el Premio Planeta",
+      "resumen": "En las redes sociales se armó el zafarrancho sobre el Premio Planeta. Muchos se preguntan si de verdad premian la buena literatura o si ahora es solo una vitrina para gente famosa.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/liberarte-1-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/premio-planeta-literatura-o-negocio/"
@@ -52,22 +52,22 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pon tus audífonos al pelo! Aprende a limpiarlos como es debido",
-      "resumen": "No es solo por pinta, sino por salud y para que suenen fino. Mantener la higiene de tus audífonos es clave para cuidar tus oídos y que la música no pare.",
+      "titulo": "¡Pilas con los oídos! Aprende a limpiar tus audífonos como es debido",
+      "resumen": "Mantener los audífonos limpios no es solo por pinta, sino por salud y para que suenen fino. Es clave quitarles el sucio correctamente para evitar infecciones y que duren mucho más tiempo.",
       "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-hs-studio-by-hussnain-595837849-30981655.jpg?quality=60&amp;w=1024",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/audifonos-como-limpiarlos-correctamente/"
     },
     {
-      "titulo": "¿Vale la pena el nuevo EA Sports FC 27 o nos quedamos con el anterior?",
-      "resumen": "La duda está en la calle: ¿es una evolución real o solo un cambio de fachada? Comparamos si el nuevo juego de fútbol justifica el gasto frente a otras opciones.",
+      "titulo": "¿Vale la pena el EA Sports FC 27? Aquí te contamos si pasas por taquilla",
+      "resumen": "Muchos se preguntan si el nuevo juego de fútbol trae cambios de verdad o si es mejor quedarse con el 26. El debate está encendido sobre si la evolución justifica el gasto o si hay mejores opciones.",
       "imagen": "https://camburpinton.com.ve/placeholder.png",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/videojuegos/borrador-automatico-3/"
     },
     {
-      "titulo": "¡Ojo con los chats de WhatsApp! Revisa cuántos mensajes llevas al mes",
-      "resumen": "Como el WhatsApp es nuestra oficina móvil, los mensajes vuelan. Te contamos cómo chequear tu límite mensual en esta herramienta que ya es parte de nuestro día a día.",
+      "titulo": "¡No te quedes sin espacio! Así revisas el límite de tus chats en WhatsApp",
+      "resumen": "WhatsApp es nuestra herramienta de chamba diaria y los chats valen oro. Con más de 150 mensajes enviados al día, es clave saber cuántos tienes y cómo chequear el límite mensual de la aplicación.",
       "imagen": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-bm-amaro-1100375333-20716657.jpg?quality=60&amp;w=1024",
       "fuente": "El Espectador",
       "link": "https://www.elespectador.com/tecnologia/gadgets-y-apps/chats-en-whatsapp-este-es-el-limite-al-mes-como-revisar-cuantos-tengo/"
