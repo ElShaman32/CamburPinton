@@ -1,27 +1,27 @@
 {
-  "actualizado": "27/10/2026, 02:43 a. m.",
+  "actualizado": "27/10/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que con fe y un buen cafecito, no hay cerro que no podamos subir. ¡Pa' lante es para allá!",
+    "texto": "Mire, mi vale, póngale corazón a lo que hace, que el que nace para martillo, del cielo le caen los clavos, ¡pero el que es buen venezolano, hasta de un limón hace una limonada bien fría!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A un pasito! Cerveceros le dieron una paliza a los Rays",
-      "resumen": "Milwaukee puso la Serie Mundial a punto de caramelo tras meterle 10-1 a Tampa Bay. Los Cerveceros están a una sola victoria de alzar el trofeo del Clásico de Otoño.",
+      "titulo": "¡A un pelito! Cerveceros le dieron una paliza a los Rays y huelen a gloria",
+      "resumen": "¡Epa, mi gente! Los Cerveceros de Milwaukee se pusieron las pilas y dejaron a los Rays de Tampa Bay viendo pajaritos tras ganarles 10-1. Con esta tunda de 16 hits, la serie se puso 3-0 a favor de Wisc",
       "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/William-Contreras-Jackson-Chourio-300x225.png",
       "fuente": "Lider",
       "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/cerveceros-arrolla-a-rays-y-queda-a-un-triunfo-de-la-gloria/"
     },
     {
-      "titulo": "¡Rugieron fuerte! Tigres se impuso a Leones en el Monumental",
-      "resumen": "En un juego de infarto, los Tigres de Aragua le ganaron 9-8 al Caracas en su propia casa. Los bengalíes aguantaron la presión y se llevaron un triunfo valiosísimo.",
+      "titulo": "¡Rugieron los de Aragua! Los Tigres se impusieron en el Monumental",
+      "resumen": "En un juego que estuvo de infarto, los Tigres de Aragua le aguaron la fiesta a los Leones del Caracas ganándoles 9-8 en su propia casa. Aunque el Caracas empezó mandando, un jonrón de Gorkys Hernández",
       "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Keyber-Rodriguez-1-300x225.png",
       "fuente": "Lider",
       "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-resiste-y-vence-en-el-monumental/"
     },
     {
-      "titulo": "¡Pura candela! Cleveland venció a Minnesota en tiempo extra",
-      "resumen": "Los Cavaliers sudaron la gota gorda en el Rocket Arena para ganarle a los Timberwolves. Fue un partidazo que se decidió en la prórroga para alegría de su fanaticada.",
+      "titulo": "¡En tiempo extra! Cleveland le quitó el invicto a Minnesota en un juegazo",
+      "resumen": "¡Qué clase de partido se lanzaron en Cleveland! Los Cavaliers tuvieron que sudar la gota gorda para ganarle 127-125 a los Timberwolves de Minnesota en tiempo extra. Los visitantes venían invictos y do",
       "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/20261026_221554_0000-300x225.png",
       "fuente": "Lider",
       "link": "https://www.liderendeportes.com/basketball/nba/cleveland-vencio-a-minnesota-en-tiempo-extra/"
@@ -29,22 +29,22 @@
   ],
   "espectaculos": [
     {
-      "titulo": "¡De gala en Yare! Arrancan los actos por San Francisco de Paula",
-      "resumen": "En Miranda se prendió la fiesta por los 300 años del patronazgo de San Francisco de Paula. El Museo Casa de Simón Bolívar abrió una exposición bellísima para celebrar.",
+      "titulo": "¡Pura tradición! Yare celebra a San Francisco de Paula con trajes históricos",
+      "resumen": "En San Francisco de Yare la cosa está bien bonita con el tricentenario de su patrono. El Museo Casa de Simón Bolívar abrió una exposición de túnicas y mantos sagrados que la misma gente del pueblo ha ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20261026_141051_545-300x219.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/miranda/inician-en-yare-actos-por-el-tricentenario-de-san-francisco-de-paula/"
     },
     {
-      "titulo": "¡Puro talento! Portuguesa brilla en el Festival Artes Vivas",
-      "resumen": "Con 34 comunas activas, Portuguesa se luce en este festival que busca mostrar a los nuevos artistas del canto y las artes. ¡Una iniciativa bien fina para el estado!",
+      "titulo": "¡Talento de sobra! 34 comunas de Portuguesa brillan en el Festival Artes Vivas",
+      "resumen": "¡Vaya un aplauso para Portuguesa! Unas 34 comunas están dándolo todo en el Festival Escuela Artes Vivas. La idea es buscar a esos artistas que cantan, bailan o actúan en su comunidad pero que nunca se",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/1001671468-300x230.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/portuguesa/portuguesa-participa-con-34-comunas-en-el-festival-escuela-artes-vivas/"
     },
     {
-      "titulo": "¡Nuestra Chinita se va a Madrid! Exposición llega a España",
-      "resumen": "El arte y la fe venezolana cruzan el charco con 'Chinita mía'. La obra llegará a Madrid este 31 de octubre para poner en alto nuestra identidad religiosa en la Feria de la Chinita.",
+      "titulo": "¡La Chinita se va para Madrid! Arte zuliano llega a la Madre Patria",
+      "resumen": "Nuestra Virgen de Chiquinquirá cruzó el charco. La artista marabina Charo Romero llevará su exposición 'Chinita mía' a Madrid este 31 de octubre. Son 24 obras que incluyen a la Chinita, al Sagrado Cor",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Exposicion-Chinita-Mia_-Arte-Charo-Romero-copia-300x265.png",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/exposicion-plastica-chinita-mia-mostrara-la-iconografia-religiosa-venezolana-en-madrid/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pilas! El truco de WhatsApp para esconder tus chats privados",
-      "resumen": "Ahora puedes ponerle un código secreto a tus conversaciones para que nadie las vea. Es una función nueva para que tus chats queden bien guardaditos y sin rastro en la aplicación.",
+      "titulo": "¡La IA ahora quiere manejar la plata! OpenAI busca que 'dots' pague por ti",
+      "resumen": "¡Pendientes aquí! OpenAI anda en conversaciones avanzadas con procesadores de pagos para que su asistente 'dots' pueda gastar platica por su cuenta. Alexander Embiricos soltó la prenda en un evento te",
+      "imagen": "https://www.infobae.com/resizer/v2/YSVAZDEWBVHQTHRP4WP5PHTI4Y.JPG?auth=56a7422b0fd4f8e470324148281120d95a5a31f150b5e559ad11e725d1414596&smart=true&width=4000&height=2667",
+      "fuente": "Infobae",
+      "link": "https://www.infobae.com/tecno/2026/10/27/openai-busca-ampliar-su-nuevo-asistente-dots-mantiene-conversaciones-con-procesadores-de-pagos/"
+    },
+    {
+      "titulo": "¡El escondite perfecto! WhatsApp lanza truco para poner tus chats invisibles",
+      "resumen": "Si quieres que tus conversaciones se queden bien guardaditas, WhatsApp sacó un código secreto que es una maravilla. A diferencia del bloqueo normal, este truco borra hasta la carpeta de 'Chats bloquea",
       "imagen": "https://www.infobae.com/resizer/v2/QWTZDQCSAVDLBH5CWQJEE54VQA.JPG?auth=fa514cf0aaaf15d4e287d8e7bf8eb274befcd8566cbc4ca242550076b973149f&smart=true&width=3500&height=2334",
       "fuente": "Infobae",
       "link": "https://www.infobae.com/tecno/2026/10/27/el-truco-definitivo-de-whatsapp-para-hacer-invisibles-tus-chats-mas-privados/"
     },
     {
-      "titulo": "¡Tremendo avance! La IA ayudará a detectar tumores a tiempo",
-      "resumen": "Nuevos modelos de inteligencia artificial podrían identificar pacientes con alto riesgo de cáncer usando datos de rutina. ¡Una noticia que da mucha esperanza para la salud!",
+      "titulo": "¡Tecnología que salva vidas! Nueva IA detecta riesgo de tumores a tiempo",
+      "resumen": "La ciencia no se detiene y ahora unos modelos de inteligencia artificial podrían avisar quién tiene riesgo de sufrir tumores comunes antes de que aparezcan. Usando datos que ya se tienen, como exámene",
       "imagen": "https://www.infobae.com/resizer/v2/DVCEAHZXLVCPBOLNSN36XW5AZQ.png?auth=a0ce9bd73b030cb9e0ea76af73331392263c5647deba9ee2d244a5660ee81131&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
       "link": "https://www.infobae.com/tecno/2026/10/27/nuevos-modelos-de-ia-facilitarian-la-identificacion-temprana-de-pacientes-con-alto-riesgo-de-desarrollar-tumores-comunes/"
-    },
-    {
-      "titulo": "¡Qué nivel! Claude escribió casi todo el código de Anthropic",
-      "resumen": "La inteligencia artificial Claude se puso las pilas y redactó más del 90% del código de su empresa en septiembre de 2026. ¡Una locura cómo avanza la tecnología de Anthropic!",
-      "imagen": "https://www.infobae.com/resizer/v2/ME45ASVZHNCD5JVG5SJBEHCAEU.JPG?auth=1dc35165274a96926c34a328b3960d96d8db12d37c97e36cb4419001c28f38d1&smart=true&width=4000&height=2667",
-      "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/27/claude-escribio-mas-del-90-del-codigo-de-anthropic-en-septiembre-segun-su-prospecto-para-salir-a-bolsa/"
     }
   ]
 }
