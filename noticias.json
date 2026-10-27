@@ -1,50 +1,50 @@
 {
-  "actualizado": "27/10/2026, 06:00 a. m.",
+  "actualizado": "27/10/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Mire, mi vale, póngale corazón a lo que hace, que el que nace para martillo, del cielo le caen los clavos, ¡pero el que es buen venezolano, hasta de un limón hace una limonada bien fría!",
+    "texto": "¡Échale pichón a la vida, pariente! Que no hay mal que dure cien años ni cuerpo que no se cure con un buen café y una sonrisa bien criolla.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A un pelito! Cerveceros le dieron una paliza a los Rays y huelen a gloria",
-      "resumen": "¡Epa, mi gente! Los Cerveceros de Milwaukee se pusieron las pilas y dejaron a los Rays de Tampa Bay viendo pajaritos tras ganarles 10-1. Con esta tunda de 16 hits, la serie se puso 3-0 a favor de Wisc",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/William-Contreras-Jackson-Chourio-300x225.png",
+      "titulo": "¡El de La Victoria viene con todo! Jesús Rodríguez se faja con los Tigres",
+      "resumen": "El grandeliga aragüeño Jesús Rodríguez ya está listo para sudar la camiseta con sus Tigres de Aragua. El chamo de 24 años, que debutó con los Gigantes de San Francisco, llega con la disposición de jug",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Jesus-Rodriguez-1-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/cerveceros-arrolla-a-rays-y-queda-a-un-triunfo-de-la-gloria/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/jesus-rodriguez-viene-a-jugar-en-varias-posiciones/"
     },
     {
-      "titulo": "¡Rugieron los de Aragua! Los Tigres se impusieron en el Monumental",
-      "resumen": "En un juego que estuvo de infarto, los Tigres de Aragua le aguaron la fiesta a los Leones del Caracas ganándoles 9-8 en su propia casa. Aunque el Caracas empezó mandando, un jonrón de Gorkys Hernández",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Keyber-Rodriguez-1-300x225.png",
+      "titulo": "¡Nadal vuelve al ruedo! El 'Rey de la Arcilla' jugará una exhibición en Las Vegas",
+      "resumen": "El gran Rafael Nadal se prepara para dar un espectáculo de los buenos en Las Vegas el próximo 28 de febrero. Después de dos años sin pisar canchas gringas, el ganador de 22 Grand Slams encabezará el '",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2024/01/20240103_075714_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-resiste-y-vence-en-el-monumental/"
+      "link": "https://www.liderendeportes.com/mas-deportes/tenis/rafael-nadal-jugara-una-exhibicion-en-las-vegas/"
     },
     {
-      "titulo": "¡En tiempo extra! Cleveland le quitó el invicto a Minnesota en un juegazo",
-      "resumen": "¡Qué clase de partido se lanzaron en Cleveland! Los Cavaliers tuvieron que sudar la gota gorda para ganarle 127-125 a los Timberwolves de Minnesota en tiempo extra. Los visitantes venían invictos y do",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/20261026_221554_0000-300x225.png",
+      "titulo": "¡Orgullo zuliano! Jackson Chourio la botó de jonrón con récords en la Serie Mundial",
+      "resumen": "¡Qué clase de palo, señores! El maracucho Jackson Chourio se mandó una actuación histórica en el tercer juego del Clásico de Otoño. Con los Cerveceros de Milwaukee, el chamo se fue de 5-4, dejando a t",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Jackson-Chourio-2-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/cleveland-vencio-a-minnesota-en-tiempo-extra/"
+      "link": "https://www.liderendeportes.com/venezolanos-mlb/chourio-hizo-historia-grande-durante-el-tercer-juego-de-la-sm/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Pura tradición! Yare celebra a San Francisco de Paula con trajes históricos",
-      "resumen": "En San Francisco de Yare la cosa está bien bonita con el tricentenario de su patrono. El Museo Casa de Simón Bolívar abrió una exposición de túnicas y mantos sagrados que la misma gente del pueblo ha ",
+      "titulo": "¡Pura fe en Yare! Inauguran exposición de trajes por los 300 años del Santo Patrón",
+      "resumen": "En San Francisco de Yare la cosa está de fiesta. El Museo Casa de Simón Bolívar abrió una exposición bellísima con los mantos y túnicas sagradas de San Francisco de Paula. Son piezas que tienen más de",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20261026_141051_545-300x219.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/miranda/inician-en-yare-actos-por-el-tricentenario-de-san-francisco-de-paula/"
     },
     {
       "titulo": "¡Talento de sobra! 34 comunas de Portuguesa brillan en el Festival Artes Vivas",
-      "resumen": "¡Vaya un aplauso para Portuguesa! Unas 34 comunas están dándolo todo en el Festival Escuela Artes Vivas. La idea es buscar a esos artistas que cantan, bailan o actúan en su comunidad pero que nunca se",
+      "resumen": "En el estado Portuguesa se prendió la fiesta del arte con el Festival Escuela Artes Vivas. Son 34 comunas participando con gente que canta, baila y actúa de corazón. Lo más bonito es que le dan el cha",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/1001671468-300x230.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/portuguesa/portuguesa-participa-con-34-comunas-en-el-festival-escuela-artes-vivas/"
     },
     {
-      "titulo": "¡La Chinita se va para Madrid! Arte zuliano llega a la Madre Patria",
-      "resumen": "Nuestra Virgen de Chiquinquirá cruzó el charco. La artista marabina Charo Romero llevará su exposición 'Chinita mía' a Madrid este 31 de octubre. Son 24 obras que incluyen a la Chinita, al Sagrado Cor",
+      "titulo": "¡La Chinita se va para Madrid! El arte marabino cruza el charco con 'Chinita mía'",
+      "resumen": "Nuestra Virgen de Chiquinquirá se va a pasear por España gracias a la artista Charo Romero. La exposición 'Chinita mía' se montará en Madrid este 31 de octubre con 24 obras que rinden tributo a la Rei",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Exposicion-Chinita-Mia_-Arte-Charo-Romero-copia-300x265.png",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/exposicion-plastica-chinita-mia-mostrara-la-iconografia-religiosa-venezolana-en-madrid/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡La IA ahora quiere manejar la plata! OpenAI busca que 'dots' pague por ti",
-      "resumen": "¡Pendientes aquí! OpenAI anda en conversaciones avanzadas con procesadores de pagos para que su asistente 'dots' pueda gastar platica por su cuenta. Alexander Embiricos soltó la prenda en un evento te",
-      "imagen": "https://www.infobae.com/resizer/v2/YSVAZDEWBVHQTHRP4WP5PHTI4Y.JPG?auth=56a7422b0fd4f8e470324148281120d95a5a31f150b5e559ad11e725d1414596&smart=true&width=4000&height=2667",
+      "titulo": "¡Mosca con el celular! Reportan falla de seguridad en Microsoft Authenticator",
+      "resumen": "¡Guerra avisada no mata soldado! Se descubrió un huequito en la seguridad de Microsoft Authenticator para Android que podría dejar expuestas cuentas de trabajo. Si una aplicación maliciosa se colea, p",
+      "imagen": "https://www.infobae.com/resizer/v2/TIM3CHQBEBCUTJF3UULZCWPXTQ.png?auth=f350f9381b9d763db437eba81d8de6882fcb0153eea82e28ee64cf4a0f8f7046&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/27/openai-busca-ampliar-su-nuevo-asistente-dots-mantiene-conversaciones-con-procesadores-de-pagos/"
+      "link": "https://www.infobae.com/tecno/2026/10/27/una-vulnerabilidad-de-microsoft-authenticator-en-android-podia-exponer-cuentas-de-trabajo/"
     },
     {
-      "titulo": "¡El escondite perfecto! WhatsApp lanza truco para poner tus chats invisibles",
-      "resumen": "Si quieres que tus conversaciones se queden bien guardaditas, WhatsApp sacó un código secreto que es una maravilla. A diferencia del bloqueo normal, este truco borra hasta la carpeta de 'Chats bloquea",
-      "imagen": "https://www.infobae.com/resizer/v2/QWTZDQCSAVDLBH5CWQJEE54VQA.JPG?auth=fa514cf0aaaf15d4e287d8e7bf8eb274befcd8566cbc4ca242550076b973149f&smart=true&width=3500&height=2334",
+      "titulo": "¡Se acaba la partida! Pokémon UNITE se despide de las consolas en el 2027",
+      "resumen": "A los entrenadores Pokémon les toca ir preparando el adiós, porque Pokémon UNITE cerrará sus puertas el 23 de marzo de 2027. Ya no se podrá jugar ni en Switch ni en el celular. Los creadores agradecie",
+      "imagen": "https://www.infobae.com/resizer/v2/274TXT2A5NBBXNOZVXRBYOKFPQ.jpg?auth=511dc6689dda59b805f788105e87345e0947b71afe9a41b8ce0fde3be6331e19&smart=true&width=784&height=441",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/27/el-truco-definitivo-de-whatsapp-para-hacer-invisibles-tus-chats-mas-privados/"
+      "link": "https://www.infobae.com/tecno/2026/10/27/pokemon-unite-se-despide-de-nintendo-switch-y-dispositivos-moviles-dejara-de-funcionar-en-2027/"
     },
     {
-      "titulo": "¡Tecnología que salva vidas! Nueva IA detecta riesgo de tumores a tiempo",
-      "resumen": "La ciencia no se detiene y ahora unos modelos de inteligencia artificial podrían avisar quién tiene riesgo de sufrir tumores comunes antes de que aparezcan. Usando datos que ya se tienen, como exámene",
-      "imagen": "https://www.infobae.com/resizer/v2/DVCEAHZXLVCPBOLNSN36XW5AZQ.png?auth=a0ce9bd73b030cb9e0ea76af73331392263c5647deba9ee2d244a5660ee81131&smart=true&width=2752&height=1536",
+      "titulo": "¡A construir se ha dicho! Minecraft llega repotenciado a la nueva Nintendo Switch",
+      "resumen": "Los fanáticos de los bloques están de fiesta porque Minecraft ya tiene su versión nativa para la Nintendo Switch 2. Viene con mejores gráficos y hasta un paquete de Super Mario. Lo mejor es que si tie",
+      "imagen": "https://www.infobae.com/resizer/v2/P7CF4LJHWJFBJBAPNHV4IFEWLU.png?auth=1d9d721bf63ad77e670770568ee3c1b75a01e600a581f05f72ef93017ea5e419&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/27/nuevos-modelos-de-ia-facilitarian-la-identificacion-temprana-de-pacientes-con-alto-riesgo-de-desarrollar-tumores-comunes/"
+      "link": "https://www.infobae.com/tecno/2026/10/27/minecraft-llega-a-nintendo-switch-2-que-usuarios-podran-descargar-el-juego-gratis/"
     }
   ]
 }
