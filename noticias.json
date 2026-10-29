@@ -1,50 +1,50 @@
 {
-  "actualizado": "29/10/2026, 06:00 a. m.",
+  "actualizado": "29/10/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que madruga, Dios lo ayuda, pero el que le pone corazón y una sonrisa, ¡ese es el que llega lejos con el cambur pintón en la mano!",
+    "texto": "Mire, mi gente, el que nace para martillo, del cielo le caen los clavos, pero el que nace con fe, hasta el café le sale dulce. ¡Póngale corazón a este día que lo que viene es bueno!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Orgullo criollo! William Contreras se alzó como el MVP de la Serie Mundial 2026",
-      "resumen": "¡Epa, mi gente! El careta venezolano William Contreras se la comió en la Serie Mundial 2026. Con un promedio de .381 y guiando a sus Cerveceros de Milwaukee a la gloria contra los Rays, el criollo se ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/William-Contreras-6-300x225.png",
+      "titulo": "¡A levantar el ancla! Francisco Álvarez llega con todo para rescatar al Magallanes",
+      "resumen": "El grandeliga Francisco Álvarez se puso la camiseta de los Navegantes junto a Rougned Odor y Carlos Rodríguez para sacar al equipo del foso. Con un récord de 2-11, la misión en Maracay es clara: remon",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Francisco-Alvarez-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/william-contreras-es-mvp-de-la-serie-mundial-2026/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/francisco-alvarez-confia-en-el-resurgir-de-navegantes/"
     },
     {
-      "titulo": "¡Le dieron hasta con el tobo! Houston sigue invicto tras paliza a Milwaukee",
-      "resumen": "Los Rockets de Houston andan volando bajito y este miércoles le metieron una soberana paliza de 132-100 a los Bucks. El equipo de Ime Udoka no tuvo compasión y ya para el medio tiempo les sacaban 22 p",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/20261028_232806_0000-300x225.png",
+      "titulo": "¡Orgullo de hermanos! Willson Contreras celebra el MVP de su brother William",
+      "resumen": "Willson Contreras no cabe de la emoción por el temporadón de su hermano menor, William. El chamo no solo se llevó el anillo de la Serie Mundial con los Cerveceros, sino que lo nombraron el Jugador Más",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Willson-Contreras-6-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/houston-mantuvo-su-invicto-con-paliza-sobre-milwaukee/"
+      "link": "https://www.liderendeportes.com/venezolanos-mlb/willson-contreras-mi-hermano-ha-crecido-mucho-como-persona/"
     },
     {
-      "titulo": "¡Milwaukee se bañó de gloria! Los Cerveceros son los nuevos reyes del béisbol",
-      "resumen": "¡Se acabó lo que se daba! Los Cerveceros de Milwaukee se coronaron campeones de la Serie Mundial tras despachar a los Rays de Tampa Bay 4 juegos a 1. En el último choque, el lanzador Jacob Misiorowski",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/AP26302140590415-300x200.jpg",
+      "titulo": "¡Haciendo historia! Cuatro criollos logran el doblete de oro con Milwaukee",
+      "resumen": "¡Qué clase de hazaña, vale! William Contreras, Jackson Chourio, Antonio Senzatela y Néstor Corredor hicieron historia al ganar la Serie Mundial con los Cerveceros y el Clásico Mundial con la Vinotinto",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Jackson-Chourio-2-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/cerveceros-de-milwaukee-se-coronan-en-la-serie-mundial/"
+      "link": "https://www.liderendeportes.com/venezolanos-mlb/venezolanos-de-milwaukee-hacen-historia-con-el-doble-campeonato/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Dilia Waikkarán vuelve al ruedo! La primera actriz regresa a las tablas caraqueñas",
-      "resumen": "Nuestra queridísima Dilia Waikkarán, con casi 90 años y una trayectoria de lujo, regresa al Teatro Alberto de Paz y Mateos con la obra «Una señorita en edad de merecer». Bajo la dirección de Henry Man",
+      "titulo": "¡Dilia Waikkarán vuelve a las tablas! Una leyenda que no se detiene a sus 90",
+      "resumen": "Nuestra queridísima primera actriz Dilia Waikkarán regresa al teatro con la obra “Una señorita en edad de merecer”. A sus casi 90 años y con una carrera de lujo, se presentará en el Teatro Alberto de ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/principal-1-300x225.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/dilia-waikkaran-regresa-a-las-tablas-con-una-senorita-en-edad-de-merecer/"
     },
     {
       "titulo": "¡Bautizo literario! Rebeca Henríquez presenta su nuevo libro en Caracas",
-      "resumen": "Este viernes 30 de octubre, el Colegio de Abogados de Caracas se viste de gala para el bautizo del libro «Sentenciados por el relato» de Rebeca Henríquez. El evento contará con Fermín Mármol García co",
+      "resumen": "La escritora Rebeca Henríquez se prepara para bautizar su obra “Sentenciados por el relato” en el Colegio de Abogados. El evento contará con la presencia de Fermín Mármol García y música del Sistema d",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Dra-Rebeca-Henriquez-autora-de-Sentenciados-por-el-relato-1-300x252.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/rebeca-henriquez-bautiza-nuevo-libro/"
     },
     {
-      "titulo": "¡Echados pa' lante! Jóvenes de El Valle y Coche apuestan por el futuro en Venezuela",
-      "resumen": "Un estudio reciente reveló que los chamos de El Valle y Coche tienen las metas claritas: quieren quedarse en su país, estudiar, tener su propio negocio y vivir en un barrio seguro. Lejos de la polític",
+      "titulo": "¡Echando raíces! Chamos de El Valle y Coche apuestan por quedarse en Venezuela",
+      "resumen": "Un estudio reciente reveló que los jóvenes de El Valle y Coche no andan pendientes de cuentos políticos, sino de echarle pichón aquí mismo. Quieren estudiar, tener su propio negocio y ver sus barrios ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/foto1-300x225.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/pragmaticos-y-arraigados-asi-viven-el-presente-e-imaginan-el-futuro-los-jovenes-de-el-valle-y-coche/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Tecnología de punta! Los ojos biónicos ya no son cosa de cuentos de camino",
-      "resumen": "Miren esta maravilla: los implantes electrónicos para recuperar la vista ya son una realidad. Investigadores están creando ojos biónicos que no solo devuelven la visión, sino que podrían darnos «super",
-      "imagen": "https://www.infobae.com/resizer/v2/ZFJW7ZNAFFDLBOBUL33KZ2VN34.png?auth=59fab1d90eb3ddf121f74b4dae6c5f8ae6616e27e1ca7a61ac530b7eb1836c30&smart=true&width=2752&height=1536",
+      "titulo": "¡Mucho cuidado! Una joven falleció por seguir consejos médicos de ChatGPT",
+      "resumen": "Una tragedia que nos pone a reflexionar: una ingeniera de software en EE. UU. perdió la vida tras pedirle a la inteligencia artificial un plan para dejar sus medicinas de la epilepsia. La muchacha, qu",
+      "imagen": "https://www.infobae.com/resizer/v2/PB5J5XVINVHU5LPQTFKWC4CEPE.JPG?auth=d01623c48412e55be839c6c631411cdfd7ea91ec382cfd1860fcc66424fa8129&smart=true&width=3000&height=2000",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/29/ojos-bionicos-asi-son-los-implantes-que-buscan-recuperar-la-vision-y-ampliar-las-capacidades-de-la-vista-humana/"
+      "link": "https://www.infobae.com/tecno/2026/10/29/le-pidio-ayuda-a-chatgpt-para-dejar-su-medicacion-de-epilepsia-en-25-dias-y-fallecio-al-hacerle-caso/"
     },
     {
-      "titulo": "¡Mosca con tus datos! La Inteligencia Artificial te puede fichar en un ratico",
-      "resumen": "¡Mucho ojo, mi gente! Kaspersky advierte que la Inteligencia Artificial puede armar un perfil tuyo completico usando solo lo que dejas regado en internet. Desde fotos hasta correos, la IA puede facili",
-      "imagen": "https://www.infobae.com/resizer/v2/IMDCMSEVZFC55CTG25IFRAFFFE.JPG?auth=1aa7d68256bf6894f5b56d7e1925d93c02a47ad214660ed51edfbe098b3188d6&smart=true&width=4000&height=2668",
+      "titulo": "¡Se prendió la cosa! Brasil y Argentina mandan en apps para aventuras",
+      "resumen": "Según la plataforma Second Love, los vecinos de Brasil y Argentina son los que más buscan un “segundo frente” a través de aplicaciones. La tendencia de buscar relaciones fuera del matrimonio está crec",
+      "imagen": "https://www.infobae.com/resizer/v2/MDRZ6VAH6NDNJGA6ASEE4PUMH4.jpg?auth=de2929cbfb8246a271b163d433317385f221c5042a4bb6151a3adcc813d9d8e1&smart=true&width=1456&height=816",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/29/como-evitar-que-la-ia-cree-un-perfil-detallado-con-tus-datos-dispersos-en-internet/"
+      "link": "https://www.infobae.com/tecno/2026/10/29/brasil-y-argentina-concentran-la-mayor-cantidad-de-usuarios-en-app-para-tener-una-relacion-fuera-de-la-pareja/"
     },
     {
-      "titulo": "¡A cantar se ha dicho! Arma tu karaoke en casa con este truco de Inteligencia Artificial",
-      "resumen": "¿Quieres armar una rumba y no tienes pistas? ¡Tranquilo! Ahora hay cornetas con IA que le quitan la voz al cantante y dejan solo la música de tus canciones favoritas. La función AI Karaoke de LG te pe",
-      "imagen": "https://www.infobae.com/resizer/v2/YSUG4774LJBOLN7FIRF7FW4JVU.png?auth=a214d2bb6f95ef57c8b66fb3d599d478176633030030aa164d95e4f44bb24fad&smart=true&width=2752&height=1536",
+      "titulo": "¿Tu lavadora suena como un avión? Aquí te decimos cómo calmar ese escándalo",
+      "resumen": "Si tu lavadora parece que va a salir volando cuando centrifuga, ¡tranquilo! Los expertos dicen que suele ser por ropa mal acomodada, una moneda olvidada o que el aparato está cojo. Antes de llamar al ",
+      "imagen": "https://www.infobae.com/resizer/v2/HEGIBB4ORFF5JHZXJIRPA2KRBU.png?auth=35aad4ca01b20214d8d036b16e120fc59e9118533cccd861ce1d71cf5f2a5de5&smart=true&width=1300&height=731",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/23/como-tener-karaoke-gratis-en-casa-con-inteligencia-artificial-el-truco-para-quitar-la-voz/"
+      "link": "https://www.infobae.com/tecno/2026/10/29/por-que-tu-lavadora-hace-mucho-ruido-al-centrifugar-y-como-solucionarlo-segun-fabricantes/"
     }
   ]
 }
