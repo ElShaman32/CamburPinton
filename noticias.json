@@ -1,76 +1,76 @@
 {
-  "actualizado": "28/10/2026, 05:00 p. m.",
+  "actualizado": "29/10/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi llave: el que madruga, Dios lo ayuda, pero el que le echa pichón con una sonrisa y buena vibra, ¡ese es el que llega lejos y disfruta el camino! ¡Pa' lante es pa' allá!",
+    "texto": "Acuérdate, mi pana: el que madruga, Dios lo ayuda, pero el que le pone corazón y una sonrisa, ¡ese es el que llega lejos con el cambur pintón en la mano!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Cambio de mando en Dallas! Ethan Casson toma el testigo en los Mavericks",
-      "resumen": "¡Epa, mi gente! Les cuento que en los Dallas Mavericks hay movimiento de oficina. Rick Welts se retira después de echarle pichón al plan del nuevo estadio, y ahora el turno al bate como director ejecu",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Diseno-sin-titulo_20261028_165126_0000-300x225.png",
+      "titulo": "¡Orgullo criollo! William Contreras se alzó como el MVP de la Serie Mundial 2026",
+      "resumen": "¡Epa, mi gente! El careta venezolano William Contreras se la comió en la Serie Mundial 2026. Con un promedio de .381 y guiando a sus Cerveceros de Milwaukee a la gloria contra los Rays, el criollo se ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/William-Contreras-6-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/ethan-casson-asumira-como-director-ejecutivo-de-los-mavericks/"
+      "link": "https://www.liderendeportes.com/venezolanos-mlb/william-contreras-es-mvp-de-la-serie-mundial-2026/"
     },
     {
-      "titulo": "¡El Búfalo Aramburu se une al Team Triunfador! Pura garra vinotinto",
-      "resumen": "¡Qué clase de fichaje, vale! Nuestro Jon Aramburu, el mismísimo 'Búfalo' de la Vinotinto, ahora es el nuevo embajador de TriunfoBet.com. Esta alianza busca seguir apoyando el talento nacional y a nues",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/image-14-300x200.png",
+      "titulo": "¡Le dieron hasta con el tobo! Houston sigue invicto tras paliza a Milwaukee",
+      "resumen": "Los Rockets de Houston andan volando bajito y este miércoles le metieron una soberana paliza de 132-100 a los Bucks. El equipo de Ime Udoka no tuvo compasión y ya para el medio tiempo les sacaban 22 p",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/20261028_232806_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/negocios/triunfobet-com-ficha-a-jon-aramburu-como-embajador-del-team-triunfador/"
+      "link": "https://www.liderendeportes.com/basketball/nba/houston-mantuvo-su-invicto-con-paliza-sobre-milwaukee/"
     },
     {
-      "titulo": "¡A encestar en El Salvador! Se viene la AmeriCup 3x3 con sabor criollo",
-      "resumen": "Vayan anotando en la agenda, porque del 28 de octubre al 1 de noviembre de 2026, El Salvador se va a prender con la FIBA 3x3 AmeriCup. Lo mejor es que nuestras selecciones masculina y femenina van a e",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/image-13-300x200.png",
+      "titulo": "¡Milwaukee se bañó de gloria! Los Cerveceros son los nuevos reyes del béisbol",
+      "resumen": "¡Se acabó lo que se daba! Los Cerveceros de Milwaukee se coronaron campeones de la Serie Mundial tras despachar a los Rays de Tampa Bay 4 juegos a 1. En el último choque, el lanzador Jacob Misiorowski",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/AP26302140590415-300x200.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/negocios/el-salvador-se-prepara-para-albergar-la-fiba-3x3-americup-2026/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/cerveceros-de-milwaukee-se-coronan-en-la-serie-mundial/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Rebeca Henríquez bautiza su nuevo libro en el Colegio de Abogados",
-      "resumen": "¡Cultura de la buena! Este viernes 30 de octubre, la escritora Rebeca Henríquez presenta su obra 'Sentenciados por el relato' en Caracas. El evento estará de lujo con Fermín Mármol García como maestro",
+      "titulo": "¡Dilia Waikkarán vuelve al ruedo! La primera actriz regresa a las tablas caraqueñas",
+      "resumen": "Nuestra queridísima Dilia Waikkarán, con casi 90 años y una trayectoria de lujo, regresa al Teatro Alberto de Paz y Mateos con la obra «Una señorita en edad de merecer». Bajo la dirección de Henry Man",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/principal-1-300x225.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/dilia-waikkaran-regresa-a-las-tablas-con-una-senorita-en-edad-de-merecer/"
+    },
+    {
+      "titulo": "¡Bautizo literario! Rebeca Henríquez presenta su nuevo libro en Caracas",
+      "resumen": "Este viernes 30 de octubre, el Colegio de Abogados de Caracas se viste de gala para el bautizo del libro «Sentenciados por el relato» de Rebeca Henríquez. El evento contará con Fermín Mármol García co",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Dra-Rebeca-Henriquez-autora-de-Sentenciados-por-el-relato-1-300x252.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/rebeca-henriquez-bautiza-nuevo-libro/"
     },
     {
-      "titulo": "¡Puro orgullo! Jóvenes de El Valle y Coche apuestan por quedarse en Venezuela",
-      "resumen": "Un estudio reciente nos muestra el corazón de nuestra juventud en El Valle y Coche. Estos chamos no andan pendientes de política, lo que quieren es echarle pierna aquí mismo: estudiar, tener su propio",
+      "titulo": "¡Echados pa' lante! Jóvenes de El Valle y Coche apuestan por el futuro en Venezuela",
+      "resumen": "Un estudio reciente reveló que los chamos de El Valle y Coche tienen las metas claritas: quieren quedarse en su país, estudiar, tener su propio negocio y vivir en un barrio seguro. Lejos de la polític",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/foto1-300x225.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/pragmaticos-y-arraigados-asi-viven-el-presente-e-imaginan-el-futuro-los-jovenes-de-el-valle-y-coche/"
-    },
-    {
-      "titulo": "¡40 años de tradición! La Feria Artesanal de Yare se viste de gala",
-      "resumen": "En San Francisco de Yare la cosa está buena con su Feria Artesanal, celebrando 40 años de pura cultura y los 300 años de su patrono. Son 30 artesanos mostrando su talento manual en la Plaza Bolívar. I",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/IMG_20261027_140054_224-300x233.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/miranda/feria-artesanal-de-yare-celebra-40-anos-de-tradicion-y-cultura/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¿Qué pasó con Mbappé? El astro francés es tendencia por un lío diplomático",
-      "resumen": "¡Ay papá! Mbappé anda en boca de todos y no precisamente por un golazo. Resulta que un comentario sobre un meme lo metió en un tremendo lío con China y hasta tuvo que pedir perdón. Pero la gente tambi",
-      "imagen": "https://www.infobae.com/resizer/v2/NF7ACEPWFVBX7KT45ZIVU3XZAE.JPG?auth=3b9d950a25728ad4a6010b0c5c042352b976f7ccbf242acc1a6ce4e601207fce&smart=true&width=2600&height=1790",
+      "titulo": "¡Tecnología de punta! Los ojos biónicos ya no son cosa de cuentos de camino",
+      "resumen": "Miren esta maravilla: los implantes electrónicos para recuperar la vista ya son una realidad. Investigadores están creando ojos biónicos que no solo devuelven la visión, sino que podrían darnos «super",
+      "imagen": "https://www.infobae.com/resizer/v2/ZFJW7ZNAFFDLBOBUL33KZ2VN34.png?auth=59fab1d90eb3ddf121f74b4dae6c5f8ae6616e27e1ca7a61ac530b7eb1836c30&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/28/kylian-mbappe-que-paso-con-el-futbolista-del-real-madrid-que-estudios-tiene-y-mas-preguntas-trend-de-google/"
+      "link": "https://www.infobae.com/tecno/2026/10/29/ojos-bionicos-asi-son-los-implantes-que-buscan-recuperar-la-vision-y-ampliar-las-capacidades-de-la-vista-humana/"
     },
     {
-      "titulo": "¡Recorte en Amazon! Despiden a trabajadores del área de tecnología",
-      "resumen": "Mala noticia para los panas de Amazon. La empresa confirmó el despido de unos 250 empleados de su unidad de dispositivos, los que hacen los Kindle y los ecos de Alexa. Lo curioso es que esto pasa just",
-      "imagen": "https://www.infobae.com/resizer/v2/JVVYJ54HJFA23NNJMZNR2ITKXI.JPG?auth=41eb2ebb7b904fca447f3c8b4bb659b544d0aceeb0880365b644381521bc6d32&smart=true&width=5725&height=3220",
+      "titulo": "¡Mosca con tus datos! La Inteligencia Artificial te puede fichar en un ratico",
+      "resumen": "¡Mucho ojo, mi gente! Kaspersky advierte que la Inteligencia Artificial puede armar un perfil tuyo completico usando solo lo que dejas regado en internet. Desde fotos hasta correos, la IA puede facili",
+      "imagen": "https://www.infobae.com/resizer/v2/IMDCMSEVZFC55CTG25IFRAFFFE.JPG?auth=1aa7d68256bf6894f5b56d7e1925d93c02a47ad214660ed51edfbe098b3188d6&smart=true&width=4000&height=2668",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/28/amazon-despidio-a-unos-250-empleados-de-su-area-de-dispositivos-tras-semanas-de-lanzamientos/"
+      "link": "https://www.infobae.com/tecno/2026/10/29/como-evitar-que-la-ia-cree-un-perfil-detallado-con-tus-datos-dispersos-en-internet/"
     },
     {
-      "titulo": "¡Chrome se pone las pilas! Ahora te ayudará a llenar formularios con Gmail",
-      "resumen": "¡Miren esta maravilla tecnológica! Google anunció que Chrome ahora será más inteligente y buscará en tus correos de Gmail para ayudarte a llenar datos. Si necesitas un número de vuelo o una dirección ",
-      "imagen": "https://www.infobae.com/resizer/v2/UZEVNFMEWVHABIR4GUVP65GSPA.jpg?auth=503ee2b0b48405a385ec17d86664e221b0c76c75a1add31d81d88c8fb04bc802&smart=true&width=1920&height=1280",
+      "titulo": "¡A cantar se ha dicho! Arma tu karaoke en casa con este truco de Inteligencia Artificial",
+      "resumen": "¿Quieres armar una rumba y no tienes pistas? ¡Tranquilo! Ahora hay cornetas con IA que le quitan la voz al cantante y dejan solo la música de tus canciones favoritas. La función AI Karaoke de LG te pe",
+      "imagen": "https://www.infobae.com/resizer/v2/YSUG4774LJBOLN7FIRF7FW4JVU.png?auth=a214d2bb6f95ef57c8b66fb3d599d478176633030030aa164d95e4f44bb24fad&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/28/chrome-podra-buscar-en-gmail-numeros-de-vuelo-pedidos-y-direcciones-para-llenar-formularios/"
+      "link": "https://www.infobae.com/tecno/2026/10/23/como-tener-karaoke-gratis-en-casa-con-inteligencia-artificial-el-truco-para-quitar-la-voz/"
     }
   ]
 }
