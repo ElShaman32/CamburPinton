@@ -1,76 +1,76 @@
 {
-  "actualizado": "29/10/2026, 12:00 p. m.",
+  "actualizado": "30/10/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mire, mi gente, el que nace para martillo, del cielo le caen los clavos, pero el que nace con fe, hasta el café le sale dulce. ¡Póngale corazón a este día que lo que viene es bueno!",
+    "texto": "¡Epa, mi pana! Acuérdate que el que nace para martillo, del cielo le caen los clavos, pero el que le echa pichón con alegría, ¡siempre encuentra el camino real! ¡Dale con todo hoy!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A levantar el ancla! Francisco Álvarez llega con todo para rescatar al Magallanes",
-      "resumen": "El grandeliga Francisco Álvarez se puso la camiseta de los Navegantes junto a Rougned Odor y Carlos Rodríguez para sacar al equipo del foso. Con un récord de 2-11, la misión en Maracay es clara: remon",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Francisco-Alvarez-300x225.jpg",
+      "titulo": "¡Las Águilas volaron alto y le dieron una paliza a los Tigres en Maracay!",
+      "resumen": "¡Qué clase de garrotazo, mi gente! Las Águilas del Zulia se ensañaron con 17 hits para meterle 13 carreras a 2 a los Tigres de Aragua en su propia cueva. Con Justyn-Henry Malloy encendido y un séptimo",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Ali-Castillo-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/francisco-alvarez-confia-en-el-resurgir-de-navegantes/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/aguilas-sorprendio-a-tigres-en-maracay/"
     },
     {
-      "titulo": "¡Orgullo de hermanos! Willson Contreras celebra el MVP de su brother William",
-      "resumen": "Willson Contreras no cabe de la emoción por el temporadón de su hermano menor, William. El chamo no solo se llevó el anillo de la Serie Mundial con los Cerveceros, sino que lo nombraron el Jugador Más",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Willson-Contreras-6-300x225.png",
+      "titulo": "¡Por fin! Los Pelicans celebran su primera victoria ante Sacramento",
+      "resumen": "Los Pelicans de New Orleans se sacudieron la sal y lograron su primer triunfo de la zafra al ganarle 132-120 a los Kings de Sacramento. Zion Williamson y Jeremiah Fears se mandaron 22 puntos cada uno ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/20261029_224420_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/willson-contreras-mi-hermano-ha-crecido-mucho-como-persona/"
+      "link": "https://www.liderendeportes.com/basketball/new-orleans-logro-primera-victoria-ante-sacramento/"
     },
     {
-      "titulo": "¡Haciendo historia! Cuatro criollos logran el doblete de oro con Milwaukee",
-      "resumen": "¡Qué clase de hazaña, vale! William Contreras, Jackson Chourio, Antonio Senzatela y Néstor Corredor hicieron historia al ganar la Serie Mundial con los Cerveceros y el Clásico Mundial con la Vinotinto",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Jackson-Chourio-2-1-300x225.png",
+      "titulo": "¡La Tribu mandó en el 'Chico'! Caribes dejó en el terreno al Magallanes",
+      "resumen": "¡Se prendió la fiesta en Puerto La Cruz! Caribes de Anzoátegui sacó la casta y venció 6-5 a los Navegantes del Magallanes en un juego no apto para cardíacos. Omar Alfonzo fue el héroe de la jornada, p",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Caribes-de-Anzoategui-_20261029_230719_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/venezolanos-de-milwaukee-hacen-historia-con-el-doble-campeonato/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/omar-alfonzo-le-otorga-el-triunfo-a-caribes/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Dilia Waikkarán vuelve a las tablas! Una leyenda que no se detiene a sus 90",
-      "resumen": "Nuestra queridísima primera actriz Dilia Waikkarán regresa al teatro con la obra “Una señorita en edad de merecer”. A sus casi 90 años y con una carrera de lujo, se presentará en el Teatro Alberto de ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/principal-1-300x225.jpeg",
+      "titulo": "Poesía venezolana brilla en México con el nuevo libro de Víctor Manuel Pinto",
+      "resumen": "¡Orgullo nacional en tierras aztecas! El poeta Víctor Manuel Pinto presentó su obra “Backmasking” en Ciudad de México, uniendo a Venezuela con el resto del continente a punta de versos. En el evento s",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/5114034443323641307-300x225.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/dilia-waikkaran-regresa-a-las-tablas-con-una-senorita-en-edad-de-merecer/"
+      "link": "https://ultimasnoticias.com.ve/cultura/backmasking-del-poeta-venezolano-victor-manuel-pinto-fue-presentado-en-ciudad-de-mexico/"
     },
     {
-      "titulo": "¡Bautizo literario! Rebeca Henríquez presenta su nuevo libro en Caracas",
-      "resumen": "La escritora Rebeca Henríquez se prepara para bautizar su obra “Sentenciados por el relato” en el Colegio de Abogados. El evento contará con la presencia de Fermín Mármol García y música del Sistema d",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Dra-Rebeca-Henriquez-autora-de-Sentenciados-por-el-relato-1-300x252.jpg",
+      "titulo": "¡Nuestra Reina del Cacao ya está en España para dejar el nombre en alto!",
+      "resumen": "Mariangélica Carrera, nuestra flamante Reina del Cacao Venezuela, ya aterrizó en España para representarnos con todo el sabor de nuestra tierra. Con 24 años y el corazón puesto en su Guaira querida, l",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/1120661-300x225.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/rebeca-henriquez-bautiza-nuevo-libro/"
+      "link": "https://ultimasnoticias.com.ve/la-guaira/mariangelica-carrera-es-venezuela-en-el-reinado-internacional-del-cacao/"
     },
     {
-      "titulo": "¡Echando raíces! Chamos de El Valle y Coche apuestan por quedarse en Venezuela",
-      "resumen": "Un estudio reciente reveló que los jóvenes de El Valle y Coche no andan pendientes de cuentos políticos, sino de echarle pichón aquí mismo. Quieren estudiar, tener su propio negocio y ver sus barrios ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/foto1-300x225.jpg",
+      "titulo": "¡A prepararse! El Trova Fest 2026 cerrará con broche de oro en Caracas",
+      "resumen": "¡Atención, mi gente de El Valle! El Trova Fest regresa a la capital el 21 de noviembre para un conciertazo gratuito en Tiuna El Fuerte. Prepárense para cantar a todo pulmón con leyendas como Frank Qui",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/balcon-copia-300x295.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/pragmaticos-y-arraigados-asi-viven-el-presente-e-imaginan-el-futuro-los-jovenes-de-el-valle-y-coche/"
+      "link": "https://ultimasnoticias.com.ve/cultura/trova-fest-2026-vuelve-para-cerrar-gira-en-caracas/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mucho cuidado! Una joven falleció por seguir consejos médicos de ChatGPT",
-      "resumen": "Una tragedia que nos pone a reflexionar: una ingeniera de software en EE. UU. perdió la vida tras pedirle a la inteligencia artificial un plan para dejar sus medicinas de la epilepsia. La muchacha, qu",
-      "imagen": "https://www.infobae.com/resizer/v2/PB5J5XVINVHU5LPQTFKWC4CEPE.JPG?auth=d01623c48412e55be839c6c631411cdfd7ea91ec382cfd1860fcc66424fa8129&smart=true&width=3000&height=2000",
+      "titulo": "¡El futuro llegó! Toyota fabricará los robotaxis eléctricos de Waymo",
+      "resumen": "¡Agárrense, que lo que viene es tecnología de punta! Toyota se alió con Waymo para fabricar los nuevos robotaxis eléctricos que rodarán solitos por Japón y el Reino Unido. Las pruebas arrancan en 2027",
+      "imagen": "https://www.infobae.com/resizer/v2/T5RVOARKZFACPH26F4YRMC7IMY.JPG?auth=d5cfc1dd661e1e64b210afe4e08ac6c1e4a12e33e687a8c770dd0b74dda686ac&smart=true&width=8368&height=5584",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/29/le-pidio-ayuda-a-chatgpt-para-dejar-su-medicacion-de-epilepsia-en-25-dias-y-fallecio-al-hacerle-caso/"
+      "link": "https://www.infobae.com/tecno/2026/10/30/waymo-usara-autos-de-toyota-para-sus-robotaxis-en-japon-y-el-reino-unido-con-pruebas-desde-2027/"
     },
     {
-      "titulo": "¡Se prendió la cosa! Brasil y Argentina mandan en apps para aventuras",
-      "resumen": "Según la plataforma Second Love, los vecinos de Brasil y Argentina son los que más buscan un “segundo frente” a través de aplicaciones. La tendencia de buscar relaciones fuera del matrimonio está crec",
-      "imagen": "https://www.infobae.com/resizer/v2/MDRZ6VAH6NDNJGA6ASEE4PUMH4.jpg?auth=de2929cbfb8246a271b163d433317385f221c5042a4bb6151a3adcc813d9d8e1&smart=true&width=1456&height=816",
+      "titulo": "¡Un bicho de acero! Crean robot volador que aguanta golpes y caídas",
+      "resumen": "Científicos de California se inspiraron en los insectos para crear un robot volador chiquitico pero guerrero. El aparatico puede chocar, que lo aprieten y hasta así sigue volando como si nada. Está di",
+      "imagen": "https://www.infobae.com/resizer/v2/L2TWPPFBMBDQ7LGGUZ5ECOLCYE.jpg?auth=cb16b3077a3af0eb2924f23122a17533ccb48d8223b36b357b519f36239480a7&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/29/brasil-y-argentina-concentran-la-mayor-cantidad-de-usuarios-en-app-para-tener-una-relacion-fuera-de-la-pareja/"
+      "link": "https://www.infobae.com/tecno/2026/10/30/desarrollan-un-robot-inspirado-en-insectos-que-promete-revolucionar-la-exploracion-en-entornos-extremos/"
     },
     {
-      "titulo": "¿Tu lavadora suena como un avión? Aquí te decimos cómo calmar ese escándalo",
-      "resumen": "Si tu lavadora parece que va a salir volando cuando centrifuga, ¡tranquilo! Los expertos dicen que suele ser por ropa mal acomodada, una moneda olvidada o que el aparato está cojo. Antes de llamar al ",
-      "imagen": "https://www.infobae.com/resizer/v2/HEGIBB4ORFF5JHZXJIRPA2KRBU.png?auth=35aad4ca01b20214d8d036b16e120fc59e9118533cccd861ce1d71cf5f2a5de5&smart=true&width=1300&height=731",
+      "titulo": "¡Luz en vez de cables! La fotónica busca salvar la energía de la IA",
+      "resumen": "La inteligencia artificial gasta luz que da miedo, pero ya le están buscando la vuelta con la fotónica. En vez de usar cables de cobre que se calientan, quieren pasar la información con pura luz por f",
+      "imagen": "https://www.infobae.com/resizer/v2/NDHAAAA4EBALXBDUUHHTO2U7CQ.png?auth=d2ef56347f079a6e0366682710e39fcc4d8bd1e9577866d34df7aa041e86e85d&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/29/por-que-tu-lavadora-hace-mucho-ruido-al-centrifugar-y-como-solucionarlo-segun-fabricantes/"
+      "link": "https://www.infobae.com/tecno/2026/10/30/del-cobre-a-la-luz-como-la-fotonica-podria-reducir-el-consumo-energetico-de-la-inteligencia-artificial/"
     }
   ]
 }
