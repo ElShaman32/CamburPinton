@@ -1,12 +1,11 @@
-[
-  {
-    "nombre": "JecBoy",
-    "descripcion": "JecBoy estreno su canción 'Vicio' en el género Trap (o eso parece) lo cierto es que la canción está guena y como para dedicarla vayan a escucharla",
-    "video_id": "qfOVjcK014Q"
-  },
-  {
-    "nombre": "Organización Musical Orión",
-    "descripcion": "La Organizacion Musical Orion de Barquisimeto te ofrece un reportorio variado para amenizar tus fiestas, celebraciones o cualquier tipo de evento",
-    "video_id": "0PvMKi51Kfk"
-  }
-]
+{
+  "actualizado": "2026-10-30",
+  "talentos": [
+    {
+      "id": "t-001",
+      "titulo": "JecBoy",
+      "youtubeId": "qfOVjcK014Q",
+      "descripcion": "ecBoy estreno su canción 'Vicio' en el género Trap (o eso parece) lo cierto es que la canción está guena y como para dedicarla vayan a escucharla"
+    }
+  ]
+}
