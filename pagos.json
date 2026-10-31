@@ -1,0 +1,27 @@
+{
+  "actualizado": "2026-10-24",
+  "mes": "Octubre 2026",
+  "pagos": [
+    {
+      "fecha": "2026-10-21",
+      "tipo": "Pensión IVSS + Amor Mayor",
+      "monto": "Bs 130,00 + ingreso indexado",
+      "beneficiario": "Pensionados IVSS y Misión 100% Amor Mayor",
+      "estado": "ejecutado"
+    },
+    {
+      "fecha": "2026-10-22",
+      "tipo": "Bono de Guerra Económica",
+      "monto": "US$70 (a tasa BCV)",
+      "beneficiario": "Pensionados administración pública",
+      "estado": "ejecutado"
+    },
+    {
+      "fecha": "2026-10-28",
+      "tipo": "Ingreso Integral de los Pensionados",
+      "monto": "Por confirmar",
+      "beneficiario": "Jubilados sector público sin cestaticket",
+      "estado": "pendiente"
+    }
+  ]
+}
