@@ -1,9 +1,89 @@
 {
-  "actualizado": "2026-10-24",
-  "hoy": {
-    "fecha": "24 de octubre",
-    "titulo": "Día de las Naciones Unidas",
-    "descripcion": "Se conmemora la entrada en vigor de la Carta de la ONU en 1945.",
-    "emoji": "🇺🇳"
-  }
+  "actualizado": "2026-10-30",
+  "curadas": [
+    {
+      "mes": 10,
+      "dia": 24,
+      "titulo": "Día de las Naciones Unidas",
+      "descripcion": "Se conmemora la entrada en vigor de la Carta de la ONU en 1945.",
+      "emoji": "🇺🇳"
+    },
+    {
+      "mes": 12,
+      "dia": 25,
+      "titulo": "Navidad",
+      "descripcion": "Celebración del nacimiento de Jesús en la tradición cristiana.",
+      "emoji": "🎄"
+    },
+    {
+      "mes": 1,
+      "dia": 1,
+      "titulo": "Año Nuevo",
+      "descripcion": "Inicio del calendario gregoriano.",
+      "emoji": "🎆"
+    },
+    {
+      "mes": 4,
+      "dia": 19,
+      "titulo": "Declaración de Independencia de Venezuela",
+      "descripcion": "El 19 de abril de 1810 se inició el proceso independentista venezolano.",
+      "emoji": "🇻🇪"
+    },
+    {
+      "mes": 7,
+      "dia": 5,
+      "titulo": "Día de la Independencia de Venezuela",
+      "descripcion": "El 5 de julio de 1811 se firmó el Acta de Independencia.",
+      "emoji": "🇻🇪"
+    },
+    {
+      "mes": 6,
+      "dia": 24,
+      "titulo": "Batalla de Carabobo",
+      "descripcion": "El 24 de junio de 1821 se selló la independencia de Venezuela.",
+      "emoji": "⚔️"
+    }
+  ],
+  "generales": [
+    {
+      "titulo": "Un día para la música venezolana",
+      "descripcion": "El cuatro, el arpa y las maracas son patrimonio sonoro de Venezuela.",
+      "emoji": "🎸"
+    },
+    {
+      "titulo": "La gaita zuliana",
+      "descripcion": "Género musical navideño originario del Zulia, declarado Patrimonio Cultural.",
+      "emoji": "🎶"
+    },
+    {
+      "titulo": "El joropo",
+      "descripcion": "Género musical y danza típica de los llanos venezolanos.",
+      "emoji": "🪕"
+    },
+    {
+      "titulo": "Simón Díaz, el Tío Simón",
+      "descripcion": "El cantautor venezolano más importante del siglo XX. Autor de 'Caballo viejo'.",
+      "emoji": "🎤"
+    },
+    {
+      "titulo": "Oscar D'León, el Sonero del Mundo",
+      "descripcion": "Salsero venezolano reconocido internacionalmente.",
+      "emoji": "🎺"
+    },
+    {
+      "titulo": "Aldemaro Romero, el renovador",
+      "descripcion": "Compositor venezolano creador de la Onda Nueva.",
+      "emoji": "🎹"
+    },
+    {
+      "titulo": "El Sistema Nacional de Orquestas",
+      "descripcion": "Programa venezolano de educación musical fundado por José Antonio Abreu.",
+      "emoji": "🎻"
+    },
+    {
+      "titulo": "Los Cañoneros",
+      "descripcion": "Género musical de la costa venezolana, con influencia afroantillana.",
+      "emoji": "🥁"
+    }
+  ]
 }
