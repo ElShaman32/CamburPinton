@@ -1,76 +1,76 @@
 {
-  "actualizado": "30/10/2026, 12:00 p. m.",
+  "actualizado": "31/10/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mire, mi gente, recuerde que el que madruga Dios lo ayuda, pero el que se toma su cafecito con fe, ¡no hay cerro que lo detenga ni arepa que le caiga pesada! ¡Pa' lante es pa' allá!",
+    "texto": "¡Epa, mi llave! Acuérdate que el que nace para martillo, del cielo le caen los clavos, pero el que tiene fe y le echa pichón, siempre encuentra su camino. ¡Amanece con alegría que lo que viene es buen",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Harold Castro se la comió! El venezolano mantiene vivos a los Tigres de Kia",
-      "resumen": "Nuestro paisano Harold Castro se puso la capa de héroe en Corea. Con un sencillo oportuno en el séptimo inning, remolcó la carrera del empate para que los Tigres de Kia vencieran 4-2 a los Leones de S",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Harold-Castro-1-300x225.png",
+      "titulo": "¡La Tribu no perdona! Caribes hundió más a la Nave en Puerto La Cruz",
+      "resumen": "Los Caribes de Anzoátegui le ganaron 7-4 al Magallanes en el 'Chico' Carrasquel. Con jonronazos de Omar Alfonzo, un triple de Leonel Valera y un doble de César Izturis Jr., la gente de Puerto La Cruz ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Gabriel-Gonzalez-2-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/beisbol-asiatico/harold-castro-aporto-para-mantener-con-vida-a-los-tigres-de-kia/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/caribes-prolonga-la-mala-racha-del-magallanes/"
     },
     {
-      "titulo": "¡A por el oro! 34 chamos venezolanos listos para brillar en Dakar 2026",
-      "resumen": "Nuestra delegación de 34 atletas ya está lista para dejar el nombre de Venezuela bien en alto en los Juegos Olímpicos de la Juventud Dakar 2026. Los muchachos competirán en 15 disciplinas buscando sup",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Venezuela-1-300x225.jpg",
+      "titulo": "¡Rugieron en la isla! El Caracas le dio una tunda a los Bravos en Guatamare",
+      "resumen": "Los Leones del Caracas se fueron para Margarita y no tuvieron compasión, ganándole 9-4 a los Bravos. Con 10 hits bien pegados, los melenudos remontaron el jonrón inicial de Edward Olivares. La cosa se",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Leones-del-Caracas-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/venezuela-abre-fuego-en-dakar/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-domina-a-bravos-en-el-fortin-de-guatamare/"
     },
     {
-      "titulo": "El Rally Dakar 2027 cambia de rumbo: ¡De Portugal a Marruecos sin escalas!",
-      "resumen": "Agárrense, que el Dakar 2027 viene con curvas. Por los líos en Arabia Saudí, la carrera arrancará en el Algarve portugués el 9 de enero y terminará en Marrakech el 23. Serán más de 7.000 kilómetros de",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Dakar-300x225.jpg",
+      "titulo": "¡Pa' encima! Tiburones aguantó el trote y venció a las Águilas en la capital",
+      "resumen": "En el Universitario, los Tiburones de La Guaira se impusieron 5-4 a las Águilas del Zulia. Los salados hicieron toda su tarea tempranito, fabricando sus carreras en los primeros tres innings. Jurickso",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Jurickson-Profar-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/motor/el-rally-dakar-2027-comenzara-en-portugal-y-terminara-en-marruecos/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tiburones-supera-a-aguilas-en-el-estadio-universitario/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Letras venezolanas en México: Víctor Manuel Pinto presentó su obra \"Backmasking\"",
-      "resumen": "El talento literario de nuestra tierra cruzó fronteras. El poeta Víctor Manuel Pinto presentó su libro \"Backmasking\" en la Ciudad de México, un evento que unió a grandes voces de la escritura latinoam",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/5114034443323641307-300x225.jpg",
+      "titulo": "¡A zapatear! Las Burriquitas toman Caracas para arrancar la Navidad con todo",
+      "resumen": "¡Qué belleza, mi gente! Nuestra tradición de Las Burriquitas recibió reconocimiento oficial en Caracas. El plan es que estas bailadoras recorran las 22 parroquias de la capital para traer alegría, paz",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Las_Burriquitas_toma_el_centro_de_Caracas_Foto_David_Venegas_14-300x212.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/backmasking-del-poeta-venezolano-victor-manuel-pinto-fue-presentado-en-ciudad-de-mexico/"
+      "link": "https://ultimasnoticias.com.ve/cultura/burriquitas-se-desplegaron-por-caracas/"
     },
     {
-      "titulo": "¡Nuestra Reina del Cacao ya está en España! Mariangélica Carrera va por la corona",
-      "resumen": "Con el aroma de nuestro mejor chocolate, Mariangélica Carrera voló a España para representarnos en el Reinado Internacional del Cacao. La guaireña de 24 años lleva un mensaje de resiliencia y orgullo ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/1120661-300x225.jpg",
+      "titulo": "Alí Primera: El Cantor del Pueblo que también le cantó al amor con el alma",
+      "resumen": "Recordamos al gran Alí Primera a 85 años de su nacimiento. Más allá de la protesta, Alí era un romántico empedernido que le escribía versos preciosos a la mujer y a la vida. Su música es un abrazo par",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/liberarte-2-300x180.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/la-guaira/mariangelica-carrera-es-venezuela-en-el-reinado-internacional-del-cacao/"
+      "link": "https://ultimasnoticias.com.ve/cultura/ali-primera-un-autentico-romantico/"
     },
     {
-      "titulo": "¡Caracas se llena de trova! El Trova Fest 2026 cierra con broche de oro en El Valle",
-      "resumen": "Prepárense para una velada de lujo este 21 de noviembre en Tiuna El Fuerte. El Trova Fest cierra su gira nacional con un conciertazo gratuito que reunirá a grandes como Frank Quintero, Lilia Vera y Fr",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/balcon-copia-300x295.jpg",
+      "titulo": "¡Salsa y control! Un sentimiento que va más allá de un simple género musical",
+      "resumen": "Para José Rubén Tovar, la salsa no es una etiqueta, ¡es una forma de vida! Con 16 años en 'El tour de la salsa', el productor asegura que esto es puro sentimiento caribeño, una mezcla de guaracha, gua",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Abridora-principal-300x243.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/trova-fest-2026-vuelve-para-cerrar-gira-en-caracas/"
+      "link": "https://ultimasnoticias.com.ve/cultura/la-salsa-no-es-un-genero-sino-una-forma-de-vida/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pura candela en Vice City! Jason y Lucia son los nuevos rostros del GTA 6",
-      "resumen": "Rockstar Games soltó la sopa sobre los protagonistas del esperadísimo Grand Theft Auto VI. Se trata de Jason Duval y Lucia Caminos, una pareja que se meterá en tremendo paquete intentando sobrevivir a",
-      "imagen": "https://www.infobae.com/resizer/v2/7BUFSCFPUJB7DH37UWPLSBOSX4.png?auth=d4b5e9005c2694f351c9f19f9de2f05174c7529bd70f3bc349ff47c67c1895c3&smart=true&width=1920&height=1080",
+      "titulo": "¡Ponte bien pintón! Meta lanza una IA para organizar tu clóset virtual",
+      "resumen": "Meta sacó calladito una aplicación llamada Style Sketch que usa inteligencia artificial para ayudarte a combinar la ropa que ya tienes en el escaparate. Por ahora la están probando en Asia, pero la id",
+      "imagen": "https://www.infobae.com/resizer/v2/QMW5PVJGEFBLFBNP4XBGIOGNQM.png?auth=c656c2122f81b2ccbe93c71cf5ce1c6d303528868897eb7297470dae8d5f6cc3&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/30/gta-6-revela-a-sus-protagonistas-quienes-son-jason-lucia-y-los-personajes-que-llegaran-a-vice-city/"
+      "link": "https://www.infobae.com/tecno/2026/10/31/meta-lanza-app-de-moda-con-ia-para-que-los-usuarios-creen-un-armario-virtual-de-su-ropa/"
     },
     {
-      "titulo": "¡Binance da la cara! El CEO promete devolver hasta el último centavo tras el hackeo",
-      "resumen": "Richard Teng, el mero mero de Binance, aseguró que la empresa usará sus propios reales para cubrir los 6.340 millones de dólares robados en un reciente hackeo. Lo bueno es que los fondos de los client",
-      "imagen": "https://www.infobae.com/resizer/v2/WNVZFEXYJFFSJCWVREYZASONZ4.png?auth=8e509e7c46a09dcbf36abc640c2414e35e402946efe6e6bf8c29f242ded5bbb6&smart=true&width=1920&height=1080",
+      "titulo": "¡Mosca con lo pirata! Los peligros de ver pelis en apps no oficiales este Halloween",
+      "resumen": "¡Epa, mi gente, no se dejen engañar! Por ahí andan promocionando Xuper TV y Magis TV para ver pelis de terror gratis, pero la cosa sale cara. Estas plataformas no autorizadas son un nido de virus que ",
+      "imagen": "https://www.infobae.com/resizer/v2/D7DD66C3AZAN7J4FMY47OQW2NE.png?auth=7018478ac1e92cdb8aaf7df522bf3f78aea4eb700736979d7bc21961cfee52b4&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/30/vamos-a-cubrir-todas-las-perdidas-richard-teng-ceo-de-binance-devolvera-los-6340-millones-de-dolares-robados-en-hackeo/"
+      "link": "https://www.infobae.com/tecno/2026/10/31/peliculas-de-terror-en-xuper-tv-y-magis-tv-por-halloween-2026-los-peligros-de-estas-plataformas/"
     },
     {
-      "titulo": "¡A ponerle sazón a la música! Spotify dejará remezclar canciones con IA en 2027",
-      "resumen": "Spotify se trae algo entre manos para el 2027: un servicio pago para que tú mismo seas el DJ usando inteligencia artificial. Por unos dolaritos extra al mes, podrás cambiarle el ritmo a tus canciones ",
-      "imagen": "https://www.infobae.com/resizer/v2/35EJSONKHRCEPKFEMCDAUHBDPE.jpg?auth=4e794416aee02b022521ce70bff19577c4bf42b2273674bb2afef11ca62b50a6&smart=true&width=1920&height=1230",
+      "titulo": "OpenAI se aprieta el cinturón y busca menos plata en su nueva ronda de inversión",
+      "resumen": "Los creadores de ChatGPT, OpenAI, bajaron sus pretensiones y ahora buscan 20.000 millones de dólares, unos 10.000 millones menos de lo que pensaban antes. Parece que el mercado tecnológico está un poc",
+      "imagen": "https://www.infobae.com/resizer/v2/T6XWFRPINRCKHDT3NAGCKZXTNY.JPG?auth=4611b5e9e7aa2bef4a64b880076078e130d2c99b32ae640e7ecda9bb5d94dfbb&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/30/spotify-tendria-para-2027-un-servicio-de-pago-para-remezclar-canciones-con-ia/"
+      "link": "https://www.infobae.com/tecno/2026/10/31/openai-recorto-usd-10000-millones-la-ronda-de-inversion-que-busca-en-plena-caida-de-las-tecnologicas/"
     }
   ]
 }
