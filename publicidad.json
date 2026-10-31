@@ -1,17 +1,14 @@
-[
-  {
-    "imagen": "https://raw.githubusercontent.com/ElShaman32/CamburPinton/main/POS.png",
-    "enlace": "https://wa.me/584120583113?text=Hola,%20quiero%20más%20información",
-    "alt": "Anunciante 1"
-  },
-  {
-    "imagen": "https://raw.githubusercontent.com/ElShaman32/CamburPinton/main/POs2.png",
-    "enlace": "https://wa.me/584120583113?text=Hola,%20quiero%20más%20información",
-    "alt": "Anunciante 2"
-  },
-  {
-    "imagen": "https://raw.githubusercontent.com/ElShaman32/CamburPinton/main/Pos3.png",
-    "enlace": "https://wa.me/584120583113?text=Hola,%20quiero%20más%20información",
-    "alt": "Anunciante 3"
-  }
-]
+{
+  "actualizado": "2026-10-30",
+  "banners": [
+    {
+      "slot": "slot-carrusel",
+      "activo": true,
+      "imagen_id": "publicidad/banner-1",
+      "titulo": "Tu marca aquí",
+      "descripcion": "Llega a miles de oyentes de la radio más chevere",
+      "cta": "Quiero pautar",
+      "href": "https://wa.me/58414XXXXXXX?text=Hola%2C%20quiero%20pautar%20en%20Cambur%20Pint%C3%B3n"
+    }
+  ]
+}
