@@ -1,76 +1,76 @@
 {
-  "actualizado": "31/10/2026, 12:00 p. m.",
+  "actualizado": "01/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mire mi vale, no se me achicopale, que camarón que se duerme se lo lleva la corriente, pero el que se mantiene activo, ¡siempre corona su arepa! ¡Échele pichón!",
+    "texto": "Mire, mi gente, el que nace para martillo, del cielo le caen los clavos, pero el que nace con buena vibra, ¡hasta el café le sale espumoso! Póngale corazón a este día que lo que viene es bueno.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Carrick en la cuerda floja! El United no levanta cabeza ante el Chelsea",
-      "resumen": "La cosa se puso color de hormiga para Michael Carrick tras caer 2-0 frente al Chelsea. El Manchester United no pega una y, para rematar, le sacaron roja a Lisandro Martínez. Aunque Carrick metió a Bru",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Chelsea-vs-Manchester-United-300x225.png",
+      "titulo": "¡Orgullo criollo! Junior Alvarado se la comió en la Breeders’ Cup Classic",
+      "resumen": "El jinete venezolano Junior Alvarado puso el nombre de Venezuela en lo más alto al ganar la Breeders’ Cup Classic 2026 con el ejemplar Sovereignty. En el hipódromo de Keeneland, este binomio superó le",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/SOVEREIGNTY-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/peligra-carrick-en-el-man-united-tras-derrota-ante-el-chelsea/"
+      "link": "https://www.liderendeportes.com/hipismo/sovereignty-y-junior-alvarado-conquistan-la-breeders-cup-classic-2026/"
     },
     {
-      "titulo": "¡Pura fiesta! Milwaukee celebra su primer título de Serie Mundial por todo lo alto",
-      "resumen": "Los Cerveceros de Milwaukee armaron un rumbón en las calles para festejar su primer campeonato en la historia. Después de 44 años de espera, unas 400.000 personas se lanzaron al centro de la ciudad pa",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Cerveceros-de-Milwaukee-2-300x225.png",
+      "titulo": "¡Nuestra bandera brilla en Senegal! Venezuela dice presente en Dakar 2026",
+      "resumen": "Con el mismo espíritu de Julio César León en el 48, nuestra delegación de 34 atletas desfiló con todo el sabor en la inauguración de los Juegos Olímpicos de la Juventud Dakar 2026. Entre tambores y cu",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Dakar-2026-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/milwaukee-festejo-en-grande-su-primer-titulo-de-serie-mundial/"
+      "link": "https://www.liderendeportes.com/mas-deportes/dakar-dio-una-bienvenida-apoteosica/"
     },
     {
-      "titulo": "¡Orgullo de San Joaquín! Josmil Pinto lleva su talento a la liga argentina",
-      "resumen": "El receptor venezolano Josmil Pinto hará historia al ser el primer ex-Grandes Ligas en jugar en la Liga Argentina de Beisbol. El nativo de Carabobo se uniformará con los Cachorros de Salta para la nov",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Josmil-Pinto-300x225.png",
+      "titulo": "¡Leña pura! Los Leones del Caracas le dieron hasta con el tobo a Caribes",
+      "resumen": "Los melenudos no andan con juegos y masacraron a Caribes de Anzoátegui 17 por 5 en el Monumental. Con 23 hits, la fiesta empezó tempranito con un rally de cinco carreras gracias a Cedeño, Sosa y un so",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Leones-del-Caracas-2-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/josmil-pinto-sera-el-primer-ex-mlb-en-jugar-en-la-liga-argentina/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/caracas-castiga-desde-el-arranque-y-firma-un-triunfo-ante-caribes/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡A zapatear! Las Burriquitas se adueñan de Caracas para arrancar la Navidad",
-      "resumen": "Caracas se llenó de color con el despliegue de Las Burriquitas en las 22 parroquias de la capital. Esta tradición tan nuestra recibió el visto bueno oficial para recorrer la ciudad, promoviendo la paz",
+      "titulo": "¡Se prendió el parrandón! El Venezuela Renace Fest arranca la Navidad en Caracas",
+      "resumen": "Este domingo 1 de noviembre el Paseo Los Próceres se pone de gala para recibir la Navidad con un conciertazo gratuito a las 5 pm. Bajo el lema “La Navidad nos une”, artistas como Omar Enrique, Liz y L",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/principal-2-276x300.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/venezuela-renace-fest-sonara-este-domingo-1-de-noviembre-en-caracas-para-celebrar-la-navidad/"
+    },
+    {
+      "titulo": "¡A bailar se ha dicho! Las Burriquitas toman las 22 parroquias de Caracas",
+      "resumen": "Nuestra tradición se hace sentir con el despliegue de Las Burriquitas por toda la capital. Gracias al apoyo del gobierno local, esta manifestación cultural recorrerá cada rincón para celebrar el inici",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Las_Burriquitas_toma_el_centro_de_Caracas_Foto_David_Venegas_14-300x212.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/burriquitas-se-desplegaron-por-caracas/"
     },
     {
-      "titulo": "Alí Primera: El Cantor del Pueblo que también le puso corazón al romance",
-      "resumen": "Recordamos a Alí Primera no solo por su canción de protesta, sino por ese lado romántico que le brotaba en cada letra dedicada a la mujer. A 85 años de su nacimiento, su obra sigue vigente como un can",
+      "titulo": "Alí Primera: El Cantor del Pueblo que también le cantó al amor bonito",
+      "resumen": "A 85 años de su nacimiento, recordamos que Alí Primera no solo era protesta, sino puro sentimiento. Detrás de su lucha por los vulnerables, latía el corazón de un romántico que veneraba a la mujer y a",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/liberarte-2-300x180.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/ali-primera-un-autentico-romantico/"
-    },
-    {
-      "titulo": "¡Más que música! La salsa es una forma de vida según José Rubén Tovar",
-      "resumen": "Para el productor José Rubén Tovar, la salsa no es un simple género comercial, sino la piel de todo el Caribe. Con 16 años al frente de su programa, defiende que este movimiento es un estilo de vida q",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Abridora-principal-300x243.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/la-salsa-no-es-un-genero-sino-una-forma-de-vida/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡El Bitcoin se mueve! La cripto amanece en 77.164 dólares este sábado",
-      "resumen": "El mercado de las criptomonedas no descansa y el Bitcoin registró una pequeña caída del 0,89% comparado con el día anterior. La moneda digital más famosa se cotiza ahora en 77.164 dólares. Inversionis",
-      "imagen": "https://www.infobae.com/resizer/v2/YWX7AIA7ORFY7HNXVM6WD5JZ6I.jpg?auth=8bfc209a25d4ae40a01bc10b0c9a3035e09aee0261b931faf650b730d719d61c&smart=true&width=1920&height=1279",
+      "titulo": "¡Jeff Bezos apunta a la bolsa! Blue Origin se prepara para despegar en el mercado",
+      "resumen": "El mandamás de Amazon soltó la prenda: Blue Origin, su empresa espacial, probablemente salga a cotizar en la bolsa de valores. Aunque Bezos dice que todavía faltan unos cuantos años para que eso pase,",
+      "imagen": "https://www.infobae.com/resizer/v2/LV4TAROBENE3BCW74MDS3C7KAM.png?auth=34b0312e0ba4a61db6d00ff6fe79e314eb5bc44148473e6361abb8930f940532&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/31/bitcoin-hoy-cuanto-cuesta-graficos-y-estadisticas-de-btc/"
+      "link": "https://www.infobae.com/tecno/2026/11/01/blue-origin-saldra-a-bolsa-pero-jeff-bezos-asegura-que-todavia-faltan-varios-anos/"
     },
     {
-      "titulo": "¡Por las nubes! La tarjeta RTX 5080 desaparece y duplica su precio",
-      "resumen": "Si estabas pensando en comprar la tarjeta gráfica RTX 5080 de Nvidia, te cuento que la cosa está ruda. El producto desapareció de la tienda oficial en EE.UU. y ahora se consigue por más del doble de s",
-      "imagen": "https://www.infobae.com/resizer/v2/4KJT4DD7KRANZCAXGCBGXRR2CI.png?auth=2f2e679c0539eba7ad74f839f330afedcdff46de61367f1a7987cc0817c7aa9e&smart=true&width=1920&height=1080",
+      "titulo": "Apple no se vuelve loca con la IA: \"Lo que importa es que a la gente le encante\"",
+      "resumen": "John Ternus, el nuevo jefe de Apple, dejó claro que no van a lanzar inteligencia artificial solo por moda. En una entrevista reciente, explicó que su meta es crear funciones que la gente disfrute sin ",
+      "imagen": "https://www.infobae.com/resizer/v2/W2FNEGWKQNA37FNVKKUQOW4H7U.JPG?auth=296a791b38f2f349dc68cb2e4dfba2570186bc09fb66329ce68e590ec3534e41&smart=true&width=7664&height=5111",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/31/nvidia-retiro-la-rtx-5080-de-su-tienda-en-estados-unidos-y-la-tarjeta-grafica-ya-cuesta-mas-del-doble-que-al-lanzarse/"
+      "link": "https://www.infobae.com/tecno/2026/11/01/lo-que-importa-es-construimos-algo-que-les-encante-john-ternus-ceo-de-apple-sobre-lanzar-productos-con-ia/"
     },
     {
-      "titulo": "¡Binance responde! Devolverán más de 6 mil millones tras hackeo",
-      "resumen": "Richard Teng, el mero mero de Binance, aseguró que la empresa usará sus propios reales para cubrir los 6.340 millones de dólares robados en un reciente hackeo. El jefe de la plataforma aclaró que los ",
-      "imagen": "https://www.infobae.com/resizer/v2/WNVZFEXYJFFSJCWVREYZASONZ4.png?auth=8e509e7c46a09dcbf36abc640c2414e35e402946efe6e6bf8c29f242ded5bbb6&smart=true&width=1920&height=1080",
+      "titulo": "OpenAI lanza GPT-Rosalind-6: Una IA poderosa solo para científicos serios",
+      "resumen": "OpenAI presentó su nuevo modelo GPT-Rosalind-6, diseñado especialmente para la biología y la creación de medicinas. Lo curioso es que esta IA es más estricta y solo la podrán usar laboratorios aprobad",
+      "imagen": "https://www.infobae.com/resizer/v2/T6XWFRPINRCKHDT3NAGCKZXTNY.JPG?auth=4611b5e9e7aa2bef4a64b880076078e130d2c99b32ae640e7ecda9bb5d94dfbb&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/10/30/vamos-a-cubrir-todas-las-perdidas-richard-teng-ceo-de-binance-devolvera-los-6340-millones-de-dolares-robados-en-hackeo/"
+      "link": "https://www.infobae.com/tecno/2026/11/01/openai-lanzo-una-ia-para-biologia-que-responde-mas-consultas-de-riesgo-y-solo-la-daran-a-laboratorios-aprobados/"
     }
   ]
 }
