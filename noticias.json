@@ -1,50 +1,50 @@
 {
-  "actualizado": "02/11/2026, 06:00 a. m.",
+  "actualizado": "02/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que nace para martillo, del cielo le caen los clavos, pero el que nace con chispa venezolana, ¡hasta de un limón hace una limonada bien fría! Pa' lante es pa' allá.",
+    "texto": "Acuérdate, mi pana: el que madruga, Dios lo ayuda, pero el que hace las cosas con cariño y una sonrisa, ¡siempre llega a la meta con el corazón contento y la arepa calientica!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Se prendieron los motores en La Rinconada! Resultados del domingo",
-      "resumen": "¡Epa, mi gente hípica! La jornada en el óvalo de Coche estuvo de infarto. Poloroid se llevó la primera con J. Aray, pagando un dividendo bien sabroso. En la segunda, Truly You no dejó para nadie con F",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Rinconada-de-noche-300x225.jpg",
+      "titulo": "¡A brillar en Egipto! Nuestros chamos del tenis vuelven a una final mundial",
+      "resumen": "¡Qué orgullo, mi gente! Después de 22 años de espera, la delegación venezolana de tenis junior se metió en las finales de la Copa Davis en El Cairo. Nuestros muchachos de menos de 16 años están hacien",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-56-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/hipismo/resultados-de-la-rinconada-200/"
+      "link": "https://www.liderendeportes.com/mas-deportes/tenis/venezuela-estara-presente-en-el-mundial-de-tenis-junior/"
     },
     {
-      "titulo": "¡Eugenio Suárez queda libre! El criollo busca nuevo equipo en la MLB",
-      "resumen": "Nuestro paisano Eugenio Suárez vuelve al mercado. Los Rojos de Cincinnati decidieron no aplicar la opción para el 2027, así que el antesalista criollo ahora es agente libre. Después de una campaña de ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Eugenio-Suarez-3-300x225.png",
+      "titulo": "¡Pura candela! Rodrigo Pollero manda en la tabla de goleadores del Futve",
+      "resumen": "La cosa está que arde en nuestra liga. El uruguayo Rodrigo Pollero, del Deportivo Táchira, sigue mandando en la tabla con 16 goles. Pero ojo, que el experimentado Nicolás 'Miku' Fedor le está respiran",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Rodrigo-Pollero-300x169.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/eugenio-suarez-vuelve-a-la-agencia-libre-en-mlb/"
+      "link": "https://www.liderendeportes.com/futbol/futve/rodrigo-pollero-lidera-la-tabla-de-goleadores-del-futve/"
     },
     {
-      "titulo": "¡La Tribu mandó en el Monumental! Caribes castigó a los Leones",
-      "resumen": "¡A correr que salió la flecha! Caribes de Anzoátegui se desquitó de los Leones del Caracas con una paliza de 7-1 en el Monumental. Con jonrón de Hernán Pérez y el bate encendido de Balbino Fuenmayor, ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/12/Caribes-de-Anzoategui-300x225.jpg",
+      "titulo": "¡La Tribu está imparable! Caribes de Anzoátegui manda en la pelota criolla",
+      "resumen": "¡Mano, tengo fe con los orientales! Caribes se coronó como el equipo de la semana tras ganar cinco de seis juegos. Con un registro de 14-4, los de Anzoátegui están en lo más alto de la LVBP. Fabricaro",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Jesus-Sucre-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/caribes-se-marchan-del-monumental-con-victoria-sobre-leones/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/caribes-es-el-equipo-de-la-semana/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡90 años de puro talento! Homenaje al gran Miguel Ángel Landa",
-      "resumen": "¡Hazme el favor! La Cinemateca Nacional se viste de gala para celebrar los 90 años de nuestro eterno Miguel Ángel Landa. Hasta el 8 de noviembre, en el Museo de Bellas Artes, podrán disfrutar gratis d",
+      "titulo": "¡Homenaje a un grande! Celebran los 90 años de Miguel Ángel Landa en la Cinemateca",
+      "resumen": "¡Con el favor de Dios y mucha alegría! Caracas celebra la vida del icónico Miguel Ángel Landa con un ciclo de cine gratuito en el Museo de Bellas Artes. Podremos disfrutar de sus grandes películas com",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-300x300.webp",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cinemateca-celebra-90-anos-de-miguel-angel-landa-con-ciclo-de-cine/"
     },
     {
-      "titulo": "¡Llegó la Navidad a Caracas! Gaitas y parrandas en Bellas Artes",
-      "resumen": "¡Ya huele a hallaca, familia! El Eje del Buen Vivir se llenó de alegría para darle la bienvenida a la Navidad con puro sabor venezolano. Entre gaitas y parrandas, la gente de San Agustín y Bellas Arte",
+      "titulo": "¡Llegó el olor a hallaca! Caracas le dio la bienvenida a la Navidad con gaitas",
+      "resumen": "¡Se prendió el parrandón! En Bellas Artes y San Agustín ya se siente el ambiente navideño. Con gaitas y parrandas, las familias caraqueñas celebraron el inicio de las fiestas en paz. Además, se le rin",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inicio-de-la-navidad-en-caracas-sono-a-parrandas-y-gaitas/"
     },
     {
-      "titulo": "¡Cultura a millón en Los Teques! Éxito total del concierto Esperanza que Renace",
-      "resumen": "El Teatro Emma Soler se quedó pequeño para tanto talento. En un junte bien fino entre el Sistema de Orquestas y la Misión Viva Venezuela, Los Teques vibró con el concierto \"Venezuela Esperanza que Ren",
+      "titulo": "¡Cultura a millón! El concierto 'Venezuela Esperanza que Renace' triunfó en Los Teques",
+      "resumen": "El Teatro Emma Soler se llenó de magia con una presentación que unió al Sistema de Orquestas y la Misión Viva Venezuela. Tarek William Saab destacó el éxito de este evento en Los Teques, donde la músi",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-3.17.46-PM-300x251.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/tarek-william-saab-destaco-el-exito-venezuela-esperanza-que-renace-en-los-teques/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Negocio millonario! Fondo ligado a OpenAI compra a la gigante ADT",
-      "resumen": "¡Miren este gentío de reales! Thrive Holdings, un fondo que tiene el respaldo de OpenAI, soltó la bicoca de 15.300 millones de dólares para quedarse con ADT, la famosa empresa de alarmas y seguridad. ",
-      "imagen": "https://www.infobae.com/resizer/v2/3MV4KMEZ7JG4POCOPLFI5IZ5SY.JPG?auth=c54c79e2e672a8175517e97dfb2f1059f8790ff5fc19f337fdc2386d1350e2e0&smart=true&width=5000&height=3335",
+      "titulo": "¡Se adelantó el regalo! Ya andan vendiendo el nuevo Zelda para Switch 2",
+      "resumen": "¡Mosca con esto! Aunque el estreno oficial es en unos días, ya se vieron copias físicas de Zelda: Ocarina of Time para la Switch 2 en algunas tiendas. Unos suertudos ya tienen el juego en la mano ante",
+      "imagen": "https://www.infobae.com/resizer/v2/L72DXYCYHJCG3ITFNRBHFJGBXE.jpg?auth=f50ba56ba7bf0f552ee51a48d731dba20f0ca3e1c4fcb4025cbf42c9b0e7ac8c&smart=true&width=1920&height=1079",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/02/un-fondo-respaldado-por-openai-comprara-adt-la-empresa-de-alarmas-por-usd-15300-millones/"
+      "link": "https://www.infobae.com/tecno/2026/11/02/venden-copias-fisicas-de-zelda-ocarina-of-time-para-switch-2-antes-de-su-estreno-oficial/"
     },
     {
-      "titulo": "¡Mosca con el WhatsApp! Tips para que no te espíen el celular",
-      "resumen": "¡Ponte las pilas! Si sientes que alguien te está serruchando el WhatsApp, tienes que actuar rápido. Una cuenta intervenida es un peligro para tus fotos y tus reales. Revisa siempre los accesos activos",
-      "imagen": "https://www.infobae.com/resizer/v2/SBAYDYOPU5A2JCBI4M4UXKYJFU.png?auth=3b5884819a56878bc3311861a1c892dacf883f5c0ba7082fe76d21d583184658&smart=true&width=1920&height=1080",
+      "titulo": "¡Qué locura! Transforman a las Guerreras K-pop en dioses de Dragon Ball con IA",
+      "resumen": "¿Te imaginas a las estrellas del K-pop como personajes de Dragon Ball Super? Pues con la inteligencia artificial Gemini de Google, ahora es posible. Usando instrucciones precisas, lograron mezclar el ",
+      "imagen": "https://www.infobae.com/resizer/v2/JPSGUV23Y5DATMKUFWH6HYHX7M.png?auth=ec25967a2326d69589ef977928d22a1e89dcf162207c2f6537c87eb6c039260b&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/01/como-saber-si-alguien-espia-su-whatsapp-y-los-pasos-para-recuperarlo/"
+      "link": "https://www.infobae.com/tecno/2026/11/02/como-se-verian-las-guerreras-k-pop-como-dioses-de-la-destruccion-de-dragon-ball-super/"
     },
     {
-      "titulo": "¡Pon tu PC a volar! Aprende a limpiar la caché y libera espacio",
-      "resumen": "¿La computadora se te puso pesada o las páginas no cargan bien? ¡Tranquilo, que eso tiene solución! Limpiar la caché es el truco ideal para borrar archivos viejos que solo ocupan espacio y ponen la PC",
-      "imagen": "https://www.infobae.com/resizer/v2/SIVUBBGQU5CVZALLD4PUKNAD3U.jpg?auth=56f090c0c958d568c70dbf54dc8b5e7187e5e0d9a94e3039c3b9e884de5f9886&smart=true&width=1456&height=816",
+      "titulo": "¡Pilas ahí! Sam Altman dice que ChatGPT tiene más poder que cualquier humano",
+      "resumen": "El jefe de OpenAI soltó una perla: afirma que ChatGPT ya es más poderoso que cualquier persona que haya existido. En su ensayo 'The Gentle Singularity', Altman explica que no es que la IA sea más inte",
+      "imagen": "https://www.infobae.com/resizer/v2/X4A2QB7NVFAERAGDSUT62ZYDTA.JPG?auth=7524821bd5742e411978d83fece56c8a86a9a831e9e9a3a773b6e797aae41c69&smart=true&width=800&height=533",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/01/como-limpiar-la-cache-de-tu-pc-y-por-que-puede-ayudar-a-liberar-espacio-y-resolver-errores/"
+      "link": "https://www.infobae.com/tecno/2026/11/02/chatgpt-ya-es-mas-poderoso-que-cualquier-ser-humano-sam-altman-ceo-de-openai-sobre-el-alcance-de-la-ia/"
     }
   ]
 }
