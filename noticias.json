@@ -1,76 +1,76 @@
 {
-  "actualizado": "01/11/2026, 05:00 p. m.",
+  "actualizado": "02/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Oiga bien, pariente! No importa si el camino es de piedra, porque el venezolano con una sonrisa y un '¡échale pichón!' llega hasta donde el viento se devuelve. ¡Pa' lante es pa' allá!",
+    "texto": "Acuérdate, mi pana: el que nace para martillo, del cielo le caen los clavos, pero el que nace con chispa venezolana, ¡hasta de un limón hace una limonada bien fría! Pa' lante es pa' allá.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "Nuestras chamas Sub-17 se despidieron del Mundial con la frente en alto",
-      "resumen": "¡Qué orgullo nuestras guerreras! La Vinotinto Sub-17 cayó 1-0 ante Nigeria en Marruecos, cerrando su paso por el Mundial. Aunque venían con el pecho inflado tras ganarle a Alemania, esta vez la pelota",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/NIG-VEN-300x225.png",
+      "titulo": "¡Se prendieron los motores en La Rinconada! Resultados del domingo",
+      "resumen": "¡Epa, mi gente hípica! La jornada en el óvalo de Coche estuvo de infarto. Poloroid se llevó la primera con J. Aray, pagando un dividendo bien sabroso. En la segunda, Truly You no dejó para nadie con F",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Rinconada-de-noche-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/vinotinto/venezuela-cae-ante-nigeria-en-los-cuartos-del-mundial-femenino-sub-17/"
+      "link": "https://www.liderendeportes.com/hipismo/resultados-de-la-rinconada-200/"
     },
     {
-      "titulo": "¡Palo y más nada! Los héroes del Clásico recibirán el Premio Luis Aparicio",
-      "resumen": "Nuestra selección del Clásico Mundial de Beisbol sigue recogiendo frutos. Por orden del mismísimo Don Luis Aparicio, los muchachos recibirán una mención especial en Única Clase tras haberle ganado a E",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/03/Venezuela-1-300x225.png",
+      "titulo": "¡Eugenio Suárez queda libre! El criollo busca nuevo equipo en la MLB",
+      "resumen": "Nuestro paisano Eugenio Suárez vuelve al mercado. Los Rojos de Cincinnati decidieron no aplicar la opción para el 2027, así que el antesalista criollo ahora es agente libre. Después de una campaña de ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Eugenio-Suarez-3-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/campeones-del-clasico-recibiran-mencion-especial-del-premio-luis-aparicio/"
+      "link": "https://www.liderendeportes.com/venezolanos-mlb/eugenio-suarez-vuelve-a-la-agencia-libre-en-mlb/"
     },
     {
-      "titulo": "¡Pura garra! Rosalvick Aguilar se colgó el bronce en el judo de Dakar 2026",
-      "resumen": "La pequeñita pero poderosa Rosalvick Aguilar sacó la clase y le aplicó un ippon a su rival de Botsuana para llevarse el bronce en los -44 kg. Es la primera medalla para Venezuela en estos Juegos Olímp",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Rosalvick-Aguilar-300x225.png",
+      "titulo": "¡La Tribu mandó en el Monumental! Caribes castigó a los Leones",
+      "resumen": "¡A correr que salió la flecha! Caribes de Anzoátegui se desquitó de los Leones del Caracas con una paliza de 7-1 en el Monumental. Con jonrón de Hernán Pérez y el bate encendido de Balbino Fuenmayor, ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/12/Caribes-de-Anzoategui-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/rosalvick-aguilar-conquisto-bronce/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/caribes-se-marchan-del-monumental-con-victoria-sobre-leones/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Los Teques vibró con el conciertazo 'Venezuela Esperanza que Renace'",
-      "resumen": "El Teatro Emma Soler se puso bueno este sábado con una presentación cultural de lujo. Tarek William Saab aplaudió el éxito de este evento donde se unieron la Gran Misión Viva Venezuela y el Sistema de",
+      "titulo": "¡90 años de puro talento! Homenaje al gran Miguel Ángel Landa",
+      "resumen": "¡Hazme el favor! La Cinemateca Nacional se viste de gala para celebrar los 90 años de nuestro eterno Miguel Ángel Landa. Hasta el 8 de noviembre, en el Museo de Bellas Artes, podrán disfrutar gratis d",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-300x300.webp",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/cinemateca-celebra-90-anos-de-miguel-angel-landa-con-ciclo-de-cine/"
+    },
+    {
+      "titulo": "¡Llegó la Navidad a Caracas! Gaitas y parrandas en Bellas Artes",
+      "resumen": "¡Ya huele a hallaca, familia! El Eje del Buen Vivir se llenó de alegría para darle la bienvenida a la Navidad con puro sabor venezolano. Entre gaitas y parrandas, la gente de San Agustín y Bellas Arte",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/inicio-de-la-navidad-en-caracas-sono-a-parrandas-y-gaitas/"
+    },
+    {
+      "titulo": "¡Cultura a millón en Los Teques! Éxito total del concierto Esperanza que Renace",
+      "resumen": "El Teatro Emma Soler se quedó pequeño para tanto talento. En un junte bien fino entre el Sistema de Orquestas y la Misión Viva Venezuela, Los Teques vibró con el concierto \"Venezuela Esperanza que Ren",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-3.17.46-PM-300x251.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/tarek-william-saab-destaco-el-exito-venezuela-esperanza-que-renace-en-los-teques/"
-    },
-    {
-      "titulo": "¡A parrandear! El Venezuela Renace Fest arranca la Navidad en Los Próceres",
-      "resumen": "¡Preparen las hallacas que llegó la música! Este domingo 1 de noviembre a las 5 pm, Los Próceres se prende con el Venezuela Renace Fest. El concierto es gratis y vienen artistas como Omar Enrique, Liz",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/principal-2-276x300.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/venezuela-renace-fest-sonara-este-domingo-1-de-noviembre-en-caracas-para-celebrar-la-navidad/"
-    },
-    {
-      "titulo": "¡Las Burriquitas tomaron Caracas para celebrar la Navidad por todo lo alto!",
-      "resumen": "Nuestras tradicionales Burriquitas andan sueltas por las 22 parroquias caraqueñas. El Gobierno de Caracas y la Alcaldía les dieron su reconocimiento oficial como pieza clave de nuestra identidad. La i",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/10/Las_Burriquitas_toma_el_centro_de_Caracas_Foto_David_Venegas_14-300x212.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/burriquitas-se-desplegaron-por-caracas/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Aprovecha el regalo! Epic Games Store suelta cuatro juegos gratis para PC",
-      "resumen": "¡Epa, gamer! No te duermas en los laureles que Epic Games está regalando cuatro juegazos para PC. Tienes terror, peleas medievales y hasta cultura general para que los bajes de una vez. Ojo con las fe",
-      "imagen": "https://www.infobae.com/resizer/v2/L4AMGOJV2FBXLC3TWBZQ7J2JC4.jpg?auth=7f994e6701206bc1f59aabd4a2ae53d97ddd71a37061717a231ded566dd2b90d&smart=true&width=1920&height=1343",
+      "titulo": "¡Negocio millonario! Fondo ligado a OpenAI compra a la gigante ADT",
+      "resumen": "¡Miren este gentío de reales! Thrive Holdings, un fondo que tiene el respaldo de OpenAI, soltó la bicoca de 15.300 millones de dólares para quedarse con ADT, la famosa empresa de alarmas y seguridad. ",
+      "imagen": "https://www.infobae.com/resizer/v2/3MV4KMEZ7JG4POCOPLFI5IZ5SY.JPG?auth=c54c79e2e672a8175517e97dfb2f1059f8790ff5fc19f337fdc2386d1350e2e0&smart=true&width=5000&height=3335",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/01/epic-games-store-regala-cuatro-juegos-para-pc-como-reclamarlos-antes-de-que-terminen-las-ofertas/"
+      "link": "https://www.infobae.com/tecno/2026/11/02/un-fondo-respaldado-por-openai-comprara-adt-la-empresa-de-alarmas-por-usd-15300-millones/"
     },
     {
-      "titulo": "¿Teléfono full? Aprende a vaciar la papelera de WhatsApp y libera espacio",
-      "resumen": "Si tu celular está que explota por tanto meme y video de los grupos, tienes que revisar la papelera de WhatsApp. Está metida en la parte de almacenamiento y te deja borrar esos archivos pesados que ya",
-      "imagen": "https://www.infobae.com/resizer/v2/6QHE232HDNGW3OBJW4PCZQ3E6Y.png?auth=d8ac70285ec3cdf466980fec48f1eea10d777e0bd21f268ca37834ee8af4bafc&smart=true&width=1920&height=1080",
+      "titulo": "¡Mosca con el WhatsApp! Tips para que no te espíen el celular",
+      "resumen": "¡Ponte las pilas! Si sientes que alguien te está serruchando el WhatsApp, tienes que actuar rápido. Una cuenta intervenida es un peligro para tus fotos y tus reales. Revisa siempre los accesos activos",
+      "imagen": "https://www.infobae.com/resizer/v2/SBAYDYOPU5A2JCBI4M4UXKYJFU.png?auth=3b5884819a56878bc3311861a1c892dacf883f5c0ba7082fe76d21d583184658&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/01/donde-esta-la-papelera-de-whatsapp-como-encontrarla-y-que-archivos-se-pueden-borrar/"
+      "link": "https://www.infobae.com/tecno/2026/11/01/como-saber-si-alguien-espia-su-whatsapp-y-los-pasos-para-recuperarlo/"
     },
     {
-      "titulo": "¡De locos! Trevor y Michael de GTA V jugarán el nuevo GTA VI en vivo",
-      "resumen": "Los actores Steven Ogg y Ned Luke, que le dieron vida a Trevor y Michael en GTA V, planean volver a las andadas pero esta vez como jugadores. Van a transmitir en directo su experiencia recorriendo Vic",
-      "imagen": "https://www.infobae.com/resizer/v2/GHZEICC5BBGOZD6HWDV3TVCMMM.jpg?auth=f9e2ffd7f5d2165f6b43df683d45cb50610f18aeec4638a3f8e52d3c763f7b8a&smart=true&width=1920&height=1080",
+      "titulo": "¡Pon tu PC a volar! Aprende a limpiar la caché y libera espacio",
+      "resumen": "¿La computadora se te puso pesada o las páginas no cargan bien? ¡Tranquilo, que eso tiene solución! Limpiar la caché es el truco ideal para borrar archivos viejos que solo ocupan espacio y ponen la PC",
+      "imagen": "https://www.infobae.com/resizer/v2/SIVUBBGQU5CVZALLD4PUKNAD3U.jpg?auth=56f090c0c958d568c70dbf54dc8b5e7187e5e0d9a94e3039c3b9e884de5f9886&smart=true&width=1456&height=816",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/01/trevor-y-michael-jugaran-gta-vi-en-directo-los-actores-de-gta-v-planean-volver-con-vice-city/"
+      "link": "https://www.infobae.com/tecno/2026/11/01/como-limpiar-la-cache-de-tu-pc-y-por-que-puede-ayudar-a-liberar-espacio-y-resolver-errores/"
     }
   ]
 }
