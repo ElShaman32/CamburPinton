@@ -1,50 +1,50 @@
 {
-  "actualizado": "03/11/2026, 06:00 a. m.",
+  "actualizado": "03/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Mire mi gente, no se me achicopale por nada, que después de la tormenta siempre sale el sol y el que le echa pichón con alegría, siempre encuentra su arepa bien rellena. ¡Pa' lante es pa' allá!",
+    "texto": "Acuérdate, mi llave, que el que madruga Dios lo ayuda, pero el que tiene fe y le echa pichón, ¡no hay cerro que lo detenga ni arepa que le falte! ¡A darle con todo hoy!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Rugieron los Tigres! Aragua le dio una paliza a los Cardenales en Maracay",
-      "resumen": "Los bengalíes se hicieron respetar en casa y le metieron 8 carreras por 2 a los pájaros rojos este lunes. Con este triunfo, los Tigres llegan a 10 victorias en la zafra y le ganan el primero a Lara. A",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261102_235243_0000-300x225.png",
+      "titulo": "¡Puro sabor y zapatillas! Las Tejerías se activó con su caminata 5K",
+      "resumen": "¡Epa, mi gente! Más de 500 personas se lanzaron a la calle en Las Tejerías para la 5K Night Run. Familias enteras y atletas le echaron pichón desde el peaje de Guayas hasta el casco histórico. La cosa",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Las-Tejerias-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/los-tigres-vencieron-a-cardenales-en-maracay/"
+      "link": "https://www.liderendeportes.com/mas-deportes/atletismo/mas-de-500-atletas-y-familias-corrieron-la-5k-de-las-tejerias/"
     },
     {
-      "titulo": "¡Pura candela! Ronny Mauricio se estrena este martes con el Licey",
-      "resumen": "El bigleaguer de los Mets de Nueva York, Ronny Mauricio, se pone el uniforme de los Tigres del Licey para debutar este martes contra las Águilas Cibaeñas. El versátil jugador busca sacarse la espinita",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261102_215204_0000-300x225.png",
+      "titulo": "¡Honor a quien honor merece! El Thunder retirará la '0' de Westbrook",
+      "resumen": "¡Vaya noticia, vale! El Oklahoma City Thunder anunció que el próximo 7 de febrero de 2027 van a colgar la camiseta número '0' de Russell Westbrook. El hombre es una leyenda allá, jugó 11 temporadas y ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Russell-Westbrook--300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/ronny-mauricio-debutara-este-martes-con-el-licey/"
+      "link": "https://www.liderendeportes.com/basketball/nba/el-thunder-ofrecera-homenaje-a-russell-westbrook/"
     },
     {
-      "titulo": "¡El Glorioso no perdona! Licey venció a las Estrellas y sigue mandando en LIDOM",
-      "resumen": "En un juego de infarto que terminó 2 por 1, los Tigres del Licey sumaron su novena victoria ante las Estrellas Orientales. El lanzador Albert Abreu se montó en la lomita y dictó cátedra durante cinco ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261102_212848_0000-300x225.png",
+      "titulo": "¡De Chacao para la capital! Yeferson Guerra llega a Hidrocarburos de Caracas",
+      "resumen": "El baloncesto nacional se pone bueno porque el escolta Yeferson Guerra, orgullo de Chacao, se viene a reforzar a Hidrocarburos de Caracas en la LSB. El pana llega directo desde México, donde estaba dá",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Yeferson-Guerra-3-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/el-licey-vencio-a-las-estrellas-y-continua-al-frente-lidom/"
+      "link": "https://www.liderendeportes.com/sin-categoria/yeferson-guerra-reforzara-a-hidrocarburos-de-caracas/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Homenaje a un grande! Celebran los 90 años de Miguel Ángel Landa en Caracas",
-      "resumen": "La Cinemateca Nacional se viste de gala para celebrar la vida del icónico Miguel Ángel Landa. Hasta el 8 de noviembre, en el Museo de Bellas Artes, podrán disfrutar gratis de un ciclo de cine con sus ",
+      "titulo": "¡90 años de puro talento! Homenaje cinematográfico a Miguel Ángel Landa",
+      "resumen": "¡Con el favor de Dios y mucho cariño! La Cinemateca Nacional en Bellas Artes está celebrando los 90 años del gran Miguel Ángel Landa. Hasta el 8 de noviembre podrán disfrutar gratis de sus mejores pel",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-300x300.webp",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cinemateca-celebra-90-anos-de-miguel-angel-landa-con-ciclo-de-cine/"
     },
     {
-      "titulo": "¡Llegó el olor a hallaca! Caracas arrancó la Navidad con gaitas y parrandas",
-      "resumen": "El Eje del Buen Vivir se llenó de alegría este domingo para darle la bienvenida a la época más bonita del año. Entre parrandas y gaitas, las familias de San Agustín y Bellas Artes compartieron en paz.",
+      "titulo": "¡Llegó el olor a pino! Caracas recibió la Navidad con gaitas y parrandas",
+      "resumen": "¡Ay papá, se prendió la fiesta! El Eje del Buen Vivir en Bellas Artes se llenó de alegría para darle la bienvenida a la Navidad. Entre gaitas y parrandas, las familias de San Agustín y zonas vecinas c",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inicio-de-la-navidad-en-caracas-sono-a-parrandas-y-gaitas/"
     },
     {
-      "titulo": "¡Cultura a millón! El concierto 'Esperanza que Renace' retumbó en Los Teques",
-      "resumen": "El Teatro Emma Soler se llenó de música y sentimiento con el concierto «Venezuela Esperanza que Renace». Tarek William Saab resaltó el éxito de este evento que unió a la Gran Misión Viva Venezuela con",
+      "titulo": "¡Cultura a millón! Los Teques vibró con el concierto 'Venezuela Esperanza que Renace'",
+      "resumen": "El Teatro Emma Soler se puso de gala con un conciertazo que unió a la Gran Misión Viva Venezuela y al Sistema de Orquestas. Tarek William Saab destacó el éxito de este evento que puso a gozar a todo e",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-3.17.46-PM-300x251.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/tarek-william-saab-destaco-el-exito-venezuela-esperanza-que-renace-en-los-teques/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Tremendo susto! Acciones de Oracle bajaron tras pedir un dineral para IA",
-      "resumen": "La gente de Oracle pidió 20.000 millones de dólares a los inversionistas para meterle el pecho a la Inteligencia Artificial, pero la noticia no cayó muy bien en la bolsa y sus acciones bajaron un 8,8%",
-      "imagen": "https://www.infobae.com/resizer/v2/YBPKNXGXCVGG3DMFAP3QLS7CPQ.JPG?auth=f34ba3e65b4c85371112275989573a5579d85a93164eca3d3f7286f1721983af&smart=true&width=5512&height=3712",
+      "titulo": "¡Mosca ahí! Apple pondrá lupa de 18 años a las apps de citas",
+      "resumen": "¡Atención, familia tecnológica! Apple se puso seria y anunció que a partir del 16 de noviembre de 2026, todas las apps de citas y chatbots con temas románticos serán solo para mayores de 18 años. Los ",
+      "imagen": "https://www.infobae.com/resizer/v2/URG5G5BA3VDY3K6MLSQAGIOTSE.JPG?auth=ca5259f715911aebd63b4c317c997f8802da77a7760685c7dfe3ecd2968f68d0&smart=true&width=3535&height=2356",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/03/oracle-pidio-usd-20000-millones-a-inversores-y-sus-acciones-cayeron-hasta-88-en-un-dia/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/apple-pondra-clasificacion-de-mayores-de-18-a-las-apps-de-citas-y-a-los-chatbots-de-compania-romantica/"
     },
     {
-      "titulo": "¡Mosca con el iPhone! Apple avisó sobre posibles ataques espías en Alemania",
-      "resumen": "Apple le prendió las alarmas a varios diputados y funcionarios alemanes avisándoles que sus teléfonos pudieron ser hackeados con un software espía comercial. La seguridad informática de ese país recom",
-      "imagen": "https://www.infobae.com/resizer/v2/WAIRCSHOSNEV5DHDMJDOHAZRKQ.png?auth=116f8f2b653fa19aa1e4349622fc5d42db956755bc1598bac721668d51afa99b&smart=true&width=2752&height=1536",
+      "titulo": "¡No te busques un lío! Ver fútbol pirata te puede dejar sin internet",
+      "resumen": "¡Epa, mi pana! Si estás pensando en ver el Barcelona contra el Aston Villa por páginas raras como Fútbol Libre o Roja Directa, piénsalo dos veces. Aparte de que te pueden robar los datos o meterle un ",
+      "imagen": "https://www.infobae.com/resizer/v2/IPYZYYLQVVHFLDP7Q7BGFYS2FE.jpg?auth=9acad31c5b2a0512b5e0fbb7b9a98ac095e1a98e9d2788f3a730ca0eccdaf948&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/03/apple-alerto-a-diputados-y-funcionarios-de-alemania-sobre-posibles-ataques-con-software-espia-a-sus-iphone/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/ver-barcelona-vs-aston-villa-en-futbol-libre-o-roja-directa-puede-traer-la-suspension-del-internet/"
     },
     {
-      "titulo": "¡Entérate! Las ranuras de las escaleras mecánicas son clave para tu seguridad",
-      "resumen": "Esas rayitas que ves en los escalones de las escaleras eléctricas tienen una razón de ser muy importante: evitar accidentes. No están ahí de adorno, sino para encajar con una placa de metal llamada 'p",
-      "imagen": "https://www.infobae.com/resizer/v2/JLW4GY76ZBFF3HD5Q3TM6BSM6M.png?auth=c8bb87f84e973d8e7bc01727206023fec0701309c628c0ac68d200562100da1d&smart=true&width=2752&height=1536",
+      "titulo": "¡La IA anda volando! Claude ya programa casi todo el código de Anthropic",
+      "resumen": "¡Cónchale, la tecnología no juega! Resulta que la inteligencia artificial Claude ya está escribiendo más del 90% del código de su propia empresa, Anthropic. Esto tiene a la gente asombrada porque el d",
+      "imagen": "https://www.infobae.com/resizer/v2/72REIYFVTVBNLJRFG3ASD6OBRE.JPG?auth=b021cadd3f405fd0631e8be68e29ecc750bd4bff99e9d90a1fd7ee31262e7d79&smart=true&width=4000&height=2667",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/03/para-que-sirven-las-ranuras-de-las-escaleras-electricas-su-importante-funcion-y-la-razon-detras-de-su-diseno/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/claude-ya-programa-mas-del-90-del-codigo-de-anthropic-y-acelera-su-propio-desarrollo/"
     }
   ]
 }
