@@ -1,50 +1,50 @@
 {
-  "actualizado": "02/11/2026, 05:00 p. m.",
+  "actualizado": "03/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que madruga, Dios lo ayuda, pero el que hace las cosas con cariño y una sonrisa, ¡siempre llega a la meta con el corazón contento y la arepa calientica!",
+    "texto": "Mire mi gente, no se me achicopale por nada, que después de la tormenta siempre sale el sol y el que le echa pichón con alegría, siempre encuentra su arepa bien rellena. ¡Pa' lante es pa' allá!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A brillar en Egipto! Nuestros chamos del tenis vuelven a una final mundial",
-      "resumen": "¡Qué orgullo, mi gente! Después de 22 años de espera, la delegación venezolana de tenis junior se metió en las finales de la Copa Davis en El Cairo. Nuestros muchachos de menos de 16 años están hacien",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-56-300x225.png",
+      "titulo": "¡Rugieron los Tigres! Aragua le dio una paliza a los Cardenales en Maracay",
+      "resumen": "Los bengalíes se hicieron respetar en casa y le metieron 8 carreras por 2 a los pájaros rojos este lunes. Con este triunfo, los Tigres llegan a 10 victorias en la zafra y le ganan el primero a Lara. A",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261102_235243_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/tenis/venezuela-estara-presente-en-el-mundial-de-tenis-junior/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/los-tigres-vencieron-a-cardenales-en-maracay/"
     },
     {
-      "titulo": "¡Pura candela! Rodrigo Pollero manda en la tabla de goleadores del Futve",
-      "resumen": "La cosa está que arde en nuestra liga. El uruguayo Rodrigo Pollero, del Deportivo Táchira, sigue mandando en la tabla con 16 goles. Pero ojo, que el experimentado Nicolás 'Miku' Fedor le está respiran",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Rodrigo-Pollero-300x169.jpg",
+      "titulo": "¡Pura candela! Ronny Mauricio se estrena este martes con el Licey",
+      "resumen": "El bigleaguer de los Mets de Nueva York, Ronny Mauricio, se pone el uniforme de los Tigres del Licey para debutar este martes contra las Águilas Cibaeñas. El versátil jugador busca sacarse la espinita",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261102_215204_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futve/rodrigo-pollero-lidera-la-tabla-de-goleadores-del-futve/"
+      "link": "https://www.liderendeportes.com/baseball/ronny-mauricio-debutara-este-martes-con-el-licey/"
     },
     {
-      "titulo": "¡La Tribu está imparable! Caribes de Anzoátegui manda en la pelota criolla",
-      "resumen": "¡Mano, tengo fe con los orientales! Caribes se coronó como el equipo de la semana tras ganar cinco de seis juegos. Con un registro de 14-4, los de Anzoátegui están en lo más alto de la LVBP. Fabricaro",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Jesus-Sucre-300x225.png",
+      "titulo": "¡El Glorioso no perdona! Licey venció a las Estrellas y sigue mandando en LIDOM",
+      "resumen": "En un juego de infarto que terminó 2 por 1, los Tigres del Licey sumaron su novena victoria ante las Estrellas Orientales. El lanzador Albert Abreu se montó en la lomita y dictó cátedra durante cinco ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261102_212848_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/caribes-es-el-equipo-de-la-semana/"
+      "link": "https://www.liderendeportes.com/baseball/el-licey-vencio-a-las-estrellas-y-continua-al-frente-lidom/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Homenaje a un grande! Celebran los 90 años de Miguel Ángel Landa en la Cinemateca",
-      "resumen": "¡Con el favor de Dios y mucha alegría! Caracas celebra la vida del icónico Miguel Ángel Landa con un ciclo de cine gratuito en el Museo de Bellas Artes. Podremos disfrutar de sus grandes películas com",
+      "titulo": "¡Homenaje a un grande! Celebran los 90 años de Miguel Ángel Landa en Caracas",
+      "resumen": "La Cinemateca Nacional se viste de gala para celebrar la vida del icónico Miguel Ángel Landa. Hasta el 8 de noviembre, en el Museo de Bellas Artes, podrán disfrutar gratis de un ciclo de cine con sus ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-300x300.webp",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cinemateca-celebra-90-anos-de-miguel-angel-landa-con-ciclo-de-cine/"
     },
     {
-      "titulo": "¡Llegó el olor a hallaca! Caracas le dio la bienvenida a la Navidad con gaitas",
-      "resumen": "¡Se prendió el parrandón! En Bellas Artes y San Agustín ya se siente el ambiente navideño. Con gaitas y parrandas, las familias caraqueñas celebraron el inicio de las fiestas en paz. Además, se le rin",
+      "titulo": "¡Llegó el olor a hallaca! Caracas arrancó la Navidad con gaitas y parrandas",
+      "resumen": "El Eje del Buen Vivir se llenó de alegría este domingo para darle la bienvenida a la época más bonita del año. Entre parrandas y gaitas, las familias de San Agustín y Bellas Artes compartieron en paz.",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inicio-de-la-navidad-en-caracas-sono-a-parrandas-y-gaitas/"
     },
     {
-      "titulo": "¡Cultura a millón! El concierto 'Venezuela Esperanza que Renace' triunfó en Los Teques",
-      "resumen": "El Teatro Emma Soler se llenó de magia con una presentación que unió al Sistema de Orquestas y la Misión Viva Venezuela. Tarek William Saab destacó el éxito de este evento en Los Teques, donde la músi",
+      "titulo": "¡Cultura a millón! El concierto 'Esperanza que Renace' retumbó en Los Teques",
+      "resumen": "El Teatro Emma Soler se llenó de música y sentimiento con el concierto «Venezuela Esperanza que Renace». Tarek William Saab resaltó el éxito de este evento que unió a la Gran Misión Viva Venezuela con",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-3.17.46-PM-300x251.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/tarek-william-saab-destaco-el-exito-venezuela-esperanza-que-renace-en-los-teques/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Se adelantó el regalo! Ya andan vendiendo el nuevo Zelda para Switch 2",
-      "resumen": "¡Mosca con esto! Aunque el estreno oficial es en unos días, ya se vieron copias físicas de Zelda: Ocarina of Time para la Switch 2 en algunas tiendas. Unos suertudos ya tienen el juego en la mano ante",
-      "imagen": "https://www.infobae.com/resizer/v2/L72DXYCYHJCG3ITFNRBHFJGBXE.jpg?auth=f50ba56ba7bf0f552ee51a48d731dba20f0ca3e1c4fcb4025cbf42c9b0e7ac8c&smart=true&width=1920&height=1079",
+      "titulo": "¡Tremendo susto! Acciones de Oracle bajaron tras pedir un dineral para IA",
+      "resumen": "La gente de Oracle pidió 20.000 millones de dólares a los inversionistas para meterle el pecho a la Inteligencia Artificial, pero la noticia no cayó muy bien en la bolsa y sus acciones bajaron un 8,8%",
+      "imagen": "https://www.infobae.com/resizer/v2/YBPKNXGXCVGG3DMFAP3QLS7CPQ.JPG?auth=f34ba3e65b4c85371112275989573a5579d85a93164eca3d3f7286f1721983af&smart=true&width=5512&height=3712",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/02/venden-copias-fisicas-de-zelda-ocarina-of-time-para-switch-2-antes-de-su-estreno-oficial/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/oracle-pidio-usd-20000-millones-a-inversores-y-sus-acciones-cayeron-hasta-88-en-un-dia/"
     },
     {
-      "titulo": "¡Qué locura! Transforman a las Guerreras K-pop en dioses de Dragon Ball con IA",
-      "resumen": "¿Te imaginas a las estrellas del K-pop como personajes de Dragon Ball Super? Pues con la inteligencia artificial Gemini de Google, ahora es posible. Usando instrucciones precisas, lograron mezclar el ",
-      "imagen": "https://www.infobae.com/resizer/v2/JPSGUV23Y5DATMKUFWH6HYHX7M.png?auth=ec25967a2326d69589ef977928d22a1e89dcf162207c2f6537c87eb6c039260b&smart=true&width=1920&height=1080",
+      "titulo": "¡Mosca con el iPhone! Apple avisó sobre posibles ataques espías en Alemania",
+      "resumen": "Apple le prendió las alarmas a varios diputados y funcionarios alemanes avisándoles que sus teléfonos pudieron ser hackeados con un software espía comercial. La seguridad informática de ese país recom",
+      "imagen": "https://www.infobae.com/resizer/v2/WAIRCSHOSNEV5DHDMJDOHAZRKQ.png?auth=116f8f2b653fa19aa1e4349622fc5d42db956755bc1598bac721668d51afa99b&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/02/como-se-verian-las-guerreras-k-pop-como-dioses-de-la-destruccion-de-dragon-ball-super/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/apple-alerto-a-diputados-y-funcionarios-de-alemania-sobre-posibles-ataques-con-software-espia-a-sus-iphone/"
     },
     {
-      "titulo": "¡Pilas ahí! Sam Altman dice que ChatGPT tiene más poder que cualquier humano",
-      "resumen": "El jefe de OpenAI soltó una perla: afirma que ChatGPT ya es más poderoso que cualquier persona que haya existido. En su ensayo 'The Gentle Singularity', Altman explica que no es que la IA sea más inte",
-      "imagen": "https://www.infobae.com/resizer/v2/X4A2QB7NVFAERAGDSUT62ZYDTA.JPG?auth=7524821bd5742e411978d83fece56c8a86a9a831e9e9a3a773b6e797aae41c69&smart=true&width=800&height=533",
+      "titulo": "¡Entérate! Las ranuras de las escaleras mecánicas son clave para tu seguridad",
+      "resumen": "Esas rayitas que ves en los escalones de las escaleras eléctricas tienen una razón de ser muy importante: evitar accidentes. No están ahí de adorno, sino para encajar con una placa de metal llamada 'p",
+      "imagen": "https://www.infobae.com/resizer/v2/JLW4GY76ZBFF3HD5Q3TM6BSM6M.png?auth=c8bb87f84e973d8e7bc01727206023fec0701309c628c0ac68d200562100da1d&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/02/chatgpt-ya-es-mas-poderoso-que-cualquier-ser-humano-sam-altman-ceo-de-openai-sobre-el-alcance-de-la-ia/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/para-que-sirven-las-ranuras-de-las-escaleras-electricas-su-importante-funcion-y-la-razon-detras-de-su-diseno/"
     }
   ]
 }
