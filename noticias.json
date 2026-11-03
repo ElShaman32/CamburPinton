@@ -1,50 +1,50 @@
 {
-  "actualizado": "03/11/2026, 12:00 p. m.",
+  "actualizado": "03/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi llave, que el que madruga Dios lo ayuda, pero el que tiene fe y le echa pichón, ¡no hay cerro que lo detenga ni arepa que le falte! ¡A darle con todo hoy!",
+    "texto": "Mire, mi pana, recuerde que camarón que se duerme se lo lleva la corriente, pero el que le echa pichón con una sonrisa, ¡siempre corona su arepa! ¡Pa' lante es pa' allá!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Puro sabor y zapatillas! Las Tejerías se activó con su caminata 5K",
-      "resumen": "¡Epa, mi gente! Más de 500 personas se lanzaron a la calle en Las Tejerías para la 5K Night Run. Familias enteras y atletas le echaron pichón desde el peaje de Guayas hasta el casco histórico. La cosa",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Las-Tejerias-300x225.jpg",
+      "titulo": "¡Nuestras muchachas del futsal mandaron a Senegal a lavarse ese gallo!",
+      "resumen": "Con un zapatazo de Valezka Gutiérrez, la Vinotinto femenina de futsal le ganó 1-0 a Senegal en Dakar. Después de caer ante Ucrania, las chamas se pusieron las pilas y con una actuación estelar de la p",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-58-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/atletismo/mas-de-500-atletas-y-familias-corrieron-la-5k-de-las-tejerias/"
+      "link": "https://www.liderendeportes.com/futbol/futsal/venezuela-a-un-paso-de-semifinales-del-futsal-en-dakar/"
     },
     {
-      "titulo": "¡Honor a quien honor merece! El Thunder retirará la '0' de Westbrook",
-      "resumen": "¡Vaya noticia, vale! El Oklahoma City Thunder anunció que el próximo 7 de febrero de 2027 van a colgar la camiseta número '0' de Russell Westbrook. El hombre es una leyenda allá, jugó 11 temporadas y ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Russell-Westbrook--300x225.jpg",
+      "titulo": "¡Se acabó lo que se daba! Argentina saca su lista sin el astro Messi",
+      "resumen": "El profe Scaloni soltó la convocatoria de la albiceleste para los amistosos contra Uruguay y Costa Rica y, ¡agárrate!, que Messi no aparece por ningún lado. Es la primera lista oficial tras su despedi",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/07/Argentina-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/el-thunder-ofrecera-homenaje-a-russell-westbrook/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/argentina-revelo-su-primera-convocatoria-despues-de-messi/"
     },
     {
-      "titulo": "¡De Chacao para la capital! Yeferson Guerra llega a Hidrocarburos de Caracas",
-      "resumen": "El baloncesto nacional se pone bueno porque el escolta Yeferson Guerra, orgullo de Chacao, se viene a reforzar a Hidrocarburos de Caracas en la LSB. El pana llega directo desde México, donde estaba dá",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Yeferson-Guerra-3-300x225.jpg",
+      "titulo": "¡Luka Doncic anda más encendido que fogón de leña en la NBA!",
+      "resumen": "El esloveno Luka Doncic está intratable en su novena temporada. El hombre anda repartiendo leña parejo: le metió 45 puntos a Toronto y al día siguiente se bajó con 42 contra Miami. Sin LeBron en los L",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/11/Diseno-sin-titulo-4-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/sin-categoria/yeferson-guerra-reforzara-a-hidrocarburos-de-caracas/"
+      "link": "https://www.liderendeportes.com/basketball/nba/luka-doncic-ha-tenido-un-gran-arranque-de-temporada/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡90 años de puro talento! Homenaje cinematográfico a Miguel Ángel Landa",
-      "resumen": "¡Con el favor de Dios y mucho cariño! La Cinemateca Nacional en Bellas Artes está celebrando los 90 años del gran Miguel Ángel Landa. Hasta el 8 de noviembre podrán disfrutar gratis de sus mejores pel",
+      "titulo": "¡Homenaje al grande! Celebran los 90 años de Miguel Ángel Landa en la Cinemateca",
+      "resumen": "¡Con el favor de Dios y mucho talento! La Cinemateca Nacional en Bellas Artes tira la casa por la ventana para celebrar los 90 años del primerísimo actor Miguel Ángel Landa. Hasta el 8 de noviembre ha",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-300x300.webp",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cinemateca-celebra-90-anos-de-miguel-angel-landa-con-ciclo-de-cine/"
     },
     {
-      "titulo": "¡Llegó el olor a pino! Caracas recibió la Navidad con gaitas y parrandas",
-      "resumen": "¡Ay papá, se prendió la fiesta! El Eje del Buen Vivir en Bellas Artes se llenó de alegría para darle la bienvenida a la Navidad. Entre gaitas y parrandas, las familias de San Agustín y zonas vecinas c",
+      "titulo": "¡Llegó el olor a hallaca! Caracas arrancó la Navidad con pura gaita y parranda",
+      "resumen": "En el Eje del Buen Vivir de Bellas Artes se prendió el parrandón para darle la bienvenida a la Navidad. Entre gaitas y alegría familiar, aprovecharon para rendirle un merecido homenaje al maestro timb",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inicio-de-la-navidad-en-caracas-sono-a-parrandas-y-gaitas/"
     },
     {
-      "titulo": "¡Cultura a millón! Los Teques vibró con el concierto 'Venezuela Esperanza que Renace'",
-      "resumen": "El Teatro Emma Soler se puso de gala con un conciertazo que unió a la Gran Misión Viva Venezuela y al Sistema de Orquestas. Tarek William Saab destacó el éxito de este evento que puso a gozar a todo e",
+      "titulo": "¡Cultura a millón! El concierto 'Esperanza que Renace' retumbó en Los Teques",
+      "resumen": "El Teatro Emma Soler se llenó de música y sentimiento con el evento «Venezuela Esperanza que Renace». Tarek William Saab celebró el éxito de esta unión entre la Misión Viva Venezuela y El Sistema de O",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-3.17.46-PM-300x251.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/tarek-william-saab-destaco-el-exito-venezuela-esperanza-que-renace-en-los-teques/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mosca ahí! Apple pondrá lupa de 18 años a las apps de citas",
-      "resumen": "¡Atención, familia tecnológica! Apple se puso seria y anunció que a partir del 16 de noviembre de 2026, todas las apps de citas y chatbots con temas románticos serán solo para mayores de 18 años. Los ",
-      "imagen": "https://www.infobae.com/resizer/v2/URG5G5BA3VDY3K6MLSQAGIOTSE.JPG?auth=ca5259f715911aebd63b4c317c997f8802da77a7760685c7dfe3ecd2968f68d0&smart=true&width=3535&height=2356",
+      "titulo": "¡Mosca con lo regalado! Esas apps de películas gratis te pueden joder el celular",
+      "resumen": "¡No te dejes meter gato por liebre! Andan por ahí unas aplicaciones APK que prometen cine gratis pero son puros virus 'caballos de Troya'. Al bajarlas fuera de las tiendas oficiales, le abres la puert",
+      "imagen": "https://www.infobae.com/resizer/v2/ZGYFXU2YFFAHTCIXYPSEVOJWVA.jpg?auth=4acc024d7c9acbf8fbdd9b13c899b8ceb1bfa6dad06a81c7a178b7231d9075d8&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/03/apple-pondra-clasificacion-de-mayores-de-18-a-las-apps-de-citas-y-a-los-chatbots-de-compania-romantica/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/la-falsa-promesa-del-streaming-gratis-asi-infectan-tu-celular-las-apks-de-origen-desconocido/"
     },
     {
-      "titulo": "¡No te busques un lío! Ver fútbol pirata te puede dejar sin internet",
-      "resumen": "¡Epa, mi pana! Si estás pensando en ver el Barcelona contra el Aston Villa por páginas raras como Fútbol Libre o Roja Directa, piénsalo dos veces. Aparte de que te pueden robar los datos o meterle un ",
-      "imagen": "https://www.infobae.com/resizer/v2/IPYZYYLQVVHFLDP7Q7BGFYS2FE.jpg?auth=9acad31c5b2a0512b5e0fbb7b9a98ac095e1a98e9d2788f3a730ca0eccdaf948&smart=true&width=1920&height=1080",
+      "titulo": "¡Lo que faltaba! En San Francisco buscan gente para pasear perros robot",
+      "resumen": "¡Mundo loco, vale! Una empresa en San Francisco está ofreciendo 20 dólares la hora por pasear perros, pero no de carne y hueso, sino robóticos. El anuncio salió en Facebook y no pide experiencia, solo",
+      "imagen": "https://www.infobae.com/resizer/v2/2BDM4HWEAZG5PPLGK77ZJSTAXM.png?auth=fab1c80261347014c02779641cf4c71d0acd6f455a3c5872a0fd1dc90ae65972&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/03/ver-barcelona-vs-aston-villa-en-futbol-libre-o-roja-directa-puede-traer-la-suspension-del-internet/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/ahora-se-buscan-paseadores-de-perros-robot-pagan-hasta-20-dolares-la-hora/"
     },
     {
-      "titulo": "¡La IA anda volando! Claude ya programa casi todo el código de Anthropic",
-      "resumen": "¡Cónchale, la tecnología no juega! Resulta que la inteligencia artificial Claude ya está escribiendo más del 90% del código de su propia empresa, Anthropic. Esto tiene a la gente asombrada porque el d",
-      "imagen": "https://www.infobae.com/resizer/v2/72REIYFVTVBNLJRFG3ASD6OBRE.JPG?auth=b021cadd3f405fd0631e8be68e29ecc750bd4bff99e9d90a1fd7ee31262e7d79&smart=true&width=4000&height=2667",
+      "titulo": "¡De película! Crean un perro robot que se mueve con neuronas humanas vivas",
+      "resumen": "Científicos australianos lograron una vaina que parece de ciencia ficción: conectaron neuronas humanas a un chip para controlar un perro robot. No es que el bicho tenga cerebro propio, sino que el cul",
+      "imagen": "https://www.infobae.com/resizer/v2/YZMF5TV7QJDH3PBSQ6WNX4E2RI.jpg?auth=f63b235009520f83ac32045e9285a2ed998d9e6a0829e322f0e08710ed88ca9d&smart=true&width=2048&height=1366",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/03/claude-ya-programa-mas-del-90-del-codigo-de-anthropic-y-acelera-su-propio-desarrollo/"
+      "link": "https://www.infobae.com/tecno/2026/11/03/crean-un-perro-robot-controlado-por-neuronas-humanas-vivas-y-logran-que-se-mueva-solo/"
     }
   ]
 }
