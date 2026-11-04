@@ -1,50 +1,50 @@
 {
-  "actualizado": "04/11/2026, 06:00 a. m.",
+  "actualizado": "04/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Mire, mi vale, póngale corazón a lo que hace, que el que nace para martillo, del cielo le caen los clavos, ¡pero el que es echao' pa' lante siempre encuentra su arepa bien rellena!",
+    "texto": "¡Epa, mi gente! Recuerden que el que madruga, Dios lo ayuda, pero el que se toma su cafecito con fe, ¡no hay mal que por bien no venga ni arepa que se le queme! ¡A echarle pichón con alegría!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Palo y más palo! Caribes le dio hasta con el tobo a las Águilas",
-      "resumen": "En un juego que fue puro toma y dame, la Tribu se impuso 16-12 a los rapaces en Maracaibo. Los orientales armaron un rumbón de 10 carreras en el cuarto inning, con jonronazo de Leonel Valera incluido.",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Balbino-Fuenmayor-300x225.png",
+      "titulo": "Messi es el chamo de las ventas: ¡Lidera camisas en la MLS por cuarto año!",
+      "resumen": "¡Epa, mi gente! El astro argentino Lionel Messi sigue mandando en la MLS. Por cuarto año seguido, su camisa es la más buscada según informó la liga. En el podio lo acompañan Son Heung-Min y Thomas Mül",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Lionel-Messi-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/sin-categoria/caribes-se-impone-a-aguilas-en-festival-de-bateo/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/messi-lidera-por-cuarto-ano-consecutivo-la-venta-de-camisetas-de-la-mls/"
     },
     {
-      "titulo": "¡Pa' encima! Los Tiburones mandaron en el Monumental ante el Caracas",
-      "resumen": "La Guaira no tuvo compasión y le ganó 9-4 a los Leones en su propia cueva. Con 14 imparables, los salados castigaron el pitcheo melenudo desde temprano. Alcides Escobar y Javier Rivas se la botaron pa",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Alcides-Escobar-300x225.png",
+      "titulo": "¡Elieser Hernández se la puso difícil a los Leones y mandó en el Monumental!",
+      "resumen": "¡Vaya clase de pitcheo, vale! Elieser Hernández se lució en La Rinconada y guio el triunfo de los Tiburones 9-4 sobre el Caracas. El derecho lanzó cinco innings de joyita, permitiendo solo tres hits p",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Elieser-Hernandez-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/tiburones-gano-comodamente-en-el-monumental/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/elieser-hernandez-se-reivindico-al-dominar-a-leones/"
     },
     {
-      "titulo": "¡Buenas noticias! Kawhi Leonard ya está listo para volver al tabloncillo",
-      "resumen": "Los Raptors de Toronto soltaron la lengua y dijeron que la rodilla izquierda de Kawhi Leonard ya está fina tras recibir su tratamiento para la hinchazón. El hombre se había perdido cinco juegos donde ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261103_224804_0000-300x225.png",
+      "titulo": "¡Gran Yaco voló bajito! Se llevó el magno evento del hipismo venezolano",
+      "resumen": "¡Qué carrera tan buena, compadre! Gran Yaco apareció como una tromba en los últimos 600 metros para ganar sobrado el Clásico. Fue el debut soñado para el entrenador Noel Kucich y el jinete Yoelbis Gon",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gran-Yaco-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/los-raptors-informaron-que-la-rodilla-de-kawhi-leonard-ya-fue-tratada/"
+      "link": "https://www.liderendeportes.com/opinion/jose_luis_dangelo/gran-yaco-fue-una-tromba/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Homenaje al grande! Celebran los 90 años de Miguel Ángel Landa en Caracas",
-      "resumen": "La Cinemateca Nacional se puso las pilas para festejar las nueve décadas del icónico Miguel Ángel Landa con un ciclo de cine gratuito en Bellas Artes. Hasta el 8 de noviembre podrán vacilarse clásicos",
+      "titulo": "¡90 años de puro talento! Homenajean a Miguel Ángel Landa en la Cinemateca",
+      "resumen": "¡Con el cariño de siempre! La Cinemateca Nacional celebra los 90 años del gran Miguel Ángel Landa con un ciclo de cine gratuito en el Museo de Bellas Artes. Hasta el 8 de noviembre podrán disfrutar de",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-300x300.webp",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cinemateca-celebra-90-anos-de-miguel-angel-landa-con-ciclo-de-cine/"
     },
     {
       "titulo": "¡Llegó el parrandón! Caracas le dio la bienvenida a la Navidad con gaitas",
-      "resumen": "En Bellas Artes se armó el bonche navideño con puras gaitas y parrandas para recibir la época más bonita del año. Las familias de San Agustín se acercaron para disfrutar y de paso homenajearon al gran",
+      "resumen": "¡Se prendió la fiesta en Bellas Artes! Con gaitas y parrandas, el Eje del Buen Vivir recibió la Navidad por todo lo alto. Las familias de San Agustín y alrededores se reunieron para disfrutar y homena",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inicio-de-la-navidad-en-caracas-sono-a-parrandas-y-gaitas/"
     },
     {
-      "titulo": "¡Cultura a millón! El concierto 'Esperanza que Renace' triunfó en Los Teques",
-      "resumen": "El Teatro Emma Soler se llenó de música y talento con el evento 'Venezuela Esperanza que Renace'. Tarek William Saab destacó el éxito de esta unión entre la Gran Misión Viva Venezuela y El Sistema de ",
+      "titulo": "¡Cultura a millón! El concierto 'Venezuela Esperanza que Renace' triunfó",
+      "resumen": "¡Qué nota, mi gente! El Teatro Emma Soler de Los Teques se llenó de música con el concierto 'Venezuela Esperanza que Renace'. Fue un junte poderoso entre El Sistema, la Misión Viva Venezuela y las aut",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-3.17.46-PM-300x251.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/tarek-william-saab-destaco-el-exito-venezuela-esperanza-que-renace-en-los-teques/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Tremendo golpe al bolsillo! Dueña de Cash App pagará una millonada en EE.UU.",
-      "resumen": "La empresa Block, del mismísimo Jack Dorsey, tuvo que bajarse de la mula con 764 millones de dólares para que la justicia gringa le aplace un cargo penal. El lío es por no tener un programa efectivo c",
-      "imagen": "https://www.infobae.com/resizer/v2/MYKQQYEBW5CDTD4YXU5JT6NCNE.JPG?auth=7f0f9084b13259095f02e807b12e576958874280c5a00605b7cd47c3492587a8&smart=true&width=4000&height=2667",
+      "titulo": "¡A cantar se ha dicho! Apple lanza 'Selfie Sing' para que seas la estrella",
+      "resumen": "¡Ponte las pilas que ahora el iPhone es tu tarima! Apple sacó 'Selfie Sing', una función para que cantes tus temas favoritos en Apple Music mientras el celular te graba en video. Viene con el iOS 27.3",
+      "imagen": "https://www.infobae.com/resizer/v2/PJMHUEPGBNB7PDUE3T6L3HSVPU.png?auth=514042edcc8d0f038b4bc4683e24f9caf26f7dbd8d943dea77045a6322d46fa4&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/04/la-duena-de-cash-app-pagara-usd-764-millones-para-que-estados-unidos-aplace-un-cargo-penal/"
+      "link": "https://www.infobae.com/tecno/2026/11/04/apple-creo-un-karaoke-con-iphone-la-letra-la-da-apple-music-y-el-celular-te-graba-en-video-con-selfie-sing/"
     },
     {
-      "titulo": "¡El iPhone Duo hace de todo! Descubre los secretos del nuevo plegable",
-      "resumen": "Apple se lanzó al ruedo de los teléfonos que se doblan y el iPhone Duo trae unos trucos bajo la manga que te dejarán loco. Aparte de la pantalla flexible, puedes abrir dos apps al mismo tiempo con un ",
-      "imagen": "https://www.infobae.com/resizer/v2/5BWL43D7XVA7PKVKLIN4IEEDZA.JPG?auth=59c2f69276f5e7f9e7d25c3a24f596504ca7ad78ccd1aac895073d499986a83e&smart=true&width=4677&height=3015",
+      "titulo": "¡Xbox se botó! Más de 20 juegos gratis llegan al Game Pass en noviembre",
+      "resumen": "¡Atención, gamers! Xbox viene con todo este noviembre de 2026 y soltará más de 20 juegos para los que tienen Game Pass. Hay de todo un poco para los planes Ultimate y Essential. Pero mosca, que así co",
+      "imagen": "https://www.infobae.com/resizer/v2/UR3J72UU7FHAHKHGVSGQL6776A.jpg?auth=6d0a1cae98b21fd745a096e3acc62112a6a3965c95c07b9d3023ec77aef598ca&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/04/de-la-multitarea-a-los-emuladores-lo-que-no-sabias-que-tu-iphone-duo-puede-hacer/"
+      "link": "https://www.infobae.com/tecno/2026/11/04/xbox-ofrece-mas-de-20-juegos-gratuitos-a-suscriptores-de-game-pass-cuales-son-y-como-reclamarlos/"
     },
     {
-      "titulo": "¡Lo último de Apple! Vienen funciones de inteligencia artificial a granel",
-      "resumen": "Ya soltaron las versiones beta de iOS 27.3 y watchOS 27.3 para que los desarrolladores metan la lupa. Lo más nuevo es que traen inteligencia artificial que nunca descansa, una plataforma de IA repoten",
-      "imagen": "https://www.infobae.com/resizer/v2/X4ORCKMONFGYDHOLEXUTG3N744.jpg?auth=7aa8bf16c27a3818a57295ed816efcfbde7f2723157c5695d8c8550da01c718e&smart=true&width=4716&height=3144",
+      "titulo": "¡Vuela tu PC! Windows 11 acelera hasta un 40% las compus con 8 GB de RAM",
+      "resumen": "¡Tremenda noticia para tu computadora! Microsoft anunció una actualización de Windows 11 que pone a volar las PC con 8 GB de RAM, mejorando la velocidad hasta un 40% en multitarea. La idea es que el s",
+      "imagen": "https://www.infobae.com/resizer/v2/23DY4N5HWNAV5BXI4JUSRGJ7XM.jpg?auth=34f4681895647aa54e89b43a693b652d9184b6d66e498a95a27dc1c057fc884c&smart=true&width=1920&height=1078",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/04/apple-lanza-las-primeras-versiones-beta-de-ios-273-y-watchos-273-con-ia-siempre-activa/"
+      "link": "https://www.infobae.com/tecno/2026/11/04/nueva-actualizacion-de-windows-11-vuelve-40-mas-rapido-un-pc-con-memoria-ram-de-8-gb/"
     }
   ]
 }
