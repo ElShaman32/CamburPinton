@@ -1,76 +1,76 @@
 {
-    "actualizado": "05/11/2026, 12:00 p. m.",
-      "motivacional": {
-          "texto": "Acuérdate, mi llave: el que madruga, Dios lo ayuda, pero el que se toma su cafecito con fe y alegría, ¡no hay obstáculo que lo pare! Pa' lante es pa' allá, que el sol sale para todos.",
-              "autor": "Cambur Pintón"
-                },
-                  "deportes": [
-                      {
-                            "titulo": "¡Harry Kane se queda en el Bayern hasta el 2029!",
-                                  "resumen": "El goleador inglés y actual Balón de Oro no se mueve de Alemania. El Bayern Múnich soltó el tubazo de que renovaron a Kane hasta el 2029 para seguir mandando en la Bundesliga. El hombre dice que se si",
-                                        "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Harry-Kane-9-300x225.jpg",
-                                              "fuente": "Lider",
-                                                    "link": "https://www.liderendeportes.com/futbol/futbol-europeo/harry-kane-seguira-dentro-del-bayern-munich/"
-                                                        },
-                                                            {
-                                                                  "titulo": "¿Cómo rendir los reales en el Aviator? El truco de las 200 rondas",
-                                                                        "resumen": "Si te gusta el juego del avioncito, mosca con este dato. Hicieron una prueba de 200 rondas apostando 2 dólares para ver qué rinde más: si cobrar todo de una en 2x o repartir la apuesta en dos partes, ",
-                                                                              "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/image-300x182.png",
-                                                                                    "fuente": "Lider",
-                                                                                          "link": "https://www.liderendeportes.com/negocios/retiros-escalonados-en-aviator-que-pasa-con-tu-saldo-en-200-rondas-con-tres-objetivos/"
-                                                                                              },
-                                                                                                  {
-                                                                                                        "titulo": "¡Orgullo criollo! Aarón Hernández la dio toda en el triatlón de Dakar",
-                                                                                                              "resumen": "Nuestro muchacho Aarón Hernández se lució quedando de 15 en el triatlón de los Juegos Olímpicos de la Juventud Dakar 2026. Fue el segundo mejor de todo el continente y salió de la natación entre los p",
-                                                                                                                    "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Aaron-Hernandez--300x225.jpg",
-                                                                                                                          "fuente": "Lider",
-                                                                                                                                "link": "https://www.liderendeportes.com/mas-deportes/aaron-hernandez-lucho-en-el-triatlon-de-dakar/"
-                                                                                                                                    }
-                                                                                                                                      ],
-                                                                                                                                        "espectaculos": [
-                                                                                                                                            {
-                                                                                                                                                  "titulo": "¡Qué molleja! Maracaibo celebrará por todo lo alto a Neguito Borjas",
-                                                                                                                                                        "resumen": "Este 8 de noviembre Maracaibo tira la casa por la ventana para homenajear a Neguito Borjas por sus 50 años de carrera. Diez agrupaciones gaiteras se van a montar en el escenario para cantarle al compo",
-                                                                                                                                                              "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/1002561785-300x200.jpg",
-                                                                                                                                                                    "fuente": "Ultimas Noticias",
-                                                                                                                                                                          "link": "https://ultimasnoticias.com.ve/zulia/homenaje-a-neguito-borjas-marcara-el-dia-del-gaitero-en-maracaibo/"
-                                                                                                                                                                              },
-                                                                                                                                                                                  {
-                                                                                                                                                                                        "titulo": "¡Chivacoa se pone de película! Yaracuy recibe el Festival de Cine en diciembre",
-                                                                                                                                                                                              "resumen": "Prepárense en Yaracuy porque del 3 al 5 de diciembre Chivacoa será la capital del cine con el Festicii 2026. Las autoridades confirmaron que el evento se hará en el nuevo Cine Teatro Lido. Es una opor",
-                                                                                                                                                                                                    "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/09/1-El-cine-ofrecera-una-variada-programacion-para-tods-las-edades-300x169.jpg",
-                                                                                                                                                                                                          "fuente": "Ultimas Noticias",
-                                                                                                                                                                                                                "link": "https://ultimasnoticias.com.ve/yaracuy/chivacoa-sera-sede-del-festival-de-cine-en-diciembre/"
-                                                                                                                                                                                                                    },
-                                                                                                                                                                                                                        {
-                                                                                                                                                                                                                              "titulo": "¡Cultura gratis! La vida de Rómulo Gallegos llega a la Concha Acústica",
-                                                                                                                                                                                                                                    "resumen": "Caracas se llena de llano y palabra este 14 de noviembre. En la Concha Acústica de Bello Monte presentarán una obra espectacular sobre Rómulo Gallegos con entrada libre. Podrás ver a personajes como D",
-                                                                                                                                                                                                                                          "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-300x200.jpeg",
-                                                                                                                                                                                                                                                "fuente": "Ultimas Noticias",
-                                                                                                                                                                                                                                                      "link": "https://ultimasnoticias.com.ve/cultura/la-obra-escenica-romulo-gallegos-selva-llano-y-palabra-llega-a-caracas-con-funcion-gratuita/"
-                                                                                                                                                                                                                                                          }
-                                                                                                                                                                                                                                                            ],
-                                                                                                                                                                                                                                                              "tecnologia": [
-                                                                                                                                                                                                                                                                  {
-                                                                                                                                                                                                                                                                        "titulo": "¡Mosca con el internet! No le regales tus datos a los intrusos",
-                                                                                                                                                                                                                                                                              "resumen": "Compartir los datos del celular es un tiro al piso cuando no hay WiFi, pero ¡cuidado! Si no configuras bien tu punto de acceso, cualquier 'vivo' se te pega y te puede robar hasta la información person",
-                                                                                                                                                                                                                                                                                    "imagen": "https://www.infobae.com/resizer/v2/7536LA2ESVHB3E2E4QLLYO4QS4.jpg?auth=63935f48d35ccc805e0459e53ccb723559f1b549ff8bd21f5421094bbeb88c16&smart=true&width=800&height=467",
-                                                                                                                                                                                                                                                                                          "fuente": "Infobae",
-                                                                                                                                                                                                                                                                                                "link": "https://www.infobae.com/tecno/2026/11/05/compartir-internet-desde-el-celular-puede-poner-en-riesgo-tus-datos-cuatro-consejos-para-evitar-intrusos/"
-                                                                                                                                                                                                                                                                                                    },
-                                                                                                                                                                                                                                                                                                        {
-                                                                                                                                                                                                                                                                                                              "titulo": "¡El ojo que todo lo ve! Herramienta rastrea celulares sin permiso de un juez",
-                                                                                                                                                                                                                                                                                                                    "resumen": "Se supo que una empresa llamada Penlink le vende a la policía un sistema que rastrea millones de celulares usando datos de aplicaciones y publicidad. Lo más fuerte es que en algunos sitios lo usan sin",
-                                                                                                                                                                                                                                                                                                                          "imagen": "https://www.infobae.com/resizer/v2/3JB2NNRRFZEFXIZZVE5R7YT6FY.png?auth=2b9e113501d6e7b6bfa0c333defd504b91211143528b30f8256dcef8eb4c3976&smart=true&width=2752&height=1536",
-                                                                                                                                                                                                                                                                                                                                "fuente": "Infobae",
-                                                                                                                                                                                                                                                                                                                                      "link": "https://www.infobae.com/tecno/2026/11/05/una-herramienta-vendida-a-policias-rastrea-cientos-de-millones-de-celulares-sin-orden-judicial/"
-                                                                                                                                                                                                                                                                                                                                          },
-                                                                                                                                                                                                                                                                                                                                              {
-                                                                                                                                                                                                                                                                                                                                                    "titulo": "¡Tremendo trancón! 600 mil chips de Nvidia están varados en Hong Kong",
-                                                                                                                                                                                                                                                                                                                                                          "resumen": "Hay un gentío esperando por los chips de inteligencia artificial en China, pero el gobierno de Beijing todavía no da el permiso para que entren. Son 600 mil unidades del modelo H200 que están guardadi",
-                                                                                                                                                                                                                                                                                                                                                                "imagen": "https://www.infobae.com/resizer/v2/OEHH6RMXXJDBTMONRWRRHN5OZI.JPG?auth=425dc37a2029de3745fa7f94731ebcaaa5193e9dde453bf5a09661d1506e06c9&smart=true&width=3500&height=2333",
-                                                                                                                                                                                                                                                                                                                                                                      "fuente": "Infobae",
-                                                                                                                                                                                                                                                                                                                                                                            "link": "https://www.infobae.com/tecno/2026/11/05/unos-600000-chips-de-nvidia-esperan-en-hong-kong-porque-beijing-no-autoriza-su-ingreso-a-china/"
-                                                                                                                                                                                                                                                                                                                                                                                }
-                                                                                                                                                                                                                                                                                                                                                                                  ]
-                                                                                                                                                                                                                                                                                                                                                                                  }
+  "actualizado": "05/11/2026, 05:00 p. m.",
+  "motivacional": {
+    "texto": "Mire mi gente, recuerde que el que madruga coge agua clara, pero el que le pone corazón a lo que hace, se toma el café con espumita. ¡A echarle pichón que el sol sale para todos!",
+    "autor": "Cambur Pintón"
+  },
+  "deportes": [
+    {
+      "titulo": "¡Se retira el Bicho! Cristiano Ronaldo le dice adiós a la selección de Portugal",
+      "resumen": "¡Ay papá! El legendario Cristiano Ronaldo colgó los guayos con su selección a los 41 años. Después de 23 años dándolo todo, desde su debut en 2003 hasta aquel primer golito en 2004, el astro luso deci",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/06/Diseno-sin-titulo-10-1-300x225.png",
+      "fuente": "Lider",
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/los-numeros-que-deja-cristiano-ronaldo-con-portugal/"
+    },
+    {
+      "titulo": "¡Tremendo tubazo! Al Milan lo madrugaron en su propia casa en la Europa League",
+      "resumen": "¡Naguará! El Milan se llevó un parao en la Europa League tras caer 2-0 contra el Ferencvaros en San Siro. Aunque los rossoneri tuvieron la pelota más tiempo que un muchacho con juguete nuevo, no pudie",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-7-300x225.png",
+      "fuente": "Lider",
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/el-milan-fue-sorprendido-en-su-propia-casa/"
+    },
+    {
+      "titulo": "¡Palo y más palo! David Peralta es el mandamás de octubre en nuestra LVBP",
+      "resumen": "El 'Tren de la Carga' David Peralta se despidió por todo lo alto siendo el Jugador del Mes en nuestra pelota. Con un promedio de .458 y un OPS que mete miedo, el hombre sacó cuatro jonrones en apenas ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/11/David-Peralta-300x225.png",
+      "fuente": "Lider",
+      "link": "https://www.liderendeportes.com/baseball/lvbp/david-peralta-es-el-jugador-del-mes/"
+    }
+  ],
+  "espectaculos": [
+    {
+      "titulo": "¡Puro talento! El piano se adueña del Teresa Carreño este domingo de concierto",
+      "resumen": "Prepárense para una mañana de lujo en la Sala José Félix Ribas. Este 8 de noviembre, el maestro Sadao Muraki y la Sinfónica Municipal de Caracas nos pondrán a vibrar con clásicos de Gershwin y Bernste",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-1-300x200.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/clasicos-de-piano-y-orquesta-toman-la-sala-jose-felix-ribas-del-ttc-este-8-de-noviembre/"
+    },
+    {
+      "titulo": "¡A las tablas! 'Bonita per se' se estrena en El Galpón para ponernos a reflexionar",
+      "resumen": "La joven Geryadith Areale debuta como directora en El Galpón de Caracas con una obra que toca la fibra: 'Bonita per se'. La pieza reflexiona sobre la apariencia y los trastornos alimenticios, un tema ",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-1-285x300.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/bonita-per-se-estrenara-en-las-tablas-de-el-galpon-de-caracas/"
+    },
+    {
+      "titulo": "¡Rumbo al Panteón! Piden traslado de los restos del General Juan Castañeda",
+      "resumen": "El gobernador Rafael Lacava se puso las pilas y solicitó llevar los restos del General Juan Estanislao Castañeda al Panteón Nacional. Con más de 19 mil firmas en mano recolectadas por estudiantes y cr",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/13-300x200.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/carabobo/piden-trasladar-restos-del-procer-juan-estanislao-castaneda-al-panteon/"
+    }
+  ],
+  "tecnologia": [
+    {
+      "titulo": "¡Se le chispoteó! Nvidia pierde una millonada en la bolsa tras su récord",
+      "resumen": "A la gigante tecnológica Nvidia le pegó un bajón fuerte este mes, perdiendo casi 1,4 billones de dólares en valor de mercado. Las acciones cayeron un 25% desde su pico en octubre, dejando a más de uno",
+      "imagen": "https://www.infobae.com/resizer/v2/SWXRTSMPRTNOS7ER3FRNUY4W7I.jpg?auth=2688a68c78470c4454139195e427e6903452d3e0bcaf00620c010272ae85ef38&smart=true&width=800&height=533",
+      "fuente": "Infobae",
+      "link": "https://www.infobae.com/tecno/2026/11/05/nvidia-perdio-casi-usd-14-billones-de-valor-en-un-mes-tras-su-record-del-6-de-octubre/"
+    },
+    {
+      "titulo": "¡Llegó Muse! La nueva IA de Meta aterriza en México para resolvernos la vida",
+      "resumen": "México se convirtió en el primer país de Latinoamérica en recibir a Muse, el nuevo asistente de Meta que no solo habla, sino que resuelve. Esta inteligencia artificial te ayuda a organizar el trabajo ",
+      "imagen": "https://www.infobae.com/resizer/v2/D63DUZHR4VAR7C2IFHVQQ64PLA.jpg?auth=c514f62b8e848747701191991ed03e6adcc3dd758cb1e1fa84a11ea0ea81c1d7&smart=true&width=1920&height=1249",
+      "fuente": "Infobae",
+      "link": "https://www.infobae.com/tecno/2026/11/05/muse-la-ia-de-meta-llega-a-mexico-para-hacer-tareas-del-trabajo-y-la-casa-es-el-primer-pais-latino-en-tenerla/"
+    },
+    {
+      "titulo": "¡Mosca con eso! OpenAI lanza IA que encontró fallas graves en el navegador Firefox",
+      "resumen": "OpenAI soltó el GPT-6 Cyber, un modelo tan potente que halló 81 huecos de seguridad en el navegador Firefox. La cosa es tan seria que la empresa lo clasificó como 'crítico' y solo deja que clientes ve",
+      "imagen": "https://www.infobae.com/resizer/v2/VC6CY2I2SFCLPE2OYMRADRDITA.jpg?auth=8c7bf08997f0cc1877e3506500858cdc970cbf93a04bd0d3d31337111c5d7cc9&smart=true&width=1920&height=1280",
+      "fuente": "Infobae",
+      "link": "https://www.infobae.com/tecno/2026/11/05/openai-lanzo-un-modelo-de-ia-que-hallo-81-fallas-graves-en-firefox-y-lo-limito-a-clientes-verificados/"
+    }
+  ]
+}
