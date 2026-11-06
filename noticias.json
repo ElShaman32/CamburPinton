@@ -1,76 +1,76 @@
 {
-  "actualizado": "05/11/2026, 05:00 p. m.",
+  "actualizado": "06/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mire mi gente, recuerde que el que madruga coge agua clara, pero el que le pone corazón a lo que hace, se toma el café con espumita. ¡A echarle pichón que el sol sale para todos!",
+    "texto": "Mire, mi gente, el que nace para martillo del cielo le caen los clavos, pero el que nace con buena vibra, ¡hasta el café le sale espumoso! Póngale corazón a lo que hace y no deje que nadie le apague s",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Se retira el Bicho! Cristiano Ronaldo le dice adiós a la selección de Portugal",
-      "resumen": "¡Ay papá! El legendario Cristiano Ronaldo colgó los guayos con su selección a los 41 años. Después de 23 años dándolo todo, desde su debut en 2003 hasta aquel primer golito en 2004, el astro luso deci",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/06/Diseno-sin-titulo-10-1-300x225.png",
+      "titulo": "¡La Nave turca amarró a las Águilas en Maracaibo!",
+      "resumen": "El Magallanes se puso las pilas y aguantó la mecha en el Luis Aparicio para ganarle 6-5 al Zulia. Con el madero encendido, Rougned Odor y Renato Núñez sacaron la bola del parque, ¡y miren que Renato l",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Rougned-Odor-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/internacional-football/los-numeros-que-deja-cristiano-ronaldo-con-portugal/"
+      "link": "https://www.liderendeportes.com/sin-categoria/magallanes-contuvo-la-embestida-rapaz/"
     },
     {
-      "titulo": "¡Tremendo tubazo! Al Milan lo madrugaron en su propia casa en la Europa League",
-      "resumen": "¡Naguará! El Milan se llevó un parao en la Europa League tras caer 2-0 contra el Ferencvaros en San Siro. Aunque los rossoneri tuvieron la pelota más tiempo que un muchacho con juguete nuevo, no pudie",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-7-300x225.png",
+      "titulo": "¡Poder guaireño! Los Tiburones se la pusieron difícil a los Tigres",
+      "resumen": "Los Tiburones de La Guaira sacaron la casta en Maracay y le dieron la vuelta al juego 4-3 contra los Tigres. Daniel Montaño se mandó un tablazo por el jardín derecho para abrir el marcador, y aunque l",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Daniel-Montano-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/el-milan-fue-sorprendido-en-su-propia-casa/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/daniel-montano-guia-con-poder-el-accionar-de-tiburones/"
     },
     {
-      "titulo": "¡Palo y más palo! David Peralta es el mandamás de octubre en nuestra LVBP",
-      "resumen": "El 'Tren de la Carga' David Peralta se despidió por todo lo alto siendo el Jugador del Mes en nuestra pelota. Con un promedio de .458 y un OPS que mete miedo, el hombre sacó cuatro jonrones en apenas ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/11/David-Peralta-300x225.png",
+      "titulo": "¡Anoten la fecha! La Liga Mayor ya tiene todo listo para el 2027",
+      "resumen": "Los jefes de la Liga Mayor de Béisbol Profesional se reunieron en Caracas para cuadrar la séptima edición del torneo. La cosa arranca el 17 de abril de 2027 con un formato bien fino: juegos en sedes a",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/06/Senadores-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/david-peralta-es-el-jugador-del-mes/"
+      "link": "https://www.liderendeportes.com/baseball/lmbp/la-liga-mayor-definio-detalles-para-la-temporada-2027/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro talento! El piano se adueña del Teresa Carreño este domingo de concierto",
-      "resumen": "Prepárense para una mañana de lujo en la Sala José Félix Ribas. Este 8 de noviembre, el maestro Sadao Muraki y la Sinfónica Municipal de Caracas nos pondrán a vibrar con clásicos de Gershwin y Bernste",
+      "titulo": "¡Orgullo nacional! La Orquesta Landaeta puso a vibrar a China",
+      "resumen": "Nuestra Orquesta Sinfónica Juan José Landaeta dejó el nombre de Venezuela bien alto en Beijing y Shanghái. Bajo la batuta de Christian Vásquez y Jesús Uzcátegui, 120 músicos criollos conmovieron al pú",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-7.47.12-PM-300x199.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/actualidad/la-landaeta-conmovio-al-publico-asiatico-con-cinco-conciertos/"
+    },
+    {
+      "titulo": "¡Puro talento! El piano se adueña del Teresa Carreño este domingo",
+      "resumen": "Prepárense para un banquete musical en la Sala José Félix Ribas. El maestro Sadao Muraki y la Sinfónica Municipal de Caracas, dirigidos por Daniel Gil, nos traerán clásicos de Hollywood como 'Rhapsody",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-1-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/clasicos-de-piano-y-orquesta-toman-la-sala-jose-felix-ribas-del-ttc-este-8-de-noviembre/"
     },
     {
-      "titulo": "¡A las tablas! 'Bonita per se' se estrena en El Galpón para ponernos a reflexionar",
-      "resumen": "La joven Geryadith Areale debuta como directora en El Galpón de Caracas con una obra que toca la fibra: 'Bonita per se'. La pieza reflexiona sobre la apariencia y los trastornos alimenticios, un tema ",
+      "titulo": "¡A las tablas! 'Bonita per se' llega para hacernos reflexionar",
+      "resumen": "La talentosa Geryadith Areale estrena su obra 'Bonita per se' en El Galpón de Caracas este 13 de noviembre. La pieza toca temas profundos como la apariencia y los trastornos alimenticios. Después del ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-1-285x300.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/bonita-per-se-estrenara-en-las-tablas-de-el-galpon-de-caracas/"
-    },
-    {
-      "titulo": "¡Rumbo al Panteón! Piden traslado de los restos del General Juan Castañeda",
-      "resumen": "El gobernador Rafael Lacava se puso las pilas y solicitó llevar los restos del General Juan Estanislao Castañeda al Panteón Nacional. Con más de 19 mil firmas en mano recolectadas por estudiantes y cr",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/13-300x200.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/carabobo/piden-trasladar-restos-del-procer-juan-estanislao-castaneda-al-panteon/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Se le chispoteó! Nvidia pierde una millonada en la bolsa tras su récord",
-      "resumen": "A la gigante tecnológica Nvidia le pegó un bajón fuerte este mes, perdiendo casi 1,4 billones de dólares en valor de mercado. Las acciones cayeron un 25% desde su pico en octubre, dejando a más de uno",
-      "imagen": "https://www.infobae.com/resizer/v2/SWXRTSMPRTNOS7ER3FRNUY4W7I.jpg?auth=2688a68c78470c4454139195e427e6903452d3e0bcaf00620c010272ae85ef38&smart=true&width=800&height=533",
+      "titulo": "¡De la oficina al estrellato! Los 'workfluencers' están mandando",
+      "resumen": "El jefe de LinkedIn soltó la lengua y contó que ahora hay profesionales que ganan una buena plata compartiendo sus conocimientos en redes. Profesores y diseñadores están facturando hasta 10.000 dólare",
+      "imagen": "https://www.infobae.com/resizer/v2/HY32PWAXAJCNVBHIT3QCLNCXAA.jpg?auth=6c1aaa1899d1c30b4badc8a35c8bf0bd90a068cab25e178e1f5e4b230247399a&smart=true&width=5472&height=3648",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/05/nvidia-perdio-casi-usd-14-billones-de-valor-en-un-mes-tras-su-record-del-6-de-octubre/"
+      "link": "https://www.infobae.com/estados-unidos/2026/11/06/personas-de-diferentes-profesiones-dejan-sus-puestos-para-ser-influencers-el-ceo-de-linkedin-afirma-que-algunos-ganan-mas-de-usd-10000/"
     },
     {
-      "titulo": "¡Llegó Muse! La nueva IA de Meta aterriza en México para resolvernos la vida",
-      "resumen": "México se convirtió en el primer país de Latinoamérica en recibir a Muse, el nuevo asistente de Meta que no solo habla, sino que resuelve. Esta inteligencia artificial te ayuda a organizar el trabajo ",
-      "imagen": "https://www.infobae.com/resizer/v2/D63DUZHR4VAR7C2IFHVQQ64PLA.jpg?auth=c514f62b8e848747701191991ed03e6adcc3dd758cb1e1fa84a11ea0ea81c1d7&smart=true&width=1920&height=1249",
+      "titulo": "¡Qué locura! Demanda a OpenAI porque ChatGPT 'ayudó' a su esposa",
+      "resumen": "Un hombre en Estados Unidos demandó a los creadores de ChatGPT alegando que la inteligencia artificial le dio ideas a su mujer para envenenarlo. James Gates dice que la IA ayudó a planear y ocultar el",
+      "imagen": "https://www.infobae.com/resizer/v2/3L3UMWC425CYHKP5YS2F3BPB6M.JPG?auth=93a2c8a204ca0000097b4c2c9166fa6663a3d0431541bc17f989806cf9739301&smart=true&width=5579&height=3720",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/05/muse-la-ia-de-meta-llega-a-mexico-para-hacer-tareas-del-trabajo-y-la-casa-es-el-primer-pais-latino-en-tenerla/"
+      "link": "https://www.infobae.com/tecno/2026/11/05/un-hombre-demando-a-openai-dice-que-chatgpt-ayudo-a-su-esposa-a-planear-envenenarlo/"
     },
     {
-      "titulo": "¡Mosca con eso! OpenAI lanza IA que encontró fallas graves en el navegador Firefox",
-      "resumen": "OpenAI soltó el GPT-6 Cyber, un modelo tan potente que halló 81 huecos de seguridad en el navegador Firefox. La cosa es tan seria que la empresa lo clasificó como 'crítico' y solo deja que clientes ve",
-      "imagen": "https://www.infobae.com/resizer/v2/VC6CY2I2SFCLPE2OYMRADRDITA.jpg?auth=8c7bf08997f0cc1877e3506500858cdc970cbf93a04bd0d3d31337111c5d7cc9&smart=true&width=1920&height=1280",
+      "titulo": "¡Habla con la IA! Meta lanza videollamadas con Muse en el Norte",
+      "resumen": "La gente de Meta ya activó 'Muse Voice' para los usuarios en Estados Unidos. Ahora pueden echarle un cuento o hacer videollamadas directamente con su agente de inteligencia artificial. Después de pres",
+      "imagen": "https://www.infobae.com/resizer/v2/KDCXHMCVJVCOZMRD52M5CO2WCU.png?auth=a157c75fd1aa0902f0022b6e5618b0ff3cc7e32d5568479b2a8bb49027c28fab&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/05/openai-lanzo-un-modelo-de-ia-que-hallo-81-fallas-graves-en-firefox-y-lo-limito-a-clientes-verificados/"
+      "link": "https://www.infobae.com/tecno/2026/11/06/meta-habilita-llamadas-y-video-con-su-ia-muse-para-los-usuarios-de-estados-unidos/"
     }
   ]
 }
