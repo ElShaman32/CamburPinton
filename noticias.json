@@ -1,76 +1,76 @@
 {
-  "actualizado": "08/11/2026, 06:00 a. m.",
+  "actualizado": "08/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Mire, mi gente, el que nace para martillo del cielo le caen los clavos, pero el venezolano nace con el perrenque para doblarlos y hacerse su propia casa. ¡Pa' lante es para allá y que nada me los achi",
+    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero el venezolano nace con el ingenio para hacerse la casa completa. ¡A echarle pichón con una sonrisa, que lo q",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡La Nave va volando! Magallanes hundió a los Cardenales con paliza",
-      "resumen": "¡Epa, mi gente! Los Navegantes del Magallanes andan imparables y este sábado le dieron una tunda de 11-4 a los Cardenales de Lara en Barquisimeto. Con esta victoria ya suman siete triunfos al hilo. La",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-17-300x225.png",
+      "titulo": "¡El Gladiador no perdona! Salomón Rondón la sigue rompiendo en México",
+      "resumen": "¡Epa, mi gente! Nuestro Salomón Rondón anda encendido. El 'Gladiador' se mandó un gol de penal y una asistencia de lujo en la paliza 4-1 del Pachuca contra el Atlas. Con esto, el pana sigue estirando ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Salomon-Rondon-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/el-magallanes-extendio-la-buena-racha/"
+      "link": "https://www.liderendeportes.com/futbol/venex-football/salomon-rondon-aporto-en-la-goleada-del-pachuca/"
     },
     {
-      "titulo": "¡Rugido Monumental! El Caracas sigue indomable y sube en la tabla",
-      "resumen": "Los Leones del Caracas están on fire, vale. Derrotaron 5-2 a los Tigres de Aragua en el Monumental y ya llevan cuatro victorias seguidas. Los melenudos madrugaron al pitcheo aragüeño con tres rayitas ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Leones-300x225.jpg",
+      "titulo": "¡A la final por el oro! Nuestras chamas del futsal hicieron historia",
+      "resumen": "¡Puro orgullo nacional! La Vinotinto femenina de futsal le echó pichón y derrotó 3-2 a Irán en un partidazo que se fue a tiempo extra. Con goles de Paz, Aguilar y Colmenárez, las muchachas aseguraron ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-24-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/los-leones-siguen-indomables/"
+      "link": "https://www.liderendeportes.com/futbol/futsal/futbol-sala-a-la-final-por-el-oro/"
     },
     {
-      "titulo": "Refuerzo de lujo: El zurdo Joely Rodríguez llega a blindar a la Nave",
-      "resumen": "Como el pitcheo es lo que gana juegos, la gerencia del Magallanes no se queda de brazos cruzados para la 2026-27. Anunciaron la llegada del zurdo importado Joely Rodríguez para fortalecer el bullpen t",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-16-300x225.png",
+      "titulo": "¡Ojo al dato! El relevista taiwanés Jyun-Yue Tseng busca cupo en la MLB",
+      "resumen": "El mercado de las Grandes Ligas se pone movido con la llegada de Jyun-Yue Tseng. El derecho de 25 años, que viene de salvar 25 juegos en Taiwán, ya entró en el sistema de posta para que cualquier equi",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-23-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/el-magallanes-sumo-un-nuevo-pitcher-importado/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/mlb-el-taiwanes-jyun-yue-tseng-ingresa-al-sistema-de-posta/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Pura tradición! Barcelona se llena de pesebres artesanales",
-      "resumen": "En la Casa Amarilla de Barcelona la cosa se puso bonita con la inauguración de una muestra de pesebres artesanales. Son 35 cultores de Simón Bolívar y Sotillo que pusieron todo su talento. Hubo parran",
+      "titulo": "¡Puro talento! El concierto «Venezuela Esperanza que Renace» retumbó en Carabobo",
+      "resumen": "En el Museo de Arte de Valencia se armó un parrandón cultural de altura. El concierto unió lo mejor de nuestra tradición con el Sistema de Orquestas. Los chamos de los Tambores de San Millán y la Orqu",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-10.56.55-AM-300x169.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/carabobo/tarek-william-saab-resalto-exito-del-concierto-venezuela-esperanza-que-renace-en-carabobo/"
+    },
+    {
+      "titulo": "¡Llegó la Navidad a Barcelona! Inauguran muestra de pesebres artesanales",
+      "resumen": "En la Casa Amarilla de Barcelona, estado Anzoátegui, se prendió la fiesta con 35 cultores que presentaron sus pesebres artesanales. Entre parrandas y música de los chamos de la escuela Juan Manuel Caj",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/5145557682210147684-300x198.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-abrio-muestra-de-pesebres-artesanales-de-35-cultores/"
     },
     {
-      "titulo": "¡Qué molleja! El 'hablapaja' y la 'vergación' ya son oficiales en la RAE",
-      "resumen": "¡Agárrate! La Academia Venezolana de la Lengua logró que metieran 81 venezolanismos y 126 gentilicios en el Diccionario de la Lengua Española. Ahora palabras como 'bolsiclón', 'hablapaja' y hasta nues",
+      "titulo": "¡Vergación, qué molleja! Nuestros modismos ya están en el diccionario oficial",
+      "resumen": "¡Agárrate! Palabras tan nuestras como «bolsiclón», «hablapaja» y hasta el «vergación» maracucho ya son oficiales en el Diccionario de la Lengua Española. Después de años de estudio de la Academia Vene",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/diccionario-206x300.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/el-bolsiclon-el-hablapaja-y-hasta-vergacion-entran-al-diccionario-de-la-lengua-espanola/"
-    },
-    {
-      "titulo": "¡90 años de un grande! Miguelángel Landa celebra su vida y trayectoria",
-      "resumen": "Nuestro eterno Miguelángel Landa llegó a los 90 años este 4 de noviembre. Actor, director y animador, este señor es una leyenda viva de nuestro cine y televisión. Siempre nos enseñó que la verdad escé",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/miguelangel-landa-300x224.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/miguelangel-landa-90/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¿Qué ven en el sur? YouTube manda en el entretenimiento argentino",
-      "resumen": "En Argentina la gente no se despega de YouTube para bajarle dos al estrés. La plataforma, que ya tiene casi 20 años, sigue siendo el sitio favorito para buscar desde música hasta videos de terror o AS",
-      "imagen": "https://www.infobae.com/resizer/v2/ETLPGA7YO5HOFMKPDXRHE53XGA.jpg?auth=da7776e5477256dca7efc8f6a92c5e5de0af75def5082dc237de3ebe3ea4a226&smart=true&width=1920&height=1080",
+      "titulo": "¡Sácale el jugo a tu iPhone! Los trucos que no sabías de la Dynamic Island",
+      "resumen": "La famosa «islita» del iPhone resultó ser más útil que un suiche. Desde el iPhone 14 Pro, esta herramienta te deja pagar, esconder apps y controlar todo sin salirte de lo que estás haciendo. Ahora con",
+      "imagen": "https://www.infobae.com/resizer/v2/UVJ6KUQNVVDITCFG2LUXXHJDQM.webp?auth=18490a96f0d4797223b3490e054c73fb928dc92fc6e8048ce66a9abeb30c060c&smart=true&width=2500&height=1406",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/youtube-en-argentina-la-lista-de-los-10-videos-en-tendencia-de-este-dia/"
+      "link": "https://www.infobae.com/tecno/2026/11/08/como-usar-la-dynamic-island-en-iphone-desde-hacer-pagos-hasta-esconder-aplicaciones/"
     },
     {
-      "titulo": "¡A bailar con Netflix! Todo sobre las Guerreras K-pop en un solo lugar",
-      "resumen": "Si eres fanático del K-pop, Netflix lanzó un espacio especial llamado 'KPop Demon Hunters: For the Fans!'. Allí tienes la película, versiones para cantar y hasta videos de coreografías inéditas creada",
-      "imagen": "https://www.infobae.com/resizer/v2/5KU5LSLAQREK3OQ5BM4LQISFEM.png?auth=c77eb155202688f6d5a739e06ee3649f4b089318b478a18e600a1d1b091e1d5c&smart=true&width=1920&height=1080",
+      "titulo": "¡Mosca con el Android! El fallo GhostMap puede dejar tu celular pegado",
+      "resumen": "¡Cuidado por ahí! Descubrieron una falla llamada GhostMap que pone a los teléfonos Android a reiniciarse como locos. Lo más peligroso es que solo con instalar una app maliciosa, sin ni siquiera abrirl",
+      "imagen": "https://www.infobae.com/resizer/v2/LWA25H5RJJAORN7H3SNIJV3T6Y.png?auth=1c9bde5a3305e64029c21a8b982ff16a836341d9b02cd54321e3fd923d5dc64a&smart=true&width=1408&height=768",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/no-solo-la-pelicula-todo-el-contenido-extra-de-las-guerreras-k-pop-disponible-en-netflix/"
+      "link": "https://www.infobae.com/tecno/2026/11/08/asi-es-ghostmap-el-fallo-que-hace-que-un-celular-android-se-reinicie-en-bucle-con-instalar-un-app/"
     },
     {
-      "titulo": "¡Música para los oídos! YouTube pone a bailar a toda España",
-      "resumen": "En España la cosa no es distinta, YouTube sigue siendo el rey cuando se trata de buscar los videos musicales más pegados del momento. Entre tanto ajetreo moderno, los españoles se refugian en la plata",
-      "imagen": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&smart=true&width=1920&height=1080",
+      "titulo": "¡Más privacidad en WhatsApp! Tu número de teléfono ahora estará bien guardado",
+      "resumen": "WhatsApp se puso las pilas con la seguridad. Pronto, cuando uses un nombre de usuario, la aplicación ocultará tu número de teléfono por defecto. Tú mismo vas a elegir quién puede verlo y quién no, per",
+      "imagen": "https://www.infobae.com/resizer/v2/EMZEYX5OVBHUZE7JPRIVHIICZM.jpg?auth=1e47ebeb5a775b209558a9f571d5c27b18b8a468212cd571c15ec5c3151a97ee&smart=true&width=3407&height=2252",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/ranking-de-youtube-en-espana-la-lista-de-los-10-videos-musicales-mas-populares-hoy/"
+      "link": "https://www.infobae.com/tecno/2026/11/08/whatsapp-ocultara-por-defecto-el-numero-de-telefono-y-cada-usuario-escogera-quien-lo-puede-ver/"
     }
   ]
 }
