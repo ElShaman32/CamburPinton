@@ -1,76 +1,76 @@
 {
-  "actualizado": "08/11/2026, 12:00 p. m.",
+  "actualizado": "08/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero el venezolano nace con el ingenio para hacerse la casa completa. ¡A echarle pichón con una sonrisa, que lo q",
+    "texto": "Acuérdate, mi pana, que el que nace para martillo, del cielo le caen los clavos, pero el que nace con chispa venezolana, ¡hasta de un limón hace una limonada bien fría! Pa' lante es pa' allá.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡El Gladiador no perdona! Salomón Rondón la sigue rompiendo en México",
-      "resumen": "¡Epa, mi gente! Nuestro Salomón Rondón anda encendido. El 'Gladiador' se mandó un gol de penal y una asistencia de lujo en la paliza 4-1 del Pachuca contra el Atlas. Con esto, el pana sigue estirando ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Salomon-Rondon-300x225.jpg",
+      "titulo": "¡Seiya Suzuki está que arde y todos lo quieren en su equipo!",
+      "resumen": "El japonés Seiya Suzuki se perfila como el 'lomito' de la agencia libre este invierno. Aunque no ha ido a un Juego de Estrellas, el hombre batea más que un tambor en fiesta patronal. Con 26 jonrones y",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Seiya-Suzuki-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/venex-football/salomon-rondon-aporto-en-la-goleada-del-pachuca/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/seiya-suzuki-podria-ser-uno-de-los-agentes-libres-mas-deseados/"
     },
     {
-      "titulo": "¡A la final por el oro! Nuestras chamas del futsal hicieron historia",
-      "resumen": "¡Puro orgullo nacional! La Vinotinto femenina de futsal le echó pichón y derrotó 3-2 a Irán en un partidazo que se fue a tiempo extra. Con goles de Paz, Aguilar y Colmenárez, las muchachas aseguraron ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-24-300x225.png",
+      "titulo": "Nique Clifford se muda a Oklahoma para meterle el pecho a los Thunder",
+      "resumen": "¡Cambio de aires para Nique Clifford! El chamo deja a los Kings de Sacramento para unirse a los Thunder de Oklahoma a cambio de dos selecciones futuras del Draft. Con las bajas por lesión que tiene el",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Nique-Clifford--300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futsal/futbol-sala-a-la-final-por-el-oro/"
+      "link": "https://www.liderendeportes.com/basketball/nba/nique-clifford-se-une-a-los-thunder-de-oklahoma/"
     },
     {
-      "titulo": "¡Ojo al dato! El relevista taiwanés Jyun-Yue Tseng busca cupo en la MLB",
-      "resumen": "El mercado de las Grandes Ligas se pone movido con la llegada de Jyun-Yue Tseng. El derecho de 25 años, que viene de salvar 25 juegos en Taiwán, ya entró en el sistema de posta para que cualquier equi",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-23-300x225.png",
+      "titulo": "¡Lando Norris dictó cátedra bajo la lluvia en el GP de San Pablo!",
+      "resumen": "Ni el palo de agua detuvo a Lando Norris en Interlagos. El piloto de McLaren se llevó la pole y la carrera dominando 47 vueltas como todo un profesional. Aunque tuvo un toma y dame con Kimi Antonelli,",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-29-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/mlb-el-taiwanes-jyun-yue-tseng-ingresa-al-sistema-de-posta/"
+      "link": "https://www.liderendeportes.com/mas-deportes/motor/lando-norris-gano-el-gp-de-san-pablo/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro talento! El concierto «Venezuela Esperanza que Renace» retumbó en Carabobo",
-      "resumen": "En el Museo de Arte de Valencia se armó un parrandón cultural de altura. El concierto unió lo mejor de nuestra tradición con el Sistema de Orquestas. Los chamos de los Tambores de San Millán y la Orqu",
+      "titulo": "Muñequita linda: El último regalo del maestro Román Chalbaud",
+      "resumen": "La obra póstuma de nuestro eterno Román Chalbaud llega para ponernos a reflexionar. 'Muñequita linda' nos muestra a una mujer valiente que no se deja ante la opresión. La historia de Daniela, una much",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-1-300x173.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-valentia-y-ternura/"
+    },
+    {
+      "titulo": "¡Puro talento! Carabobo vibró con el concierto Venezuela Esperanza que Renace",
+      "resumen": "Valencia se llenó de música y tradición con un conciertazo que puso a todo el mundo a gozar. Los Semilleros de los Tambores de San Millán y la Orquesta Regional Alma Llanera de Carabobo se botaron en ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-10.56.55-AM-300x169.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/carabobo/tarek-william-saab-resalto-exito-del-concierto-venezuela-esperanza-que-renace-en-carabobo/"
     },
     {
-      "titulo": "¡Llegó la Navidad a Barcelona! Inauguran muestra de pesebres artesanales",
-      "resumen": "En la Casa Amarilla de Barcelona, estado Anzoátegui, se prendió la fiesta con 35 cultores que presentaron sus pesebres artesanales. Entre parrandas y música de los chamos de la escuela Juan Manuel Caj",
+      "titulo": "¡Llegó la Navidad a Barcelona con pesebres artesanales de lujo!",
+      "resumen": "En la Casa Amarilla de Barcelona se armó el parrandón con la inauguración de una muestra de pesebres artesanales. Son 35 cultores de la zona que pusieron su talento a brillar para darle la bienvenida ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/5145557682210147684-300x198.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-abrio-muestra-de-pesebres-artesanales-de-35-cultores/"
-    },
-    {
-      "titulo": "¡Vergación, qué molleja! Nuestros modismos ya están en el diccionario oficial",
-      "resumen": "¡Agárrate! Palabras tan nuestras como «bolsiclón», «hablapaja» y hasta el «vergación» maracucho ya son oficiales en el Diccionario de la Lengua Española. Después de años de estudio de la Academia Vene",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/diccionario-206x300.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/el-bolsiclon-el-hablapaja-y-hasta-vergacion-entran-al-diccionario-de-la-lengua-espanola/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Sácale el jugo a tu iPhone! Los trucos que no sabías de la Dynamic Island",
-      "resumen": "La famosa «islita» del iPhone resultó ser más útil que un suiche. Desde el iPhone 14 Pro, esta herramienta te deja pagar, esconder apps y controlar todo sin salirte de lo que estás haciendo. Ahora con",
-      "imagen": "https://www.infobae.com/resizer/v2/UVJ6KUQNVVDITCFG2LUXXHJDQM.webp?auth=18490a96f0d4797223b3490e054c73fb928dc92fc6e8048ce66a9abeb30c060c&smart=true&width=2500&height=1406",
+      "titulo": "¡Tremendo lío! Los herederos de Elvis y Eminem demandan a una IA",
+      "resumen": "Se prendió la mecha en el mundo de la música. Los dueños de los derechos de Elvis Presley y Eminem demandaron a Suno, una inteligencia artificial que anda clonando voces y copiando canciones sin permi",
+      "imagen": "https://www.infobae.com/resizer/v2/W66T3LUZ4FGGZBC5DUF42FXR2M.png?auth=1a6440e41219b9a04ae6ccc151dd715915b516df00624e08d6fbb90d5442c99c&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/como-usar-la-dynamic-island-en-iphone-desde-hacer-pagos-hasta-esconder-aplicaciones/"
+      "link": "https://www.infobae.com/tecno/2026/11/08/los-duenos-de-elvis-presley-y-eminem-demandaron-a-suno-por-copiar-sus-canciones-y-clonar-sus-voces-con-ia/"
     },
     {
-      "titulo": "¡Mosca con el Android! El fallo GhostMap puede dejar tu celular pegado",
-      "resumen": "¡Cuidado por ahí! Descubrieron una falla llamada GhostMap que pone a los teléfonos Android a reiniciarse como locos. Lo más peligroso es que solo con instalar una app maliciosa, sin ni siquiera abrirl",
-      "imagen": "https://www.infobae.com/resizer/v2/LWA25H5RJJAORN7H3SNIJV3T6Y.png?auth=1c9bde5a3305e64029c21a8b982ff16a836341d9b02cd54321e3fd923d5dc64a&smart=true&width=1408&height=768",
+      "titulo": "¡Un celular guerrero! El HONOR 600 Elite aguanta hasta un chaparrón",
+      "resumen": "Llegó el HONOR 600 Elite, un teléfono que es más duro que un sancocho de hueso. Está diseñado para usarse sin forro porque aguanta caídas, polvo y hasta agua sin despeinarse. Además de ser un 'tanque'",
+      "imagen": "https://www.infobae.com/resizer/v2/BLTSHNRD2FC7ZOKEKJSUZG2PAM.jpg?auth=7da48f67703040451ef0261667730853db3de54b3f63579f34e5d627b8f3ddb2&smart=true&width=2400&height=1792",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/asi-es-ghostmap-el-fallo-que-hace-que-un-celular-android-se-reinicie-en-bucle-con-instalar-un-app/"
+      "link": "https://www.infobae.com/tecno/2026/11/08/honor-600-elite-un-celular-resistente-para-usar-sin-funda-y-en-cualquier-clima-de-colombia/"
     },
     {
-      "titulo": "¡Más privacidad en WhatsApp! Tu número de teléfono ahora estará bien guardado",
-      "resumen": "WhatsApp se puso las pilas con la seguridad. Pronto, cuando uses un nombre de usuario, la aplicación ocultará tu número de teléfono por defecto. Tú mismo vas a elegir quién puede verlo y quién no, per",
-      "imagen": "https://www.infobae.com/resizer/v2/EMZEYX5OVBHUZE7JPRIVHIICZM.jpg?auth=1e47ebeb5a775b209558a9f571d5c27b18b8a468212cd571c15ec5c3151a97ee&smart=true&width=3407&height=2252",
+      "titulo": "¡El Nokia 1100 no muere! Así puedes jugar la culebrita en pleno 2026",
+      "resumen": "¿Quién no pasó horas dándole a la 'culebrita' en un Nokia 1100? Pues les cuento que en este 2026 ese bicho sigue dando de qué hablar. Juegos clásicos como Snake II y Space Impact+ todavía se pueden di",
+      "imagen": "https://www.infobae.com/resizer/v2/53WH5NQOZJDOXGLRO5DBLBKVLA.png?auth=d1e1c4f4548b0e233d795744304776545412ef90d1cb1aeb71daa24bbdc6d69c&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/whatsapp-ocultara-por-defecto-el-numero-de-telefono-y-cada-usuario-escogera-quien-lo-puede-ver/"
+      "link": "https://www.infobae.com/tecno/2026/11/08/que-juegos-tenia-el-nokia-1100-y-como-jugarlos-en-2026/"
     }
   ]
 }
