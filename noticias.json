@@ -1,50 +1,50 @@
 {
-  "actualizado": "09/11/2026, 06:00 a. m.",
+  "actualizado": "09/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que el que madruga, Dios lo ayuda, pero el que le echa pichón con una sonrisa, ¡ese es el que llega lejos! Pa' lante es pa' allá, que no hay mal que dure cien años ni cuerpo ",
+    "texto": "Acuérdate, mi pana: el que nace pa' martillo, del cielo le caen los clavos, pero el que nace con chispa venezolana, ¡hasta la oscuridad la vuelve rumba! ¡Dale con todo hoy!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Se prendieron los motores en La Rinconada! Salomé y El Trueno mandaron",
-      "resumen": "¡Epa, mi gente hípica! La jornada en el Coso de La Rinconada estuvo de infarto. En la primera, la yegua Salomé se lució con H. Medina en los 1.200 metros, dejando a todos fríos con un dividendo de 294",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Rinconada-de-noche-300x225.jpg",
+      "titulo": "¡Qué salación! Lamine Yamal y Oyarzabal se bajan del bus de la Nations League",
+      "resumen": "¡Epa, mi gente! Les cuento que la selección española anda coja porque Lamine Yamal tiene la rodilla a media máquina y Oyarzabal anda con una gripe de esas que tumban a cualquiera. La RFEF confirmó que",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Lamine-Yamal--300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/hipismo/resultadosde-la-rinconada-8/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/lamine-yamal-y-oyarzabal-son-bajas-para-la-liga-de-naciones/"
     },
     {
-      "titulo": "¡El nido se respeta! Las Águilas picotearon a los Tiburones en Maracaibo",
-      "resumen": "¡Qué molleja de juego, primo! Las Águilas del Zulia sacaron la casta en el Luis Aparicio y le ganaron 6-5 a los Tiburones de La Guaira. El chamo Victor Arias se la botó por el jardín derecho con uno a",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Ali-Castillo-300x225.png",
+      "titulo": "¡A Neuer le salió un gallo! El portero del Bayern se queda fuera por el pie",
+      "resumen": "¡Ay, papá! Manuel Neuer se nos lesionó feo. El legendario portero del Bayern Múnich tiene una rotura parcial en un tendón del pie derecho y no vuelve a la cancha sino hasta enero. El hombre tuvo que a",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/12/Diseno-sin-titulo-49-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/aguilas-defendio-el-nido-ante-el-ataque-tiburon/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/manuel-neuer-estara-de-baja-por-lesion-en-su-pie/"
     },
     {
-      "titulo": "¡Fermín andaba encendido! Doblete del chamo para que el Barça remonte",
-      "resumen": "¡Vaya partidazo en España! El jovencito Fermín López se echó el equipo al hombro y con dos goles le dio la vuelta al marcador para que el Barcelona venciera 2-1 al Atlético de Madrid. El juego estuvo ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Fermin-Lopez-300x225.jpg",
+      "titulo": "¡España le dio un baile a Brasil y se llevó la Finalíssima de Futsal!",
+      "resumen": "¡Eso estuvo de infarto! La selección española de fútbol sala se coronó campeona de la Finalíssima tras meterle tres papas a Brasil en su propia casa. Con goles de Castejón, Morales y Pérez en el segun",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Espana-3-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/doblete-de-fermin-le-dio-el-triunfo-al-barcelona/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/espana-vence-a-brasil-y-es-campeon-de-la-finalissima/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Muñequita linda: El último regalo del maestro Chalbaud para Venezuela",
-      "resumen": "El cine nacional se viste de gala con la obra póstuma de Román Chalbaud. Muñequita linda nos trae una historia con mucha garra, donde la mujer es la gran protagonista. La trama sigue a Daniela, una mu",
+      "titulo": "Muñequita linda: El último regalo del maestro Román Chalbaud para Venezuela",
+      "resumen": "¡Pura calidad cinematográfica! Se estrenó la obra póstuma de nuestro Román Chalbaud, una película que pone a la mujer en lo más alto. La historia de Daniela nos muestra esa mezcla de valentía y ternur",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-1-300x173.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-valentia-y-ternura/"
     },
     {
-      "titulo": "¡Puro talento nacional! El Museo de Arte de Valencia vibró con la música",
-      "resumen": "¡Qué cosa tan buena! En Carabobo se lucieron con el concierto «Venezuela Esperanza que Renace». Los chamos de los Tambores de San Millán y la Orquesta Regional Alma Llanera pusieron a todo el mundo a ",
+      "titulo": "¡Puro talento! El Sistema y los Tambores de San Millán pusieron a vibrar a Carabobo",
+      "resumen": "¡Qué concierto tan sabroso se mandaron en Valencia! Bajo el lema 'Venezuela Esperanza que Renace', el Museo de Arte se llenó de magia con la Orquesta Regional Alma Llanera y los chamos de los Tambores",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-10.56.55-AM-300x169.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/carabobo/tarek-william-saab-resalto-exito-del-concierto-venezuela-esperanza-que-renace-en-carabobo/"
     },
     {
-      "titulo": "¡Llegó la Navidad a Barcelona! 35 cultores muestran sus pesebres",
-      "resumen": "¡Ya huele a hallaca en Anzoátegui! En la Casa Amarilla de Barcelona se inauguró una exposición bellísima con pesebres hechos a mano por 35 artistas de la zona. La cosa se prendió con una parranda navi",
+      "titulo": "¡Ya huele a Navidad! Barcelona se luce con una exposición de pesebres artesanales",
+      "resumen": "¡Llegó la época más bonita del año a Anzoátegui! En la Casa Amarilla de Barcelona, 35 cultores de la zona se lucieron armando unos pesebres artesanales que son una belleza. La cosa arrancó con parrand",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/5145557682210147684-300x198.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-abrio-muestra-de-pesebres-artesanales-de-35-cultores/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Negoción en Japón! Compran gigante de materiales para chips por una millonada",
-      "resumen": "¡Miren este movimiento de grandes ligas! La empresa Mitsui Chemicals soltó la bicoca de 11.600 millones de dólares para quedarse con JSR, una pieza clave para fabricar los chips que usamos todos los d",
-      "imagen": "https://www.infobae.com/resizer/v2/27ZSF3ZHINF4XBHR4KFNBSJE7Y.JPG?auth=875d3c4302f33661ac7bbad7b029eca864e3e324dfe10c36e7a88d2400acef68&smart=true&width=6214&height=4143",
+      "titulo": "¡Pura tecnología! Convierte a los Saja Boys en ninjas de Naruto con IA",
+      "resumen": "¡Miren esta nota! Ahora cualquiera puede usar la IA para transformar a los Saja Boys de las Guerreras K-pop en unos auténticos Hokages de Naruto. El truco está en saber mezclar los peinados y las pose",
+      "imagen": "https://www.infobae.com/resizer/v2/FV5DYOUU3JD2FCYMJPGJJXEVKE.jpg?auth=87dbfef01f2579f86f48bb32dc576352f3b5868c03259f8f36e945f90bf3d8ac&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/09/una-quimica-japonesa-pagara-usd-11600-millones-por-jsr-que-provee-materiales-clave-para-fabricar-chips/"
+      "link": "https://www.infobae.com/tecno/2026/11/09/como-crear-una-imagen-de-los-saja-boys-de-las-guerreras-k-pop-como-hokages-de-naruto/"
     },
     {
-      "titulo": "¡Ojo con la IA! En Australia dicen que la tecnología está subiendo los precios",
-      "resumen": "Desde el otro lado del mundo nos llega el cuento de que la Inteligencia Artificial está poniendo los precios por las nubes. La subgobernadora del banco central de Australia soltó que tanta inversión e",
-      "imagen": "https://www.infobae.com/resizer/v2/MGSZYHF5MFFKVOFWNXTT3B3GEU.jpg?auth=408e0c4c70dab9ec05a99d7d8605cded501c0aeb31097e454aece300463f42b7&smart=true&width=1920&height=1080",
+      "titulo": "¡Elon Musk echó para atrás! Tesla devolverá la plata de algunos Cybertrucks",
+      "resumen": "¡Mosca con esto! El propio Elon Musk soltó la bomba de que Tesla no va a poder cumplir con todos los pedidos del Cybertruck. Como la producción va más lenta que un desfile de morrocoyes y cierran la l",
+      "imagen": "https://www.infobae.com/resizer/v2/USHU5AMTLNH4XIP4VN5AU6VBKQ.jpg?auth=0c9bc428d30ecb40fc02d20332d79ffba0f9a176c7319914410192eb7db2f80e&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/09/el-banco-central-de-australia-advirtio-que-el-auge-de-la-ia-empuja-los-precios-al-alza/"
+      "link": "https://www.infobae.com/estados-unidos/2026/11/09/elon-musk-anuncio-este-lunes-que-tesla-devolvera-los-depositos-del-cybertruck-a-algunos-de-sus-clientes/"
     },
     {
-      "titulo": "¡Buenas noticias para los gamers! Epic Games Store se prepara para Linux",
-      "resumen": "¡Atención, fanáticos de los videojuegos! Epic Games está trabajando para que su tienda funcione fino en SteamOS y otras versiones de Linux. Eso sí, no se me emocionen tanto todavía con el Fortnite en ",
-      "imagen": "https://www.infobae.com/resizer/v2/GBY257N53NAJLJLXW74UENN5OM.png?auth=0ec289f95991d163f06f63fecbd94c76e07b0460823d3fe51acaaf83a265aafe&smart=true&width=2752&height=1536",
+      "titulo": "¡Instagram se puso las pilas! Usarán IA para pillar a los menores que mienten",
+      "resumen": "¡Se les acabó el pan de piquito a los chamos que mienten en Instagram! Meta activó una inteligencia artificial que analiza desde los mensajes de cumpleaños hasta la estatura en las fotos para detectar",
+      "imagen": "https://www.infobae.com/resizer/v2/DR62GI4BZVEZZCNUVVQHOJLHHI.JPG?auth=641239c157a2ff61af51c4968d897f54b155b8e133e5a47a4b5195a06e6f0590&smart=true&width=4000&height=2667",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/09/epic-games-store-prepara-soporte-oficial-para-steamos-aunque-fortnite-en-steam-deck-tendra-que-esperar/"
+      "link": "https://www.infobae.com/tecno/2026/11/09/instagram-usara-ia-para-detectar-a-adolescentes-que-cambian-su-edad-para-entrar-a-la-app/"
     }
   ]
 }
