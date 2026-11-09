@@ -1,50 +1,50 @@
 {
-  "actualizado": "08/11/2026, 05:00 p. m.",
+  "actualizado": "09/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana, que el que nace para martillo, del cielo le caen los clavos, pero el que nace con chispa venezolana, ¡hasta de un limón hace una limonada bien fría! Pa' lante es pa' allá.",
+    "texto": "¡Epa, mi gente! Recuerden que el que madruga, Dios lo ayuda, pero el que le echa pichón con una sonrisa, ¡ese es el que llega lejos! Pa' lante es pa' allá, que no hay mal que dure cien años ni cuerpo ",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Seiya Suzuki está que arde y todos lo quieren en su equipo!",
-      "resumen": "El japonés Seiya Suzuki se perfila como el 'lomito' de la agencia libre este invierno. Aunque no ha ido a un Juego de Estrellas, el hombre batea más que un tambor en fiesta patronal. Con 26 jonrones y",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Seiya-Suzuki-300x225.jpg",
+      "titulo": "¡Se prendieron los motores en La Rinconada! Salomé y El Trueno mandaron",
+      "resumen": "¡Epa, mi gente hípica! La jornada en el Coso de La Rinconada estuvo de infarto. En la primera, la yegua Salomé se lució con H. Medina en los 1.200 metros, dejando a todos fríos con un dividendo de 294",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Rinconada-de-noche-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/seiya-suzuki-podria-ser-uno-de-los-agentes-libres-mas-deseados/"
+      "link": "https://www.liderendeportes.com/hipismo/resultadosde-la-rinconada-8/"
     },
     {
-      "titulo": "Nique Clifford se muda a Oklahoma para meterle el pecho a los Thunder",
-      "resumen": "¡Cambio de aires para Nique Clifford! El chamo deja a los Kings de Sacramento para unirse a los Thunder de Oklahoma a cambio de dos selecciones futuras del Draft. Con las bajas por lesión que tiene el",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Nique-Clifford--300x225.jpg",
+      "titulo": "¡El nido se respeta! Las Águilas picotearon a los Tiburones en Maracaibo",
+      "resumen": "¡Qué molleja de juego, primo! Las Águilas del Zulia sacaron la casta en el Luis Aparicio y le ganaron 6-5 a los Tiburones de La Guaira. El chamo Victor Arias se la botó por el jardín derecho con uno a",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Ali-Castillo-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/nique-clifford-se-une-a-los-thunder-de-oklahoma/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/aguilas-defendio-el-nido-ante-el-ataque-tiburon/"
     },
     {
-      "titulo": "¡Lando Norris dictó cátedra bajo la lluvia en el GP de San Pablo!",
-      "resumen": "Ni el palo de agua detuvo a Lando Norris en Interlagos. El piloto de McLaren se llevó la pole y la carrera dominando 47 vueltas como todo un profesional. Aunque tuvo un toma y dame con Kimi Antonelli,",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-29-300x225.png",
+      "titulo": "¡Fermín andaba encendido! Doblete del chamo para que el Barça remonte",
+      "resumen": "¡Vaya partidazo en España! El jovencito Fermín López se echó el equipo al hombro y con dos goles le dio la vuelta al marcador para que el Barcelona venciera 2-1 al Atlético de Madrid. El juego estuvo ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Fermin-Lopez-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/motor/lando-norris-gano-el-gp-de-san-pablo/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/doblete-de-fermin-le-dio-el-triunfo-al-barcelona/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Muñequita linda: El último regalo del maestro Román Chalbaud",
-      "resumen": "La obra póstuma de nuestro eterno Román Chalbaud llega para ponernos a reflexionar. 'Muñequita linda' nos muestra a una mujer valiente que no se deja ante la opresión. La historia de Daniela, una much",
+      "titulo": "Muñequita linda: El último regalo del maestro Chalbaud para Venezuela",
+      "resumen": "El cine nacional se viste de gala con la obra póstuma de Román Chalbaud. Muñequita linda nos trae una historia con mucha garra, donde la mujer es la gran protagonista. La trama sigue a Daniela, una mu",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-1-300x173.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-valentia-y-ternura/"
     },
     {
-      "titulo": "¡Puro talento! Carabobo vibró con el concierto Venezuela Esperanza que Renace",
-      "resumen": "Valencia se llenó de música y tradición con un conciertazo que puso a todo el mundo a gozar. Los Semilleros de los Tambores de San Millán y la Orquesta Regional Alma Llanera de Carabobo se botaron en ",
+      "titulo": "¡Puro talento nacional! El Museo de Arte de Valencia vibró con la música",
+      "resumen": "¡Qué cosa tan buena! En Carabobo se lucieron con el concierto «Venezuela Esperanza que Renace». Los chamos de los Tambores de San Millán y la Orquesta Regional Alma Llanera pusieron a todo el mundo a ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-10.56.55-AM-300x169.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/carabobo/tarek-william-saab-resalto-exito-del-concierto-venezuela-esperanza-que-renace-en-carabobo/"
     },
     {
-      "titulo": "¡Llegó la Navidad a Barcelona con pesebres artesanales de lujo!",
-      "resumen": "En la Casa Amarilla de Barcelona se armó el parrandón con la inauguración de una muestra de pesebres artesanales. Son 35 cultores de la zona que pusieron su talento a brillar para darle la bienvenida ",
+      "titulo": "¡Llegó la Navidad a Barcelona! 35 cultores muestran sus pesebres",
+      "resumen": "¡Ya huele a hallaca en Anzoátegui! En la Casa Amarilla de Barcelona se inauguró una exposición bellísima con pesebres hechos a mano por 35 artistas de la zona. La cosa se prendió con una parranda navi",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/5145557682210147684-300x198.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-abrio-muestra-de-pesebres-artesanales-de-35-cultores/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Tremendo lío! Los herederos de Elvis y Eminem demandan a una IA",
-      "resumen": "Se prendió la mecha en el mundo de la música. Los dueños de los derechos de Elvis Presley y Eminem demandaron a Suno, una inteligencia artificial que anda clonando voces y copiando canciones sin permi",
-      "imagen": "https://www.infobae.com/resizer/v2/W66T3LUZ4FGGZBC5DUF42FXR2M.png?auth=1a6440e41219b9a04ae6ccc151dd715915b516df00624e08d6fbb90d5442c99c&smart=true&width=1920&height=1080",
+      "titulo": "¡Negoción en Japón! Compran gigante de materiales para chips por una millonada",
+      "resumen": "¡Miren este movimiento de grandes ligas! La empresa Mitsui Chemicals soltó la bicoca de 11.600 millones de dólares para quedarse con JSR, una pieza clave para fabricar los chips que usamos todos los d",
+      "imagen": "https://www.infobae.com/resizer/v2/27ZSF3ZHINF4XBHR4KFNBSJE7Y.JPG?auth=875d3c4302f33661ac7bbad7b029eca864e3e324dfe10c36e7a88d2400acef68&smart=true&width=6214&height=4143",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/los-duenos-de-elvis-presley-y-eminem-demandaron-a-suno-por-copiar-sus-canciones-y-clonar-sus-voces-con-ia/"
+      "link": "https://www.infobae.com/tecno/2026/11/09/una-quimica-japonesa-pagara-usd-11600-millones-por-jsr-que-provee-materiales-clave-para-fabricar-chips/"
     },
     {
-      "titulo": "¡Un celular guerrero! El HONOR 600 Elite aguanta hasta un chaparrón",
-      "resumen": "Llegó el HONOR 600 Elite, un teléfono que es más duro que un sancocho de hueso. Está diseñado para usarse sin forro porque aguanta caídas, polvo y hasta agua sin despeinarse. Además de ser un 'tanque'",
-      "imagen": "https://www.infobae.com/resizer/v2/BLTSHNRD2FC7ZOKEKJSUZG2PAM.jpg?auth=7da48f67703040451ef0261667730853db3de54b3f63579f34e5d627b8f3ddb2&smart=true&width=2400&height=1792",
+      "titulo": "¡Ojo con la IA! En Australia dicen que la tecnología está subiendo los precios",
+      "resumen": "Desde el otro lado del mundo nos llega el cuento de que la Inteligencia Artificial está poniendo los precios por las nubes. La subgobernadora del banco central de Australia soltó que tanta inversión e",
+      "imagen": "https://www.infobae.com/resizer/v2/MGSZYHF5MFFKVOFWNXTT3B3GEU.jpg?auth=408e0c4c70dab9ec05a99d7d8605cded501c0aeb31097e454aece300463f42b7&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/honor-600-elite-un-celular-resistente-para-usar-sin-funda-y-en-cualquier-clima-de-colombia/"
+      "link": "https://www.infobae.com/tecno/2026/11/09/el-banco-central-de-australia-advirtio-que-el-auge-de-la-ia-empuja-los-precios-al-alza/"
     },
     {
-      "titulo": "¡El Nokia 1100 no muere! Así puedes jugar la culebrita en pleno 2026",
-      "resumen": "¿Quién no pasó horas dándole a la 'culebrita' en un Nokia 1100? Pues les cuento que en este 2026 ese bicho sigue dando de qué hablar. Juegos clásicos como Snake II y Space Impact+ todavía se pueden di",
-      "imagen": "https://www.infobae.com/resizer/v2/53WH5NQOZJDOXGLRO5DBLBKVLA.png?auth=d1e1c4f4548b0e233d795744304776545412ef90d1cb1aeb71daa24bbdc6d69c&smart=true&width=1920&height=1080",
+      "titulo": "¡Buenas noticias para los gamers! Epic Games Store se prepara para Linux",
+      "resumen": "¡Atención, fanáticos de los videojuegos! Epic Games está trabajando para que su tienda funcione fino en SteamOS y otras versiones de Linux. Eso sí, no se me emocionen tanto todavía con el Fortnite en ",
+      "imagen": "https://www.infobae.com/resizer/v2/GBY257N53NAJLJLXW74UENN5OM.png?auth=0ec289f95991d163f06f63fecbd94c76e07b0460823d3fe51acaaf83a265aafe&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/08/que-juegos-tenia-el-nokia-1100-y-como-jugarlos-en-2026/"
+      "link": "https://www.infobae.com/tecno/2026/11/09/epic-games-store-prepara-soporte-oficial-para-steamos-aunque-fortnite-en-steam-deck-tendra-que-esperar/"
     }
   ]
 }
