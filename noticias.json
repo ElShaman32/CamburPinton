@@ -1,50 +1,50 @@
 {
-  "actualizado": "10/11/2026, 06:00 a. m.",
+  "actualizado": "10/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero con una buena arepa y fe en Dios, no hay clavo que no se doble. ¡A echarle pichón que hoy es un gran día!",
+    "texto": "¡Epa, mi pana! Acuérdate que el que madruga coge agua clara, pero el que le pone corazón a lo que hace, ¡se lleva el premio mayor! ¡Echa pa' lante que el sol sale para todos!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Detroit se puso las pilas y le ganó a Washington!",
-      "resumen": "Los Detroit Pistons sacaron la casta y vencieron 122-111 a los Wizards en su casa. John Collins se mandó un juegazo con 24 puntos y 10 rebotes, mientras que Daniss Jenkins aportó 22 tantos. Ni los 44 ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261109_231536_0000-1-300x225.png",
+      "titulo": "¡Esa es mi Leona! Grenyelis García va por el boleto de oro en Dakar 2026",
+      "resumen": "Nuestra 'Leona de Anaco', Grenyelis García, ya aseguró el bronce y ahora va con todo por el pase a la final en los 51 kg de los Juegos Olímpicos Juveniles. Después de una victoria contundente por susp",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Grenyelis-Garcia-1-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/detroit-se-llevo-el-triunfo-sobre-washington/"
+      "link": "https://www.liderendeportes.com/mas-deportes/grenyelis-garcia-por-el-boleto-dorado/"
     },
     {
-      "titulo": "¡El Caracas sigue mandando! Leones rugió fuerte ante Cardenales",
-      "resumen": "Los melenudos están encendidos y le dieron una tunda 7-2 a los Cardenales de Lara en Barquisimeto. Con 11 imparables y un ataque feroz entre el octavo y noveno inning, Lenyn Sosa y Wuilfredo Antunez f",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wilfredo-Tovar-300x225.png",
+      "titulo": "Wuilfredo Antúnez cumple su sueño de chamo con los Leones del Caracas",
+      "resumen": "El jardinero Wuilfredo Antúnez está más feliz que muchacho con juguete nuevo en su debut con los melenudos. El chamo contó que jugar con el Caracas era un deseo de toda su familia y, gracias al permis",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wuilfredo-Antunez-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-mantiene-su-buen-ritmo-venciendo-a-cardenales/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/wuilfredo-antunez-califica-positivamente-su-zafra-debut-con-leones/"
     },
     {
-      "titulo": "¡Sexta en fila! Los Lakers están imparables tras vencer a los Hawks",
-      "resumen": "Los Lakers de Los Ángeles siguen enrachados y consiguieron su sexta victoria al hilo al ganarle 124-114 a Atlanta. Aunque los Hawks intentaron reaccionar con fuerza en el tercer cuarto, el quinteto di",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261109_223706_0000-1-300x225.png",
+      "titulo": "Endrick no se mueve del Madrid: 'Solo quiero jugar y ser feliz'",
+      "resumen": "El jovencito brasileño Endrick le salió al paso a los chismes y soltó que no tiene planes de irse del Real Madrid en enero. El chamo está enfocado en seguir sudando la camiseta merengue para ganar tít",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Endrick--300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/lakers-soportaron-arremetida-de-los-hawks-y-lograron-sexta-victoria-consecutiva/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/endrick-sobre-el-madrid-solo-quiero-jugar-y-ser-feliz/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Caracas se llena de libros! La Filven 2026 viene con todo",
-      "resumen": "Prepárense, mi gente, que del 13 al 23 de noviembre la Galería de Arte Nacional y la Plaza de la Juventud se vestirán de gala para la Filven 2026. Con más de 600 actividades y la presencia de invitado",
+      "titulo": "¡A leer se ha dicho! La Filven 2026 llega con todo a Caracas",
+      "resumen": "Prepárense, mi gente, que del 13 al 23 de noviembre la Galería de Arte Nacional y la Plaza de la Juventud se llenan de libros. La Filven 2026 viene repotenciada con más de 600 actividades para que tod",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-2-300x206.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/caracas-recibe-la-filven-2026-este-viernes-con-mas-de-600-actividades/"
     },
     {
-      "titulo": "¡Puro sabor! Ocumare del Tuy celebró su «Cachapazo de Oro»",
-      "resumen": "En los Valles del Tuy se armó el parrandón con la edición 32 de la Feria Agrícola de la Cachapa. El asentamiento San Bernardo se llenó de gente de todos lados para disfrutar del tradicional «Cachapazo",
+      "titulo": "¡Puro sabor! Ocumare del Tuy celebró el 'Cachapazo de Oro'",
+      "resumen": "En los Valles del Tuy se armó la rumba con la edición 32 de la Feria Agrícola de la Cachapa. El asentamiento San Bernardo se llenó de gente para el famoso 'Cachapazo de Oro', donde el maíz fue el prot",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261109_151710_662-300x271.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/miranda/ocumare-del-tuy-albergo-el-cachapazo-de-oro/"
     },
     {
-      "titulo": "Venezuela e Italia se dan la mano para cuidar nuestros museos",
-      "resumen": "En el Museo de Arte Contemporáneo de Caracas se armó una alianza bien fina entre Venezuela e Italia. Expertos de ambos países compartieron sus trucos y protocolos para proteger nuestras obras de arte ",
+      "titulo": "Venezuela e Italia se dan la mano para cuidar nuestros museos ante sismos",
+      "resumen": "Expertos de Venezuela e Italia se reunieron en el Museo de Arte Contemporáneo de Caracas para compartir secretos sobre cómo proteger nuestras joyas culturales de los temblores. Gracias a esta alianza,",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-7.54.33-PM-2-1024x682-1-300x200.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/venezuela-e-italia-crean-alianza-para-blindar-patrimonios-ante-sismos/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Tremendo lío! El jefe de Nvidia en el ojo del huracán por un romance",
-      "resumen": "Se prendió el ventilador en el mundo tecnológico. Jensen Huang, el mero mero de Nvidia, admitió que le fue infiel a su esposa con una ejecutiva que la inteligencia de Estados Unidos sospecha es una ag",
-      "imagen": "https://www.infobae.com/resizer/v2/ZRQZ5NQJG5HRPPIGLOJZ2Z3E5U.png?auth=58e26fd13083d9000561b72e3cfe135d7b19da92734d541d7f659af01b1c1fe2&smart=true&width=2752&height=1536",
+      "titulo": "¡Un dron que cuida la casa! Lo nuevo de Amazon y Ring para el 2027",
+      "resumen": "Imagínate un dron que patrulla tu sala cuando suena la alarma; bueno, Amazon ya lo tiene casi listo. Aunque todavía falta el permiso de las autoridades en EE.UU., se espera que para enero de 2027 este",
+      "imagen": "https://www.infobae.com/resizer/v2/TSNPAFBNHVBEJOMV7GMXNAHKNA.png?auth=0556f3f88a97d7bdd79fba8542cd2fd0143af4218fe2ddceff4f5296a9c9ef41&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/estados-unidos/2026/11/09/quien-es-quien-y-que-paso-cuando-la-guia-para-entender-el-escandalo-que-sacude-a-nvidia/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/amazon-llevara-al-mercado-el-dron-de-ring-para-vigilar-una-casa-cuando-suene-una-alarma/"
     },
     {
-      "titulo": "¡Candela pura! Tormenta solar puso a correr a los científicos",
-      "resumen": "Una erupción solar clase X5 soltó un viaje de radiación que llegó hasta la Tierra, dejando al descubierto fallas en los sistemas de alerta de los vuelos. Este fenómeno, que no se veía así desde hace c",
-      "imagen": "https://www.infobae.com/resizer/v2/46BGLCROXZBY3D6FZ4VKUBFHPY.png?auth=705207b47953a93aac189dc83b708d63dd8846640ce28ba429585db4241344e2&smart=true&width=2752&height=1536",
+      "titulo": "¿Internet lento? Dale un descansito al router una vez por semana",
+      "resumen": "Si el Wi-Fi se te pone pesado o se cae a cada rato, el truco del abuelo no falla: ¡reinicia el router! Aunque no es una ley escrita, los expertos dicen que apagarlo y prenderlo una vez a la semana ayu",
+      "imagen": "https://www.infobae.com/resizer/v2/XR4HMHYST5B67FZH6UM62HXSJI.png?auth=a4284e9b82b5560ed823aeb00373a3c6e77dc667021397fa1adbeb169cb2505d&smart=true&width=1536&height=1024",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/10/como-una-tormenta-solar-extraordinaria-expuso-problemas-en-los-sistemas-de-alerta-en-los-vuelos-segun-un-estudio/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/reiniciar-el-router-cada-semana-que-beneficios-puede-tener-para-la-conexion-a-internet/"
     },
     {
-      "titulo": "¡A los tribunales! Accionistas de Nvidia demandan a su jefe",
-      "resumen": "Los inversionistas de Nvidia no se quedaron de brazos cruzados y demandaron a Jensen Huang por ocultar su relación con la supuesta espía china. Dicen que el jefe los engañó y ahora piden una indemniza",
-      "imagen": "https://www.infobae.com/resizer/v2/MGKM5GNQLFABJIBJ6BNH3YMMHM.JPG?auth=1f63ed6a2f32580315b6e647bda737db67ffdc137e3bf260470ddde7416119d8&smart=true&width=2798&height=1874",
+      "titulo": "Carros del futuro: Híbridos y con sensores de cansancio para el 2026",
+      "resumen": "El Salón del Automóvil 2026 viene con unas naves que parecen de película. Se vienen carros híbridos que ruedan más de 100 km solo con electricidad, cabinas con tres pantallas y hasta sistemas que te a",
+      "imagen": "https://www.infobae.com/resizer/v2/E62ELXOX7ZHNXANDR5ECRX7WXQ.png?auth=68646ce31e501e3b8706672aa2bf53ecdb1fb949c382e9efdcc0b6bd5debdf75&smart=true&width=1408&height=768",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/10/accionistas-demandaron-a-nvidia-y-a-jensen-huang-por-ocultar-su-relacion-con-una-presunta-espia-china/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/lanzamientos-previos-al-salon-del-automovil-2026-hibridos-con-mas-de-100-km-de-autonomia-triple-pantalla-y-monitoreo-de-fatiga/"
     }
   ]
 }
