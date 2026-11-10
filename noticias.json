@@ -1,76 +1,76 @@
 {
-  "actualizado": "09/11/2026, 12:00 p. m.",
+  "actualizado": "10/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que nace pa' martillo, del cielo le caen los clavos, pero el que nace con chispa venezolana, ¡hasta la oscuridad la vuelve rumba! ¡Dale con todo hoy!",
+    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero con una buena arepa y fe en Dios, no hay clavo que no se doble. ¡A echarle pichón que hoy es un gran día!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Qué salación! Lamine Yamal y Oyarzabal se bajan del bus de la Nations League",
-      "resumen": "¡Epa, mi gente! Les cuento que la selección española anda coja porque Lamine Yamal tiene la rodilla a media máquina y Oyarzabal anda con una gripe de esas que tumban a cualquiera. La RFEF confirmó que",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Lamine-Yamal--300x225.png",
+      "titulo": "¡Detroit se puso las pilas y le ganó a Washington!",
+      "resumen": "Los Detroit Pistons sacaron la casta y vencieron 122-111 a los Wizards en su casa. John Collins se mandó un juegazo con 24 puntos y 10 rebotes, mientras que Daniss Jenkins aportó 22 tantos. Ni los 44 ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261109_231536_0000-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/lamine-yamal-y-oyarzabal-son-bajas-para-la-liga-de-naciones/"
+      "link": "https://www.liderendeportes.com/basketball/nba/detroit-se-llevo-el-triunfo-sobre-washington/"
     },
     {
-      "titulo": "¡A Neuer le salió un gallo! El portero del Bayern se queda fuera por el pie",
-      "resumen": "¡Ay, papá! Manuel Neuer se nos lesionó feo. El legendario portero del Bayern Múnich tiene una rotura parcial en un tendón del pie derecho y no vuelve a la cancha sino hasta enero. El hombre tuvo que a",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/12/Diseno-sin-titulo-49-300x225.jpg",
+      "titulo": "¡El Caracas sigue mandando! Leones rugió fuerte ante Cardenales",
+      "resumen": "Los melenudos están encendidos y le dieron una tunda 7-2 a los Cardenales de Lara en Barquisimeto. Con 11 imparables y un ataque feroz entre el octavo y noveno inning, Lenyn Sosa y Wuilfredo Antunez f",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wilfredo-Tovar-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/manuel-neuer-estara-de-baja-por-lesion-en-su-pie/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-mantiene-su-buen-ritmo-venciendo-a-cardenales/"
     },
     {
-      "titulo": "¡España le dio un baile a Brasil y se llevó la Finalíssima de Futsal!",
-      "resumen": "¡Eso estuvo de infarto! La selección española de fútbol sala se coronó campeona de la Finalíssima tras meterle tres papas a Brasil en su propia casa. Con goles de Castejón, Morales y Pérez en el segun",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Espana-3-300x225.jpg",
+      "titulo": "¡Sexta en fila! Los Lakers están imparables tras vencer a los Hawks",
+      "resumen": "Los Lakers de Los Ángeles siguen enrachados y consiguieron su sexta victoria al hilo al ganarle 124-114 a Atlanta. Aunque los Hawks intentaron reaccionar con fuerza en el tercer cuarto, el quinteto di",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261109_223706_0000-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/internacional-football/espana-vence-a-brasil-y-es-campeon-de-la-finalissima/"
+      "link": "https://www.liderendeportes.com/basketball/lakers-soportaron-arremetida-de-los-hawks-y-lograron-sexta-victoria-consecutiva/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Muñequita linda: El último regalo del maestro Román Chalbaud para Venezuela",
-      "resumen": "¡Pura calidad cinematográfica! Se estrenó la obra póstuma de nuestro Román Chalbaud, una película que pone a la mujer en lo más alto. La historia de Daniela nos muestra esa mezcla de valentía y ternur",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-1-300x173.jpeg",
+      "titulo": "¡Caracas se llena de libros! La Filven 2026 viene con todo",
+      "resumen": "Prepárense, mi gente, que del 13 al 23 de noviembre la Galería de Arte Nacional y la Plaza de la Juventud se vestirán de gala para la Filven 2026. Con más de 600 actividades y la presencia de invitado",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-2-300x206.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/munequita-linda-valentia-y-ternura/"
+      "link": "https://ultimasnoticias.com.ve/cultura/caracas-recibe-la-filven-2026-este-viernes-con-mas-de-600-actividades/"
     },
     {
-      "titulo": "¡Puro talento! El Sistema y los Tambores de San Millán pusieron a vibrar a Carabobo",
-      "resumen": "¡Qué concierto tan sabroso se mandaron en Valencia! Bajo el lema 'Venezuela Esperanza que Renace', el Museo de Arte se llenó de magia con la Orquesta Regional Alma Llanera y los chamos de los Tambores",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-10.56.55-AM-300x169.jpeg",
+      "titulo": "¡Puro sabor! Ocumare del Tuy celebró su «Cachapazo de Oro»",
+      "resumen": "En los Valles del Tuy se armó el parrandón con la edición 32 de la Feria Agrícola de la Cachapa. El asentamiento San Bernardo se llenó de gente de todos lados para disfrutar del tradicional «Cachapazo",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261109_151710_662-300x271.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/carabobo/tarek-william-saab-resalto-exito-del-concierto-venezuela-esperanza-que-renace-en-carabobo/"
+      "link": "https://ultimasnoticias.com.ve/miranda/ocumare-del-tuy-albergo-el-cachapazo-de-oro/"
     },
     {
-      "titulo": "¡Ya huele a Navidad! Barcelona se luce con una exposición de pesebres artesanales",
-      "resumen": "¡Llegó la época más bonita del año a Anzoátegui! En la Casa Amarilla de Barcelona, 35 cultores de la zona se lucieron armando unos pesebres artesanales que son una belleza. La cosa arrancó con parrand",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/5145557682210147684-300x198.jpg",
+      "titulo": "Venezuela e Italia se dan la mano para cuidar nuestros museos",
+      "resumen": "En el Museo de Arte Contemporáneo de Caracas se armó una alianza bien fina entre Venezuela e Italia. Expertos de ambos países compartieron sus trucos y protocolos para proteger nuestras obras de arte ",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-7.54.33-PM-2-1024x682-1-300x200.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-abrio-muestra-de-pesebres-artesanales-de-35-cultores/"
+      "link": "https://ultimasnoticias.com.ve/actualidad/venezuela-e-italia-crean-alianza-para-blindar-patrimonios-ante-sismos/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pura tecnología! Convierte a los Saja Boys en ninjas de Naruto con IA",
-      "resumen": "¡Miren esta nota! Ahora cualquiera puede usar la IA para transformar a los Saja Boys de las Guerreras K-pop en unos auténticos Hokages de Naruto. El truco está en saber mezclar los peinados y las pose",
-      "imagen": "https://www.infobae.com/resizer/v2/FV5DYOUU3JD2FCYMJPGJJXEVKE.jpg?auth=87dbfef01f2579f86f48bb32dc576352f3b5868c03259f8f36e945f90bf3d8ac&smart=true&width=1920&height=1080",
+      "titulo": "¡Tremendo lío! El jefe de Nvidia en el ojo del huracán por un romance",
+      "resumen": "Se prendió el ventilador en el mundo tecnológico. Jensen Huang, el mero mero de Nvidia, admitió que le fue infiel a su esposa con una ejecutiva que la inteligencia de Estados Unidos sospecha es una ag",
+      "imagen": "https://www.infobae.com/resizer/v2/ZRQZ5NQJG5HRPPIGLOJZ2Z3E5U.png?auth=58e26fd13083d9000561b72e3cfe135d7b19da92734d541d7f659af01b1c1fe2&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/09/como-crear-una-imagen-de-los-saja-boys-de-las-guerreras-k-pop-como-hokages-de-naruto/"
+      "link": "https://www.infobae.com/estados-unidos/2026/11/09/quien-es-quien-y-que-paso-cuando-la-guia-para-entender-el-escandalo-que-sacude-a-nvidia/"
     },
     {
-      "titulo": "¡Elon Musk echó para atrás! Tesla devolverá la plata de algunos Cybertrucks",
-      "resumen": "¡Mosca con esto! El propio Elon Musk soltó la bomba de que Tesla no va a poder cumplir con todos los pedidos del Cybertruck. Como la producción va más lenta que un desfile de morrocoyes y cierran la l",
-      "imagen": "https://www.infobae.com/resizer/v2/USHU5AMTLNH4XIP4VN5AU6VBKQ.jpg?auth=0c9bc428d30ecb40fc02d20332d79ffba0f9a176c7319914410192eb7db2f80e&smart=true&width=1920&height=1080",
+      "titulo": "¡Candela pura! Tormenta solar puso a correr a los científicos",
+      "resumen": "Una erupción solar clase X5 soltó un viaje de radiación que llegó hasta la Tierra, dejando al descubierto fallas en los sistemas de alerta de los vuelos. Este fenómeno, que no se veía así desde hace c",
+      "imagen": "https://www.infobae.com/resizer/v2/46BGLCROXZBY3D6FZ4VKUBFHPY.png?auth=705207b47953a93aac189dc83b708d63dd8846640ce28ba429585db4241344e2&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/estados-unidos/2026/11/09/elon-musk-anuncio-este-lunes-que-tesla-devolvera-los-depositos-del-cybertruck-a-algunos-de-sus-clientes/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/como-una-tormenta-solar-extraordinaria-expuso-problemas-en-los-sistemas-de-alerta-en-los-vuelos-segun-un-estudio/"
     },
     {
-      "titulo": "¡Instagram se puso las pilas! Usarán IA para pillar a los menores que mienten",
-      "resumen": "¡Se les acabó el pan de piquito a los chamos que mienten en Instagram! Meta activó una inteligencia artificial que analiza desde los mensajes de cumpleaños hasta la estatura en las fotos para detectar",
-      "imagen": "https://www.infobae.com/resizer/v2/DR62GI4BZVEZZCNUVVQHOJLHHI.JPG?auth=641239c157a2ff61af51c4968d897f54b155b8e133e5a47a4b5195a06e6f0590&smart=true&width=4000&height=2667",
+      "titulo": "¡A los tribunales! Accionistas de Nvidia demandan a su jefe",
+      "resumen": "Los inversionistas de Nvidia no se quedaron de brazos cruzados y demandaron a Jensen Huang por ocultar su relación con la supuesta espía china. Dicen que el jefe los engañó y ahora piden una indemniza",
+      "imagen": "https://www.infobae.com/resizer/v2/MGKM5GNQLFABJIBJ6BNH3YMMHM.JPG?auth=1f63ed6a2f32580315b6e647bda737db67ffdc137e3bf260470ddde7416119d8&smart=true&width=2798&height=1874",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/09/instagram-usara-ia-para-detectar-a-adolescentes-que-cambian-su-edad-para-entrar-a-la-app/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/accionistas-demandaron-a-nvidia-y-a-jensen-huang-por-ocultar-su-relacion-con-una-presunta-espia-china/"
     }
   ]
 }
