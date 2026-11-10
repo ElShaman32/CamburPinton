@@ -1,76 +1,76 @@
 {
-  "actualizado": "10/11/2026, 12:00 p. m.",
+  "actualizado": "10/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi pana! Acuérdate que el que madruga coge agua clara, pero el que le pone corazón a lo que hace, ¡se lleva el premio mayor! ¡Echa pa' lante que el sol sale para todos!",
+    "texto": "¡Epa, mi llave! Acuérdate que el que madruga, Dios lo ayuda, pero el que le echa pichón con fe, ¡no hay cerro que lo detenga! ¡Dale que tú puedes!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Esa es mi Leona! Grenyelis García va por el boleto de oro en Dakar 2026",
-      "resumen": "Nuestra 'Leona de Anaco', Grenyelis García, ya aseguró el bronce y ahora va con todo por el pase a la final en los 51 kg de los Juegos Olímpicos Juveniles. Después de una victoria contundente por susp",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Grenyelis-Garcia-1-300x225.jpg",
+      "titulo": "Ancelotti no quiere que Raphinha se rompa y le baja dos al entrenamiento",
+      "resumen": "¡Epa, mi gente! El míster Ancelotti escuchó los ruegos del Barça y decidió llevar a Raphinha por la sombrita en la concentración de Brasil. Para no arriesgar el físico del capitán azulgrana, le están ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Raphinha--300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/grenyelis-garcia-por-el-boleto-dorado/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/ancelotti-no-sera-tan-fuerte-con-raphinha/"
     },
     {
-      "titulo": "Wuilfredo Antúnez cumple su sueño de chamo con los Leones del Caracas",
-      "resumen": "El jardinero Wuilfredo Antúnez está más feliz que muchacho con juguete nuevo en su debut con los melenudos. El chamo contó que jugar con el Caracas era un deseo de toda su familia y, gracias al permis",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wuilfredo-Antunez-300x225.png",
+      "titulo": "¡Pau Cubarsí se alzó con el Golden Boy y barrió con los votos!",
+      "resumen": "El chamo Pau Cubarsí se llevó el premio al mejor jugador joven y lo hizo por todo lo alto. El central del Barcelona y de la selección española sacó 475 puntos de 500 posibles, ¡una barbaridad! Casi to",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-31-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/wuilfredo-antunez-califica-positivamente-su-zafra-debut-con-leones/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/asi-gano-pau-cubarsi-el-golden-boy/"
     },
     {
-      "titulo": "Endrick no se mueve del Madrid: 'Solo quiero jugar y ser feliz'",
-      "resumen": "El jovencito brasileño Endrick le salió al paso a los chismes y soltó que no tiene planes de irse del Real Madrid en enero. El chamo está enfocado en seguir sudando la camiseta merengue para ganar tít",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Endrick--300x225.jpg",
+      "titulo": "De la UCV para el mundo: Daniel Mosquera convocado por Colombia",
+      "resumen": "¡Qué orgullo para nuestra Liga Futve! El «Búfalo» Daniel Mosquera, que dejó su huella goleadora en la UCV FC, recibió el llamado de Néstor Lorenzo para jugar con la selección de Colombia. El delantero",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Daniel-Mosquera-UCV-FC-300x167.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/endrick-sobre-el-madrid-solo-quiero-jugar-y-ser-feliz/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/daniel-mosquera-con-pasado-en-el-futve-recibio-llamado-de-colombia/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡A leer se ha dicho! La Filven 2026 llega con todo a Caracas",
-      "resumen": "Prepárense, mi gente, que del 13 al 23 de noviembre la Galería de Arte Nacional y la Plaza de la Juventud se llenan de libros. La Filven 2026 viene repotenciada con más de 600 actividades para que tod",
+      "titulo": "¡Pégate el viaje sensorial en el Celarg con «Soy loco por ti América»!",
+      "resumen": "Este miércoles se prende la cosa en el Celarg con una exposición inmersiva que te va a volar los sesos. Se llama «Soy loco por ti América» y es una experiencia para sentir nuestras raíces y la histori",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/0d4c9cb9-eb22-4dff-b582-bec0dde5e201-300x187.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/este-miercoles-inauguran-exposicion-inmersiva-soy-loco-por-ti-america-en-el-celarg/"
+    },
+    {
+      "titulo": "¡Caracas se llena de libros! La Filven 2026 viene con todo",
+      "resumen": "Prepárense, amantes de la lectura, porque del 13 al 23 de noviembre la Filven 2026 toma la Galería de Arte Nacional y la Plaza de la Juventud. Con más de 600 actividades y Rusia como invitado, Bellas ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-2-300x206.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/caracas-recibe-la-filven-2026-este-viernes-con-mas-de-600-actividades/"
     },
     {
-      "titulo": "¡Puro sabor! Ocumare del Tuy celebró el 'Cachapazo de Oro'",
-      "resumen": "En los Valles del Tuy se armó la rumba con la edición 32 de la Feria Agrícola de la Cachapa. El asentamiento San Bernardo se llenó de gente para el famoso 'Cachapazo de Oro', donde el maíz fue el prot",
+      "titulo": "¡Puro sabor! Ocumare del Tuy celebró su «Cachapazo de Oro»",
+      "resumen": "En los Valles del Tuy se armó el parrandón con la edición 32 de la Feria Agrícola de la Cachapa. El asentamiento San Bernardo se llenó de gente para disfrutar del famoso «Cachapazo de Oro», marcando e",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261109_151710_662-300x271.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/miranda/ocumare-del-tuy-albergo-el-cachapazo-de-oro/"
-    },
-    {
-      "titulo": "Venezuela e Italia se dan la mano para cuidar nuestros museos ante sismos",
-      "resumen": "Expertos de Venezuela e Italia se reunieron en el Museo de Arte Contemporáneo de Caracas para compartir secretos sobre cómo proteger nuestras joyas culturales de los temblores. Gracias a esta alianza,",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-7.54.33-PM-2-1024x682-1-300x200.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/actualidad/venezuela-e-italia-crean-alianza-para-blindar-patrimonios-ante-sismos/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Un dron que cuida la casa! Lo nuevo de Amazon y Ring para el 2027",
-      "resumen": "Imagínate un dron que patrulla tu sala cuando suena la alarma; bueno, Amazon ya lo tiene casi listo. Aunque todavía falta el permiso de las autoridades en EE.UU., se espera que para enero de 2027 este",
-      "imagen": "https://www.infobae.com/resizer/v2/TSNPAFBNHVBEJOMV7GMXNAHKNA.png?auth=0556f3f88a97d7bdd79fba8542cd2fd0143af4218fe2ddceff4f5296a9c9ef41&smart=true&width=1920&height=1080",
+      "titulo": "Muse, el asistente de Meta, se quedó por fuera en eBay",
+      "resumen": "¡Se le acabó la guachafita a Muse! El asistente de inteligencia artificial de Meta ya no puede chismosear los precios ni los productos en eBay. Resulta que la página bloqueó a la herramienta, dejando ",
+      "imagen": "https://www.infobae.com/resizer/v2/I3I25QW3D5BALDS6LF3N7B6QRY.JPG?auth=56c780728f012c3a3a80eca421b7289c0c975f815cd5a38ed8934233d934e8c2&smart=true&width=4000&height=2533",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/10/amazon-llevara-al-mercado-el-dron-de-ring-para-vigilar-una-casa-cuando-suene-una-alarma/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/muse-el-asistente-de-compras-con-ia-de-meta-dejo-de-poder-navegar-en-ebay/"
     },
     {
-      "titulo": "¿Internet lento? Dale un descansito al router una vez por semana",
-      "resumen": "Si el Wi-Fi se te pone pesado o se cae a cada rato, el truco del abuelo no falla: ¡reinicia el router! Aunque no es una ley escrita, los expertos dicen que apagarlo y prenderlo una vez a la semana ayu",
-      "imagen": "https://www.infobae.com/resizer/v2/XR4HMHYST5B67FZH6UM62HXSJI.png?auth=a4284e9b82b5560ed823aeb00373a3c6e77dc667021397fa1adbeb169cb2505d&smart=true&width=1536&height=1024",
+      "titulo": "¡Tremendo lío! El escándalo que tiene a Nvidia en el ojo del huracán",
+      "resumen": "El jefe de Nvidia, Jensen Huang, soltó una bomba al admitir que le fue infiel a su esposa con una ejecutiva que, según dicen en EE. UU., podría ser una agente china. El directorio de la empresa de chi",
+      "imagen": "https://www.infobae.com/resizer/v2/ZRQZ5NQJG5HRPPIGLOJZ2Z3E5U.png?auth=58e26fd13083d9000561b72e3cfe135d7b19da92734d541d7f659af01b1c1fe2&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/10/reiniciar-el-router-cada-semana-que-beneficios-puede-tener-para-la-conexion-a-internet/"
+      "link": "https://www.infobae.com/estados-unidos/2026/11/09/quien-es-quien-y-que-paso-cuando-la-guia-para-entender-el-escandalo-que-sacude-a-nvidia/"
     },
     {
-      "titulo": "Carros del futuro: Híbridos y con sensores de cansancio para el 2026",
-      "resumen": "El Salón del Automóvil 2026 viene con unas naves que parecen de película. Se vienen carros híbridos que ruedan más de 100 km solo con electricidad, cabinas con tres pantallas y hasta sistemas que te a",
-      "imagen": "https://www.infobae.com/resizer/v2/E62ELXOX7ZHNXANDR5ECRX7WXQ.png?auth=68646ce31e501e3b8706672aa2bf53ecdb1fb949c382e9efdcc0b6bd5debdf75&smart=true&width=1408&height=768",
+      "titulo": "¡Ojo pelao! Gemini ahora te deja ver y borrar lo que sabe de ti",
+      "resumen": "Google lanzó «Memory summary» para su inteligencia artificial Gemini, y ahora tú tienes el control. Con esta función puedes revisar, editar o borrar todito lo que el chatbot ha guardado sobre tus gust",
+      "imagen": "https://www.infobae.com/resizer/v2/WVF4XLXDSVEUZP6ZV6LUQCJVUI.jpg?auth=18695e9dea94700d9a76b3e3d837cd1a474a321ccb02816bba4c173345e9622e&smart=true&width=1920&height=1440",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/10/lanzamientos-previos-al-salon-del-automovil-2026-hibridos-con-mas-de-100-km-de-autonomia-triple-pantalla-y-monitoreo-de-fatiga/"
+      "link": "https://www.infobae.com/tecno/2026/11/10/la-nueva-funcion-memory-de-gemini-permite-ver-y-borrar-lo-que-recuerda-del-usuario/"
     }
   ]
 }
