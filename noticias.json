@@ -1,76 +1,76 @@
 {
-  "actualizado": "11/11/2026, 12:00 p. m.",
+  "actualizado": "12/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Epa, mi pana! Acuérdate que el que le echa pichón con alegría, siempre encuentra su camino. ¡No dejes que nadie te quite el brillo, que tú vales oro!",
+    "texto": "Mire, mi pariente, póngale corazón a lo que hace, que el que nace para martillo del cielo le caen los clavos, pero el que tiene fe y echa pa' lante, siempre encuentra su arepa bien rellena. ¡A echarle",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Ese es mi gallo! José Franco celebra su primer triunfo con el Magallanes",
-      "resumen": "El derecho de la Nave, José Franco, anda brincando en un pie tras conseguir su primera victoria en nuestra pelota. El chamo de Maracay, que ahora anda de abridor, se lució en la lomita y le dedicó est",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Jose-Franco-300x225.png",
+      "titulo": "¡La Nave va con todo! Magallanes busca repetir la gloria en Miami",
+      "resumen": "¡Epa, mi gente! Esta semana arranca la segunda edición del Choque de Gigantes en el LoanDepot Park. La idea es que nuestros peloteros se reencuentren con esa fanaticada que está afuera pero no olvida ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Diseno-sin-titulo-5-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/jose-franco-agradecido-por-su-primera-victoria-en-la-lvbp/"
+      "link": "https://www.liderendeportes.com/opinion/a-swing-completo/magallanes-a-revalidar-en-miami/"
     },
     {
-      "titulo": "¿Pochettino al Manchester United? Los Red Devils buscan enderezar el barco",
-      "resumen": "En el Manchester United la cosa está color de hormiga. Con el peor arranque de su historia y metidos en el puesto 18, la directiva ya le puso el ojo a Mauricio Pochettino para que tome el mando y sust",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Mauricio-Pochettino-300x225.jpg",
+      "titulo": "¡Pájaros Rojos volaron alto! Cardenales le volteó la arepa a los Tiburones",
+      "resumen": "¡Qué clase de remontada, vale! Los Cardenales de Lara estaban contra las cuerdas en Caracas, pero en el octavo sacaron la casta y armaron un ramillete de seis carreras para ganar 8-4. Aunque los escua",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Cardenales-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/sin-categoria/manchester-united-estaria-interesado-en-servicios-de-mauricio-pochettino/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/cardenales-remonta-con-furiosa-reaccion-tardia/"
     },
     {
-      "titulo": "¡Ni de vaina! Los Bravos de Atlanta no sueltan a nuestro Ronald Acuña Jr.",
-      "resumen": "Alex Anthopoulos, el mero mero de los Bravos, salió al paso para callar los chismes: Ronald Acuña Jr. no se va para ningún lado. El directivo dejó claro que El Abusador es pieza clave del equipo y que",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Ronald-Acuna-Jr-300x225.png",
+      "titulo": "¡Rugido en Maracay! Los Tigres le quitaron el vuelo a las Águilas",
+      "resumen": "En un duelo de puro poder en el Estadio José Pérez Colmenares, los Tigres de Aragua se impusieron 8-6 ante el Zulia. Los rapaces picaron adelante con jonrón de Víctor Arias, pero los bengalíes no se q",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tigres-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/alex-anthopoulos-descarta-salida-de-ronald-acuna-jr/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-remonta-ante-aguilas-en-un-duelo-de-poderes/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro arte! Inauguran Soy loco por ti América en el Celarg para gozar un puyero",
-      "resumen": "Este miércoles el Celarg se viste de gala con una exposición inmersiva que te va a dejar con la boca abierta. Se llama Soy loco por ti América y es un viaje sensorial por nuestras raíces y soberanía. ",
+      "titulo": "¡Música con alma! Concierto de la Gran Misión Viva Venezuela en el San Carlos",
+      "resumen": "Prepárense, que este jueves el Cuartel San Carlos se llena de cultura con la gira «Venezuela: Esperanza que Renace». A partir de las 4:00 p. m., El Sistema y el Ministerio de Cultura se unen para rend",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/concierto-1-300x182.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/actualidad/gran-mision-viva-venezuela-presentara-concierto-en-el-cuartel-san-carlos-este-jueves/"
+    },
+    {
+      "titulo": "¡Orgullo criollo! El maestro Diego Matheuz dirigirá el Teatro Massimo de Palermo",
+      "resumen": "¡De Venezuela para el mundo! Nuestro Diego Matheuz fue nombrado director principal de este prestigioso teatro en Italia. Lo más fino es que fueron los mismos músicos de la orquesta quienes lo pidieron",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-300x200.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/el-venezolano-diego-matheuz-es-nombrado-director-principal-del-teatro-massimo-de-palermo/"
+    },
+    {
+      "titulo": "¡Ponte las pilas! Inauguran exposición inmersiva sobre América en el Celarg",
+      "resumen": "Este miércoles se abren las puertas de “Soy loco por ti América” en el Celarg. Es una experiencia sensorial de otro nivel para conectarnos con nuestras raíces y la historia del continente. Bajo la cur",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/0d4c9cb9-eb22-4dff-b582-bec0dde5e201-300x187.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/este-miercoles-inauguran-exposicion-inmersiva-soy-loco-por-ti-america-en-el-celarg/"
-    },
-    {
-      "titulo": "¡A leer se ha dicho! La Filven 2026 llega a Caracas con más de 600 actividades",
-      "resumen": "Prepárense, mi gente, que del 13 al 23 de noviembre la Galería de Arte Nacional y la Plaza de la Juventud se llenan de libros. La Filven 2026 viene con todo, ofreciendo un gentío de actividades cultur",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-2-300x206.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/caracas-recibe-la-filven-2026-este-viernes-con-mas-de-600-actividades/"
-    },
-    {
-      "titulo": "¡Qué sabroso! Ocumare del Tuy se lució con el Cachapazo de Oro",
-      "resumen": "En el asentamiento San Bernardo se armó el parrandón con la edición 32 de la Feria Agrícola de la Cachapa. El Cachapazo de Oro atrajo a un gentío de todos los Valles del Tuy para disfrutar de lo nuest",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261109_151710_662-300x271.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/miranda/ocumare-del-tuy-albergo-el-cachapazo-de-oro/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mano dura! Demandan a empresa de Elon Musk por mal uso de fotos con IA",
-      "resumen": "Una situación bien delicada se presentó con Grok, el chatbot de xAI. Una joven demandó a la empresa porque un sujeto usó la inteligencia artificial para convertir sus fotos de graduación en material i",
-      "imagen": "https://www.infobae.com/resizer/v2/LXZKF77VFJAXJBGM5X2VM372DQ.png?auth=d911e05ffad9f2912b4c9cb8092f4fb64a5f5f8804155601094f536cc65deb9c&smart=true&width=1920&height=1080",
+      "titulo": "¡Elon Musk está ojo pelao! Quiere contratar al duro de Nvidia si lo botan",
+      "resumen": "El magnate Elon Musk soltó que sería \"un honor\" jalarse a Jensen Huang para su equipo. Resulta que al jefe de Nvidia le están moviendo la silla y la junta directiva se va a reunir para ver qué hacen c",
+      "imagen": "https://www.infobae.com/resizer/v2/5TD6TPROCVDDLLRAWUQ6KKE6QI.JPG?auth=16b3996eb2fc7a7686c7fe4f4441154fcad4ae04142c289ad540d2fd08004ae3&smart=true&width=3424&height=2283",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/11/victimas-de-grok-demandan-a-xai-la-empresa-de-musk-por-convertir-fotos-de-su-infancia-en-imagenes-sexuales/"
+      "link": "https://www.infobae.com/estados-unidos/2026/11/12/elon-musk-afirma-que-seria-un-honor-contratar-a-jensen-huang-ante-su-posible-destitucion-de-nvidia/"
     },
     {
-      "titulo": "¡Pilas con los hackers! Eléctricas en EE.UU. usan IA para protegerse",
-      "resumen": "Las empresas de luz en el norte, como Duke Energy, se pusieron las pilas y están usando la tecnología de Anthropic para blindarse. Con estos modelos de inteligencia artificial buscan fallas en sus sis",
-      "imagen": "https://www.infobae.com/resizer/v2/HXT3FGIFSVG25HTTTX2JE5OIYE.jpg?auth=016134c3b0c44e21db742627a2adda092890ae434151d3d3803960f929dcef0a&smart=true&width=1920&height=1280",
+      "titulo": "¡Cosa de locos! La nueva IA del MIT que imita casi cualquier cosa del mundo real",
+      "resumen": "Científicos del MIT y la Universidad de Columbia Británica crearon \"WorldParticle\", una inteligencia artificial que es una maravilla. El sistema puede simular desde cómo se desliza la arena hasta cómo",
+      "imagen": "https://www.infobae.com/resizer/v2/NUVN7KQA2ZD7XNE3BCOUTXV3OM.jpg?auth=034717f220919c28d8992a16250b8e7be15c658b8081e0aa2d3fea8ac81b50f4&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/11/electricas-de-estados-unidos-usan-la-ia-mythos-de-anthropic-para-detectar-fallas-que-podrian-aprovechar-hackers/"
+      "link": "https://www.infobae.com/tecno/2026/11/12/como-funciona-la-ia-desarrollada-por-el-mit-que-logra-imitar-casi-cualquier-fenomeno-del-mundo-real/"
     },
     {
-      "titulo": "¡Más rápido que un rayo! Nuevos procesadores AMD predicen hasta el clima",
-      "resumen": "AMD sacó la artillería pesada con sus nuevos procesadores EPYC de sexta generación. Estos bichitos tienen hasta 256 núcleos y son capaces de calcular la llegada de un tifón en tiempo récord. No solo s",
-      "imagen": "https://www.infobae.com/resizer/v2/OSLA7QFU25BTFF4PHCESNTSEPM.JPG?auth=19d9135244bbfc2d8fa4a8d3f81b32950654ce90edd7738c584569139080ca6c&smart=true&width=800&height=587",
+      "titulo": "¡Habla el jefe de Amazon! Jeff Bezos dice que ser exitoso no es ser el malo",
+      "resumen": "Jeff Bezos se confesó en una entrevista y explicó por qué cree que la gente ve a los millonarios como los villanos de la película. Desde la sede de Blue Origin, el hombre aseguró que el éxito no es si",
+      "imagen": "https://www.infobae.com/resizer/v2/23EXWUV45JFVVKHS7O32M5KY5A.JPG?auth=da8cb493ac3c710d4eeae2dc1f6abf2926f1ecf1fb968af106f1c92b5b7b6001&smart=true&width=4690&height=3127",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/11/asi-funcionan-estos-procesadores-que-anticipan-la-llegada-de-un-tifon-y-aumentan-el-tiempo-de-reaccion/"
+      "link": "https://www.infobae.com/tecno/2026/11/12/el-exito-no-es-sinonimo-de-maldad-jeff-bezos-responde-por-que-la-sociedad-ve-a-los-mas-ricos-como-los-malos-de-la-pelicula/"
     }
   ]
 }
