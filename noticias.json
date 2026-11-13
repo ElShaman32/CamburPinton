@@ -1,50 +1,50 @@
 {
-  "actualizado": "12/11/2026, 05:00 p. m.",
+  "actualizado": "13/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi llave, que el que madruga coge agua clara, pero el que le echa pichón con alegría, se lleva el botín completo. ¡Pa' lante es pa' allá!",
+    "texto": "Mire mi vale, no se me achicopale que el que nace para martillo del cielo le caen los clavos, pero el que nace con buena madera siempre saca un mueble fino. ¡Pa' lante es para allá y con fe, que lo qu",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A LeBron le pegó el 'ayayay'! Se pierde el juego contra Toronto",
-      "resumen": "Mi gente, a la estrella de los 76ers, LeBron James, le pasó factura la espalda y la ciática, así que se queda en el banco para el duelo contra Toronto. Con casi 42 años, el hombre necesita un respiro ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Lebron-james--300x225.jpg",
+      "titulo": "¡A lo último! Nuestras chamas del basket vencieron a Paraguay en Margarita",
+      "resumen": "¡Qué final tan cardíaco, mi gente! La selección femenina U16 de Venezuela dejó el alma en el tabloncillo para ganarle 49-47 a Paraguay. El juego se decidió faltando un suspiro con una bandeja de Gioha",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Venezuela-U16-FIBA-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/lebron-james-queda-descartado-para-el-partido-de-los-76ers-contra-toronto/"
+      "link": "https://www.liderendeportes.com/basketball/seleccion-nacional/venezuela-vence-sobre-la-chicharra-a-paraguay-y-mantiene-el-invicto/"
     },
     {
-      "titulo": "¡Qué sal! Stephen Curry estará fuera de las canchas por dos semanas",
-      "resumen": "El 'Chef' Curry venía cocinando una temporada de lujo a sus 38 años, pero un desgarro en el músculo oblicuo lo mandó a reposo obligado. Los Warriors confirmaron que el máximo triplero de la historia s",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Stephen-Curry-1-300x225.jpg",
+      "titulo": "¡Se les acabó la guachafita! Tiburones frenó en seco al Magallanes",
+      "resumen": "Los Tiburones de La Guaira llegaron a Valencia con todo y le cortaron la racha de diez victorias seguidas a la Nave Turca. Con un marcador apretado de 6-5, los escualos pegaron primero gracias a Alcid",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Simon-Muzziotti-2-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/stephen-curry-estara-de-baja-al-menos-dos-semanas/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tiburones-frena-la-racha-del-magallanes/"
     },
     {
-      "titulo": "¡Palo y palo! Las Estrellas le dieron hasta con el tobo a los Gigantes",
-      "resumen": "Las Estrellas Orientales se pusieron las pilas y vencieron 8-6 a los Gigantes del Cibao en San Pedro de Macorís. El gringo Aaron Schunk fue el verdugo con el bate, yéndose de 4-3 con dos dobletes y tr",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261112_152545_0000-300x225.png",
+      "titulo": "¡Rugieron en el Monumental! El Caracas despachó a los Cardenales a punta de jonrones",
+      "resumen": "Los Leones del Caracas se hicieron respetar en su cueva del Monumental Simón Bolívar al vencer 7-4 a los Cardenales de Lara. La cosa se puso buena cuando Wuilfredo Antúnez sacó la bola con dos en base",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wuilfredo-Antunez-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/las-estrellas-castigaron-a-los-gigantes/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-vence-a-cardenales-apoyado-en-cuadrangulares-de-antunez-y-sosa/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro talento! La Sinfónica y Gurrufío pondrán a vibrar la UCV",
-      "resumen": "Prepárense, porque este domingo el Aula Magna de la UCV se llenará de magia con el concierto “Así suena Venezuela”. La Orquesta Sinfónica Venezuela y el Ensamble Gurrufío se juntan para darnos un banq",
+      "titulo": "¡Cosa buena! La Sinfónica y Ensamble Gurrufío pondrán a vibrar el Aula Magna",
+      "resumen": "Prepárense para un banquete musical este domingo en la UCV. La Orquesta Sinfónica Venezuela y el Ensamble Gurrufío se juntan en el concierto “Así suena Venezuela”. Imagínense esa mezcla de lo académic",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Concierto-Ensamble-y-orquesta-sinfonica-Foto-MIB-22-300x196.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/sonidos-de-venezuela-vibraran-en-la-ucv/"
     },
     {
-      "titulo": "¡Libros pa' todo el mundo! Nila Ediciones llega con todo a la Filven",
-      "resumen": "La Filven 2026 arranca con fuerza en Caracas y la editorial Nila Ediciones viene cargada de novedades criollas. El plato fuerte será el bautizo de “La noche de la casa”, de la bolivarense Esmeralda To",
+      "titulo": "¡Puro talento nacional! Nila Ediciones llega con todo a la Filven 2026",
+      "resumen": "La Filven arranca con fuerza en Caracas y las editoriales independientes sacan pecho. Nila Ediciones trae un catálogo cargado de autores criollos, destacando el bautizo de “La noche de la casa” de la ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/900473935_18037169381851739_4939340929472528570_n-300x300.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/nila-ediciones-llega-con-novedades-a-la-filven-2026/"
     },
     {
-      "titulo": "¡Música con sentimiento! Concierto especial en el Cuartel San Carlos",
-      "resumen": "Este jueves la cultura toma el Cuartel San Carlos con la gira «Venezuela: Esperanza que Renace». Será un homenaje musical bien bonito para las víctimas del terremoto de junio, contando con el apoyo de",
+      "titulo": "¡Música con sentimiento! Concierto especial en el Cuartel San Carlos este jueves",
+      "resumen": "La gira «Venezuela: Esperanza que Renace» llega este jueves al Cuartel San Carlos para un homenaje muy especial. Bajo la batuta de la Gran Misión Viva Venezuela y El Sistema, se ofrecerá un concierto ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/concierto-1-300x182.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/gran-mision-viva-venezuela-presentara-concierto-en-el-cuartel-san-carlos-este-jueves/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Se acabó el fastidio! Google y Adobe se dan la mano con los PDF",
-      "resumen": "¡Tremenda noticia para los que trabajamos en la nube! Google y Adobe se aliaron para que puedas editar tus PDF directo en Gmail o Drive sin tener que bajarlos y volverlos a subir. Ahora todo será más ",
-      "imagen": "https://www.infobae.com/resizer/v2/4NJVFHX34NAOJOK56ITLM77LIA.png?auth=82ac343405c1da959fe0a82880d6cc3f75a54409cb87aec41387ea6ad4eac37f&smart=true&width=1920&height=1080",
+      "titulo": "¡La IA de Meta ahora te hace los mandados! Ya puede llamar por ti a los negocios",
+      "resumen": "¡Miren esta maravilla! El asistente Muse de Meta ya puede llamar por teléfono a negocios en EE.UU. para resolver esos trámites fastidiosos. Que si el seguro, el cable o pedir mesa en un restaurante, l",
+      "imagen": "https://www.infobae.com/resizer/v2/GPA2MZV4EJDX7NIWFPMSFQ2WKI.png?auth=1de9d1ec50e647f46a72bfe033b5f96f8862bf3bf3c9fca4be14f004faed2356&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/12/google-y-adobe-se-integran-para-agilizar-el-uso-de-pdf-en-la-nube-adios-a-descargar-y-subir-archivos/"
+      "link": "https://www.infobae.com/tecno/2026/11/13/el-asistente-de-ia-de-meta-ya-hace-llamadas-a-negocios-y-servicios-en-lugar-de-sus-usuarios/"
     },
     {
-      "titulo": "¡Elon Musk no juega carrito! SpaceX invertirá una millonada en Texas y Arizona",
-      "resumen": "El jefe de SpaceX soltó la lengua y anunció una inversión de 74 mil millones de dólares para montar dos centros de supercomputación de inteligencia artificial. Uno estará en Arizona y el otro en Texas",
-      "imagen": "https://www.infobae.com/resizer/v2/KLW62MO7ZRCNLBNGFLOQ4GKRSU.JPG?auth=2baa2ec63f697b961c764d3683ab6d1e4325df8d29820d1c6546a2ba110021e0&smart=true&width=4000&height=2667",
+      "titulo": "¡Se cayó el sistema! Microsoft sigue sufriendo para arreglar Outlook y Teams",
+      "resumen": "Tremendo dolor de cabeza tienen en Microsoft porque no han podido solucionar la caída global que dejó a medio mundo sin correo ni Teams. La empresa admitió que sus arreglos no funcionaron como esperab",
+      "imagen": "https://www.infobae.com/resizer/v2/6B4OLVPWPZG67EWGLZR6ZU7TWU.JPG?auth=4ee96c4eaa6b65e174408e505c43078f7ac2939d0fc6a0fed8a32c36cb477a2f&smart=true&width=4852&height=3476",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/12/spacex-anuncio-mas-de-usd-74000-millones-para-dos-centros-de-supercomputacion-de-ia-en-texas-y-arizona/"
+      "link": "https://www.infobae.com/tecno/2026/11/13/microsoft-reconocio-que-aun-no-logra-resolver-los-problemas-que-provocaron-la-caida-global-de-outlook-teams-y-copilot/"
     },
     {
-      "titulo": "¡Tremendo chisme! Renunció el mero mero de Nvidia por un lío de faldas",
-      "resumen": "La cosa está que arde en Nvidia tras la renuncia de su fundador, Jensen Huang. Dicen las malas lenguas que el hombre se metió en un lío de infidelidad con una supuesta espía. Los empleados ya recibier",
-      "imagen": "https://www.infobae.com/resizer/v2/LVAE5SGL5FCBJENEJ7TXK2QDUI.JPG?auth=4fa968f39ba8efa72f8cf5112adc24520b43ae8dfb76608fd534f1cde4602ba4&smart=true&width=4000&height=2666",
+      "titulo": "¡Pillados! Nvidia confiesa que sí puede rastrear sus chips aunque digan lo contrario",
+      "resumen": "Se prendió la polémica en el mundo tecnológico. Resulta que Nvidia le soltó la lengua a un congresista gringo y admitió que sí tienen cómo rastrear sus procesadores para evitar el contrabando. Esto de",
+      "imagen": "https://www.infobae.com/resizer/v2/Z27EPYXUOFBW3NO2ZPBNQR7TFQ.JPG?auth=2184625d645c8367035cf45957b2315ae2128234f98ab96ca6b8b4ddeb1b2942&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/12/estos-son-los-correos-electronicos-que-recibieron-los-empleados-de-nvidia-sobre-la-renuncia-de-jensen-huang/"
+      "link": "https://www.infobae.com/tecno/2026/11/13/nvidia-dijo-en-privado-a-un-congresista-que-si-puede-rastrear-sus-chips-pese-a-que-el-sector-lo-nego/"
     }
   ]
 }
