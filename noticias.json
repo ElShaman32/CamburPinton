@@ -1,76 +1,76 @@
 {
-  "actualizado": "14/11/2026, 06:00 a. m.",
+  "actualizado": "14/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que el que madruga, Dios lo ayuda, pero el que le echa pichón con alegría, ¡no hay cerro que lo detenga! A ponerle corazón a este día, que para atrás ni para agarrar impulso.",
+    "texto": "¡Epa, mi pana! Recuerda que el que le echa pichón con alegría, siempre encuentra el camino clarito. ¡Pa' lante es pa' allá y que nada te quite el brillo!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Los Tigres rugieron durísimo en el Chico Carrasquel!",
-      "resumen": "Los bengalíes se ensañaron con el pitcheo oriental y ganaron 9-6 a Caribes en Puerto La Cruz. Con 13 hits y una ventaja tempranera de nueve carreras, la novena de Aragua aguantó la mecha ante el inten",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gorkys-Hernandez-300x225.png",
+      "titulo": "¡Le dieron hasta con el tobo! San Antonio barrió a Golden State",
+      "resumen": "Los Spurs de San Antonio andan intratables y este viernes le metieron una paliza de 123 a 85 a los Warriors en el Frost Bank Center. Desde el arranque, los locales dominaron la pintura y dejaron a Gol",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261114_163257_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/la-ofensiva-araguena-rugio-a-tiempo-en-puerto-la-cruz/"
+      "link": "https://www.liderendeportes.com/basketball/nba/san-antonio-trituro-a-golden-state/"
     },
     {
-      "titulo": "¡Margarita se puso las pilas y remontó a las Águilas!",
-      "resumen": "La «Máquina de guerra» de los Bravos se impuso 8-6 al Zulia en Porlamar. La cosa se puso buena en el séptimo cuando los insulares armaron un rally de cuatro carreras para voltear la tortilla en un due",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/David-Peralta-3-300x225.png",
+      "titulo": "Tyler Heineman amarró su contrato con los Angelinos para el 2027",
+      "resumen": "El receptor veterano Tyler Heineman se puso de acuerdo con los Angelinos de Los Ángeles para jugar la temporada 2027 por un poco más de 1.2 millones de dólares. A sus 35 años, el careta viene de fajar",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tyler-Heineman-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/bravos-remonta-con-racimo-en-el-septimo/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/tyler-heineman-y-los-angelinos-acuerdan-su-salario-para-2027/"
     },
     {
-      "titulo": "¡El Caracas repartió leña y dejó frío a Cardenales!",
-      "resumen": "Los melenudos no anduvieron con juegos y ganaron 9-2 en el Monumental Simón Bolívar. Desde el mismísimo primer inning, los Leones montaron una fiesta de seis carreras con batazos de Leandro Cedeño, Wi",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Freddy-Fermin-300x225.png",
+      "titulo": "¡El Escogido sigue mandando! Derrotaron al Licey en un juegazo",
+      "resumen": "En un duelo que estuvo para alquilar balcón en el Estadio Quisqueya, los Leones del Escogido vencieron 5-3 a los Tigres del Licey para mantenerse en lo más alto de la tabla. La figura del encuentro fu",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_145614_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-doblega-a-cardenales-con-explosiva-ofensiva-inicial/"
+      "link": "https://www.liderendeportes.com/baseball/el-escogido-mantiene-la-punta-con-triunfo-frente-al-licey/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Caracas se llena de libros con la inauguración de la Filven 2026!",
-      "resumen": "Arrancó la fiesta de la lectura en la Galería de Arte Nacional y la Plaza de la Juventud. Con la presencia de autoridades y el embajador de Rusia, se dio inicio a este evento que busca darle un parao'",
+      "titulo": "¡Puro talento! El teatro tomó las calles de toda Venezuela",
+      "resumen": "Con una movilización que puso a valer la cultura, la Compañía Nacional de Teatro celebró su día por todo lo alto en los 24 estados del país. Hubo más de 335 actividades y casi 4 mil artistas en escena",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-1.19.16-PM-300x226.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/cnt-celebro-el-dia-del-teatro-en-todo-el-pais/"
+    },
+    {
+      "titulo": "¡A leer se ha dicho! Arrancó la Filven 2026 en Caracas",
+      "resumen": "La fiesta de las letras ya prendió los motores en la Galería de Arte Nacional y la Plaza de la Juventud. Con la presencia de autoridades y el embajador de Rusia, se inauguró la Filven 2026, un espacio",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inaugurada-la-filven-2026-en-caracas-con-una-variada-programacion/"
     },
     {
-      "titulo": "¡Ocumare del Tuy celebró por todo lo alto a San Diego de Alcalá!",
-      "resumen": "Con mucha fe y alegría, los ocumareños festejaron los 401 años de la llegada de su santo patrono. Hubo misa solemne con el obispo de Los Teques y tambores de San Juan para ponerle sabor a la jornada. ",
+      "titulo": "Ocumare del Tuy se vistió de gala para honrar a San Diego de Alcalá",
+      "resumen": "Los ocumareños celebraron por todo lo alto los 401 años de la llegada de su santo patrono, San Diego de Alcalá. Entre cantos de los Indios Coromotanos y el repique de los tambores de San Juan, Monseño",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261113_164258_809-300x244.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/miranda/ocumarenos-rindieron-honores-a-san-diego-de-alcala/"
-    },
-    {
-      "titulo": "Freddy Ñáñez trae su nueva poesía «Rozar la tierra» a la Filven",
-      "resumen": "Este domingo se presenta el nuevo poemario de Freddy Ñáñez en la Galería de Arte Nacional. Es una edición especial de apenas cien ejemplares numerados y firmados, con arte de Morella Jurado en la port",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-12.35.47-PM-300x235.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/freddy-nanez-presenta-rozar-la-tierra-en-la-filven-2026/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pilas al volante! La tecnología ahora te cuida los puntos ciegos",
-      "resumen": "Los carros nuevos vienen repotenciados con sistemas para evitar choques. Modelos como el Cupra y el próximo Volkswagen Golf GTI traen funciones que te avisan si tienes un carro cerca o si te vas a cam",
-      "imagen": "https://www.infobae.com/resizer/v2/US6HFEC36VCTJHEVR3PY3SRLUY.jpg?auth=8a72b8b01f1a48223ce3f6d2d9ed09d14d702b0385dccc9b54d11ea63246b4f3&smart=true&width=8192&height=5464",
+      "titulo": "¡Por andar de vivos! Multan a dos personas por usar IA en un juicio",
+      "resumen": "En Puerto Rico, el Tribunal Supremo le metió una multa de 500 dólares a dos hermanos que se quisieron pasar de listos citando leyes que no existen. Resulta que usaron inteligencia artificial para arma",
+      "imagen": "https://www.infobae.com/resizer/v2/ZZDVQKBBORCWDA4YUFMYGXDTQE.png?auth=8e5816ce24927f59f5998c319d6946a3c2134e6ab4840e217866301285c6ea20&smart=true&width=1408&height=768",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/14/estas-funciones-tecnologicas-de-seguridad-en-carros-evitan-choques-y-vigilan-los-puntos-ciegos/"
+      "link": "https://www.infobae.com/tecno/2026/11/14/tribunal-supremo-de-puerto-rico-multa-a-dos-personas-por-citar-fallos-inexistentes-que-habrian-sido-generados-con-ia/"
     },
     {
-      "titulo": "¡Mosca con los BMW! Piden estacionarlos afuera por riesgo de incendio",
-      "resumen": "En Estados Unidos hicieron un llamado de alerta para más de 720.000 vehículos BMW. Resulta que un conector de la bomba de agua puede agarrar humedad y causar un cortocircuito, incluso con el motor apa",
-      "imagen": "https://www.infobae.com/resizer/v2/MULWT63RLVERFCSFBZJTLCDZLE.JPG?auth=11c9d5aa9ca754f825bd3115f65e213e4e22d15e8146aa19343a01bf2bcbab63&smart=true&width=3500&height=2333",
+      "titulo": "¡WhatsApp se puso las pilas! Ahora podrás armar eventos más fácil",
+      "resumen": "La aplicación del telefonito verde trae una novedad bien fina: ahora puedes crear eventos y mandar el enlace incluso a los que no tienen WhatsApp. Los invitados podrán confirmar su asistencia desde el",
+      "imagen": "https://www.infobae.com/resizer/v2/OQ6CWMECJ5EMHHNXXPXBEYUGXA.jpg?auth=9b63738a8a971bbbc504b610606b1def2145f91711142ae0915d017bff93f725&smart=true&width=1920&height=1008",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/14/estados-unidos-pidio-estacionar-al-aire-libre-mas-de-720000-bmw-por-riesgo-de-incendio/"
+      "link": "https://www.infobae.com/tecno/2026/11/14/como-crear-un-evento-en-whatsapp-e-invitar-a-quienes-no-tienen-la-aplicacion/"
     },
     {
-      "titulo": "¡Dile adiós al mensajito! Microsoft cambia su forma de entrar a la cuenta",
-      "resumen": "Microsoft va a dejar de mandar códigos por SMS para entrar a las cuentas personales porque dicen que por ahí hay mucho fraude. Ahora la movida será usar correos verificados o las famosas «passkeys» pa",
-      "imagen": "https://www.infobae.com/resizer/v2/3VCH2OSPTZELVDEURZP332D7WM.jpg?auth=c7bf3730e202f80a762b8adabdf05e32595572e384afdc9906351962b17f7f11&smart=true&width=1920&height=1280",
+      "titulo": "¡Actívate! Aquí tienes los códigos de Free Fire para este sábado",
+      "resumen": "Para los que andan pegados con el Free Fire, hoy sábado 14 de noviembre de 2026 salieron códigos nuevos para canjear diamantes, skins y oro totalmente gratis. Solo tienes que meterte en la página ofic",
+      "imagen": "https://www.infobae.com/resizer/v2/TMR6BCXJKJCPNLWAINVX7FLHJI.png?auth=aabc556d7e2771afd915647071a79a39af5b72151eaa92b5c22483c91fb20b1f&smart=true&width=1200&height=700",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/14/microsoft-dejara-de-enviar-codigos-por-sms-para-entrar-a-las-cuentas-personales/"
+      "link": "https://www.infobae.com/tecno/2026/11/14/codigos-de-free-fire-para-canjear-hoy-sabado-14-de-noviembre-2026-gratis-diamantes-skins-oro-y-mas/"
     }
   ]
 }
