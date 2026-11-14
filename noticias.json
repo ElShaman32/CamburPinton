@@ -1,76 +1,76 @@
 {
-  "actualizado": "13/11/2026, 05:00 p. m.",
+  "actualizado": "14/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mano, recuerda que el que madruga Dios lo ayuda, pero el que tiene fe y le echa pichón, ¡llega a donde sea con su arepa bajo el brazo y el corazón contento!",
+    "texto": "¡Epa, mi gente! Recuerden que el que madruga, Dios lo ayuda, pero el que le echa pichón con alegría, ¡no hay cerro que lo detenga! A ponerle corazón a este día, que para atrás ni para agarrar impulso.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Bravos se trae a Kelvin Melean para la isla!",
-      "resumen": "Los Bravos de Margarita no se quedaron de brazos cruzados y firmaron al infielder Kelvin Melean. El chamo andaba libre después de salir de los Tiburones y ya esta noche llega a Nueva Esparta para pone",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261113_154048_0000-300x225.png",
+      "titulo": "¡Los Tigres rugieron durísimo en el Chico Carrasquel!",
+      "resumen": "Los bengalíes se ensañaron con el pitcheo oriental y ganaron 9-6 a Caribes en Puerto La Cruz. Con 13 hits y una ventaja tempranera de nueve carreras, la novena de Aragua aguantó la mecha ante el inten",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gorkys-Hernandez-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/bravos-de-margarita-firmo-a-kelvin-melean/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/la-ofensiva-araguena-rugio-a-tiempo-en-puerto-la-cruz/"
     },
     {
-      "titulo": "¡Devin Booker se lució y los Suns ganaron apretado!",
-      "resumen": "En un juego que estuvo de infarto, los Suns de Phoenix le ganaron a los Hornets de Charlotte 101 a 96. El estelar Devin Booker se echó el equipo al hombro en el último cuarto para remontar una pizarra",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261113_160211_0000-300x225.png",
+      "titulo": "¡Margarita se puso las pilas y remontó a las Águilas!",
+      "resumen": "La «Máquina de guerra» de los Bravos se impuso 8-6 al Zulia en Porlamar. La cosa se puso buena en el séptimo cuando los insulares armaron un rally de cuatro carreras para voltear la tortilla en un due",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/David-Peralta-3-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/phoenix-se-quedo-con-el-triunfo-frente-a-charlotte/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/bravos-remonta-con-racimo-en-el-septimo/"
     },
     {
-      "titulo": "¡A la final! Joan Delgado dejó en el terreno a Puerto Rico",
-      "resumen": "¡Qué clase de juego, señores! Con un hit de Joan Delgado con las bases llenas en el octavo, nuestra selección Sub-23 venció 8-7 a Puerto Rico en Nicaragua. Los chamos sellaron su pase a la gran final ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Venezuela-Sub-23-2-300x225.png",
+      "titulo": "¡El Caracas repartió leña y dejó frío a Cardenales!",
+      "resumen": "Los melenudos no anduvieron con juegos y ganaron 9-2 en el Monumental Simón Bolívar. Desde el mismísimo primer inning, los Leones montaron una fiesta de seis carreras con batazos de Leandro Cedeño, Wi",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Freddy-Fermin-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/seleccionnacional/joan-delgado-le-da-a-venezuela-el-pase-a-la-final-del-mundo-sub-23/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/leones-doblega-a-cardenales-con-explosiva-ofensiva-inicial/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Freddy Ñáñez trae su poesía a la Filven 2026",
-      "resumen": "El escritor Freddy Ñáñez presenta su nuevo poemario «Rozar la tierra» este domingo en la Galería de Arte Nacional. Es una edición especial de apenas cien ejemplares firmados, así que si te gusta la le",
+      "titulo": "¡Caracas se llena de libros con la inauguración de la Filven 2026!",
+      "resumen": "Arrancó la fiesta de la lectura en la Galería de Arte Nacional y la Plaza de la Juventud. Con la presencia de autoridades y el embajador de Rusia, se dio inicio a este evento que busca darle un parao'",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-300x200.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/inaugurada-la-filven-2026-en-caracas-con-una-variada-programacion/"
+    },
+    {
+      "titulo": "¡Ocumare del Tuy celebró por todo lo alto a San Diego de Alcalá!",
+      "resumen": "Con mucha fe y alegría, los ocumareños festejaron los 401 años de la llegada de su santo patrono. Hubo misa solemne con el obispo de Los Teques y tambores de San Juan para ponerle sabor a la jornada. ",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261113_164258_809-300x244.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/miranda/ocumarenos-rindieron-honores-a-san-diego-de-alcala/"
+    },
+    {
+      "titulo": "Freddy Ñáñez trae su nueva poesía «Rozar la tierra» a la Filven",
+      "resumen": "Este domingo se presenta el nuevo poemario de Freddy Ñáñez en la Galería de Arte Nacional. Es una edición especial de apenas cien ejemplares numerados y firmados, con arte de Morella Jurado en la port",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-12.35.47-PM-300x235.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/freddy-nanez-presenta-rozar-la-tierra-en-la-filven-2026/"
-    },
-    {
-      "titulo": "Tarek William Saab bautiza su obra poética completa",
-      "resumen": "Este sábado en la Filven, el poeta Tarek William Saab presenta «Todos mis poemas (1984-2026)». El bautizo será en el Salón Filven de la GAN a las 3:00 pm, reuniendo versos desde los años 80 hasta lo m",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/04/Captura-de-pantalla-2026-04-06-223214-300x183.png",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-presenta-toda-su-poesia-reunida-en-la-filven-2026/"
-    },
-    {
-      "titulo": "¡Puro talento! La OSV y Gurrufío retumbarán en la UCV",
-      "resumen": "Prepárense porque este domingo el Aula Magna de la UCV se viste de gala con el concierto «Así suena Venezuela». La Orquesta Sinfónica Venezuela y el Ensamble Gurrufío se unen para ponernos a vibrar co",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Concierto-Ensamble-y-orquesta-sinfonica-Foto-MIB-22-300x196.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/sonidos-de-venezuela-vibraran-en-la-ucv/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Tremendo lío! Demandan a Anthropic por el nombre de su IA",
-      "resumen": "Resulta que una empresa llamada Mythos le montó una demanda a la gente de Anthropic en Estados Unidos. Dicen que les están copiando el nombre para su modelo de inteligencia artificial y quieren que un",
-      "imagen": "https://www.infobae.com/resizer/v2/XOQXNJGT4JEGPKWLUCCGYYNHZA.jpg?auth=f998e7c616a7d1e8e46c1873765672e84764724be972cf9ae15efc215551ca73&smart=true&width=1920&height=1280",
+      "titulo": "¡Pilas al volante! La tecnología ahora te cuida los puntos ciegos",
+      "resumen": "Los carros nuevos vienen repotenciados con sistemas para evitar choques. Modelos como el Cupra y el próximo Volkswagen Golf GTI traen funciones que te avisan si tienes un carro cerca o si te vas a cam",
+      "imagen": "https://www.infobae.com/resizer/v2/US6HFEC36VCTJHEVR3PY3SRLUY.jpg?auth=8a72b8b01f1a48223ce3f6d2d9ed09d14d702b0385dccc9b54d11ea63246b4f3&smart=true&width=8192&height=5464",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/13/una-empresa-de-software-demanda-a-anthropic-por-llamar-mythos-a-su-modelo-de-ia/"
+      "link": "https://www.infobae.com/tecno/2026/11/14/estas-funciones-tecnologicas-de-seguridad-en-carros-evitan-choques-y-vigilan-los-puntos-ciegos/"
     },
     {
-      "titulo": "Amazon quiere saberlo todo con su nuevo proyecto mundial",
-      "resumen": "Se filtró que Amazon anda cocinando el «World Product Graph», un plan para tener datos de toditos los productos que existen en el mundo, así no los vendan ellos. La idea es que para el 2027 uno pueda ",
-      "imagen": "https://www.infobae.com/resizer/v2/5HMYBLVBA5AV3MXEWISVYRMUHU.jpg?auth=ef2c1588e351f538a48633dcadbc09d8133816c852b5a0be1b84227082ac848a&smart=true&width=3000&height=2000",
+      "titulo": "¡Mosca con los BMW! Piden estacionarlos afuera por riesgo de incendio",
+      "resumen": "En Estados Unidos hicieron un llamado de alerta para más de 720.000 vehículos BMW. Resulta que un conector de la bomba de agua puede agarrar humedad y causar un cortocircuito, incluso con el motor apa",
+      "imagen": "https://www.infobae.com/resizer/v2/MULWT63RLVERFCSFBZJTLCDZLE.JPG?auth=11c9d5aa9ca754f825bd3115f65e213e4e22d15e8146aa19343a01bf2bcbab63&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/13/amazon-estaria-planeando-reunir-datos-sobre-productos-de-todo-el-mundo-para-ampliar-su-tienda/"
+      "link": "https://www.infobae.com/tecno/2026/11/14/estados-unidos-pidio-estacionar-al-aire-libre-mas-de-720000-bmw-por-riesgo-de-incendio/"
     },
     {
-      "titulo": "¡Se cayó Microsoft y los memes no perdonaron!",
-      "resumen": "Cuando Outlook y Teams se fueron a pique, la competencia aprovechó para echar broma en redes sociales. Mientras la gente de Microsoft sudaba la gota gorda arreglando la falla, las marcas y los usuario",
-      "imagen": "https://www.infobae.com/resizer/v2/4TRRRFNJQNHEVIM74F5ZQWJKVA.JPG?auth=fc00ef20f5cdcfaded94cb44197e474bbacfb35e08e15d2e04c0e3f68e330ed4&smart=true&width=3149&height=2104",
+      "titulo": "¡Dile adiós al mensajito! Microsoft cambia su forma de entrar a la cuenta",
+      "resumen": "Microsoft va a dejar de mandar códigos por SMS para entrar a las cuentas personales porque dicen que por ahí hay mucho fraude. Ahora la movida será usar correos verificados o las famosas «passkeys» pa",
+      "imagen": "https://www.infobae.com/resizer/v2/3VCH2OSPTZELVDEURZP332D7WM.jpg?auth=c7bf3730e202f80a762b8adabdf05e32595572e384afdc9906351962b17f7f11&smart=true&width=1920&height=1280",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/estados-unidos/2026/11/13/la-caida-de-microsoft-desato-el-ingenio-de-sus-competidores-las-marcas-que-aprovecharon-el-caos/"
+      "link": "https://www.infobae.com/tecno/2026/11/14/microsoft-dejara-de-enviar-codigos-por-sms-para-entrar-a-las-cuentas-personales/"
     }
   ]
 }
