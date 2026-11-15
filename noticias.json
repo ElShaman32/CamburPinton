@@ -1,76 +1,76 @@
 {
-  "actualizado": "15/11/2026, 06:00 a. m.",
+  "actualizado": "15/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que nace pa' martillo, del cielo le caen los clavos, pero el que nace con buena vibra, ¡hasta el café le sale espumoso! Pa' lante es pa' allá.",
+    "texto": "Acuérdate, mi pana: el que se apura se cansa, pero el que persevera, ¡se come las maduras! Ponle sabor a tu día que el sol sale para todos.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A Brasil se le chispoteó! Japón los dejó en el sitio en Singapur",
-      "resumen": "¡Epa, mi gente! La Canarinha no pega una. Aunque Vinicius Jr. se mandó dos golazos, Japón les ganó 3-2 en un amistoso que terminó con los ánimos caldeados. Hasta el profe Ancelotti y Raphinha salieron",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_201012_0000-300x225.png",
+      "titulo": "¡El Licey se puso las pilas y dominó a los Gigantes!",
+      "resumen": "Los Tigres del Licey volvieron a ganar este sábado en San Francisco de Macorís. Con Albert Abreu mandando desde la lomita, el equipo se impuso 7-4 ante los Gigantes del Cibao. El derecho se lució con ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261115_114025_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/internacional-football/brasil-cayo-ante-japon-y-sigue-sin-encontrar-el-camino/"
+      "link": "https://www.liderendeportes.com/baseball/el-licey-retomo-el-camino-victorioso-frente-a-los-gigantes/"
     },
     {
-      "titulo": "¡Los Tigres están alzados! René Pinto mandó a dormir a los Bravos",
-      "resumen": "¡Rugieron los de Aragua! En un juegazo en el Estadio Nueva Esparta, los Tigres le ganaron 3-2 a los Bravos de Margarita. El protagonista fue René Pinto, que se la sacó dos veces de jonrón para poner a",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_223518_0000-300x225.png",
+      "titulo": "¡Tiburones mandó en Miami y dejó al Magallanes en el terreno!",
+      "resumen": "En el primer duelo del Choque de Gigantes en Miami, La Guaira venció 4-2 a los Navegantes del Magallanes. El héroe fue Gabriel Arias, quien con un doblete en el décimo puso a gozar a los escualos. Ari",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261115_111113_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-dominaron-a-bravos-y-siguen-enrachados/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/la-guaira-vencio-al-magallanes-en-choque-de-gigantes/"
     },
     {
-      "titulo": "¡Casi listo! Brayan Rocchio tiene un pie puesto en el Universitario",
-      "resumen": "¡Atención, guairistas! El bigleaguer Brayan Rocchio soltó la sopa en Miami y dijo que tiene casi un 90% de seguridad de que se uniforma con los Tiburones esta temporada. El muchacho está cuadrando los",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_214235_0000-300x225.png",
+      "titulo": "¡Arrancó la fiesta! Inaugurados los Juegos Nacionales Juveniles 2026",
+      "resumen": "Con más de 7.900 chamos dándolo todo, se inauguraron los Juegos Deportivos Nacionales Juveniles 2026. Atletas de entre 15 y 18 años de todo el país competirán en 66 disciplinas hasta el 5 de diciembre",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261115_095448_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/brayan-rocchio-tengo-casi-un-90-de-seguro-de-que-voy-jugar-en-venezuela/"
+      "link": "https://www.liderendeportes.com/mas-deportes/inaugurados-juegos-nacionales-juveniles-2026/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro sabor y música! Savoy le regaló 85 teclados a El Sistema",
-      "resumen": "¡Qué nota tan buena! Por sus 85 años, Savoy se botó y donó 85 teclados a El Sistema Nacional de Orquestas. Con este detallazo se benefician 50 mil chamos de 84 núcleos en toda Venezuela. Los instrumen",
+      "titulo": "Tarek William Saab bautizó su poemario en plena Filven",
+      "resumen": "En la Feria Internacional del Libro de Venezuela, el poeta Tarek William Saab presentó \"Todos mis poemas (1984/2026)\". Esta edición especial de Monte Ávila reúne más de 40 años de versos y letras. El ",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/2be220c1-228a-4144-835f-bef71cd72113-300x190.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-bautizo-en-filven-su-libro-todos-mis-poemas/"
+    },
+    {
+      "titulo": "¡Qué nota! Savoy regala teclados a El Sistema por sus 85 años",
+      "resumen": "La marca Savoy celebró su 85 aniversario por todo lo alto donando 85 teclados a El Sistema. Este regalazo beneficia a unos 50.000 chamos de 84 núcleos en toda Venezuela. Los instrumentos ya están sona",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/DSC04181-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/el-sistema-recibe-donativo-que-beneficia-84-nucleos-en-todo-el-pais/"
     },
     {
-      "titulo": "¡El teatro tomó la calle! Venezuela celebró su día por todo lo alto",
-      "resumen": "¡Se abrió el telón en toda Venezuela! Con más de 335 actividades y unos 70 mil espectadores, celebramos el Día Nacional del Teatro. Desde las comunas hasta los grandes escenarios, casi cuatro mil arti",
+      "titulo": "¡Arriba el telón! Venezuela celebró el Día Nacional del Teatro",
+      "resumen": "El gremio teatral tiró la casa por la ventana con más de 335 actividades en todo el país para celebrar su día. Casi cuatro mil artistas se movilizaron para llevar arte a más de 70 mil espectadores en ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-1.19.16-PM-300x226.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cnt-celebro-el-dia-del-teatro-en-todo-el-pais/"
-    },
-    {
-      "titulo": "¡Caracas se llenó de libros! Arrancó la Filven 2026 con todo",
-      "resumen": "¡A leer se ha dicho! Se inauguró la Filven 2026 en la Galería de Arte Nacional y la Plaza de la Juventud. Con Rusia como invitado y un gentío buscando buenas historias, la feria arrancó con música y m",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-300x200.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/inaugurada-la-filven-2026-en-caracas-con-una-variada-programacion/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mosca con lo que compartes! Los links de la nube no se borran solos",
-      "resumen": "¡Ojo pelao, familia! Si mandaste un link por Google Drive o iCloud hace años, que sepas que sigue vivito y coleando hasta que tú mismo lo cierres. El peligro no es la nube, sino el tiempo, porque ese ",
-      "imagen": "https://www.infobae.com/resizer/v2/UAG5EZSXKZEA7KVOI5PDGR7FJM.png?auth=c4c739723cb453b428aa85652dadf4ffb76f314a945438a1437608e5603899c7&smart=true&width=2752&height=1536",
+      "titulo": "¡No pierdas tus chismes! Así cambias de número en WhatsApp",
+      "resumen": "Si vas a cambiar de línea, ¡tranquilo! WhatsApp tiene una función para que no pierdas ni un chat ni tus contactos. Solo necesitas que tu nuevo número reciba el código de verificación por SMS o llamada",
+      "imagen": "https://www.infobae.com/resizer/v2/BZSTXG73ZJGJFGHII52XEMBDYI.com?auth=68be75a0c4089a4ca7b37a7c4c3c6d49715d2492701ecfa733058a25009dadb2&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/15/los-enlaces-para-compartir-archivos-en-google-drive-o-icloud-siguen-activos-hasta-que-el-dueno-los-cierre/"
+      "link": "https://www.infobae.com/tecno/2026/11/15/como-cambiar-mi-numero-de-whatsapp-sin-perder-los-chats-y-contactos/"
     },
     {
-      "titulo": "¿Pelea de pareja? Ahora le preguntan a ChatGPT quién tiene la razón",
-      "resumen": "¡Lo que faltaba! Ahora los chamos de la Generación Z y los millennials están usando la Inteligencia Artificial para que les resuelva los brolleros amorosos. Resulta que el 21% de los usuarios le pide ",
-      "imagen": "https://www.infobae.com/resizer/v2/KXL6ZUEJLZANLEOKRI2TDUEYFQ.JPG?auth=fb75427326bc8e364fbd43cbfd351e6ffedd89f2e2cc6b494539b8f8fb4da273&smart=true&width=4000&height=2667",
+      "titulo": "¡El \"Amigo Fiel\" volvió! El Renault 4 ahora es eléctrico",
+      "resumen": "El clásico Renault 4 regresó a Colombia, pero esta vez enchufado y 100% eléctrico. Presentado en el Salón del Automóvil de Bogotá, este ícono que fue el primer carro ensamblado en Envigado allá en los",
+      "imagen": "https://www.infobae.com/resizer/v2/4YB4XWOQC5BUTP7TGF4ZOPTFHE.jpg?auth=21d21473f270a89416898a4e887912e44dcbded4a9fb14f0eb6ae81cce2ba9b9&smart=true&width=7174&height=4929",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/15/cada-vez-mas-parejas-piden-a-chatgpt-que-decida-quien-tiene-razon-en-sus-discusiones/"
+      "link": "https://www.infobae.com/tecno/2026/11/15/el-clasico-renault-4-ahora-es-100-electrico-asi-regreso-a-colombia/"
     },
     {
-      "titulo": "¡YouTube sigue siendo el papá! En Argentina no lo tumba nadie",
-      "resumen": "Aunque TikTok y las demás redes sociales están haciendo bulla, YouTube sigue mandando en el mundo de los videos. En Argentina, el ranking musical demuestra que la plataforma es la reina indiscutible. ",
-      "imagen": "https://www.infobae.com/resizer/v2/ETLPGA7YO5HOFMKPDXRHE53XGA.jpg?auth=da7776e5477256dca7efc8f6a92c5e5de0af75def5082dc237de3ebe3ea4a226&smart=true&width=1920&height=1080",
+      "titulo": "¡Mosca con XUPER TV! No la descargues que te roban los datos",
+      "resumen": "Mucho cuidado con andar bajando XUPER TV en Android o Smart TV. Interpol advierte que estos archivos APK y enlaces piratas son una trampa para meterte virus, robarte las contraseñas y hasta vaciarte l",
+      "imagen": "https://www.infobae.com/resizer/v2/6Y5BWQ6OSJCN7KN3OVW3WGE774.jpg?auth=5d29d7eb385ba0e71ed066b7010793705daccd5dd9680b7251c2c92a9179a376&smart=true&width=700&height=450",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/15/ranking-de-youtube-en-argentina-la-lista-de-los-10-videos-musicales-mas-populares-hoy/"
+      "link": "https://www.infobae.com/tecno/2026/11/15/xuper-tv-no-se-puede-descargar-en-android-o-en-smart-tv-intentarlo-permite-el-robo-de-contrasenas-y-malware/"
     }
   ]
 }
