@@ -1,76 +1,76 @@
 {
-  "actualizado": "14/11/2026, 05:00 p. m.",
+  "actualizado": "15/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Epa, mi pana! Recuerda que el que le echa pichón con alegría, siempre encuentra el camino clarito. ¡Pa' lante es pa' allá y que nada te quite el brillo!",
+    "texto": "Acuérdate, mi pana: el que nace pa' martillo, del cielo le caen los clavos, pero el que nace con buena vibra, ¡hasta el café le sale espumoso! Pa' lante es pa' allá.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Le dieron hasta con el tobo! San Antonio barrió a Golden State",
-      "resumen": "Los Spurs de San Antonio andan intratables y este viernes le metieron una paliza de 123 a 85 a los Warriors en el Frost Bank Center. Desde el arranque, los locales dominaron la pintura y dejaron a Gol",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261114_163257_0000-300x225.png",
+      "titulo": "¡A Brasil se le chispoteó! Japón los dejó en el sitio en Singapur",
+      "resumen": "¡Epa, mi gente! La Canarinha no pega una. Aunque Vinicius Jr. se mandó dos golazos, Japón les ganó 3-2 en un amistoso que terminó con los ánimos caldeados. Hasta el profe Ancelotti y Raphinha salieron",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_201012_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/basketball/nba/san-antonio-trituro-a-golden-state/"
+      "link": "https://www.liderendeportes.com/futbol/internacional-football/brasil-cayo-ante-japon-y-sigue-sin-encontrar-el-camino/"
     },
     {
-      "titulo": "Tyler Heineman amarró su contrato con los Angelinos para el 2027",
-      "resumen": "El receptor veterano Tyler Heineman se puso de acuerdo con los Angelinos de Los Ángeles para jugar la temporada 2027 por un poco más de 1.2 millones de dólares. A sus 35 años, el careta viene de fajar",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tyler-Heineman-300x225.png",
+      "titulo": "¡Los Tigres están alzados! René Pinto mandó a dormir a los Bravos",
+      "resumen": "¡Rugieron los de Aragua! En un juegazo en el Estadio Nueva Esparta, los Tigres le ganaron 3-2 a los Bravos de Margarita. El protagonista fue René Pinto, que se la sacó dos veces de jonrón para poner a",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_223518_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/tyler-heineman-y-los-angelinos-acuerdan-su-salario-para-2027/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-dominaron-a-bravos-y-siguen-enrachados/"
     },
     {
-      "titulo": "¡El Escogido sigue mandando! Derrotaron al Licey en un juegazo",
-      "resumen": "En un duelo que estuvo para alquilar balcón en el Estadio Quisqueya, los Leones del Escogido vencieron 5-3 a los Tigres del Licey para mantenerse en lo más alto de la tabla. La figura del encuentro fu",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_145614_0000-300x225.png",
+      "titulo": "¡Casi listo! Brayan Rocchio tiene un pie puesto en el Universitario",
+      "resumen": "¡Atención, guairistas! El bigleaguer Brayan Rocchio soltó la sopa en Miami y dijo que tiene casi un 90% de seguridad de que se uniforma con los Tiburones esta temporada. El muchacho está cuadrando los",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261114_214235_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/el-escogido-mantiene-la-punta-con-triunfo-frente-al-licey/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/brayan-rocchio-tengo-casi-un-90-de-seguro-de-que-voy-jugar-en-venezuela/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro talento! El teatro tomó las calles de toda Venezuela",
-      "resumen": "Con una movilización que puso a valer la cultura, la Compañía Nacional de Teatro celebró su día por todo lo alto en los 24 estados del país. Hubo más de 335 actividades y casi 4 mil artistas en escena",
+      "titulo": "¡Puro sabor y música! Savoy le regaló 85 teclados a El Sistema",
+      "resumen": "¡Qué nota tan buena! Por sus 85 años, Savoy se botó y donó 85 teclados a El Sistema Nacional de Orquestas. Con este detallazo se benefician 50 mil chamos de 84 núcleos en toda Venezuela. Los instrumen",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/DSC04181-300x200.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/el-sistema-recibe-donativo-que-beneficia-84-nucleos-en-todo-el-pais/"
+    },
+    {
+      "titulo": "¡El teatro tomó la calle! Venezuela celebró su día por todo lo alto",
+      "resumen": "¡Se abrió el telón en toda Venezuela! Con más de 335 actividades y unos 70 mil espectadores, celebramos el Día Nacional del Teatro. Desde las comunas hasta los grandes escenarios, casi cuatro mil arti",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-1.19.16-PM-300x226.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/cnt-celebro-el-dia-del-teatro-en-todo-el-pais/"
     },
     {
-      "titulo": "¡A leer se ha dicho! Arrancó la Filven 2026 en Caracas",
-      "resumen": "La fiesta de las letras ya prendió los motores en la Galería de Arte Nacional y la Plaza de la Juventud. Con la presencia de autoridades y el embajador de Rusia, se inauguró la Filven 2026, un espacio",
+      "titulo": "¡Caracas se llenó de libros! Arrancó la Filven 2026 con todo",
+      "resumen": "¡A leer se ha dicho! Se inauguró la Filven 2026 en la Galería de Arte Nacional y la Plaza de la Juventud. Con Rusia como invitado y un gentío buscando buenas historias, la feria arrancó con música y m",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/inaugurada-la-filven-2026-en-caracas-con-una-variada-programacion/"
-    },
-    {
-      "titulo": "Ocumare del Tuy se vistió de gala para honrar a San Diego de Alcalá",
-      "resumen": "Los ocumareños celebraron por todo lo alto los 401 años de la llegada de su santo patrono, San Diego de Alcalá. Entre cantos de los Indios Coromotanos y el repique de los tambores de San Juan, Monseño",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261113_164258_809-300x244.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/miranda/ocumarenos-rindieron-honores-a-san-diego-de-alcala/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Por andar de vivos! Multan a dos personas por usar IA en un juicio",
-      "resumen": "En Puerto Rico, el Tribunal Supremo le metió una multa de 500 dólares a dos hermanos que se quisieron pasar de listos citando leyes que no existen. Resulta que usaron inteligencia artificial para arma",
-      "imagen": "https://www.infobae.com/resizer/v2/ZZDVQKBBORCWDA4YUFMYGXDTQE.png?auth=8e5816ce24927f59f5998c319d6946a3c2134e6ab4840e217866301285c6ea20&smart=true&width=1408&height=768",
+      "titulo": "¡Mosca con lo que compartes! Los links de la nube no se borran solos",
+      "resumen": "¡Ojo pelao, familia! Si mandaste un link por Google Drive o iCloud hace años, que sepas que sigue vivito y coleando hasta que tú mismo lo cierres. El peligro no es la nube, sino el tiempo, porque ese ",
+      "imagen": "https://www.infobae.com/resizer/v2/UAG5EZSXKZEA7KVOI5PDGR7FJM.png?auth=c4c739723cb453b428aa85652dadf4ffb76f314a945438a1437608e5603899c7&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/14/tribunal-supremo-de-puerto-rico-multa-a-dos-personas-por-citar-fallos-inexistentes-que-habrian-sido-generados-con-ia/"
+      "link": "https://www.infobae.com/tecno/2026/11/15/los-enlaces-para-compartir-archivos-en-google-drive-o-icloud-siguen-activos-hasta-que-el-dueno-los-cierre/"
     },
     {
-      "titulo": "¡WhatsApp se puso las pilas! Ahora podrás armar eventos más fácil",
-      "resumen": "La aplicación del telefonito verde trae una novedad bien fina: ahora puedes crear eventos y mandar el enlace incluso a los que no tienen WhatsApp. Los invitados podrán confirmar su asistencia desde el",
-      "imagen": "https://www.infobae.com/resizer/v2/OQ6CWMECJ5EMHHNXXPXBEYUGXA.jpg?auth=9b63738a8a971bbbc504b610606b1def2145f91711142ae0915d017bff93f725&smart=true&width=1920&height=1008",
+      "titulo": "¿Pelea de pareja? Ahora le preguntan a ChatGPT quién tiene la razón",
+      "resumen": "¡Lo que faltaba! Ahora los chamos de la Generación Z y los millennials están usando la Inteligencia Artificial para que les resuelva los brolleros amorosos. Resulta que el 21% de los usuarios le pide ",
+      "imagen": "https://www.infobae.com/resizer/v2/KXL6ZUEJLZANLEOKRI2TDUEYFQ.JPG?auth=fb75427326bc8e364fbd43cbfd351e6ffedd89f2e2cc6b494539b8f8fb4da273&smart=true&width=4000&height=2667",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/14/como-crear-un-evento-en-whatsapp-e-invitar-a-quienes-no-tienen-la-aplicacion/"
+      "link": "https://www.infobae.com/tecno/2026/11/15/cada-vez-mas-parejas-piden-a-chatgpt-que-decida-quien-tiene-razon-en-sus-discusiones/"
     },
     {
-      "titulo": "¡Actívate! Aquí tienes los códigos de Free Fire para este sábado",
-      "resumen": "Para los que andan pegados con el Free Fire, hoy sábado 14 de noviembre de 2026 salieron códigos nuevos para canjear diamantes, skins y oro totalmente gratis. Solo tienes que meterte en la página ofic",
-      "imagen": "https://www.infobae.com/resizer/v2/TMR6BCXJKJCPNLWAINVX7FLHJI.png?auth=aabc556d7e2771afd915647071a79a39af5b72151eaa92b5c22483c91fb20b1f&smart=true&width=1200&height=700",
+      "titulo": "¡YouTube sigue siendo el papá! En Argentina no lo tumba nadie",
+      "resumen": "Aunque TikTok y las demás redes sociales están haciendo bulla, YouTube sigue mandando en el mundo de los videos. En Argentina, el ranking musical demuestra que la plataforma es la reina indiscutible. ",
+      "imagen": "https://www.infobae.com/resizer/v2/ETLPGA7YO5HOFMKPDXRHE53XGA.jpg?auth=da7776e5477256dca7efc8f6a92c5e5de0af75def5082dc237de3ebe3ea4a226&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/14/codigos-de-free-fire-para-canjear-hoy-sabado-14-de-noviembre-2026-gratis-diamantes-skins-oro-y-mas/"
+      "link": "https://www.infobae.com/tecno/2026/11/15/ranking-de-youtube-en-argentina-la-lista-de-los-10-videos-musicales-mas-populares-hoy/"
     }
   ]
 }
