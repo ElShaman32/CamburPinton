@@ -1,76 +1,76 @@
 {
-  "actualizado": "15/11/2026, 05:00 p. m.",
+  "actualizado": "16/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero el que tiene ganas, ¡hasta los clavos los endereza para construir su propio camino! ¡Échele pichón que hoy e",
+    "texto": "Acuérdate que el que nace barrigón, ni que lo fajen chiquito... ¡pero el que tiene ganas de echar pa' lante, no hay hueco que lo tranque! Dale con todo hoy, mi pana.",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Grande, Miggy! Rojas se despide de sus Tiburones por todo lo alto",
-      "resumen": "Nuestro Miguel Rojas colgó los ganchos tras 10 temporadas dándolo todo con los Tiburones de La Guaira. El campocorto de 37 años recibió un tremendo homenaje en el loanDepot Park antes del choque contr",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Miguel-Rojas-300x225.png",
+      "titulo": "¡Se acabó el misterio! Hasta la FIFA ahora está bajo la lupa",
+      "resumen": "Antes la FIFA era intocable, como un santo en un altar, pero ahora con las redes sociales todo el mundo mete su cuchara. Ya no estamos en los tiempos de Joao Havelange donde nadie decía ni pío; hoy en",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Gianni-Infantino-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/miguel-rojas-fue-homenajeado-por-en-su-dia-de-retiro-con-tiburones/"
+      "link": "https://www.liderendeportes.com/opinion/cristobal_guerra/la-gran-batalla-en-la-cancha-de-rabat/"
     },
     {
-      "titulo": "¿Ketel Marte pa' Baltimore? Los Orioles andan tras la pista del dominicano",
-      "resumen": "Se prendieron los fogones en las Grandes Ligas. Los Orioles de Baltimore le echaron el ojo a Ketel Marte y andan conversando con los Diamondbacks para ver si se traen al segunda base dominicano. Aunqu",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Ketel-Marte-300x225.png",
+      "titulo": "¡Somos los papás del beisbol! Venezuela campeona mundial Sub-23",
+      "resumen": "¡Qué clase de cierre de año, mi gente! Nuestros muchachos de la Sub-23 se alzaron con el título mundial tras blanquear a Australia 5-0 en Nicaragua. Bajo el mando de Néstor Corredor, los chamos se sac",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Venezuela-Sub-23-3-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/orioles-y-cascabeles-estarian-conversando-por-ketel-marte/"
+      "link": "https://www.liderendeportes.com/baseball/seleccionnacional/venezuela-se-corona-campeon-del-mundo-sub-23-por-segunda-vez/"
     },
     {
-      "titulo": "Vizcarrondo se sincera: A la Vinotinto le faltó cabeza fría en Bilbao",
-      "resumen": "Tras la derrota por la mínima ante el País Vasco, el profe Oswaldo Vizcarrondo no se anduvo con rodeos en la rueda de prensa. Admitió que a los chamos les faltó calma y puntería frente al arco rival. ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/03/Oswaldo-Vizcarrondo-3-300x225.jpg",
+      "titulo": "¡Pura candela en La Rinconada! Aquí los resultados del 5 y 6",
+      "resumen": "La emoción hípica estuvo a millón en el óvalo de Coche. En la primera, Spring Training con Robert Capriles se llevó los honores parando el reloj en 82”1. En la segunda, Fantastic Shot con el junior Lu",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Hipismo-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/vinotinto/vizcarrondo-admite-deuda-vinotinto/"
+      "link": "https://www.liderendeportes.com/hipismo/resultados-de-la-rinconada-201/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Tarek William Saab soltó sus versos en la FILVEN con «Todos mis poemas»",
-      "resumen": "En plena fiesta del libro, el poeta Tarek William Saab bautizó su obra «Todos mis poemas (1984/2026)». Es una edición especial de Monte Ávila que junta más de 40 años de pura inspiración y letras. El ",
+      "titulo": "¡Qué conciertazo! Gurrufío y la Sinfónica le cantaron a La Guaira",
+      "resumen": "El Aula Magna de la UCV se llenó de sentimiento con el Ensamble Gurrufío y la Orquesta Sinfónica de Venezuela. Fue un homenaje bellísimo para los guaireños y para celebrar a los que vuelven a casa. Mú",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-15-at-4.07.34-PM-6-300x200.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/ensamble-gurrufio-y-la-osv-vibraron-para-homenajear-a-los-guairenses-fotos/"
+    },
+    {
+      "titulo": "Tarek William Saab soltó su lírica en la FILVEN con nuevo libro",
+      "resumen": "En plena Feria Internacional del Libro, el poeta Tarek William Saab bautizó 'Todos mis poemas (1984/2026)'. Es una edición especial de Monte Ávila que recoge más de 40 años de pura escritura y comprom",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/2be220c1-228a-4144-835f-bef71cd72113-300x190.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-bautizo-en-filven-su-libro-todos-mis-poemas/"
     },
     {
-      "titulo": "¡Sabor y música! Savoy le regala 85 teclados a los chamos de El Sistema",
-      "resumen": "La gente de Savoy se botó por sus 85 años y donó 85 teclados para que nuestros muchachos de El Sistema sigan brillando en todo el país. Este regalazo beneficia a unos 50 mil jóvenes en 84 núcleos de l",
+      "titulo": "¡Sabor y música! Savoy regala 85 teclados a los chamos de El Sistema",
+      "resumen": "Por los 85 años de Savoy, Nestlé se botó y donó 85 teclados para El Sistema. Esta tremenda ayuda va directo a 84 núcleos en los 23 estados del país, beneficiando a unos 50 mil jóvenes músicos. Los ins",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/DSC04181-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/el-sistema-recibe-donativo-que-beneficia-84-nucleos-en-todo-el-pais/"
-    },
-    {
-      "titulo": "¡Arriba el telón! Venezuela celebró el Día del Teatro a casa llena",
-      "resumen": "El teatro nacional se vistió de gala con más de 335 actividades en los 24 estados y el Distrito Capital. Casi 4 mil artistas se movilizaron para hacer disfrutar a más de 70 mil espectadores. Desde las",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-1.19.16-PM-300x226.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/cnt-celebro-el-dia-del-teatro-en-todo-el-pais/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Lo último! Apple prepara unas gafas inteligentes que hasta te piden el taxi",
-      "resumen": "La manzana mordida no se queda atrás y ya anda cocinando sus gafas inteligentes para el 2027. Dicen que serán finitas y que con Siri podrás pedir un carro o reservar en tu restaurante favorito sin mov",
-      "imagen": "https://www.infobae.com/resizer/v2/OCIUVSXMZJAXTDTCRKIXC5VNXY.png?auth=019c7a43a471877676813bb810340400553123968f847680db234d084d057120&smart=true&width=2752&height=1536",
+      "titulo": "¿La Inteligencia Artificial nos va a quitar el puesto? ¡Ojo pelao!",
+      "resumen": "Un estudio en Alemania soltó una perla: el empleo en jóvenes de 20 a 24 años bajó un 14% en áreas donde la IA está metida de lleno. Aunque no aseguran que sea culpa directa de la tecnología, la cosa s",
+      "imagen": "https://www.infobae.com/resizer/v2/INXPTENFORCNRM7L6SSFHNBDMY.png?auth=dc3af2ff8a9cfc0b5ee666e38e7aa1b0115ca9a56810fa91145a1f414acae59a&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/15/apple-prepara-gafas-inteligentes-que-permitirian-pedir-un-auto-y-reservar-restaurantes-mediante-siri/"
+      "link": "https://www.infobae.com/tecno/2026/11/16/como-puede-afectar-la-inteligencia-artificial-a-los-empleos-de-entrada/"
     },
     {
-      "titulo": "¡Por las nubes! La tarjeta gráfica RTX 5090 volvió pero carísima",
-      "resumen": "Si andabas buscando la GeForce RTX 5090 de Nvidia, prepárate el bolsillo porque volvió a las tiendas pero con un precio que asusta. En algunos sitios la están vendiendo hasta en más de 6.500 dólares, ",
-      "imagen": "https://www.infobae.com/resizer/v2/EKMYQJ6QZZAVZNWK6EIPI3YHPQ.jpg?auth=0bdfec25d4c99ed08801b2617556286235fc3c07ac59f642f4e5f68366f7a50c&smart=true&width=2048&height=1423",
+      "titulo": "Nvidia se estrena sin su jefe estrella en los reportes financieros",
+      "resumen": "Por primera vez en 33 años, Nvidia presentará resultados sin Jensen Huang al mando. El hombre renunció hace poquito y ahora la batuta la tiene Colette Kress como jefa interina mientras buscan un suces",
+      "imagen": "https://www.infobae.com/resizer/v2/HMXES2XRMVFRDOW7KQX6IQVLZA.JPG?auth=48859e0528a1f2860144088f13cdab0c8cad1b59b8ea38b03df30120b672e4e0&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/15/una-de-las-tarjetas-graficas-mas-caras-de-nvidia-vuelve-a-las-tiendas-pero-cuesta-mas-del-triple/"
+      "link": "https://www.infobae.com/tecno/2026/11/16/nvidia-presentara-el-17-de-noviembre-sus-primeros-resultados-sin-jensen-huang-como-director-ejecutivo/"
     },
     {
-      "titulo": "¡Pilas con la freidora de aire! 5 trucos para que no se te eche a perder",
-      "resumen": "Para que tu «air fryer» te dure una eternidad y no se te dañe antes de tiempo, toma dato: no la satures de comida, usa los utensilios adecuados y límpiala siempre con cariño. Los expertos dicen que el",
-      "imagen": "https://www.infobae.com/resizer/v2/BDGJF6VHBBBL3FRZ3EGXJJJ2PI.jpg?auth=4a28ad7994696e51c2a6494449022d6a383eb6eb038509a769b6c56a22c8bb50&smart=true&width=1456&height=816",
+      "titulo": "Jensen Huang va al Congreso a soltar la lengua sobre supuesta espía",
+      "resumen": "El exjefe de Nvidia, Jensen Huang, aceptó declarar a puerta cerrada ante el Congreso de EE.UU. El lío es por su relación con una empresaria china que señalan de presunta espía. El congresista John Moo",
+      "imagen": "https://www.infobae.com/resizer/v2/DKPFX46RSZCWHNK2GW2GDQZDGU.JPG?auth=45191d085b07e8125c9ae29ac0086c5fe86fe75f7bb3c5974756b3e5bf82856e&smart=true&width=5500&height=3734",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/15/como-cuidar-una-freidora-de-aire-5-trucos-para-evitar-danos-y-reemplazos-prematuros/"
+      "link": "https://www.infobae.com/tecno/2026/11/16/el-exdirector-de-nvidia-jensen-huang-acepto-declarar-a-puertas-cerradas-ante-tres-comisiones-del-congreso/"
     }
   ]
 }
