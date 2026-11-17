@@ -1,76 +1,76 @@
 {
-  "actualizado": "16/11/2026, 05:00 p. m.",
+  "actualizado": "17/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Acuérdate que el que madruga, Dios lo ayuda, pero el que le echa pichón con alegría y su arepa bien rellena, ¡no hay obstáculo que lo detenga!",
+    "texto": "Acuérdate, mi pana, que el que nace para martillo, del cielo le caen los clavos, pero el que tiene fe y echa pa' lante, ¡ni que le pongan la pista de jabón se resbala! ¡Dale con todo hoy!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Se acabó el romance! La Champions cambia de balón y ahora viene con Nike",
-      "resumen": "¡Epa, mi gente futbolera! Les cuento que después de 26 años dándole patadas a la Adidas, la Champions League se cambia de bando. A partir del 2027, Nike será el dueño del balón oficial por cuatro temp",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Diseno-sin-titulo-42-300x225.png",
+      "titulo": "¡Bericoto se la comió! Los Leones dejaron en el terreno a los Cardenales",
+      "resumen": "¡Qué clase de final, mi gente! En el Monumental, los Leones del Caracas sacaron la casta y voltearon la tortilla 6-5 contra Lara. Cuando parecía que los pájaros rojos se llevaban el triunfo, la ofensi",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Victor-Bericoto-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/la-champions-tendra-nuevo-balon-para-2027/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/victor-bericoto-se-viste-de-heroe-en-el-monumental/"
     },
     {
-      "titulo": "¡Los Dodgers no juegan carrito! Ohtani y su combo siguen mandando para el 2027",
-      "resumen": "Aunque el 2026 se puso un pelín cuesta arriba por los veteranos que ya sentían el cansancio, los Dodgers de Los Ángeles no piensan soltar el coroto. Con 100 victorias encima y Ohtani en sus filas, el ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Roberts-Ohtani--300x225.jpg",
+      "titulo": "El Expreso Azul puso orden en Valencia y frenó a los Pioneros",
+      "resumen": "Trotamundos de Carabobo hizo respetar su casa y venció 71-61 a Pioneros de Caracas. Aunque los chamos de la capital dominaron la primera mitad, el Expreso Azul apretó las tuercas en el último cuarto. ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Trotamundos-Pioneros-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/ohtani-impactaria-en-el-roster-2027-de-los-dodgers/"
+      "link": "https://www.liderendeportes.com/basketball/liga-superior/trotamundos-frena-en-el-ultimo-cuarto-a-pioneros/"
     },
     {
-      "titulo": "¡Palo y pa' la calle! El Escogido mandó a dormir al Licey y sigue mandando",
-      "resumen": "¡Qué clase de juego se lanzaron en el Quisqueya! Los Leones del Escogido le ganaron el pulso a los Tigres del Licey 4 a 2. El héroe de la jornada fue Junior Lake, que se mandó un jonrón dantesco en la",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261116_155810_0000-300x225.png",
+      "titulo": "Mala racha para GG Jackson: el alero de Memphis va para el quirófano",
+      "resumen": "Una noticia chimba para los fanáticos de los Grizzlies. El joven GG Jackson se fracturó el quinto metatarsiano del pie izquierdo y tendrá que pasar por el taller. La lesión ocurrió el sábado pasado co",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261116_213010_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/el-escogido-vencio-al-licey-y-se-afianza-en-la-punta/"
+      "link": "https://www.liderendeportes.com/basketball/nba/gg-jackson-sera-operado-tras-fracturarse-un-hueso-del-pie-izquierdo/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Orgullo de Bolívar y Cumaná! Esmeralda Torres brilla con su poesía en la Filven",
-      "resumen": "Nuestra querida Esmeralda Torres está siendo homenajeada en la Filven 2026 y no es para menos. Esta joya de las letras venezolanas, que nació en Ciudad Bolívar pero se hizo cumanesa de corazón, presen",
+      "titulo": "La Filven se puso literaria con el análisis de la obra de Tarek William Saab",
+      "resumen": "En plena Filven 2026, se presentó el libro «El verbo alucinante de Tarek William Saab» de Gabriel Jiménez Emán. La gente llenó el lugar para conocer este estudio sobre los poemas, crónicas y discursos",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-4.42.23-PM-300x169.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/actualidad/presentada-en-la-filven-obra-de-jimenez-eman-el-verbo-alucinante-de-tarek-william-saab/"
+    },
+    {
+      "titulo": "«Criaturas de Petróleo»: El oro negro se hace literatura en la Filven",
+      "resumen": "La Galería de Arte Nacional se vistió de gala para presentar la colección «Criaturas de Petróleo». Son ocho obras fundamentales que exploran nuestra historia petrolera a través de la narrativa y otros",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-3-300x225.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/la-coleccion-criaturas-de-petroleo-destaca-en-la-filven-2026/"
+    },
+    {
+      "titulo": "Esmeralda Torres: Poesía que brilla y da esperanza en la Filven 2026",
+      "resumen": "Nuestra querida Esmeralda Torres, orgullo de Ciudad Bolívar y Cumaná, está siendo homenajeada en la Filven. La ganadora del Premio Casa de las Américas 2025 presentó su obra «Cuerpo quebrado lumbre», ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Esmeralda-Torres-Foto-MIB-12-300x217.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/esmeralda-torres-la-poesia-brinda-esperanza/"
-    },
-    {
-      "titulo": "¡Pura música de la buena! Gurrufío y la Sinfónica pusieron a vibrar el Aula Magna",
-      "resumen": "¡Qué concierto tan apoteósico, familia! El Ensamble Gurrufío y la Orquesta Sinfónica de Venezuela se unieron en la UCV para rendirle un homenaje bien sentido a los guaireños. Fue un reencuentro lleno ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-15-at-4.07.34-PM-6-300x200.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/ensamble-gurrufio-y-la-osv-vibraron-para-homenajear-a-los-guairenses-fotos/"
-    },
-    {
-      "titulo": "¡Bautizo literario! Tarek William Saab soltó sus poemas en la Filven 2026",
-      "resumen": "En plena Filven, el poeta Tarek William Saab bautizó su libro \"Todos mis poemas (1984/2026)\". Es una recopilación de más de 40 años dándole a la pluma, editada por Monte Ávila. El hombre comentó que e",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/2be220c1-228a-4144-835f-bef71cd72113-300x190.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-bautizo-en-filven-su-libro-todos-mis-poemas/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mosca con la cuenta! Inteligencia Artificial anda queriendo operar sin permiso",
-      "resumen": "¡Pónganse las pilas! Michael Barr, de la Reserva Federal, soltó una perla: hay \"agentes de IA\" intentando meterle mano a las cuentas bancarias sin que nadie les dé permiso. Estos programas se mandan s",
-      "imagen": "https://www.infobae.com/resizer/v2/DJL5WYP3UBHZDNO3M2L4K4M3SI.jpg?auth=49307eff2971b42f6321fe3af5c26fe0a91827575a2cad28a1d61323f27a9013&smart=true&width=2752&height=1536",
+      "titulo": "¡Pendiente con el plástico! Visa y Mastercard buscan acuerdo millonario",
+      "resumen": "Las grandes de las tarjetas, Visa y Mastercard, quieren que un juez apruebe un acuerdo de 38 mil millones de dólares. La idea es bajar las comisiones y que los comercios puedan rechazar algunas tarjet",
+      "imagen": "https://www.infobae.com/resizer/v2/ZICMMKOTUFGHDDZU3PF6URDTN4.JPG?auth=b69d95c76828441bab2fcaa19b6b6c46787ffaccf14b9d40465ee3893f902503&smart=true&width=3000&height=2001",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/16/grandes-bancos-detectaron-asistentes-de-ia-que-intentan-operar-en-cuentas-de-clientes-sin-permiso-verificable/"
+      "link": "https://www.infobae.com/tecno/2026/11/17/visa-y-mastercard-buscan-que-un-juez-apruebe-un-acuerdo-que-permitiria-a-los-comercios-rechazar-algunas-tarjetas/"
     },
     {
-      "titulo": "¡Naves del futuro! Nissan y Kia sorprenden con tecnología de punta en Bogotá",
-      "resumen": "En el Salón del Automóvil de Bogotá se vieron unas naves que parecen de película. Nissan sacó la nueva Kicks e-POWER, siendo Colombia el primer país después de Japón en recibirla. Por su parte, Kia, A",
-      "imagen": "https://www.infobae.com/resizer/v2/WIAHT6QT5NDXZIT266AEKMBHQ4.png?auth=b40a1507fe8696339ad70b51738f38bbe9bba801540b769834b0d64ded4b4167&smart=true&width=1200&height=700",
+      "titulo": "De un proyecto del MIT a una pulsera que frena los temblores",
+      "resumen": "La tecnología se puso las pilas para ayudar a la salud. Una pulsera creada por Encora Therapeutics, que nació como un proyecto de estudiantes del MIT, ya tiene el visto bueno de la FDA. El aparatico m",
+      "imagen": "https://www.infobae.com/resizer/v2/AQA4OIVDUBCTVJ7SYELQOATEHM.jpg?auth=f1b21f4b888943b9e96f51f640225aecc7a8a9f255121d709f89819a2139b8e1&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/16/disenos-futuristas-camaras-en-lugar-de-espejos-y-mas-las-propuestas-de-nissan-kia-avatr-y-volvo-en-colombia/"
+      "link": "https://www.infobae.com/tecno/2026/11/17/ingenieria-y-neurociencia-asi-es-la-pulsera-que-nacio-en-el-mit-y-hoy-ayuda-a-controlar-temblores-en-decenas-de-pacientes/"
     },
     {
-      "titulo": "¡Entre titanes! Sam Altman dice que su héroe Jensen Huang tiene sus detallitos",
-      "resumen": "El duro de OpenAI, Sam Altman, habló clarito sobre Jensen Huang, el exjefe de Nvidia. Dijo que Huang siempre ha sido su héroe, pero soltó que \"los héroes tienen defectos\". Aunque le tiró flores por su",
-      "imagen": "https://www.infobae.com/resizer/v2/6PKWMMG3U5GONHSUIHTZBSFW7M.JPG?auth=0e670bee05496493cb5657675a5e9448352df940f8b8049019b6ecd70f92a0bc&smart=true&width=4896&height=3264",
+      "titulo": "¿Cargar el celular con el cargador de la laptop? ¡Claro que se puede!",
+      "resumen": "Si tienes un cargador de laptop con cable USB-C, puedes usarlo para tu teléfono sin miedo. Gracias a la tecnología de «entrega de energía», el aparato sabe cuánta corriente pasarle a la batería para n",
+      "imagen": "https://www.infobae.com/resizer/v2/OJI3NWIYCZCINHGHD6BDNZED6A.png?auth=6b4c33f6e471adb0e88be5928b97147004cb7ea89f2883079bc4124f6616f83a&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/estados-unidos/2026/11/16/sam-altman-elogio-a-jensen-huang-pero-evito-pronunciarse-sobre-su-regreso-a-nvidia-siempre-fue-uno-de-mis-heroes-los-heroes-tienen-defectos/"
+      "link": "https://www.infobae.com/tecno/2026/11/17/cuando-se-puede-cargar-el-telefono-con-el-cargador-de-una-notebook-y-que-precauciones-tomar/"
     }
   ]
 }
