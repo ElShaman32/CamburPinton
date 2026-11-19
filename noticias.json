@@ -1,76 +1,76 @@
 {
-  "actualizado": "18/11/2026, 06:00 a. m.",
+  "actualizado": "19/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mire, mi gente, el que nace para martillo del cielo le caen los clavos, pero el venezolano nace con el imán para convertirlos en oportunidades. ¡Échele pichón hoy con su mejor sonrisa!",
+    "texto": "¡Epa, mi pana! Acuérdate que el que madruga, Dios lo ayuda, pero el que le echa pichón con alegría, ¡no hay cerro que lo detenga! ¡Dale que tú puedes!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡La Nave se impuso en el Monumental! Magallanes le aguó la fiesta al Caracas",
-      "resumen": "¡Qué juego tan cardíaco, mi gente! Los Navegantes del Magallanes le ganaron 11-8 a los Leones del Caracas en 10 innings. Aunque los melenudos empataron de forma increíble en el noveno, la nave turca n",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Rougned-Odor-1-300x225.png",
+      "titulo": "¡Puro oro! Gabriel Moreno calló bocas con su Guante de Oro",
+      "resumen": "El barquisimetano Gabriel Moreno se alzó como el mejor receptor de la Nacional y aprovechó para soltar su 'veneno' a quienes dudaban de él. Tras la polémica por ganarle el título de bateo a Luis Arráe",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Gabriel-Moreno-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/magallanes-frustra-la-epica-reaccion-del-caracas/"
+      "link": "https://www.liderendeportes.com/opinion/a-swing-completo/gabriel-moreno-despejo-dudas/"
     },
     {
-      "titulo": "¡Poder criollo en las Mayores! Gabriel Moreno y Jackson Chourio ganan el Bate de Plata",
-      "resumen": "¡Nuestros muchachos sacándola de jonrón! Gabriel Moreno y Jackson Chourio se llevaron el Bate de Plata 2026. Moreno, el receptor de Arizona, se la comió igualando la hazaña de Carlos González al ganar",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Gabriel-Moreno-1-300x225.jpg",
+      "titulo": "¡Pa' encima! Tiburones le dio una paliza a los Bravos en la capital",
+      "resumen": "Los escualos se ensañaron con el pitcheo de Margarita y les metieron 14 carreras en el Universitario. Con cuatro cuadrangulares y un bateo encendido de Gabriel Arias y Rafael Marchán, La Guaira no tuv",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tiburones-2-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/venezolanos-mlb/gabriel-moreno-y-jackson-chourio-conquistan-el-bate-de-plata-2026/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/jurickson-profar-encendido-en-victoria-de-tiburones/"
     },
     {
-      "titulo": "¡Ya hay fecha para el fútbol nacional! La Liga FUTVE soltó el calendario del 2027",
-      "resumen": "¡Vayan preparando la garganta para gritar gol! La Liga FUTVE confirmó que la temporada 2027 arranca el 22 de enero. Se mantiene el formato de Apertura y Clausura con 14 fechas cada uno, donde los ocho",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/PRINCIPAL-300x194.jpg",
+      "titulo": "¡La Nave turca remontó! Magallanes hundió a los Cardenales en Valencia",
+      "resumen": "En un juego que estaba más apretado que zapato nuevo, el Magallanes sacó la casta en el octavo inning con un rally de cinco carreras para vencer 9-4 a Lara. Aunque los pájaros rojos picaron adelante, ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Rougned-Odor-2-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futve/la-liga-futve-confirma-el-nuevo-formato-de-competicion-para-la-temporada-2027/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/magallanes-castiga-en-el-octavo-inning-y-derrota-a-cardenales/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Pura cultura en la Filven! Hablaron de literatura e identidad venezolana",
-      "resumen": "En la 22.ª Feria Internacional del Libro de Venezuela se armó un conversatorio de lujo sobre nuestra identidad. Ponentes de la talla de Benito Irady y Tarek William Saab se reunieron para reflexionar ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-3.47.08-PM-300x169.jpeg",
+      "titulo": "Letras criollas: Jorge Rodríguez bautizó nueva edición de su novela",
+      "resumen": "En plena Filven 2026, se presentó la cuarta edición de «El mar que me regalas», la obra de Jorge Rodríguez Gómez. Bajo el sello de Monte Ávila, el autor estuvo rodeado de personalidades de la cultura ",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_0807-300x200.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/actualidad/mision-viva-venezuela-participo-en-coloquio-literatura-y-venezolanidad-en-la-filven-2026/"
+      "link": "https://ultimasnoticias.com.ve/cultura/jorge-rodriguez-presento-nueva-edicion-de-el-mar-que-me-regalas/"
     },
     {
-      "titulo": "¡Un flash de talento! La fotografía se adueña de la Filven 2026",
-      "resumen": "La mirada de nuestros artistas brilla en la Galería de Arte Nacional. Este viernes se bautizan los libros de los maestros Joel Ochoa y Félix Gerardi, ambos Premios Nacionales de Cultura. Es una oportu",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/IMG_20261117_142633_177-300x200.jpg",
+      "titulo": "¡Qué molleja de fe! El Zulia celebró por todo lo alto a su Chinita",
+      "resumen": "Maracaibo se desbordó de amor para celebrar los 317 años de la renovación de la tablita de Nuestra Señora del Rosario de Chiquinquirá. Entre gaitas, oraciones y mucha emoción, la Reina Morena salió a ",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-8.06.40-PM-300x168.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/actualidad/la-mirada-fotografica-se-pasea-por-la-filven-2026/"
+      "link": "https://ultimasnoticias.com.ve/zulia/fervor-zuliano-lleno-la-plaza-de-la-chinita-en-sus-317-anos/"
     },
     {
-      "titulo": "¡A escribir se ha dicho! Arrancaron los talleres de literatura del Celarg",
-      "resumen": "Con 190 personas con ganas de aprender, empezaron los talleres de creación literaria del Celarg. Lo más fino es que ahora es internacional y online, con gente de 10 países y 9 estados de Venezuela ech",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-8.31.00-PM-2-1024x682-1-300x200.jpeg",
+      "titulo": "¡Puro talento! 'Manuela' llega a la Sala Rajatabla para conmover a Caracas",
+      "resumen": "Este viernes se estrena en Caracas una pieza teatral que nos muestra a las heroínas latinoamericanas desde una mirada poética y descolonial. La obra, interpretada por Marcela Lunar, se mete en la inti",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/secundaria-3-300x200.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/con-190-participantes-arrancan-los-talleres-de-literatura-del-celarg/"
+      "link": "https://ultimasnoticias.com.ve/cultura/manuela-llega-a-caracas-este-viernes-con-un-montaje-poetico-y-descolonial/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pilas con los estafadores! Singapur usará IA para frenar trampas bancarias",
-      "resumen": "En Singapur se pusieron las pilas y van a usar inteligencia artificial para rastrear estafas que saltan de un banco a otro en minutos. Cinco bancos ya están compartiendo datos para que la IA detecte p",
-      "imagen": "https://www.infobae.com/resizer/v2/6NTS3L76VNDUBBIF4ZEOWTV2C4.png?auth=0536dc6e18d2c50b77dc4cd5fc801bb5b194bb72979bf8b3ea3f7fdbc2db1dd7&smart=true&width=2752&height=1536",
+      "titulo": "¡Pillados! Netflix admite que a veces nos esconde lo que queremos ver",
+      "resumen": "El mero mero de Netflix, Ted Sarandos, soltó la lengua y confesó que la aplicación a veces 'entierra' las pelis que buscamos para darle prioridad a estrenos que ni nos van ni nos vienen. Reconoció que",
+      "imagen": "https://www.infobae.com/resizer/v2/P7HZMBJA7NE2DIEQZDOHETEHAE.JPG?auth=cbd4d3c59aa7fb42774fbf5bff39f43bf0646addb5712af90e5c53a17e3c5797&smart=true&width=3188&height=2125",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/18/singapur-usara-ia-para-rastrear-estafas-que-pasan-por-varios-bancos-en-pocos-minutos/"
+      "link": "https://www.infobae.com/tecno/2026/11/19/un-director-de-netflix-reconocio-que-la-app-puede-ocultar-lo-que-el-usuario-busca-entre-estrenos-que-no-le-interesan/"
     },
     {
-      "titulo": "¡Chiquiticos pero poderosos! Microrobots del tamaño de un arroz limpian arterias",
-      "resumen": "Científicos en Suiza inventaron unos microrobots magnéticos, del tamaño de un granito de arroz, que ayudan a disolver coágulos seis veces más rápido. Estos aparaticos empujan la medicina justo donde e",
-      "imagen": "https://www.infobae.com/resizer/v2/QSRYQOXOAVDP7OGWTUNMNOSM5M.png?auth=6fec8c0fc394bffda190c0ac286012e62ff9f79a8aba3347450d5cd328d060b7&smart=true&width=2752&height=1536",
+      "titulo": "¡Qué ingenio! Crean una franela inteligente que te chequea el corazón",
+      "resumen": "Científicos de la UBA en Argentina se la comieron diseñando una remera que mide los latidos, la respiración y hasta la temperatura en tiempo real. Este invento busca que la gente pueda monitorear su s",
+      "imagen": "https://www.infobae.com/resizer/v2/XXRIVXZVVZEWNOD4N6NH4AYCGA.jpg?auth=4f7f2bc12994be91e23a4c0142e6d8e8b3d35297d3083028cbe8be981fd73049&smart=true&width=1494&height=840",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/18/microrobots-del-tamano-de-un-grano-de-arroz-prometen-disolver-coagulos-6-veces-mas-rapido-como-funcionan/"
+      "link": "https://www.infobae.com/tecno/2026/11/19/cientificos-argentinos-desarrollaron-una-remera-inteligente-que-mediria-las-senales-del-cuerpo-en-tiempo-real/"
     },
     {
-      "titulo": "¡Poniéndole el ojo a la IA! OpenAI busca expertos para que sus modelos no se rebelen",
-      "resumen": "OpenAI llamó a investigadores externos para que revisen si sus modelos de inteligencia artificial intentan saltarse las reglas o esconder comportamientos raros. Quieren estar seguros de que la tecnolo",
-      "imagen": "https://www.infobae.com/resizer/v2/W5IJOI3WJRADXIPXHMTBO7ZSLU.jpg?auth=2863327dd25a8d2fee6f6eded605187eaf80e78ce683d1fbae38629155b1b9ee&smart=true&width=4000&height=2250",
+      "titulo": "El Cybercab de Tesla ya tiene precio, pero viene con una 'trampa'",
+      "resumen": "Elon Musk ya le puso precio a su carro autónomo: casi 30 mil dólares. Pero mosca, porque para que el bicho ruede, tienes que pagar una suscripción mensual obligatoria de 299 dólares, si no, el carro n",
+      "imagen": "https://www.infobae.com/resizer/v2/CDUQZIZE7FDJPFNOO3EZFYXNM4.jpg?auth=7c52147f15714c4a2bbf22035c1314b6791244e0b5aad543ff20c1ca95c39256&smart=true&width=1920&height=1280",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/18/openai-incorporara-investigadores-externos-para-detectar-si-sus-modelos-de-ia-intentan-evadir-controles/"
+      "link": "https://www.infobae.com/tecno/2026/11/19/cuantos-dolares-vale-el-cybercab-de-tesla-sin-pedales-y-que-servicios-se-pagan-mensuales/"
     }
   ]
 }
