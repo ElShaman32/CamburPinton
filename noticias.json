@@ -1,76 +1,76 @@
 {
-  "actualizado": "20/11/2026, 06:00 a. m.",
+  "actualizado": "20/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "Mire mi gente, el que nace para martillo del cielo le caen los clavos, pero el venezolano siempre encuentra la forma de construir su propio destino con una sonrisa y echándole pichón. ¡Pa' lante es qu",
+    "texto": "Acuérdate, pariente: el que nace para martillo, del cielo le caen los clavos, pero el que tiene fe y le echa pichón, ¡no hay cerro que lo detenga ni arepa que le falte!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Remontada de los Tigres! Los bengalíes rugieron duro en Maracay",
-      "resumen": "¡Qué clase de juego, mi gente! Los Tigres de Aragua sacaron la casta en el José Pérez Colmenares y le dieron la vuelta a la tortilla para ganarle 8-6 a los Bravos. Aunque empezaron perdiendo por cuatr",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tigres-de-Aragua-3-300x225.png",
+      "titulo": "¡A echarle pichón! La Vinotinto sub-17 debuta contra Camerún en el Mundial",
+      "resumen": "¡Pónganse las alpargatas que lo que viene es joropo! Nuestros chamos de la Vinotinto, de la mano de Fernando Aristeguieta, arrancan este sábado su camino en el Mundial de Catar 2026. Se miden contra C",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/04/Vinotinto-sub-17-1-300x200.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-remonta-ante-bravos-y-se-lleva-una-trabajada/"
+      "link": "https://www.liderendeportes.com/vinotinto/venezuela-se-estrena-enel-mundial-de-catar-sub-17/"
     },
     {
-      "titulo": "¡Luisangel Acuña los dejó en el terreno! Cardenales voló alto en Barquisimeto",
-      "resumen": "¡Final de infarto en el Antonio Herrera Gutiérrez! Los Cardenales de Lara le ganaron 4-3 a Caribes en un duelo que se fue a extrainnings. El protagonista fue Luisangel Acuña, quien con un hit de oro e",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Cardenales-de-Lara-300x225.png",
+      "titulo": "¡Trancado el juego! Peloteros de Grandes Ligas le dicen no al draft internacional",
+      "resumen": "La cosa está color de hormiga en la MLB. Los jugadores batearon la propuesta de un draft internacional y están pidiendo más platica para los bonos de firmas y mejores condiciones para los equipos pequ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/06/Rob-Manfred-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/cardenales-deja-en-el-terreno-a-caribes-en-entradas-extras/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/mlb-los-jugadores-ingoran-la-propuesta-de-un-draft-internacional/"
     },
     {
-      "titulo": "¡Vuela el aguilucho! Andrés Chaparro decidió el juego en Maracaibo",
-      "resumen": "En un duelo de pitcheo de esos que te ponen los pelos de punta, las Águilas del Zulia vencieron 2-1 a los Tiburones. La cosa estaba apretada, pero en el octavo apareció Andrés Chaparro con un soberbio",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Andres-Chaparro-2-300x225.png",
+      "titulo": "¡Hay futuro! El Barcelona amarró al jovencito Xavi Espart hasta el 2030",
+      "resumen": "¡Ese muchacho salió respondón! Xavi Espart, de apenas 19 años, se ganó la confianza de Hansi Flick en la pretemporada y ahora el Barcelona le renovó el contrato hasta el 2030. Aunque llegó para tapar ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-54-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/andres-chaparro-decide-para-aguilas/"
+      "link": "https://www.liderendeportes.com/futbol/el-barcelona-renovo-a-xavi-espart/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Puro talento! Nelly Guilarte bautizó su libro en la Filven 2026",
-      "resumen": "En la Galería de Arte Nacional se armó la fiesta de las letras con la historiadora Nelly Guilarte. Su obra sobre los conflictos de tierra en la cuenca del lago de Tacarigua entre 1590 y 1830 dejó a má",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-opcion-2-300x200.jpg",
+      "titulo": "¡Pura música! Guatire celebra por todo lo alto ser la cuna musical de Venezuela",
+      "resumen": "¡Preparen el oído, mi gente! Guatire tira la casa por la ventana este domingo en la Plaza 24 de Julio para celebrar que ya es oficialmente la cuna musical de Venezuela. El maestro Miguel Delgado Estév",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-4.23.16-PM-300x169.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/bautizaron-libro-de-la-historiadora-nelly-guilarte-en-la-filven-2026/"
+      "link": "https://ultimasnoticias.com.ve/cultura/guatire-festejara-con-concierto-su-declaratoria-como-cuna-musical-de-venezuela/"
     },
     {
-      "titulo": "Venezuela y Rusia estrechan lazos culturales con mucha fuerza",
-      "resumen": "La presidenta Delcy Rodríguez se reunió con una delegación rusa para seguir fortaleciendo la cooperación entre ambos países. En el encuentro, donde estuvo el embajador Serguéi Melik-Bagdasárov, se hab",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-4.30.25-PM-2-300x240.jpeg",
+      "titulo": "¡Cultura de la buena! Relanzan la obra de Rómulo Gallegos en la Filven 2026",
+      "resumen": "Para los amantes de la lectura, les cuento que en la Filven 2026 presentaron unos cuadernos nuevecitos que analizan la obra de nuestro Rómulo Gallegos. El Celarg se botó con esta colección que revisit",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-opcion1-300x166.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/politica/presidenta-delcy-rodriguez-se-reune-con-delegacion-de-rusia-para-fortalecer-la-cooperacion-cultural/"
+      "link": "https://ultimasnoticias.com.ve/cultura/nueva-serie-de-cuadernos-revisita-la-obra-de-romulo-gallegos/"
     },
     {
-      "titulo": "¡80 años de puro ritmo! Homenaje al gran «Nené» Quintero en la UCV",
-      "resumen": "Este viernes la Sala de Conciertos de la UCV se llena de sabor para celebrar las ocho décadas de Carlos «Nené» Quintero. El maestro de la percusión, nacido en San Agustín, será homenajeado con un conv",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/e7ad5695-ba9d-8543-9aaa-797677d22ebe-300x200.jpg",
+      "titulo": "De Venezuela para el mundo: Tarek William Saab presenta su poesía en ruso",
+      "resumen": "El poeta Tarek William Saab anda de estreno con su antología Soñando el largo viaje, que ahora se puede leer hasta en ruso. En un encuentro con el embajador de Rusia, se habló de esta obra que recopil",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-1.22.56-AM-1-300x261.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/los-80-anos-de-carlos-nene-quintero-se-celebraran-este-viernes-en-la-ucv/"
+      "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-presenta-su-poesia-traducida-al-ruso/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Pillados! El MIT crea un detector de textos de IA que no pela casi ninguna",
-      "resumen": "Los genios del MIT y Cornell se lanzaron una herramienta que detecta textos escritos por inteligencia artificial con un 93% de precisión. La clave es que el sistema se va adaptando mientras analiza el",
-      "imagen": "https://www.infobae.com/resizer/v2/XYAY253SMJGSJO6QVGF6WL5L7A.png?auth=a362384b64be39afe8153daaaf02339ef5ef0e90600aa02d8d576b089d38bf05&smart=true&width=2752&height=1536",
+      "titulo": "¡Mosca con los piratas! Ver fútbol gratis por internet te puede salir caro",
+      "resumen": "¡No te dejes meter un gol! Ver los partidos por páginas como Fútbol Libre o Roja Directa tiene su riesgo. Aunque parece un tiro al piso para ver el fútbol gratis, estas plataformas pueden robarte las ",
+      "imagen": "https://www.infobae.com/resizer/v2/HB76K3S4R5GW5JORE67UXB7FLE.jpg?auth=7c7bd4a2f8c66dbf3cc641791a284113910a9be16272dc1010a6e2094944f63d&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/20/el-mit-crea-un-detector-de-textos-realizados-con-ia-que-alcanza-el-93-de-precision-como-funciona/"
+      "link": "https://www.infobae.com/tecno/2026/11/20/ver-america-vs-bucaramanga-en-futbol-libre-o-roja-directa-los-riesgos-de-ver-partidos-gratis-en-vivo/"
     },
     {
-      "titulo": "¿Por qué se cae todo al mismo tiempo? El misterio de las fallas digitales",
-      "resumen": "¿Te ha pasado que no puedes pagar ni llamar cuando falla el sistema? Pues resulta que todo está conectado. Una caída digital puede afectar varios servicios a la vez por dependencias compartidas, ya se",
-      "imagen": "https://www.infobae.com/resizer/v2/HALHTCNIPJCRXE47O6KGNIQOKM.png?auth=60fe84311f01ee10c08bf3d01c08b09db8db1692438b3e44b7df69160d51b172&smart=true&width=2752&height=1536",
+      "titulo": "¡Solo para los panas! WhatsApp prueba lista de amigos cercanos para los estados",
+      "resumen": "WhatsApp se puso las pilas y está probando una función para que solo tus llaves vean lo que publicas. Al mejor estilo de Instagram, la opción de Close friends ya le aparece a algunos usuarios de prueb",
+      "imagen": "https://www.infobae.com/resizer/v2/5VXYS2I5H5CA7B5UWZSALBT7KA.png?auth=528efdeffbfe8d2608bbfc35a34884e53e29e604a5e9fd28f8ce0c188c64f1c5&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/20/por-que-una-caida-digital-afecta-pagos-llamadas-y-aplicaciones-al-mismo-tiempo/"
+      "link": "https://www.infobae.com/tecno/2026/11/20/whatsapp-prueba-una-lista-de-amigos-cercanos-para-que-solo-ellos-vean-sus-estados/"
     },
     {
-      "titulo": "¡Construcción del futuro! Los bloques inteligentes del MIT que cuidan el planeta",
-      "resumen": "El MIT desarrolló los «vóxeles», unos bloques que permiten a robots armar estructuras gigantescas con una precisión increíble. Lo más chévere es que este invento reduce hasta un 80% las emisiones de c",
-      "imagen": "https://www.infobae.com/resizer/v2/IJDETV6CIBACBAE4ZSIX4PZP24.png?auth=36975c80aac49a975886363cab62a4d54584f2e7b374fe2c0ebab79fb4b0f70d&smart=true&width=1600&height=893",
+      "titulo": "¡Tremendo lío! Hackean clínicas estéticas en Japón y roban datos de millones",
+      "resumen": "La cosa se puso fea en Japón, donde una cadena de clínicas estéticas sufrió un hackeo masivo. Resulta que unos desconocidos se metieron en la base de datos y se llevaron la información de más de un mi",
+      "imagen": "https://www.infobae.com/resizer/v2/5PZQ7V4ZOZGI7OB5MOMKDTJWXQ.JPG?auth=c6e73a8a40a408fbfde3ac58f5eeceb5c5e62e0939ae093aca96d69e5ae961bc&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/20/asi-es-el-voxel-el-bloque-inteligente-desarrollado-por-el-mit-que-permite-robotizar-la-construccion-a-gran-escala/"
+      "link": "https://www.infobae.com/tecno/2026/11/20/una-cadena-de-clinicas-esteticas-de-japon-sufrio-el-robo-de-datos-de-16-millones-de-clientes/"
     }
   ]
 }
