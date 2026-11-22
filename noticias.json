@@ -1,76 +1,76 @@
 {
-  "actualizado": "21/11/2026, 06:00 a. m.",
+  "actualizado": "22/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, pariente! Acuérdese que el que madruga Dios lo ayuda, pero el que se toma su cafecito con fe, ¡no hay quien le quite lo bailao! ¡Echa pa' lante que el sol sale para todos!",
+    "texto": "Acuérdate que el que madruga, Dios lo ayuda, pero el que lo hace con un cafecito y buena vibra, ¡llega más lejos que un batazo de Miguel Cabrera! ¡Pa' lante es que para allá queda el futuro, mi llave!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡A la Vinotinto de Vizca le falta el toque final para gritar gol!",
-      "resumen": "Chamos, recuperar ese juego sabroso a ras de piso que nos enseñó Richard Páez no es mamey. La selección busca controlar el balón y armar jugadas con paciencia, pero el camino es largo y requiere traba",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/09/Diseno-sin-titulo_20260915_173621_0000-300x225.png",
+      "titulo": "¡Puro karate del bueno! Ya tenemos los primeros campeones nacionales",
+      "resumen": "¡Epa, mi gente! El Domo Bolivariano de Barquisimeto se prendió con el karate de los Juegos Nacionales 2026. Miranda, Carabobo, Yaracuy, Mérida y Lara se alzaron con las primeras medallas en kata y kum",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gabriel-Moreno-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/opinion/gerardo_blanco/al-futbol-progresivo-de-vizca-le-falta-gol/"
+      "link": "https://www.liderendeportes.com/mas-deportes/karate-do-corono-a-sus-primeros-campeones/"
     },
     {
-      "titulo": "¡Las Águilas volaron alto en Maracaibo y picaron a los Tiburones!",
-      "resumen": "¡Qué molleja de juego! En el Luis Aparicio, las Águilas del Zulia se lucieron con una remontada de infarto ante La Guaira, ganando 7-5. Con un rally de cuatro carreras en el séptimo, los rapaces dejar",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261115_080617_0000-300x225.png",
+      "titulo": "¡Qué remontada, vale! El Barça se lo dio vuelta al Villarreal en un ratico",
+      "resumen": "¡Casi se les escapa el juego! El Barcelona sacó la casta y en apenas 10 minutos metió tres goles para ganarle 3-2 al Villarreal. Empezaron perdiendo feo con dos goles de los canadienses, pero Gerard M",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/AP26326566236597-300x200.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/aguilas-remonta-con-rally-de-cuatro-carreras/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/fc-barcelona-firma-una-epica-remontada-ante-el-villareal/"
     },
     {
-      "titulo": "¡Magallanes se mandó una remontada de leyenda ante la Tribu!",
-      "resumen": "¡No te lo puedo creer! La Nave Turca dejó en el terreno a Caribes 10-9 en Valencia tras ir perdiendo por ocho carreras. Fue un juego de locura donde los orientales castigaron temprano, pero el Magalla",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Magallanes-2-300x225.png",
+      "titulo": "¡Se lo pelean como pan caliente! Siete equipos quieren al lanzador Freddy Peralta",
+      "resumen": "El dominicano Freddy Peralta tiene a medio mundo de las Grandes Ligas haciendo cola por él. Después de su tremenda actuación en 2026, hay siete equipos, incluyendo a los Rays de Tampa Bay y los Medias",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Freddy-Peralta-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/magallanes-protagoniza-impresionante-remontada-ante-caribes/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/freddy-peralta-despierta-el-interes-de-siete-equipos-en-la-agencia-libre/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Guatire se viste de gala como la nueva cuna musical de Venezuela!",
-      "resumen": "¡Pura calidad! Guatire celebra su título como cuna musical con un tremendo concierto este domingo en la Plaza 24 de Julio. Bajo la batuta del maestro Miguel Delgado Estévez y voces de lujo como Gilda ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-4.23.16-PM-300x169.jpeg",
+      "titulo": "¡Aplausos de pie! El teatro venezolano celebró a sus grandes figuras",
+      "resumen": "En la Sala Román Chalbaud se armó la fiesta para entregar la Orden César Rengifo y los Premios Rafael Briceño 2026. Fue un momento bien especial donde se reconoció el talento de nuestros teatreros des",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-4.00.52-PM-300x200.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/guatire-festejara-con-concierto-su-declaratoria-como-cuna-musical-de-venezuela/"
+      "link": "https://ultimasnoticias.com.ve/cultura/los-teatreros-del-pais-recibieron-reconocimientos/"
     },
     {
-      "titulo": "¡Rómulo Gallegos vuelve al ruedo con nuevos cuadernos literarios!",
-      "resumen": "En la Filven 2026 se presentaron unos cuadernos finísimos que revisitan la obra de nuestro eterno Rómulo Gallegos. El Celarg sacó esta colección que analiza clásicos como 'Doña Bárbara' y 'La Trepador",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/principal-opcion1-300x166.jpeg",
+      "titulo": "Un puente entre México y Venezuela: Alexander Torres Iriarte brilla en la Filven",
+      "resumen": "El historiador Alexander Torres Iriarte presentó su libro «La pregunta perenne» en la Filven 2026. La obra, que ganó una bienal de literatura, analiza la identidad mexicana y el pensamiento de grandes",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/95715cb5-c909-4fa4-b34c-72cd2c9e99d2-300x215.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/nueva-serie-de-cuadernos-revisita-la-obra-de-romulo-gallegos/"
+      "link": "https://ultimasnoticias.com.ve/actualidad/la-historia-como-puente-cultural-latinoamericano/"
     },
     {
-      "titulo": "¡La poesía de Tarek William Saab ahora se lee en ruso, vale!",
-      "resumen": "El poeta Tarek William Saab presentó su antología 'Soñando el largo viaje' traducida al ruso. En un conversatorio con el Embajador de Rusia, se habló de esta obra que recorre sus versos desde los 80 h",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-1.22.56-AM-1-300x261.jpeg",
+      "titulo": "¡Poesía que cruza fronteras! Presentan obra de Tarek William Saab en ruso",
+      "resumen": "En el pabellón de Rusia de la Filven 2026, se presentó la antología poética de Tarek William Saab traducida al idioma eslavo. El libro, de casi 400 páginas, fue editado por la Universidad de San Peter",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-1.38.13-PM-3-300x174.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/tarek-william-saab-presenta-su-poesia-traducida-al-ruso/"
+      "link": "https://ultimasnoticias.com.ve/actualidad/presentan-en-la-filven-antologia-poetica-de-tarek-william-saab-traducida-al-ruso/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡GTA VI rompió el celofán y batió récords de plata en su estreno!",
-      "resumen": "¡Na’ guará! Rockstar Games se llenó de gloria con el lanzamiento de GTA VI, recaudando la bicoca de 3.790 millones de dólares en apenas un día. Después de 13 años esperando, los gamers se volvieron lo",
-      "imagen": "https://www.infobae.com/resizer/v2/7UM5JNCOEJGYHFGN5E5BNL6VBI.JPG?auth=7b3077214a279c1d1ae9a9ce4974c1c40d8fe6304d82cf0a69294fc08b18f18f&smart=true&width=5671&height=3783",
+      "titulo": "¡Mosca con Facebook! Guarda tus perfiles extra antes de que Meta los borre",
+      "resumen": "¡Pónganse las pilas! Meta avisó que el 14 de diciembre de 2026 borrará para siempre los perfiles adicionales de Facebook. Si tienes uno, corre a exportar tu información o pasa la administración de tus",
+      "imagen": "https://www.infobae.com/resizer/v2/Y65CR22IYRANBDYADUAHZJAZPM.JPG?auth=c18880c9e80f207c6bf1dda426aba6c6fee50527f7e080633405b424ab8e9381&smart=true&width=3000&height=2001",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/21/gta-vi-establecio-un-nuevo-record-con-usd-3790-millones-en-ventas-el-dia-de-su-lanzamiento/"
+      "link": "https://www.infobae.com/tecno/2026/11/22/como-guardar-tus-perfiles-adicionales-de-facebook-antes-de-que-meta-los-borre-el-14-de-diciembre/"
     },
     {
-      "titulo": "¡Mosca con el WhatsApp! Actualiza la app para que no te estafen",
-      "resumen": "¡Pónganse las pilas, mi gente! WhatsApp arregló un hueco de seguridad en Android que usaban los pillos para engañar con anuncios falsos. Si tienes una versión vieja, te pueden echar una broma con el '",
-      "imagen": "https://www.infobae.com/resizer/v2/NH3OZWTSFBH2BNQT6O3IMUQ7YY.JPG?auth=bc753197c94bffbfeb1b6842dc9c353fe40e774181e4446b07654313914310c0&smart=true&width=3000&height=2001",
+      "titulo": "¡Atención usuarios de Fitbit! Google le pone freno a las apps de terceros",
+      "resumen": "Si tienes un reloj Fitbit Sense o Versa, escucha bien: desde el 28 de noviembre de 2026, Google ya no dejará instalar aplicaciones ni esferas de reloj que no sean oficiales. Lo que ya tengas instalado",
+      "imagen": "https://www.infobae.com/resizer/v2/3E65QFBUTJAQVDOWTLRPV5NERA.jpg?auth=24df8804596bca1cae16fb3ae6deb483cb513030472fb8e2687ac3fc386c9525&smart=true&width=1920&height=1335",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/21/click-to-whatsapp-la-estafa-que-se-puede-evitar-hoy-actualizando-la-app/"
+      "link": "https://www.infobae.com/tecno/2026/11/22/google-dejara-de-permitir-apps-y-esferas-de-terceros-en-los-relojes-fitbit-sense-y-versa-desde-el-28-de-noviembre/"
     },
     {
-      "titulo": "¡El iPhone se pone más fino con las novedades del iOS 27.3!",
-      "resumen": "Apple soltó la beta de iOS 27.3 y viene con todo para el iPhone. Trae de vuelta el diseño renovado de la app Salud y mejoras para que Siri esté más pilas que nunca. También hay cositas nuevas para el ",
-      "imagen": "https://www.infobae.com/resizer/v2/FWJIPH7W7ZBN3EASA7R7H3MELY.JPG?auth=e025c34a90a6a9acbf83184e2a2af967e265e4bb8173743939e042c0efada2e1&smart=true&width=6000&height=4000",
+      "titulo": "¡Cuidado con los reales! Anuncios maliciosos están hackeando iPhones viejitos",
+      "resumen": "Hay una operación llamada MoldyRoost que está haciendo desastres. Con solo abrir una página con publicidad maliciosa, pueden infectar iPhones que no estén actualizados para robarse las claves de las b",
+      "imagen": "https://www.infobae.com/resizer/v2/EIEHU3LOLRD7BPXAUM7F5Q2AOQ.jpg?auth=0b0da61f74f3813e639d7237f2d03f9c2bb3e79cec12e4a639b7c9cc4ad5adce&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/21/las-novedades-que-llegarian-con-ios-273-para-iphone-cambios-en-la-app-salud-y-siri/"
+      "link": "https://www.infobae.com/tecno/2026/11/22/anuncios-maliciosos-infectan-iphone-sin-actualizar-al-abrir-la-pagina-y-roban-claves-de-billeteras-cripto/"
     }
   ]
 }
