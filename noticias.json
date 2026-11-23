@@ -1,50 +1,50 @@
 {
-  "actualizado": "23/11/2026, 06:00 a. m.",
+  "actualizado": "23/11/2026, 12:00 p. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que madruga, Dios lo ayuda, pero el que tiene fe y le echa pichón, ¡llega a donde sea con su arepa bajo el brazo!",
+    "texto": "Acuérdate, mi pana: el que no arriesga no gana, y el que se queda sentado esperando que el mango caiga solo, se queda con las ganas. ¡Échale pichón que hoy es tu día!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Se prendió la fiesta en La Rinconada! Estos fueron los ganadores",
-      "resumen": "¡Epa, mi gente hípica! La cosa estuvo buena en el óvalo de Coche. My Blue Sky se llevó la primera con L. Funez Jr., mientras que Tank Abbott mandó en la segunda con el jinete J. Lugo. Para cerrar el c",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/11/Caballos-Rinconada-300x225.jpg",
+      "titulo": "¡Qué salación! Endrick se lesiona y deja al Real Madrid en ascuas",
+      "resumen": "El chamo brasileño Endrick le dio un susto al Real Madrid. El club soltó el tubazo de que el jugador tiene una lesión muscular en el abductor izquierdo. Por ahora, el equipo merengue lo tiene bajo la ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Endrick-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/hipismo/resultadosde-la-rinconada-9/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/real-madrid-sufre-la-lesion-de-endrick/"
     },
     {
-      "titulo": "¡Los Mets soltaron la plata! Tarik Skubal se muda a Nueva York",
-      "resumen": "¡Tremendo batacazo, vale! Los Mets de Nueva York dejaron a todo el mundo con la boca abierta al firmar al lanzador Tarik Skubal. El zurdo, que tiene dos Cy Young en la repisa, pactó por 9 temporadas y",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Tarik-Skubal-1-300x225.png",
+      "titulo": "¡De un brinco a Queens! Paul Goldschmidt se pone la de los Mets",
+      "resumen": "Los Mets de Nueva York no andan con juegos y se trajeron al inicialista Paul Goldschmidt para blindar su equipo. El grandeliga se muda del Bronx a Queens para unirse a la fiesta junto al lanzador Tari",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/03/Paul-Goldschmidt-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/los-mets-dan-la-sorpresa-y-firman-a-tarik-skubal/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/paul-goldschmidt-se-muda-a-los-mets-de-nueva-york/"
     },
     {
-      "titulo": "¡Con fe y disciplina! Los Héroes del 2026 contaron su secreto",
-      "resumen": "Nuestros campeones del Clásico Mundial soltaron la lengua y dijeron que la clave fue dejar los egos en la puerta. Luis Arráez comentó que representar a Venezuela es una bendición, mientras que el resp",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gabriel-Moreno-2-300x225.jpg",
+      "titulo": "¡Rugido imparable! Los Tigres de Aragua llegan a 10 victorias al hilo",
+      "resumen": "¡Esos Tigres están encendidos! El equipo de Aragua le ganó 3-2 a Caribes de Anzoátegui y ya suman 10 triunfos seguidos en nuestra LVBP. Con un jonronazo de Keyber Rodríguez y un pitcheo que aguantó la",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tigres-de-Aragua-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/clasico-mundial/cero-egos-fe-en-dios-y-disciplina-marcaron-a-los-heroes-2026/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-vencio-por-la-minima-y-sigue-imparable/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Aplausos de pie! Reconocen el talento de nuestros teatreros",
-      "resumen": "En el Teatro Alberto de Paz y Mateos se armó la rumba cultural para entregar la Orden César Rengifo y los Premios Rafael Briceño 2026. Después de ver la obra «La Revolución», se reconoció el trabajón ",
+      "titulo": "¡Aplausos de pie! El teatro venezolano se vistió de gala con sus premios",
+      "resumen": "La movida teatral se reunió en el Teatro Alberto de Paz y Mateos para celebrar lo mejor de nuestras tablas. Se entregaron la Orden César Rengifo y los Premios Rafael Briceño 2026 en una noche cargada ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-4.00.52-PM-300x200.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/los-teatreros-del-pais-recibieron-reconocimientos/"
     },
     {
-      "titulo": "Un puente entre panas: La historia une a Venezuela y México en la Filven",
-      "resumen": "El historiador Alexander Torres Iriarte presentó su libro «La pregunta perenne» en la Filven 2026. El hombre aprovechó su tiempo en México para analizar qué nos hace latinoamericanos, paseándose por e",
+      "titulo": "Un puente cultural: Alexander Torres Iriarte la botó en la Filven",
+      "resumen": "En plena Filven 2026, el historiador Alexander Torres Iriarte presentó su libro «La pregunta perenne». El autor aprovechó su experiencia en México para escribir este ensayo que analiza la identidad la",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/95715cb5-c909-4fa4-b34c-72cd2c9e99d2-300x215.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/la-historia-como-puente-cultural-latinoamericano/"
     },
     {
-      "titulo": "¡De Venezuela para Rusia! La poesía de Tarek William Saab cruzó fronteras",
-      "resumen": "En el pabellón de Rusia de la Filven, se presentó la antología poética de Tarek William Saab traducida al ruso. La obra, que tiene casi 400 páginas, fue editada por la Universidad de San Petersburgo y",
+      "titulo": "Poesía criolla en ruso: Tarek William Saab presentó su antología en la Filven",
+      "resumen": "El Pabellón de Rusia se llenó hasta los teque-teques para la presentación del poemario de Tarek William Saab, ahora traducido al ruso. La obra, que tiene casi 400 páginas, nació de una idea en San Pet",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-1.38.13-PM-3-300x174.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/presentan-en-la-filven-antologia-poetica-de-tarek-william-saab-traducida-al-ruso/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Póngale candado a su internet! Tips para que no le hackeen el router",
-      "resumen": "¡Mosca con los hackers, familia! Para que no le infecten el router, lo mejor es actualizar el firmware y desactivar el acceso remoto. La advertencia viene tras un ataque a equipos GL.iNet donde unos i",
-      "imagen": "https://www.infobae.com/resizer/v2/IXK7Z4WTE5F5JAOWWRJYK3DZSI.png?auth=f1cf9635af0850a6bb1d0cc0c66ad24c4f925850ceb574bb595cba464585d214&smart=true&width=1408&height=768",
+      "titulo": "¡Chisme seguro! WhatsApp sacará mensajes que se borran al leerlos",
+      "resumen": "WhatsApp se puso las pilas con la privacidad y ahora dejará enviar mensajes de texto que desaparecen apenas los lean una vez. Lo mejor es que el sistema viene con candado: nada de capturas de pantalla",
+      "imagen": "https://www.infobae.com/resizer/v2/UREEIGNUCNAYZI2ZAVYHEF7WZY.png?auth=f20fc9bcc55cfe7ae34ec6de15a79eb7a5093894b82ef1840baa02f1421dc505&smart=true&width=1200&height=700",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/23/como-revisar-si-tu-router-tiene-la-ultima-actualizacion-y-cerrar-el-acceso-remoto/"
+      "link": "https://www.infobae.com/tecno/2026/11/23/whatsapp-permitira-enviar-mensajes-de-texto-que-desaparecen-al-leerse-una-vez/"
     },
     {
-      "titulo": "¡Google se la comió! El chip Willow superó a las computadoras normales",
-      "resumen": "El nuevo procesador cuántico de Google, llamado Willow, dejó atrás a las computadoras de siempre en un juego matemático de coordinación. Logró ganar el 98,3% de las veces, demostrando que la tecnologí",
-      "imagen": "https://www.infobae.com/resizer/v2/CPTTG6CLN5CWJAA66S5K7I4S4E.png?auth=d4f8c6197a38bb3c45db1c5c4262768c93df8a547b8a5a0c67b97a74cfbd3a76&smart=true&width=2752&height=1536",
+      "titulo": "¿WiFi o cable? El secreto para ver tus pelis en 4K sin que se peguen",
+      "resumen": "Si quieres ver tus películas en 4K sin que se te quede la imagen pegada, tienes que saber elegir. El WiFi de 5 GHz vuela si estás cerca del router, el de 2.4 GHz llega hasta el último cuarto de la cas",
+      "imagen": "https://www.infobae.com/resizer/v2/NOGKE6U4BBGWHHNE2YIPHBBCXU.jpg?auth=1582be0d626b5e6739cd74f18e74dcf65aac2810c11ff9d79b07eed38cf06991&smart=true&width=1456&height=816",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/23/el-chip-cuantico-willow-de-google-supero-en-un-juego-el-limite-de-las-computadoras-tradicionales/"
+      "link": "https://www.infobae.com/tecno/2026/11/23/wifi-de-24-ghz-vs-5-ghz-vs-cable-ethernet-cual-es-mejor-para-ver-peliculas-en-4k/"
     },
     {
-      "titulo": "¡Por fin! Ya puedes leer los audios de WhatsApp sin que nadie se entere",
-      "resumen": "¿Te mandaron un audio eterno y no puedes escucharlo? ¡Tranquilo! WhatsApp ya deja transcribir los mensajes de voz a texto. Solo tienes que activarlo en los ajustes, descargar el idioma y dejar pegado ",
-      "imagen": "https://www.infobae.com/resizer/v2/QWTZDQCSAVDLBH5CWQJEE54VQA.JPG?auth=fa514cf0aaaf15d4e287d8e7bf8eb274befcd8566cbc4ca242550076b973149f&smart=true&width=3500&height=2334",
+      "titulo": "¡Volvió el jefe! Jensen Huang retoma el mando de Nvidia con apoyo de Musk",
+      "resumen": "Elon Musk soltó por X que el error fue corregido ahora que Jensen Huang regresó como CEO de Nvidia. Después de un tiempo de incertidumbre, el consejo de administración decidió por unanimidad que el co",
+      "imagen": "https://www.infobae.com/resizer/v2/2N6HAYQXBBDCDFQZIONW6CGRJM.JPG?auth=398a2150681608f31100057735b6e9781bdf862935843399b9b0058cc32115f4&smart=true&width=3415&height=1921",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/23/como-transcribir-audios-de-whatsapp-a-texto-y-que-hacer-si-no-aparece-la-opcion/"
+      "link": "https://www.infobae.com/tecno/2026/11/23/el-error-fue-corregido-elon-musk-apoya-regreso-de-jensen-huang-como-ceo-de-nvidia/"
     }
   ]
 }
