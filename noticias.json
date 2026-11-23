@@ -1,50 +1,50 @@
 {
-  "actualizado": "22/11/2026, 05:00 p. m.",
+  "actualizado": "23/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate que el que madruga, Dios lo ayuda, pero el que lo hace con un cafecito y buena vibra, ¡llega más lejos que un batazo de Miguel Cabrera! ¡Pa' lante es que para allá queda el futuro, mi llave!",
+    "texto": "Acuérdate, mi pana: el que madruga, Dios lo ayuda, pero el que tiene fe y le echa pichón, ¡llega a donde sea con su arepa bajo el brazo!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Puro karate del bueno! Ya tenemos los primeros campeones nacionales",
-      "resumen": "¡Epa, mi gente! El Domo Bolivariano de Barquisimeto se prendió con el karate de los Juegos Nacionales 2026. Miranda, Carabobo, Yaracuy, Mérida y Lara se alzaron con las primeras medallas en kata y kum",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gabriel-Moreno-300x225.jpg",
+      "titulo": "¡Se prendió la fiesta en La Rinconada! Estos fueron los ganadores",
+      "resumen": "¡Epa, mi gente hípica! La cosa estuvo buena en el óvalo de Coche. My Blue Sky se llevó la primera con L. Funez Jr., mientras que Tank Abbott mandó en la segunda con el jinete J. Lugo. Para cerrar el c",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/11/Caballos-Rinconada-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/karate-do-corono-a-sus-primeros-campeones/"
+      "link": "https://www.liderendeportes.com/hipismo/resultadosde-la-rinconada-9/"
     },
     {
-      "titulo": "¡Qué remontada, vale! El Barça se lo dio vuelta al Villarreal en un ratico",
-      "resumen": "¡Casi se les escapa el juego! El Barcelona sacó la casta y en apenas 10 minutos metió tres goles para ganarle 3-2 al Villarreal. Empezaron perdiendo feo con dos goles de los canadienses, pero Gerard M",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/AP26326566236597-300x200.jpg",
+      "titulo": "¡Los Mets soltaron la plata! Tarik Skubal se muda a Nueva York",
+      "resumen": "¡Tremendo batacazo, vale! Los Mets de Nueva York dejaron a todo el mundo con la boca abierta al firmar al lanzador Tarik Skubal. El zurdo, que tiene dos Cy Young en la repisa, pactó por 9 temporadas y",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Tarik-Skubal-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/fc-barcelona-firma-una-epica-remontada-ante-el-villareal/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/los-mets-dan-la-sorpresa-y-firman-a-tarik-skubal/"
     },
     {
-      "titulo": "¡Se lo pelean como pan caliente! Siete equipos quieren al lanzador Freddy Peralta",
-      "resumen": "El dominicano Freddy Peralta tiene a medio mundo de las Grandes Ligas haciendo cola por él. Después de su tremenda actuación en 2026, hay siete equipos, incluyendo a los Rays de Tampa Bay y los Medias",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/10/Freddy-Peralta-300x225.png",
+      "titulo": "¡Con fe y disciplina! Los Héroes del 2026 contaron su secreto",
+      "resumen": "Nuestros campeones del Clásico Mundial soltaron la lengua y dijeron que la clave fue dejar los egos en la puerta. Luis Arráez comentó que representar a Venezuela es una bendición, mientras que el resp",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Gabriel-Moreno-2-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/freddy-peralta-despierta-el-interes-de-siete-equipos-en-la-agencia-libre/"
+      "link": "https://www.liderendeportes.com/baseball/clasico-mundial/cero-egos-fe-en-dios-y-disciplina-marcaron-a-los-heroes-2026/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Aplausos de pie! El teatro venezolano celebró a sus grandes figuras",
-      "resumen": "En la Sala Román Chalbaud se armó la fiesta para entregar la Orden César Rengifo y los Premios Rafael Briceño 2026. Fue un momento bien especial donde se reconoció el talento de nuestros teatreros des",
+      "titulo": "¡Aplausos de pie! Reconocen el talento de nuestros teatreros",
+      "resumen": "En el Teatro Alberto de Paz y Mateos se armó la rumba cultural para entregar la Orden César Rengifo y los Premios Rafael Briceño 2026. Después de ver la obra «La Revolución», se reconoció el trabajón ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-4.00.52-PM-300x200.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/los-teatreros-del-pais-recibieron-reconocimientos/"
     },
     {
-      "titulo": "Un puente entre México y Venezuela: Alexander Torres Iriarte brilla en la Filven",
-      "resumen": "El historiador Alexander Torres Iriarte presentó su libro «La pregunta perenne» en la Filven 2026. La obra, que ganó una bienal de literatura, analiza la identidad mexicana y el pensamiento de grandes",
+      "titulo": "Un puente entre panas: La historia une a Venezuela y México en la Filven",
+      "resumen": "El historiador Alexander Torres Iriarte presentó su libro «La pregunta perenne» en la Filven 2026. El hombre aprovechó su tiempo en México para analizar qué nos hace latinoamericanos, paseándose por e",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/95715cb5-c909-4fa4-b34c-72cd2c9e99d2-300x215.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/la-historia-como-puente-cultural-latinoamericano/"
     },
     {
-      "titulo": "¡Poesía que cruza fronteras! Presentan obra de Tarek William Saab en ruso",
-      "resumen": "En el pabellón de Rusia de la Filven 2026, se presentó la antología poética de Tarek William Saab traducida al idioma eslavo. El libro, de casi 400 páginas, fue editado por la Universidad de San Peter",
+      "titulo": "¡De Venezuela para Rusia! La poesía de Tarek William Saab cruzó fronteras",
+      "resumen": "En el pabellón de Rusia de la Filven, se presentó la antología poética de Tarek William Saab traducida al ruso. La obra, que tiene casi 400 páginas, fue editada por la Universidad de San Petersburgo y",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-1.38.13-PM-3-300x174.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/presentan-en-la-filven-antologia-poetica-de-tarek-william-saab-traducida-al-ruso/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mosca con Facebook! Guarda tus perfiles extra antes de que Meta los borre",
-      "resumen": "¡Pónganse las pilas! Meta avisó que el 14 de diciembre de 2026 borrará para siempre los perfiles adicionales de Facebook. Si tienes uno, corre a exportar tu información o pasa la administración de tus",
-      "imagen": "https://www.infobae.com/resizer/v2/Y65CR22IYRANBDYADUAHZJAZPM.JPG?auth=c18880c9e80f207c6bf1dda426aba6c6fee50527f7e080633405b424ab8e9381&smart=true&width=3000&height=2001",
+      "titulo": "¡Póngale candado a su internet! Tips para que no le hackeen el router",
+      "resumen": "¡Mosca con los hackers, familia! Para que no le infecten el router, lo mejor es actualizar el firmware y desactivar el acceso remoto. La advertencia viene tras un ataque a equipos GL.iNet donde unos i",
+      "imagen": "https://www.infobae.com/resizer/v2/IXK7Z4WTE5F5JAOWWRJYK3DZSI.png?auth=f1cf9635af0850a6bb1d0cc0c66ad24c4f925850ceb574bb595cba464585d214&smart=true&width=1408&height=768",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/22/como-guardar-tus-perfiles-adicionales-de-facebook-antes-de-que-meta-los-borre-el-14-de-diciembre/"
+      "link": "https://www.infobae.com/tecno/2026/11/23/como-revisar-si-tu-router-tiene-la-ultima-actualizacion-y-cerrar-el-acceso-remoto/"
     },
     {
-      "titulo": "¡Atención usuarios de Fitbit! Google le pone freno a las apps de terceros",
-      "resumen": "Si tienes un reloj Fitbit Sense o Versa, escucha bien: desde el 28 de noviembre de 2026, Google ya no dejará instalar aplicaciones ni esferas de reloj que no sean oficiales. Lo que ya tengas instalado",
-      "imagen": "https://www.infobae.com/resizer/v2/3E65QFBUTJAQVDOWTLRPV5NERA.jpg?auth=24df8804596bca1cae16fb3ae6deb483cb513030472fb8e2687ac3fc386c9525&smart=true&width=1920&height=1335",
+      "titulo": "¡Google se la comió! El chip Willow superó a las computadoras normales",
+      "resumen": "El nuevo procesador cuántico de Google, llamado Willow, dejó atrás a las computadoras de siempre en un juego matemático de coordinación. Logró ganar el 98,3% de las veces, demostrando que la tecnologí",
+      "imagen": "https://www.infobae.com/resizer/v2/CPTTG6CLN5CWJAA66S5K7I4S4E.png?auth=d4f8c6197a38bb3c45db1c5c4262768c93df8a547b8a5a0c67b97a74cfbd3a76&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/22/google-dejara-de-permitir-apps-y-esferas-de-terceros-en-los-relojes-fitbit-sense-y-versa-desde-el-28-de-noviembre/"
+      "link": "https://www.infobae.com/tecno/2026/11/23/el-chip-cuantico-willow-de-google-supero-en-un-juego-el-limite-de-las-computadoras-tradicionales/"
     },
     {
-      "titulo": "¡Cuidado con los reales! Anuncios maliciosos están hackeando iPhones viejitos",
-      "resumen": "Hay una operación llamada MoldyRoost que está haciendo desastres. Con solo abrir una página con publicidad maliciosa, pueden infectar iPhones que no estén actualizados para robarse las claves de las b",
-      "imagen": "https://www.infobae.com/resizer/v2/EIEHU3LOLRD7BPXAUM7F5Q2AOQ.jpg?auth=0b0da61f74f3813e639d7237f2d03f9c2bb3e79cec12e4a639b7c9cc4ad5adce&smart=true&width=1920&height=1080",
+      "titulo": "¡Por fin! Ya puedes leer los audios de WhatsApp sin que nadie se entere",
+      "resumen": "¿Te mandaron un audio eterno y no puedes escucharlo? ¡Tranquilo! WhatsApp ya deja transcribir los mensajes de voz a texto. Solo tienes que activarlo en los ajustes, descargar el idioma y dejar pegado ",
+      "imagen": "https://www.infobae.com/resizer/v2/QWTZDQCSAVDLBH5CWQJEE54VQA.JPG?auth=fa514cf0aaaf15d4e287d8e7bf8eb274befcd8566cbc4ca242550076b973149f&smart=true&width=3500&height=2334",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/22/anuncios-maliciosos-infectan-iphone-sin-actualizar-al-abrir-la-pagina-y-roban-claves-de-billeteras-cripto/"
+      "link": "https://www.infobae.com/tecno/2026/11/23/como-transcribir-audios-de-whatsapp-a-texto-y-que-hacer-si-no-aparece-la-opcion/"
     }
   ]
 }
