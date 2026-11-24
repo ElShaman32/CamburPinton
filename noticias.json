@@ -1,76 +1,76 @@
 {
-  "actualizado": "23/11/2026, 12:00 p. m.",
+  "actualizado": "24/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que no arriesga no gana, y el que se queda sentado esperando que el mango caiga solo, se queda con las ganas. ¡Échale pichón que hoy es tu día!",
+    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero el que le echa pichón con alegría, ¡siempre encuentra su arepa bien rellena!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Qué salación! Endrick se lesiona y deja al Real Madrid en ascuas",
-      "resumen": "El chamo brasileño Endrick le dio un susto al Real Madrid. El club soltó el tubazo de que el jugador tiene una lesión muscular en el abductor izquierdo. Por ahora, el equipo merengue lo tiene bajo la ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Endrick-300x225.jpg",
+      "titulo": "¡Juniel Querecuto se la botó con las bases llenas y dejó a Lara en el terreno!",
+      "resumen": "¡Qué clase de palo, mi gente! Los Tiburones de La Guaira le ganaron 11-7 a los Cardenales en el Universitario. La cosa estaba apretada, pero en el cierre del noveno, Juniel Querecuto sacó un jonrón co",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tiburones-3-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/real-madrid-sufre-la-lesion-de-endrick/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/juniel-querecuto-conecta-el-batazo-heroico-para-tiburones/"
     },
     {
-      "titulo": "¡De un brinco a Queens! Paul Goldschmidt se pone la de los Mets",
-      "resumen": "Los Mets de Nueva York no andan con juegos y se trajeron al inicialista Paul Goldschmidt para blindar su equipo. El grandeliga se muda del Bronx a Queens para unirse a la fiesta junto al lanzador Tari",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/03/Paul-Goldschmidt-300x225.png",
+      "titulo": "¡Miranda mandó en el agua! Daniela Suárez y Santiago Bello se bañaron de oro",
+      "resumen": "En las playas de Puerto Cabello, los chamos de Miranda sacaron la casta en los Juegos Nacionales Juveniles 2026. Daniela Suárez y Santiago Bello dominaron los 10 kilómetros de aguas abiertas. Daniela,",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Miranda-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/paul-goldschmidt-se-muda-a-los-mets-de-nueva-york/"
+      "link": "https://www.liderendeportes.com/mas-deportes/miranda-sin-rival-en-los-10-km/"
     },
     {
-      "titulo": "¡Rugido imparable! Los Tigres de Aragua llegan a 10 victorias al hilo",
-      "resumen": "¡Esos Tigres están encendidos! El equipo de Aragua le ganó 3-2 a Caribes de Anzoátegui y ya suman 10 triunfos seguidos en nuestra LVBP. Con un jonronazo de Keyber Rodríguez y un pitcheo que aguantó la",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tigres-de-Aragua-300x225.jpg",
+      "titulo": "El zurdo Caleb Thielbar se muda a Kansas City para poner orden en el relevo",
+      "resumen": "Los Reales de Kansas City no se andan con cuentos y firmaron al lanzador zurdo Caleb Thielbar por un añito y 3.25 millones de dólares. El veterano de 39 años, que venía lanzando con los Cachorros de C",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261123_215145_0000-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/tigres-vencio-por-la-minima-y-sigue-imparable/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/caleb-thielbar-rumbo-a-kansas-city/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Aplausos de pie! El teatro venezolano se vistió de gala con sus premios",
-      "resumen": "La movida teatral se reunió en el Teatro Alberto de Paz y Mateos para celebrar lo mejor de nuestras tablas. Se entregaron la Orden César Rengifo y los Premios Rafael Briceño 2026 en una noche cargada ",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-4.00.52-PM-300x200.jpeg",
+      "titulo": "¡Honor a quien honor merece! Entregaron el Premio Nacional de Historia en la Filven",
+      "resumen": "En el cierre de la Filven en Caracas, bajo el lema «Leer es renacer», se entregaron los Premios Nacionales de Historia 2025 y 2026. Seis investigadores y cronistas venezolanos fueron reconocidos por s",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/CARMEN-BOHORQUEZ-300x200.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/los-teatreros-del-pais-recibieron-reconocimientos/"
+      "link": "https://ultimasnoticias.com.ve/cultura/entregan-premio-nacional-de-historia-2025-y-2026/"
     },
     {
-      "titulo": "Un puente cultural: Alexander Torres Iriarte la botó en la Filven",
-      "resumen": "En plena Filven 2026, el historiador Alexander Torres Iriarte presentó su libro «La pregunta perenne». El autor aprovechó su experiencia en México para escribir este ensayo que analiza la identidad la",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/95715cb5-c909-4fa4-b34c-72cd2c9e99d2-300x215.jpg",
+      "titulo": "¡Buenas noticias para los lectores! Quitan el IVA a la producción de libros",
+      "resumen": "Para que la lectura rinda más, se anunció la eliminación del IVA en la producción nacional de libros. En plena clausura de la Filven 2026, también se soltaron incentivos fiscales para las editoriales.",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/DELCY-FILVEN-300x188.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/actualidad/la-historia-como-puente-cultural-latinoamericano/"
+      "link": "https://ultimasnoticias.com.ve/destacado/delcy-rodriguez-elimina-el-iva-para-la-produccion-de-libros/"
     },
     {
-      "titulo": "Poesía criolla en ruso: Tarek William Saab presentó su antología en la Filven",
-      "resumen": "El Pabellón de Rusia se llenó hasta los teque-teques para la presentación del poemario de Tarek William Saab, ahora traducido al ruso. La obra, que tiene casi 400 páginas, nació de una idea en San Pet",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-1.38.13-PM-3-300x174.jpeg",
+      "titulo": "¡Maturín vibró con más de 2.000 músicos celebrando los 51 años de El Sistema!",
+      "resumen": "¡Qué molleja de concierto! En la Catedral de Maturín, más de 2.000 músicos se botaron para celebrar el Día del Músico y el 51 aniversario de El Sistema. Hubo de todo: misa, expo y un gentío tocando co",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Concierto-Monagas-El-Sistema-300x170.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/actualidad/presentan-en-la-filven-antologia-poetica-de-tarek-william-saab-traducida-al-ruso/"
+      "link": "https://ultimasnoticias.com.ve/monagas/mas-de-2-000-musicos-celebraron-en-maturin-los-51-anos-de-el-sistema/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Chisme seguro! WhatsApp sacará mensajes que se borran al leerlos",
-      "resumen": "WhatsApp se puso las pilas con la privacidad y ahora dejará enviar mensajes de texto que desaparecen apenas los lean una vez. Lo mejor es que el sistema viene con candado: nada de capturas de pantalla",
-      "imagen": "https://www.infobae.com/resizer/v2/UREEIGNUCNAYZI2ZAVYHEF7WZY.png?auth=f20fc9bcc55cfe7ae34ec6de15a79eb7a5093894b82ef1840baa02f1421dc505&smart=true&width=1200&height=700",
+      "titulo": "¡Ojos de águila para los drones! Nueva tecnología imita la visión humana",
+      "resumen": "Científicos están puliendo unas cámaras que funcionan como la retina del ojo, detectando cambios de luz al instante. Antes era un lío entender tanta información, pero ahora crearon una herramienta par",
+      "imagen": "https://www.infobae.com/resizer/v2/VCUQLGL3KNB7NHMFMUSVZP4KRY.png?auth=ad663f13bc3691b4e270ff4e6194e0686e4f736dc895c3d652aaac024540708c&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/23/whatsapp-permitira-enviar-mensajes-de-texto-que-desaparecen-al-leerse-una-vez/"
+      "link": "https://www.infobae.com/tecno/2026/11/24/desarrollan-una-herramienta-que-podria-mejorar-la-vision-de-drones-y-autos-autonomos-como-funciona/"
     },
     {
-      "titulo": "¿WiFi o cable? El secreto para ver tus pelis en 4K sin que se peguen",
-      "resumen": "Si quieres ver tus películas en 4K sin que se te quede la imagen pegada, tienes que saber elegir. El WiFi de 5 GHz vuela si estás cerca del router, el de 2.4 GHz llega hasta el último cuarto de la cas",
-      "imagen": "https://www.infobae.com/resizer/v2/NOGKE6U4BBGWHHNE2YIPHBBCXU.jpg?auth=1582be0d626b5e6739cd74f18e74dcf65aac2810c11ff9d79b07eed38cf06991&smart=true&width=1456&height=816",
+      "titulo": "¡Aviones solares que no bajan nunca! Harvard descubre cómo hacerlos volar meses",
+      "resumen": "Investigadores de Harvard y Míchigan dieron con el clavo para que los aviones solares aguanten meses en el aire sin aterrizar. El secreto está en mejorar las baterías para que no pesen tanto y el avió",
+      "imagen": "https://www.infobae.com/resizer/v2/3HT5IVSXTBDKRNDQD3J4AW7VEI.png?auth=e66baace80fea8644bfc476b3e15dc8a81d381ae3671aa989ef80fb7ad74806f&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/23/wifi-de-24-ghz-vs-5-ghz-vs-cable-ethernet-cual-es-mejor-para-ver-peliculas-en-4k/"
+      "link": "https://www.infobae.com/tecno/2026/11/24/cientificos-de-harvard-encontraron-la-pieza-faltante-para-que-un-avion-solar-pueda-volar-meses-y-sin-escalas/"
     },
     {
-      "titulo": "¡Volvió el jefe! Jensen Huang retoma el mando de Nvidia con apoyo de Musk",
-      "resumen": "Elon Musk soltó por X que el error fue corregido ahora que Jensen Huang regresó como CEO de Nvidia. Después de un tiempo de incertidumbre, el consejo de administración decidió por unanimidad que el co",
-      "imagen": "https://www.infobae.com/resizer/v2/2N6HAYQXBBDCDFQZIONW6CGRJM.JPG?auth=398a2150681608f31100057735b6e9781bdf862935843399b9b0058cc32115f4&smart=true&width=3415&height=1921",
+      "titulo": "¡Energía limpia con puro sol! Nuevo método para sacar hidrógeno verde",
+      "resumen": "Sacar hidrógeno del agua usando luz solar ahora es más fácil gracias a una nueva técnica. Antes se usaba dióxido de titanio, pero solo aprovechaba la luz ultravioleta. Ahora, mezclándolo con unos nano",
+      "imagen": "https://www.infobae.com/resizer/v2/4BJNUIXLYNBGHOEQNVVBUULKRY.png?auth=36f83a6f72aa4cb7372523483b976c46fed0121f61f80739be3480d5839108cd&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/23/el-error-fue-corregido-elon-musk-apoya-regreso-de-jensen-huang-como-ceo-de-nvidia/"
+      "link": "https://www.infobae.com/tecno/2026/11/24/desarrollan-un-nuevo-metodo-que-podria-producir-hidrogeno-verde-con-luz-solar/"
     }
   ]
 }
