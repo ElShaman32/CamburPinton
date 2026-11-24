@@ -1,76 +1,76 @@
 {
-  "actualizado": "24/11/2026, 06:00 a. m.",
+  "actualizado": "24/11/2026, 06:25 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi gente! Recuerden que el que nace para martillo, del cielo le caen los clavos, pero el que le echa pichón con alegría, ¡siempre encuentra su arepa bien rellena!",
+    "texto": "¡Epa, mi pana! Acuérdate que el que madruga recoge agua clara, pero el que le echa pichón con una sonrisa y buena vibra, ¡ese es el que llega lejos y disfruta el camino!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Juniel Querecuto se la botó con las bases llenas y dejó a Lara en el terreno!",
-      "resumen": "¡Qué clase de palo, mi gente! Los Tiburones de La Guaira le ganaron 11-7 a los Cardenales en el Universitario. La cosa estaba apretada, pero en el cierre del noveno, Juniel Querecuto sacó un jonrón co",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tiburones-3-300x225.png",
+      "titulo": "¡José Suárez se va pa'l Asia! Magallanes se queda en ascuas",
+      "resumen": "El zurdo José Suárez decidió probar suerte en Corea con los Doosan Bears por un milloncito de dólares. Mientras tanto, aquí en la nave turca están cruzando los dedos y esperando a ver qué pasará con s",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Jose-Suarez-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/juniel-querecuto-conecta-el-batazo-heroico-para-tiburones/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/jose-suarez-firmo-en-asia-y-mantiene-al-magallanes-en-expectativa/"
     },
     {
-      "titulo": "¡Miranda mandó en el agua! Daniela Suárez y Santiago Bello se bañaron de oro",
-      "resumen": "En las playas de Puerto Cabello, los chamos de Miranda sacaron la casta en los Juegos Nacionales Juveniles 2026. Daniela Suárez y Santiago Bello dominaron los 10 kilómetros de aguas abiertas. Daniela,",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Miranda-300x225.png",
+      "titulo": "¡El 'Amolador' llegó a La Guaira! Pedro Rodríguez se une a los Tiburones",
+      "resumen": "Después de darle una paliza a los Cardenales, los Tiburones de La Guaira no se quedan quietos y metieron en el roster al experimentado Pedro Rodríguez. El 'Amolador', que viene de las Águilas, ya está",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261124_165705_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/mas-deportes/miranda-sin-rival-en-los-10-km/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/pedro-rodriguez-ingreso-al-roster-de-tiburones/"
     },
     {
-      "titulo": "El zurdo Caleb Thielbar se muda a Kansas City para poner orden en el relevo",
-      "resumen": "Los Reales de Kansas City no se andan con cuentos y firmaron al lanzador zurdo Caleb Thielbar por un añito y 3.25 millones de dólares. El veterano de 39 años, que venía lanzando con los Cachorros de C",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261123_215145_0000-1-300x225.png",
+      "titulo": "¡Pura pólvora mojada! Arsenal y Dortmund empataron en Londres",
+      "resumen": "En un juego que pintaba para más, el Arsenal y el Borussia Dortmund terminaron dándose la mano con un empate 1-1. Aunque los ingleses se fueron arriba con un golazo de Gyökeres que dejó a todo el mund",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-61-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/caleb-thielbar-rumbo-a-kansas-city/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/arsenal-y-dortmund-no-pasaron-del-empate/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Honor a quien honor merece! Entregaron el Premio Nacional de Historia en la Filven",
-      "resumen": "En el cierre de la Filven en Caracas, bajo el lema «Leer es renacer», se entregaron los Premios Nacionales de Historia 2025 y 2026. Seis investigadores y cronistas venezolanos fueron reconocidos por s",
+      "titulo": "¡A leer se ha dicho! La Misión Viva Venezuela le mete el pecho a los libros",
+      "resumen": "Tarek William Saab anunció que la Gran Misión Viva Venezuela va con todo para promover la literatura en cada rincón del país. Siguiendo el consejo de que leer libera el pensamiento, se apoyarán en esc",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Monagas-Filven-2-300x161.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/actualidad/gran-mision-viva-venezuela-promovera-literatura-pais/"
+    },
+    {
+      "titulo": "¡Gala de lujo! The Tenors debutan en el Teresa Carreño junto a El Sistema",
+      "resumen": "El cuarteto canadiense The Tenors viene a Caracas este 15 de diciembre para un concierto benéfico que promete ser una belleza. Se presentarán en la Ríos Reyna junto a nuestros muchachos de El Sistema,",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Post-TheTenors_Season-Of-Hope-_Vzla-2026_V1-300x176.jpg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/the-tenors-debutaran-en-caracas-con-una-gala-benefica-junto-a-el-sistema/"
+    },
+    {
+      "titulo": "¡Honor a quien honor merece! Entregaron los Premios Nacionales de Historia",
+      "resumen": "En el cierre de la Filven, se entregaron los galardones de historia de las ediciones 2025 y 2026 a seis investigadores y cronistas que se la han jugado por rescatar nuestra memoria. Bajo el lema 'Leer",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/CARMEN-BOHORQUEZ-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/entregan-premio-nacional-de-historia-2025-y-2026/"
-    },
-    {
-      "titulo": "¡Buenas noticias para los lectores! Quitan el IVA a la producción de libros",
-      "resumen": "Para que la lectura rinda más, se anunció la eliminación del IVA en la producción nacional de libros. En plena clausura de la Filven 2026, también se soltaron incentivos fiscales para las editoriales.",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/DELCY-FILVEN-300x188.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/destacado/delcy-rodriguez-elimina-el-iva-para-la-produccion-de-libros/"
-    },
-    {
-      "titulo": "¡Maturín vibró con más de 2.000 músicos celebrando los 51 años de El Sistema!",
-      "resumen": "¡Qué molleja de concierto! En la Catedral de Maturín, más de 2.000 músicos se botaron para celebrar el Día del Músico y el 51 aniversario de El Sistema. Hubo de todo: misa, expo y un gentío tocando co",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Concierto-Monagas-El-Sistema-300x170.jpg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/monagas/mas-de-2-000-musicos-celebraron-en-maturin-los-51-anos-de-el-sistema/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Ojos de águila para los drones! Nueva tecnología imita la visión humana",
-      "resumen": "Científicos están puliendo unas cámaras que funcionan como la retina del ojo, detectando cambios de luz al instante. Antes era un lío entender tanta información, pero ahora crearon una herramienta par",
-      "imagen": "https://www.infobae.com/resizer/v2/VCUQLGL3KNB7NHMFMUSVZP4KRY.png?auth=ad663f13bc3691b4e270ff4e6194e0686e4f736dc895c3d652aaac024540708c&smart=true&width=2752&height=1536",
+      "titulo": "¡Que no se te vuelen los megas! Trucos para ahorrar datos en tu iPhone",
+      "resumen": "Si sientes que los datos del celular se te van como agua entre los dedos, pendiente con esto. Solo tienes que meterte en la configuración de tu iPhone y limitar las aplicaciones que se actualizan soli",
+      "imagen": "https://www.infobae.com/resizer/v2/IFMBA37N2NHKRC3V4I64I7ZHCQ.JPG?auth=dc4517bfb20a7c987cde8613a0ae95d06195115ab8750bdb2d2f987473532589&smart=true&width=5575&height=3717",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/24/desarrollan-una-herramienta-que-podria-mejorar-la-vision-de-drones-y-autos-autonomos-como-funciona/"
+      "link": "https://www.infobae.com/tecno/2026/11/24/pasos-para-reducir-el-gasto-de-datos-moviles-en-iphone/"
     },
     {
-      "titulo": "¡Aviones solares que no bajan nunca! Harvard descubre cómo hacerlos volar meses",
-      "resumen": "Investigadores de Harvard y Míchigan dieron con el clavo para que los aviones solares aguanten meses en el aire sin aterrizar. El secreto está en mejorar las baterías para que no pesen tanto y el avió",
-      "imagen": "https://www.infobae.com/resizer/v2/3HT5IVSXTBDKRNDQD3J4AW7VEI.png?auth=e66baace80fea8644bfc476b3e15dc8a81d381ae3671aa989ef80fb7ad74806f&smart=true&width=2752&height=1536",
+      "titulo": "¡Mosca con los juguetes! Piden a Amazon y eBay frenar ventas de muñecos con IA",
+      "resumen": "Más de 150 organizaciones están pegando el grito al cielo para que dejen de vender juguetes con inteligencia artificial hasta que se demuestre que son seguros para los chamos. Dicen que estos aparatos",
+      "imagen": "https://www.infobae.com/resizer/v2/YYGEIW6DU5EB3B3L7THSPVLSOU.png?auth=979f05ad59c39064bcb52abac0e577f11291820fd1f08a0a47b180468609723f&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/24/cientificos-de-harvard-encontraron-la-pieza-faltante-para-que-un-avion-solar-pueda-volar-meses-y-sin-escalas/"
+      "link": "https://www.infobae.com/tecno/2026/11/24/mas-de-150-organizaciones-piden-a-amazon-y-ebay-que-dejen-de-vender-juguetes-con-chatbots-de-ia/"
     },
     {
-      "titulo": "¡Energía limpia con puro sol! Nuevo método para sacar hidrógeno verde",
-      "resumen": "Sacar hidrógeno del agua usando luz solar ahora es más fácil gracias a una nueva técnica. Antes se usaba dióxido de titanio, pero solo aprovechaba la luz ultravioleta. Ahora, mezclándolo con unos nano",
-      "imagen": "https://www.infobae.com/resizer/v2/4BJNUIXLYNBGHOEQNVVBUULKRY.png?auth=36f83a6f72aa4cb7372523483b976c46fed0121f61f80739be3480d5839108cd&smart=true&width=2752&height=1536",
+      "titulo": "¡Ojo de garza! WhatsApp estrena herramientas para supervisar a los chamos",
+      "resumen": "Ahora los padres pueden estar más tranquilos vinculando su cuenta con la de sus hijos adolescentes de 13 a 17 años. WhatsApp lanzó una opción para poner reglas de privacidad y recibir alertas de activ",
+      "imagen": "https://www.infobae.com/resizer/v2/73LAGD3BH5AVLE2WGZZMMCCX4I.jpg?auth=d003a7609bbd2c087ff01bf5d36b4ca8addb5c5e35ccf43b749834a728136977&smart=true&width=1280&height=720",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/24/desarrollan-un-nuevo-metodo-que-podria-producir-hidrogeno-verde-con-luz-solar/"
+      "link": "https://www.infobae.com/tecno/2026/11/24/como-saber-lo-que-hacen-tus-hijos-en-whatsapp-aplica-para-adolescentes/"
     }
   ]
 }
