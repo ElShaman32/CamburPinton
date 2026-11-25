@@ -1,50 +1,50 @@
 {
-  "actualizado": "24/11/2026, 06:25 p. m.",
+  "actualizado": "24/11/2026, 11:25 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi pana! Acuérdate que el que madruga recoge agua clara, pero el que le echa pichón con una sonrisa y buena vibra, ¡ese es el que llega lejos y disfruta el camino!",
+    "texto": "¡Epa, mi pana! Acuérdate que el que madruga, Dios lo ayuda, pero el que le echa pichón con una sonrisa y su arepa bajo el brazo, ¡no lo detiene nadie!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡José Suárez se va pa'l Asia! Magallanes se queda en ascuas",
-      "resumen": "El zurdo José Suárez decidió probar suerte en Corea con los Doosan Bears por un milloncito de dólares. Mientras tanto, aquí en la nave turca están cruzando los dedos y esperando a ver qué pasará con s",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/01/Jose-Suarez-1-300x225.png",
+      "titulo": "¡Paliza en Valencia! Los Leones rugieron duro ante el Magallanes",
+      "resumen": "¡Epa, mi gente! Los melenudos se dieron un banquete en el José Bernardo Pérez ganando 10-2. Con 14 hits, Víctor Bericoto se la comió bateando de 6-3 con jonrón y doble. La fiesta empezó temprano con u",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wilfredo-Tovar-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/jose-suarez-firmo-en-asia-y-mantiene-al-magallanes-en-expectativa/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/los-leones-sacan-las-garras-en-valencia/"
     },
     {
-      "titulo": "¡El 'Amolador' llegó a La Guaira! Pedro Rodríguez se une a los Tiburones",
-      "resumen": "Después de darle una paliza a los Cardenales, los Tiburones de La Guaira no se quedan quietos y metieron en el roster al experimentado Pedro Rodríguez. El 'Amolador', que viene de las Águilas, ya está",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261124_165705_0000-300x225.png",
+      "titulo": "¡El Rey de la Efectividad no juega! D´Angelo mandó en La Rinconada",
+      "resumen": "El trainer Riccardo D´Angelo sigue volando bajito en el Hipódromo La Rinconada. El domingo se llevó dos victorias para la casa, sacándole 18 triunfos de ventaja a su perseguidor. La yegua Lady Andrea,",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2024/03/Carrera-1-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/pedro-rodriguez-ingreso-al-roster-de-tiburones/"
+      "link": "https://www.liderendeportes.com/hipismo/riccardo-dangelo-con-dos-triunfos-en-la-jornada-dominical/"
     },
     {
-      "titulo": "¡Pura pólvora mojada! Arsenal y Dortmund empataron en Londres",
-      "resumen": "En un juego que pintaba para más, el Arsenal y el Borussia Dortmund terminaron dándose la mano con un empate 1-1. Aunque los ingleses se fueron arriba con un golazo de Gyökeres que dejó a todo el mund",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-61-1-300x225.png",
+      "titulo": "¡Tremendo guiso! Tyler Stephenson amarró contrato millonario con los Rojos",
+      "resumen": "El receptor Tyler Stephenson se aseguró los reales con un pacto de 3 años y 30 millones de dólares con Cincinnati. Aunque falta el chequeo médico, el hombre tiene una cláusula para salirse al segundo ",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tyler-Stephenson-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/arsenal-y-dortmund-no-pasaron-del-empate/"
+      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/los-rojos-y-el-receptor-tyler-stephenson-pactan-por-tres-anos/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡A leer se ha dicho! La Misión Viva Venezuela le mete el pecho a los libros",
-      "resumen": "Tarek William Saab anunció que la Gran Misión Viva Venezuela va con todo para promover la literatura en cada rincón del país. Siguiendo el consejo de que leer libera el pensamiento, se apoyarán en esc",
+      "titulo": "¡A leer se ha dicho! La Gran Misión Viva Venezuela impulsa los libros",
+      "resumen": "Tarek William Saab anunció que se viene un empuje fuerte para la literatura en todo el país. Bajo la Gran Misión Viva Venezuela, quieren que el Plan Nacional de Lectura llegue a cada rincón. Siguiendo",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Monagas-Filven-2-300x161.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/actualidad/gran-mision-viva-venezuela-promovera-literatura-pais/"
     },
     {
-      "titulo": "¡Gala de lujo! The Tenors debutan en el Teresa Carreño junto a El Sistema",
-      "resumen": "El cuarteto canadiense The Tenors viene a Caracas este 15 de diciembre para un concierto benéfico que promete ser una belleza. Se presentarán en la Ríos Reyna junto a nuestros muchachos de El Sistema,",
+      "titulo": "¡Gala de lujo! The Tenors llegan al Teresa Carreño con El Sistema",
+      "resumen": "Prepárense para una noche de gala el 15 de diciembre, porque el cuarteto canadiense The Tenors debuta en la Sala Ríos Reyna. Vienen con su gira Season of Hope y lo mejor es que tocarán junto a nuestro",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Post-TheTenors_Season-Of-Hope-_Vzla-2026_V1-300x176.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/the-tenors-debutaran-en-caracas-con-una-gala-benefica-junto-a-el-sistema/"
     },
     {
       "titulo": "¡Honor a quien honor merece! Entregaron los Premios Nacionales de Historia",
-      "resumen": "En el cierre de la Filven, se entregaron los galardones de historia de las ediciones 2025 y 2026 a seis investigadores y cronistas que se la han jugado por rescatar nuestra memoria. Bajo el lema 'Leer",
+      "resumen": "En el cierre de la Filven bajo el lema «Leer es renacer», Delcy Rodríguez entregó los Premios Nacionales de Historia 2025 y 2026. Seis investigadores y cronistas fueron reconocidos por cuidar la memor",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/CARMEN-BOHORQUEZ-300x200.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/entregan-premio-nacional-de-historia-2025-y-2026/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Que no se te vuelen los megas! Trucos para ahorrar datos en tu iPhone",
-      "resumen": "Si sientes que los datos del celular se te van como agua entre los dedos, pendiente con esto. Solo tienes que meterte en la configuración de tu iPhone y limitar las aplicaciones que se actualizan soli",
-      "imagen": "https://www.infobae.com/resizer/v2/IFMBA37N2NHKRC3V4I64I7ZHCQ.JPG?auth=dc4517bfb20a7c987cde8613a0ae95d06195115ab8750bdb2d2f987473532589&smart=true&width=5575&height=3717",
+      "titulo": "¡La inteligencia artificial se puso la bata! GPT-6 diseña proteínas",
+      "resumen": "OpenAI soltó la bomba: su modelo GPT-6 ya puede diseñar proteínas nuevas sin ayuda de programas de biología. En pruebas de laboratorio, estas moléculas se pegaron a cinco objetivos médicos. Es un avan",
+      "imagen": "https://www.infobae.com/resizer/v2/P2IXILSH25ARHEKTNI2QSAHP2A.JPG?auth=6c29eb6dca58566a9735cc8e20389228bab6212ff8824700b68fc336eedcd3f9&smart=true&width=3500&height=2333",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/24/pasos-para-reducir-el-gasto-de-datos-moviles-en-iphone/"
+      "link": "https://www.infobae.com/tecno/2026/11/25/openai-afirmo-que-gpt-6-diseno-proteinas-que-se-unieron-a-cinco-objetivos-medicos-en-el-laboratorio/"
     },
     {
-      "titulo": "¡Mosca con los juguetes! Piden a Amazon y eBay frenar ventas de muñecos con IA",
-      "resumen": "Más de 150 organizaciones están pegando el grito al cielo para que dejen de vender juguetes con inteligencia artificial hasta que se demuestre que son seguros para los chamos. Dicen que estos aparatos",
-      "imagen": "https://www.infobae.com/resizer/v2/YYGEIW6DU5EB3B3L7THSPVLSOU.png?auth=979f05ad59c39064bcb52abac0e577f11291820fd1f08a0a47b180468609723f&smart=true&width=2752&height=1536",
+      "titulo": "¡Ahora los stickers hablan! WhatsApp trae sonidos a tus chats",
+      "resumen": "¡Agárrate! WhatsApp está probando una función para que tus stickers tengan sonido de hasta 10 segundos. Por ahora está en versión beta para Android, pero pronto podrás ponerle tu propia voz o un audio",
+      "imagen": "https://www.infobae.com/resizer/v2/XECRQWZQB5DQJIV7CDUHGKNNWA.jpg?auth=d0fdc9d33ae47580d293ec733b02c75986ef016d5ba43411e8c01b857d05840b&smart=true&width=2436&height=1819",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/24/mas-de-150-organizaciones-piden-a-amazon-y-ebay-que-dejen-de-vender-juguetes-con-chatbots-de-ia/"
+      "link": "https://www.infobae.com/tecno/2026/11/25/whatsapp-hizo-lo-que-parecia-imposible-con-los-stickers-sonaran-mejor/"
     },
     {
-      "titulo": "¡Ojo de garza! WhatsApp estrena herramientas para supervisar a los chamos",
-      "resumen": "Ahora los padres pueden estar más tranquilos vinculando su cuenta con la de sus hijos adolescentes de 13 a 17 años. WhatsApp lanzó una opción para poner reglas de privacidad y recibir alertas de activ",
-      "imagen": "https://www.infobae.com/resizer/v2/73LAGD3BH5AVLE2WGZZMMCCX4I.jpg?auth=d003a7609bbd2c087ff01bf5d36b4ca8addb5c5e35ccf43b749834a728136977&smart=true&width=1280&height=720",
+      "titulo": "¡Pura joda en el grupo! Así funcionarán los stickers con audio",
+      "resumen": "La cosa se va a poner buena en los grupos de WhatsApp con los nuevos sound stickers. Podrás mandar audios cortitos pegados a tus calcomanías favoritas. La función se está probando en Android y permiti",
+      "imagen": "https://www.infobae.com/resizer/v2/M4ERRNHL7RFMZHQGQC2UO3CQCU.JPG?auth=ed296fa183a2b80259dd3984f0a96505547daac87cfd257c089c79c363d6fade&smart=true&width=3500&height=1969",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/24/como-saber-lo-que-hacen-tus-hijos-en-whatsapp-aplica-para-adolescentes/"
+      "link": "https://www.infobae.com/tecno/2026/11/25/como-compartir-stickers-con-audio-en-grupos-de-whatsapp/"
     }
   ]
 }
