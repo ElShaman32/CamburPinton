@@ -1,76 +1,76 @@
 {
-  "actualizado": "24/11/2026, 11:25 p. m.",
+  "actualizado": "25/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "¡Epa, mi pana! Acuérdate que el que madruga, Dios lo ayuda, pero el que le echa pichón con una sonrisa y su arepa bajo el brazo, ¡no lo detiene nadie!",
+    "texto": "¡Epa, mi gente! Recuerden que el que madruga Dios lo ayuda, pero el que le pone corazón y sabor a lo que hace, ¡siempre llega a puerto seguro con su arepa bien rellena!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Paliza en Valencia! Los Leones rugieron duro ante el Magallanes",
-      "resumen": "¡Epa, mi gente! Los melenudos se dieron un banquete en el José Bernardo Pérez ganando 10-2. Con 14 hits, Víctor Bericoto se la comió bateando de 6-3 con jonrón y doble. La fiesta empezó temprano con u",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Wilfredo-Tovar-300x225.png",
+      "titulo": "¡Senzatela se queda en Milwaukee! El criollo renovó con los Cerveceros",
+      "resumen": "Nuestro Antonio Senzatela se la comió en 2026 y los Cerveceros de Milwaukee no lo pelaron. Después de ganar la Serie Mundial, el derecho de 31 años firmó por un añito más con el equipo. Para hacerle e",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/08/Diseno-sin-titulo-59-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/los-leones-sacan-las-garras-en-valencia/"
+      "link": "https://www.liderendeportes.com/venezolanos-mlb/antonio-senzatela-seguira-con-milwaukee/"
     },
     {
-      "titulo": "¡El Rey de la Efectividad no juega! D´Angelo mandó en La Rinconada",
-      "resumen": "El trainer Riccardo D´Angelo sigue volando bajito en el Hipódromo La Rinconada. El domingo se llevó dos victorias para la casa, sacándole 18 triunfos de ventaja a su perseguidor. La yegua Lady Andrea,",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2024/03/Carrera-1-300x225.jpg",
+      "titulo": "¡Goleada azulgrana! El Barça de Gordon le dio un baile al Sabah en Champions",
+      "resumen": "El Barcelona se fue hasta Azerbaiyán y no anduvo con juegos. Le metieron 4-1 al Sabah en la Champions con un doblete de Anthony Gordon y otros de Adeyemi y Gabriel Jesus. Aunque al principio la cosa e",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-62-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/hipismo/riccardo-dangelo-con-dos-triunfos-en-la-jornada-dominical/"
+      "link": "https://www.liderendeportes.com/futbol/futbol-europeo/el-barcelona-goleo-de-la-mano-de-gordon/"
     },
     {
-      "titulo": "¡Tremendo guiso! Tyler Stephenson amarró contrato millonario con los Rojos",
-      "resumen": "El receptor Tyler Stephenson se aseguró los reales con un pacto de 3 años y 30 millones de dólares con Cincinnati. Aunque falta el chequeo médico, el hombre tiene una cláusula para salirse al segundo ",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tyler-Stephenson-300x225.png",
+      "titulo": "¡Puro pulso! El tiro con arco venezolano tiene el futuro asegurado",
+      "resumen": "En los Juegos Nacionales Juveniles en Carabobo, quedó claro que aquí hay talento de sobra. Vanesa Chacón, de la Federación, dice que vienen décadas de triunfos. Hay 69 chamos de 12 estados dándole dur",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tiro-con-arco-1-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/los-rojos-y-el-receptor-tyler-stephenson-pactan-por-tres-anos/"
+      "link": "https://www.liderendeportes.com/mas-deportes/tiro-con-arco-tiene-futuro-asegurado/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡A leer se ha dicho! La Gran Misión Viva Venezuela impulsa los libros",
-      "resumen": "Tarek William Saab anunció que se viene un empuje fuerte para la literatura en todo el país. Bajo la Gran Misión Viva Venezuela, quieren que el Plan Nacional de Lectura llegue a cada rincón. Siguiendo",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Monagas-Filven-2-300x161.jpeg",
+      "titulo": "Homenaje al Orfeón Universitario: 'El viaje del diapasón' llega a la UCV",
+      "resumen": "A 50 años de aquella triste tragedia en las Azores, el Aula Magna de la UCV se viste de gala este jueves 26 de noviembre. Estrenan 'El viaje del diapasón', una lectura dramatizada para recordar a nues",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-2-300x122.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/actualidad/gran-mision-viva-venezuela-promovera-literatura-pais/"
+      "link": "https://ultimasnoticias.com.ve/cultura/lectura-dramatiza-de-el-viaje-del-diapason-rendira-homenaje-al-orfeon-universitario/"
     },
     {
-      "titulo": "¡Gala de lujo! The Tenors llegan al Teresa Carreño con El Sistema",
-      "resumen": "Prepárense para una noche de gala el 15 de diciembre, porque el cuarteto canadiense The Tenors debuta en la Sala Ríos Reyna. Vienen con su gira Season of Hope y lo mejor es que tocarán junto a nuestro",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Post-TheTenors_Season-Of-Hope-_Vzla-2026_V1-300x176.jpg",
+      "titulo": "¡Vuelve el metal! Arch Enemy sacudirá Caracas en el 2027",
+      "resumen": "¡Prepárense, metaleros! Después de casi 20 años, Arch Enemy regresa a Venezuela el 1 de abril de 2027. La cita es en la Concha Acústica del Parque Simón Bolívar para celebrar sus 30 años de carrera. L",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Arch-Enemy-2026-2-300x169.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/the-tenors-debutaran-en-caracas-con-una-gala-benefica-junto-a-el-sistema/"
+      "link": "https://ultimasnoticias.com.ve/cultura/arch-enemy-regresa-a-venezuela-con-su-descarga-de-death-metal-melodico/"
     },
     {
-      "titulo": "¡Honor a quien honor merece! Entregaron los Premios Nacionales de Historia",
-      "resumen": "En el cierre de la Filven bajo el lema «Leer es renacer», Delcy Rodríguez entregó los Premios Nacionales de Historia 2025 y 2026. Seis investigadores y cronistas fueron reconocidos por cuidar la memor",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/CARMEN-BOHORQUEZ-300x200.jpg",
+      "titulo": "¡Tremendo rumbón! Guaco y la Billo’s despiden el año en La Clave",
+      "resumen": "Caracas se va a prender este 28 y 29 de diciembre con el cierre de año de La Clave. Imagínate eso: Guaco y la Billo’s Caracas Boys juntos, con Cheo Pardo y Gwiro poniendo el sabor. Como siempre, el si",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/unnamed-16-300x200.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/entregan-premio-nacional-de-historia-2025-y-2026/"
+      "link": "https://ultimasnoticias.com.ve/cultura/guaco-billos-y-cheo-pardo-despiden-el-ano-2026-en-la-clave/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡La inteligencia artificial se puso la bata! GPT-6 diseña proteínas",
-      "resumen": "OpenAI soltó la bomba: su modelo GPT-6 ya puede diseñar proteínas nuevas sin ayuda de programas de biología. En pruebas de laboratorio, estas moléculas se pegaron a cinco objetivos médicos. Es un avan",
-      "imagen": "https://www.infobae.com/resizer/v2/P2IXILSH25ARHEKTNI2QSAHP2A.JPG?auth=6c29eb6dca58566a9735cc8e20389228bab6212ff8824700b68fc336eedcd3f9&smart=true&width=3500&height=2333",
+      "titulo": "¡Mosca con el celular! Activa el bloqueo antirrobo de Google en tu Android",
+      "resumen": "Google se puso las pilas y sacó la 'Protección contra robo' para Android. Si un malandro te arrebata el teléfono, el bicho se bloquea solito. También sirve si se queda sin internet o si meten mal la c",
+      "imagen": "https://www.infobae.com/resizer/v2/VCQWHDSQEVAPVDT6WRPKPOVOPE.JPG?auth=55e66c9c1bacd6da33adb01ffb00a54281c892cdc7aad512e6d49d3da2ee960d&smart=true&width=8192&height=4608",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/25/openai-afirmo-que-gpt-6-diseno-proteinas-que-se-unieron-a-cinco-objetivos-medicos-en-el-laboratorio/"
+      "link": "https://www.infobae.com/tecno/2026/11/25/como-activar-en-android-los-ajustes-que-bloquean-el-celular-si-un-ladron-te-lo-arrebata/"
     },
     {
-      "titulo": "¡Ahora los stickers hablan! WhatsApp trae sonidos a tus chats",
-      "resumen": "¡Agárrate! WhatsApp está probando una función para que tus stickers tengan sonido de hasta 10 segundos. Por ahora está en versión beta para Android, pero pronto podrás ponerle tu propia voz o un audio",
-      "imagen": "https://www.infobae.com/resizer/v2/XECRQWZQB5DQJIV7CDUHGKNNWA.jpg?auth=d0fdc9d33ae47580d293ec733b02c75986ef016d5ba43411e8c01b857d05840b&smart=true&width=2436&height=1819",
+      "titulo": "¡ChatGPT se pone fitness! Ahora analiza tu salud y actividad física en Android",
+      "resumen": "OpenAI lanzó ChatGPT Health para que la inteligencia artificial te ayude con tus datos de salud. Se conecta con Health Connect de Google y te analiza la actividad física. Por ahora está llegando poco ",
+      "imagen": "https://www.infobae.com/resizer/v2/WS6B7PJBSJGWFE4CRD7SS75D5M.JPG?auth=6d58d0aba33250f279c438db003c57f144dbd42932cfb958ed080364025e3945&smart=true&width=3000&height=2000",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/25/whatsapp-hizo-lo-que-parecia-imposible-con-los-stickers-sonaran-mejor/"
+      "link": "https://www.infobae.com/tecno/2026/11/25/chatgpt-ahora-analiza-la-actividad-fisica-y-salud-en-android-con-esta-funcion/"
     },
     {
-      "titulo": "¡Pura joda en el grupo! Así funcionarán los stickers con audio",
-      "resumen": "La cosa se va a poner buena en los grupos de WhatsApp con los nuevos sound stickers. Podrás mandar audios cortitos pegados a tus calcomanías favoritas. La función se está probando en Android y permiti",
-      "imagen": "https://www.infobae.com/resizer/v2/M4ERRNHL7RFMZHQGQC2UO3CQCU.JPG?auth=ed296fa183a2b80259dd3984f0a96505547daac87cfd257c089c79c363d6fade&smart=true&width=3500&height=1969",
+      "titulo": "¡Regalitos de Sony! Estos son los juegos de PS Plus para diciembre",
+      "resumen": "Sony soltó la sopa con los juegos gratis de diciembre para los que tienen PlayStation Plus. Se vienen Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2 y Amnesia: The Bunker. Tienes desde el 1 de di",
+      "imagen": "https://www.infobae.com/resizer/v2/UH6L7JADPNBQRJODVN2UQBLINA.webp?auth=46cec6ff38cbcab6389785a03e3024ce3dc03d9f780e21c674c0cb6bcdde6c2d&smart=true&width=1200&height=630",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/25/como-compartir-stickers-con-audio-en-grupos-de-whatsapp/"
+      "link": "https://www.infobae.com/tecno/2026/11/25/estos-son-los-3-juegos-que-playstation-plus-regalara-en-diciembre-de-2026/"
     }
   ]
 }
