@@ -1,76 +1,76 @@
 {
-  "actualizado": "26/11/2026, 06:00 a. m.",
+  "actualizado": "26/11/2026, 05:00 p. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana: el que se apura se cansa, pero el que no arranca se queda. ¡Dale con todo hoy que el que no arriesga no gana ni un raspao'!",
+    "texto": "Acuérdate, mi pana, que el que madruga Dios lo ayuda, pero el que anda con alegría y un buen café en mano, no hay obstáculo que lo detenga. ¡Échale pichón que hoy es tu día!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Pilas, Tigres! El liderato está sabroso pero no se pueden dormir en los laureles",
-      "resumen": "Los Tigres de Aragua andan volando con récord de 19-11 y ya pasaron las 20 victorias, siendo los mandamases de la liga. Pero ojo, que el reto es no repetir el chasco del año pasado, cuando se desinfla",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tigres-de-Aragua-4-300x225.png",
+      "titulo": "¡Puro crack! Boca manda en el equipo ideal de la Sudamericana",
+      "resumen": "¡Epa, mi gente! La Conmebol soltó el once ideal de la Sudamericana 2026 y Boca Juniors, que se coronó en Barranquilla ante el Mineiro, arrasó con todo. De los 11 elegidos, ocho son del equipo xeneize,",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-1-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/opinion/a-swing-completo/el-reto-de-tigres-apenas-comienza/"
+      "link": "https://www.liderendeportes.com/futbol/suramericano/la-copa-sudamericana-revelo-su-equipo-ideal-del-ano/"
     },
     {
-      "titulo": "Luis Robert Jr. se queda quieto en Baltimore por unos buenos verdes",
-      "resumen": "El jardinero Luis Robert Jr. ya amarró un contrato de un año y 12 milloncitos de dólares para seguir con los Orioles de Baltimore. El trato está casi listo, solo falta que el cubano de 29 años pase el",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261125_234805_0000-300x225.png",
+      "titulo": "La FVF y la FIFA se ponen las pilas para profesionalizar nuestros clubes",
+      "resumen": "¡Mano, tengo fe! La FVF y la FIFA se unieron en Caracas para dictar un taller intensivo de gestión a los duros de nuestros equipos. Del 25 al 27 de noviembre, presidentes y gerentes de la Liga FUTVE e",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2021/10/Infantino-Gimenez-300x224.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/baseball-grandes-ligas/luis-robert-jr-se-mantendria-con-los-orioles/"
+      "link": "https://www.liderendeportes.com/futbol/futve/la-fifa-y-fvf-impulsan-la-profesionalizacion-de-los-clubes-venezolanos/"
     },
     {
-      "titulo": "¡Los tienen de hijos! La Guaira volvió a darle una tunda al Magallanes",
-      "resumen": "Los Tiburones de La Guaira no creen en nadie y le metieron nueve carreras a tres a la Nave Turca en el Universitario. Con este triunfo, los escualos llevan seis victorias seguidas contra el Magallanes",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261125_230024_0000-300x225.png",
+      "titulo": "¡Nuestras chamas de la Vinotinto se miden contra el poderío de Francia!",
+      "resumen": "¡Pónganse las alpargatas! La Vinotinto femenina arranca su gira europea enfrentando a la potente Francia este 27 de noviembre en Nancy. El profe Ricardo Belli quiere ver de qué están hechas las guerre",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/12/Vinotinto-Femenina-300x225.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lmbp/la-guaira-mantuvo-el-yugo-sobre-el-magallanes/"
+      "link": "https://www.liderendeportes.com/futbol/femenino/vinotinto-femenina-mide-fuerzas-ante-la-potencia-francesa/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "Homenaje de altura: El Orfeón Universitario recordará su historia en la UCV",
-      "resumen": "A 50 años de aquella triste partida en las Azores, la UCV se viste de gala con la lectura dramatizada “El viaje del diapasón”. Este jueves 26 de noviembre, el Aula Magna recibirá al Orfeón y a grandes",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/balcon-2-300x122.jpg",
+      "titulo": "¡Valencia se llena de arte! El Salón Arturo Michelena abrió con todo",
+      "resumen": "¡Qué nota, vale! El Museo de la Cultura de Valencia inauguró el 68° Salón Arturo Michelena con 363 obras que son puro talento nacional. El ministro Alejandro López destacó que, a pesar de los ataques,",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/4-1-300x225.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/lectura-dramatiza-de-el-viaje-del-diapason-rendira-homenaje-al-orfeon-universitario/"
+      "link": "https://ultimasnoticias.com.ve/carabobo/salon-arturo-michelena-exhibe-mas-de-360-piezas-en-valencia/"
     },
     {
-      "titulo": "¡Puro metal! Arch Enemy regresa a Caracas para sacudir la Concha Acústica",
-      "resumen": "Después de casi 20 años de espera, los suecos de Arch Enemy vuelven a Venezuela el 1 de abril de 2027. La banda celebrará sus tres décadas de trayectoria en el Parque Simón Bolívar con su nueva vocali",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Arch-Enemy-2026-2-300x169.jpg",
+      "titulo": "Rómulo Gallegos bajo la lupa: Un conversatorio de lujo en el Celarg",
+      "resumen": "El escritor Benito Yrady se lanzó una charla magistral en el Celarg para cerrar el ciclo dedicado a Rómulo Gallegos. Nos mostró ese lado íntimo y de maestro del gran novelista que marcó el rumbo de la",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Ponencia-Benito-Yrady-Foto-MIB-03-300x243.jpg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/arch-enemy-regresa-a-venezuela-con-su-descarga-de-death-metal-melodico/"
+      "link": "https://ultimasnoticias.com.ve/cultura/una-mirada-intima-e-intelectual-sobre-romulo-gallegos-fue-ensenada-en-el-celarg/"
     },
     {
-      "titulo": "¡Tremendo parrandón! Guaco y la Billo’s despiden el año 2026 en La Clave",
-      "resumen": "Caracas se va a prender este 28 y 29 de diciembre con la edición de fin de año de La Clave. Guaco y la Billo’s Caracas Boys pondrán a todo el mundo a tirar paso, mientras Cheo Pardo y Gwiro se encarga",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/unnamed-16-300x200.jpg",
+      "titulo": "El Salón Michelena es el punto de encuentro para los amantes del arte",
+      "resumen": "¡Carabobo se la comió! El 68º Salón Arturo Michelena ya está abierto en el Museo de la Cultura de Valencia. Son 363 obras que demuestran que nuestros museos son espacios para aprender y encontrarnos c",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-8.48.07-AM-1-1024x683-1-300x200.jpeg",
       "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/guaco-billos-y-cheo-pardo-despiden-el-ano-2026-en-la-clave/"
+      "link": "https://ultimasnoticias.com.ve/cultura/salon-michelena-abrio-de-nuevo-sus-puertas/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "Nvidia le pone el freno a los chips de IA en el sudeste asiático",
-      "resumen": "Por órdenes de Estados Unidos, Nvidia mandó a parar los envíos de servidores con chips de inteligencia artificial a países como Malasia, Tailandia y Singapur. Empresas como Dell y Supermicro ya avisar",
-      "imagen": "https://www.infobae.com/resizer/v2/NFRVBJTCDJE4NMS2V3NHYBNEJU.JPG?auth=bdf13426e957afeac5276e32f7c31b38666dd65736680fe4c896c7908bd0059c&smart=true&width=3000&height=2001",
+      "titulo": "¡Mosca con los cuentos de camino! iOS 27 trae escudo contra estafas",
+      "resumen": "¡Oído al tambor, usuarios de iPhone! Apple sacó la función 'Impersonation Risk Detection' en el nuevo iOS 27 para frenar a los pillos que se hacen pasar por bancos o entes del Estado. Tienes que activ",
+      "imagen": "https://www.infobae.com/resizer/v2/HSKM24I4KFFR5KTVACYKCYBKVU.png?auth=7820ce3e9dcd804b987b72bf96c6f40648445717537f75aec8310e8e9f605afd&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/26/nvidia-freno-el-envio-de-servidores-con-chips-de-ia-a-cuatro-paises-del-sudeste-asiatico/"
+      "link": "https://www.infobae.com/tecno/2026/11/26/como-activar-en-ios-27-la-funcion-del-iphone-para-frenar-estafas/"
     },
     {
-      "titulo": "¡Más rápido que un chisme! El MIT inventa memoria para computadoras del futuro",
-      "resumen": "Científicos del MIT crearon un dispositivo superconductor que promete hacer que las computadoras vuelen y gasten muchísima menos energía. El invento usa capas magnéticas y funciona a temperaturas bají",
-      "imagen": "https://www.infobae.com/resizer/v2/E2JC5AD56VBCDAUNQICUA4PMQI.png?auth=5af9c6a3216ae790406535e9c9c25dc6cb49b0e49bdcbfdc1aa38be40b555b04&smart=true&width=1600&height=893",
+      "titulo": "¡Guerra avisada! Hackean plataforma de pagos y roban datos de tarjetas",
+      "resumen": "La empresa Cleverbridge, que maneja pagos de software, admitió que unos hackers les metieron un gol y se llevaron números de tarjetas, fechas de vencimiento y hasta el código CVV. El lío se detectó el",
+      "imagen": "https://www.infobae.com/resizer/v2/LZIAUNS3HRAF5NMFDXYCMBB4JE.jpg?auth=ec17de330973b128e8a8225772a660e1ad92238aa9207ce7709edb0f83cb402c&smart=true&width=1920&height=1152",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/26/el-mit-desarrolla-un-dispositivo-superconductor-que-promete-acelerar-a-las-computadoras-del-futuro-como-funciona/"
+      "link": "https://www.infobae.com/tecno/2026/11/26/plataforma-de-pagos-cleverbridge-admitio-el-robo-de-numeros-de-tarjeta-y-codigos-de-seguridad/"
     },
     {
-      "titulo": "Neuralink de Elon Musk recibe luz verde para probar implantes en humanos",
-      "resumen": "La FDA autorizó a Neuralink para empezar pruebas clínicas en pacientes con ELA. La idea es ponerles un chip en el cerebro para que puedan mover el cursor de la computadora y hacer clics solo con el pe",
-      "imagen": "https://www.infobae.com/resizer/v2/JBADZXI2U5GPZPZWZFMXF4HWU4.JPG?auth=0142e74dfbace62a4c5908b33972506e2a5e727a63c9e290af6d202dd71fd265&smart=true&width=3000&height=2000",
+      "titulo": "¡Suelta el perol! 80% de la gente quiere un descanso de las pantallas",
+      "resumen": "Un estudio de las universidades de Bath y Goethe reveló que la gran mayoría de nosotros estamos fritos con tanta tecnología y queremos un 'detox digital'. Más del 80% de los encuestados sueña con desc",
+      "imagen": "https://www.infobae.com/resizer/v2/FJDNEKZR5ZE7HCYEIALGXFCXYY.png?auth=d397d250a04bc44974e2c97296c9485b992e1e9fdbf93e0207cf4b69d35f7cd2&smart=true&width=2752&height=1536",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/26/neuralink-probara-en-pacientes-con-ela-implante-para-mover-el-cursor-y-hacer-clics-en-pc/"
+      "link": "https://www.infobae.com/tecno/2026/11/26/mas-del-80-de-las-personas-admiten-querer-alejarse-de-sus-dispositivos-segun-un-estudio/"
     }
   ]
 }
