@@ -1,76 +1,76 @@
 {
-  "actualizado": "26/11/2026, 05:00 p. m.",
+  "actualizado": "27/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Acuérdate, mi pana, que el que madruga Dios lo ayuda, pero el que anda con alegría y un buen café en mano, no hay obstáculo que lo detenga. ¡Échale pichón que hoy es tu día!",
+    "texto": "Mire, mi pana, póngale pichón a la vida que el que se queda sentado esperando que el mango caiga, se queda con las ganas. ¡Pa' lante es pa' allá y con una sonrisa todo sale mejor!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Puro crack! Boca manda en el equipo ideal de la Sudamericana",
-      "resumen": "¡Epa, mi gente! La Conmebol soltó el once ideal de la Sudamericana 2026 y Boca Juniors, que se coronó en Barranquilla ante el Mineiro, arrasó con todo. De los 11 elegidos, ocho son del equipo xeneize,",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo-1-1-300x225.png",
+      "titulo": "¡Palo y blanqueo! La Nave hundió a la Tribu en su propia casa",
+      "resumen": "Los Navegantes del Magallanes se lucieron en Puerto La Cruz dándole una paliza de 6-0 a los Caribes. Con 10 hits y un pitcheo que no dejó pasar ni el aire, la nave arrancó ganando desde el primer inni",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Jhostynson-Garcia-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/suramericano/la-copa-sudamericana-revelo-su-equipo-ideal-del-ano/"
+      "link": "https://www.liderendeportes.com/baseball/magallanes-blanquea-a-caribes-en-puerto-la-cruz/"
     },
     {
-      "titulo": "La FVF y la FIFA se ponen las pilas para profesionalizar nuestros clubes",
-      "resumen": "¡Mano, tengo fe! La FVF y la FIFA se unieron en Caracas para dictar un taller intensivo de gestión a los duros de nuestros equipos. Del 25 al 27 de noviembre, presidentes y gerentes de la Liga FUTVE e",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2021/10/Infantino-Gimenez-300x224.jpg",
+      "titulo": "¡A lo macho! El Caracas dejó en el terreno a los Tigres en un juegazo",
+      "resumen": "¡Qué final, señores! Los Leones del Caracas ganaron 9-8 a los Tigres de Aragua en 11 innings de puro infarto. Yonathan Daza se puso la capa de héroe con el hit ganador, pero el que de verdad la sacó d",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Victor-Bericoto-1-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/futve/la-fifa-y-fvf-impulsan-la-profesionalizacion-de-los-clubes-venezolanos/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/bericoto-y-leones-consiguen-triunfo-heroico/"
     },
     {
-      "titulo": "¡Nuestras chamas de la Vinotinto se miden contra el poderío de Francia!",
-      "resumen": "¡Pónganse las alpargatas! La Vinotinto femenina arranca su gira europea enfrentando a la potente Francia este 27 de noviembre en Nancy. El profe Ricardo Belli quiere ver de qué están hechas las guerre",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2025/12/Vinotinto-Femenina-300x225.jpg",
+      "titulo": "¡Tiburones mandando! La Guaira le puso sazón y venció a las Águilas",
+      "resumen": "Los Tiburones de La Guaira no andan con juegos y derrotaron 7-5 a las Águilas del Zulia en el Universitario. Los escualos soltaron 12 hits y armaron un rumbón de cinco carreras apenas empezando el jue",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tiburones--300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/futbol/femenino/vinotinto-femenina-mide-fuerzas-ante-la-potencia-francesa/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tiburones-muestra-caracter-desde-el-inicio/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Valencia se llena de arte! El Salón Arturo Michelena abrió con todo",
-      "resumen": "¡Qué nota, vale! El Museo de la Cultura de Valencia inauguró el 68° Salón Arturo Michelena con 363 obras que son puro talento nacional. El ministro Alejandro López destacó que, a pesar de los ataques,",
+      "titulo": "¡Talento puro! Enrique Hernández se llevó el premio mayor de fotografía",
+      "resumen": "El fotógrafo Enrique Hernández, con más de 37 años dándole al clic, ganó el primer lugar del concurso del SAPI con su obra «Vergüenza inocente». La foto, un blanco y negro espectacular captado en un r",
+      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-3.07.16-PM-300x200.jpeg",
+      "fuente": "Ultimas Noticias",
+      "link": "https://ultimasnoticias.com.ve/cultura/enrique-hernandez-sabe-captar-la-ternura/"
+    },
+    {
+      "titulo": "¡Valencia es puro arte! El Salón Arturo Michelena abrió por todo lo alto",
+      "resumen": "El Museo de la Cultura de Valencia se vistió de gala para la edición 68 del Salón Arturo Michelena. Hay más de 360 obras de artistas de toda Venezuela, muchos de ellos chamos que están exponiendo por ",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/4-1-300x225.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/carabobo/salon-arturo-michelena-exhibe-mas-de-360-piezas-en-valencia/"
     },
     {
-      "titulo": "Rómulo Gallegos bajo la lupa: Un conversatorio de lujo en el Celarg",
-      "resumen": "El escritor Benito Yrady se lanzó una charla magistral en el Celarg para cerrar el ciclo dedicado a Rómulo Gallegos. Nos mostró ese lado íntimo y de maestro del gran novelista que marcó el rumbo de la",
+      "titulo": "Rómulo Gallegos: El maestro que marcó el rumbo de nuestra historia",
+      "resumen": "En el Celarg se cerró con broche de oro el ciclo dedicado a Rómulo Gallegos. El escritor Benito Yrady nos recordó que Gallegos no solo fue nuestro novelista más grande, sino un maestro y un político q",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Ponencia-Benito-Yrady-Foto-MIB-03-300x243.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/una-mirada-intima-e-intelectual-sobre-romulo-gallegos-fue-ensenada-en-el-celarg/"
-    },
-    {
-      "titulo": "El Salón Michelena es el punto de encuentro para los amantes del arte",
-      "resumen": "¡Carabobo se la comió! El 68º Salón Arturo Michelena ya está abierto en el Museo de la Cultura de Valencia. Son 363 obras que demuestran que nuestros museos son espacios para aprender y encontrarnos c",
-      "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-8.48.07-AM-1-1024x683-1-300x200.jpeg",
-      "fuente": "Ultimas Noticias",
-      "link": "https://ultimasnoticias.com.ve/cultura/salon-michelena-abrio-de-nuevo-sus-puertas/"
     }
   ],
   "tecnologia": [
     {
-      "titulo": "¡Mosca con los cuentos de camino! iOS 27 trae escudo contra estafas",
-      "resumen": "¡Oído al tambor, usuarios de iPhone! Apple sacó la función 'Impersonation Risk Detection' en el nuevo iOS 27 para frenar a los pillos que se hacen pasar por bancos o entes del Estado. Tienes que activ",
-      "imagen": "https://www.infobae.com/resizer/v2/HSKM24I4KFFR5KTVACYKCYBKVU.png?auth=7820ce3e9dcd804b987b72bf96c6f40648445717537f75aec8310e8e9f605afd&smart=true&width=1920&height=1080",
+      "titulo": "¡Qué nivel! El MIT crea una IA que diseña chips rapidito y seguro",
+      "resumen": "Científicos del MIT se lanzaron una innovación de las buenas: crearon SLIC, una inteligencia artificial que diseña circuitos como si fuera un ingeniero experto. Lo mejor es que usa modelos pequeños y ",
+      "imagen": "https://www.infobae.com/resizer/v2/ZKJCCYMPJNHLJBYAEATQTO4LPQ.png?auth=4d8380bb6e0d1125400963dfcac9ceafc2a037897ebd9294737e5365dd7ed2c9&smart=true&width=1600&height=893",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/26/como-activar-en-ios-27-la-funcion-del-iphone-para-frenar-estafas/"
+      "link": "https://www.infobae.com/tecno/2026/11/27/cientificos-del-mit-desarrollan-un-modelo-de-ia-que-puede-disenar-chips-como-un-ingeniero-y-con-una-fraccion-de-recursos/"
     },
     {
-      "titulo": "¡Guerra avisada! Hackean plataforma de pagos y roban datos de tarjetas",
-      "resumen": "La empresa Cleverbridge, que maneja pagos de software, admitió que unos hackers les metieron un gol y se llevaron números de tarjetas, fechas de vencimiento y hasta el código CVV. El lío se detectó el",
-      "imagen": "https://www.infobae.com/resizer/v2/LZIAUNS3HRAF5NMFDXYCMBB4JE.jpg?auth=ec17de330973b128e8a8225772a660e1ad92238aa9207ce7709edb0f83cb402c&smart=true&width=1920&height=1152",
+      "titulo": "¿iCloud full todavía? Te contamos el truco para liberar espacio de verdad",
+      "resumen": "¡Epa! ¿Borraste mil fotos y el iCloud sigue gritando que está lleno? No te enrolles, lo que pasa es que Apple guarda copias de seguridad, carpetas de eliminados y archivos en iCloud Drive que siguen o",
+      "imagen": "https://www.infobae.com/resizer/v2/DAUNM73P6NCWDDR7IJOGQSP5PQ.png?auth=d97c1ba63b8828c84f9e8dce75bb9967d5dbeb0ada06b5b33b845b96d354203f&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/26/plataforma-de-pagos-cleverbridge-admitio-el-robo-de-numeros-de-tarjeta-y-codigos-de-seguridad/"
+      "link": "https://www.infobae.com/tecno/2026/11/27/por-que-icloud-sigue-lleno-al-borrar-fotos-el-truco-de-respaldos-y-carpetas-ocultas/"
     },
     {
-      "titulo": "¡Suelta el perol! 80% de la gente quiere un descanso de las pantallas",
-      "resumen": "Un estudio de las universidades de Bath y Goethe reveló que la gran mayoría de nosotros estamos fritos con tanta tecnología y queremos un 'detox digital'. Más del 80% de los encuestados sueña con desc",
-      "imagen": "https://www.infobae.com/resizer/v2/FJDNEKZR5ZE7HCYEIALGXFCXYY.png?auth=d397d250a04bc44974e2c97296c9485b992e1e9fdbf93e0207cf4b69d35f7cd2&smart=true&width=2752&height=1536",
+      "titulo": "¡Instagram se puso las pilas! Ahora Muse te ayuda directo en el chat",
+      "resumen": "Meta integró su inteligencia artificial «Muse» directo en los mensajes de Instagram. Ahora no tienes que salirte de la app para pedir ayuda; Muse te arma el itinerario de viaje, te explica un post o h",
+      "imagen": "https://www.infobae.com/resizer/v2/KTEXB2F63ZCVRH5LPKEKUABTTU.JPG?auth=5e5c05ead759aa2fa9365bf15a26df1b4f06d0bfa35f629f721ea5f5393719a3&smart=true&width=4000&height=2250",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/26/mas-del-80-de-las-personas-admiten-querer-alejarse-de-sus-dispositivos-segun-un-estudio/"
+      "link": "https://www.infobae.com/tecno/2026/11/27/meta-anade-su-ia-muse-a-los-mensajes-de-instagram-ayudara-a-hacer-compras-y-otras-rutinas/"
     }
   ]
 }
