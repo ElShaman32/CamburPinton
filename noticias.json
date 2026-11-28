@@ -1,50 +1,50 @@
 {
-  "actualizado": "27/11/2026, 06:00 a. m.",
+  "actualizado": "28/11/2026, 06:00 a. m.",
   "motivacional": {
-    "texto": "Mire, mi pana, póngale pichón a la vida que el que se queda sentado esperando que el mango caiga, se queda con las ganas. ¡Pa' lante es pa' allá y con una sonrisa todo sale mejor!",
+    "texto": "Acuérdate, mi pana, que el que nace pa' martillo, del cielo le caen los clavos, pero el que nace con fe, hasta el café le sale dulce. ¡Pa' lante es pa' allá!",
     "autor": "Cambur Pintón"
   },
   "deportes": [
     {
-      "titulo": "¡Palo y blanqueo! La Nave hundió a la Tribu en su propia casa",
-      "resumen": "Los Navegantes del Magallanes se lucieron en Puerto La Cruz dándole una paliza de 6-0 a los Caribes. Con 10 hits y un pitcheo que no dejó pasar ni el aire, la nave arrancó ganando desde el primer inni",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Jhostynson-Garcia-300x225.png",
+      "titulo": "¡Duelo de titanes! El Táchira y el Carabobo se ven las caras en la gran final",
+      "resumen": "¡Epa, mi gente! Se viene un juegazo entre el Táchira y el Carabobo. El cuadro granate ha sido puro aguante estos años, metiéndose en todas las finales, pero le falta ese centavo pa' completar el bolív",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tachira-Carabobo-300x290.jpg",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/magallanes-blanquea-a-caribes-en-puerto-la-cruz/"
+      "link": "https://www.liderendeportes.com/opinion/gerardo_blanco/sueno-granate-contra-el-poderio-aurinegro/"
     },
     {
-      "titulo": "¡A lo macho! El Caracas dejó en el terreno a los Tigres en un juegazo",
-      "resumen": "¡Qué final, señores! Los Leones del Caracas ganaron 9-8 a los Tigres de Aragua en 11 innings de puro infarto. Yonathan Daza se puso la capa de héroe con el hit ganador, pero el que de verdad la sacó d",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Victor-Bericoto-1-1-300x225.png",
+      "titulo": "¡Se la comieron! Atlanta bajó de la nube a Boston en la Copa NBA",
+      "resumen": "Los Hawks de Atlanta le aguaron la fiesta a los Celtics ganándoles 87-86 en un final de película. Jalen Johnson se mandó 24 puntos y Alexander-Walker cerró el grifo con los últimos tantos. Con esta vi",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Diseno-sin-titulo_20261128_004208_0000-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/bericoto-y-leones-consiguen-triunfo-heroico/"
+      "link": "https://www.liderendeportes.com/basketball/nba/atlanta-cerro-la-fase-de-grupos-de-la-nba-cup-con-una-victoria-sobre-boston/"
     },
     {
-      "titulo": "¡Tiburones mandando! La Guaira le puso sazón y venció a las Águilas",
-      "resumen": "Los Tiburones de La Guaira no andan con juegos y derrotaron 7-5 a las Águilas del Zulia en el Universitario. Los escualos soltaron 12 hits y armaron un rumbón de cinco carreras apenas empezando el jue",
-      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/Tiburones--300x225.png",
+      "titulo": "¡Palo y más palo! Los Tiburones barrieron a las Águilas en la capital",
+      "resumen": "Los Salados no tuvieron compasión y le dieron una felpa de 11 a 4 a los rapaces en el Universitario. Simón Muzziotti sacó la clase con un jonronazo que puso a gozar a la samba desde temprano. Con este",
+      "imagen": "https://www.liderendeportes.com/wp-content/uploads/2026/11/20261127_235544_0000-1-300x225.png",
       "fuente": "Lider",
-      "link": "https://www.liderendeportes.com/baseball/lvbp/tiburones-muestra-caracter-desde-el-inicio/"
+      "link": "https://www.liderendeportes.com/baseball/lvbp/tiburones-barrio-a-las-aguilas-con-felpa-incluida/"
     }
   ],
   "espectaculos": [
     {
-      "titulo": "¡Talento puro! Enrique Hernández se llevó el premio mayor de fotografía",
-      "resumen": "El fotógrafo Enrique Hernández, con más de 37 años dándole al clic, ganó el primer lugar del concurso del SAPI con su obra «Vergüenza inocente». La foto, un blanco y negro espectacular captado en un r",
+      "titulo": "¡Qué talento! Enrique Hernández se alzó con el premio nacional de fotografía",
+      "resumen": "Con más de 37 años dándole al clic, el fotógrafo Enrique Hernández ganó el concurso 'El don de ser venezolano'. Su obra 'Vergüenza inocente', captada en un sobrio blanco y negro, se llevó los aplausos",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-3.07.16-PM-300x200.jpeg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/enrique-hernandez-sabe-captar-la-ternura/"
     },
     {
-      "titulo": "¡Valencia es puro arte! El Salón Arturo Michelena abrió por todo lo alto",
-      "resumen": "El Museo de la Cultura de Valencia se vistió de gala para la edición 68 del Salón Arturo Michelena. Hay más de 360 obras de artistas de toda Venezuela, muchos de ellos chamos que están exponiendo por ",
+      "titulo": "¡Valencia se viste de gala! El Salón Michelena abrió sus puertas con todo",
+      "resumen": "El Museo de la Cultura de Valencia está que no cabe de la emoción con el 68° Salón Arturo Michelena. Son 363 obras de artistas de toda Venezuela que están en exhibición para el disfrute del pueblo. El",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/4-1-300x225.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/carabobo/salon-arturo-michelena-exhibe-mas-de-360-piezas-en-valencia/"
     },
     {
-      "titulo": "Rómulo Gallegos: El maestro que marcó el rumbo de nuestra historia",
-      "resumen": "En el Celarg se cerró con broche de oro el ciclo dedicado a Rómulo Gallegos. El escritor Benito Yrady nos recordó que Gallegos no solo fue nuestro novelista más grande, sino un maestro y un político q",
+      "titulo": "Recordando al maestro: Rómulo Gallegos brilló en el Celarg",
+      "resumen": "En el Celarg se echaron un cuento bien bueno sobre nuestro Rómulo Gallegos. El escritor Benito Yrady nos paseó por la vida íntima e intelectual de este gigante de las letras. Recordamos que Gallegos n",
       "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/Ponencia-Benito-Yrady-Foto-MIB-03-300x243.jpg",
       "fuente": "Ultimas Noticias",
       "link": "https://ultimasnoticias.com.ve/cultura/una-mirada-intima-e-intelectual-sobre-romulo-gallegos-fue-ensenada-en-el-celarg/"
@@ -52,25 +52,25 @@
   ],
   "tecnologia": [
     {
-      "titulo": "¡Qué nivel! El MIT crea una IA que diseña chips rapidito y seguro",
-      "resumen": "Científicos del MIT se lanzaron una innovación de las buenas: crearon SLIC, una inteligencia artificial que diseña circuitos como si fuera un ingeniero experto. Lo mejor es que usa modelos pequeños y ",
-      "imagen": "https://www.infobae.com/resizer/v2/ZKJCCYMPJNHLJBYAEATQTO4LPQ.png?auth=4d8380bb6e0d1125400963dfcac9ceafc2a037897ebd9294737e5365dd7ed2c9&smart=true&width=1600&height=893",
+      "titulo": "¡Mosca con las claves! Científico advierte que la IA podría romper el internet",
+      "resumen": "El profesor Scott Aaronson soltó una bomba: dice que es casi seguro que los laboratorios de Inteligencia Artificial ya tienen resultados que podrían romper el cifrado que protege nuestras claves y pag",
+      "imagen": "https://www.infobae.com/resizer/v2/EABWK5TQUVKUVRFWSM46UP3UBI.jpg?auth=7461ac5bd97c1f5f61169497ad7da6396b1d447d8bb4896f633bb3dfc6b4a6e9&smart=true&width=800&height=533",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/27/cientificos-del-mit-desarrollan-un-modelo-de-ia-que-puede-disenar-chips-como-un-ingeniero-y-con-una-fraccion-de-recursos/"
+      "link": "https://www.infobae.com/tecno/2026/11/28/cientifico-cree-casi-seguro-que-laboratorios-de-ia-guardan-hallazgos-que-afectarian-el-cifrado-de-internet/"
     },
     {
-      "titulo": "¿iCloud full todavía? Te contamos el truco para liberar espacio de verdad",
-      "resumen": "¡Epa! ¿Borraste mil fotos y el iCloud sigue gritando que está lleno? No te enrolles, lo que pasa es que Apple guarda copias de seguridad, carpetas de eliminados y archivos en iCloud Drive que siguen o",
-      "imagen": "https://www.infobae.com/resizer/v2/DAUNM73P6NCWDDR7IJOGQSP5PQ.png?auth=d97c1ba63b8828c84f9e8dce75bb9967d5dbeb0ada06b5b33b845b96d354203f&smart=true&width=1920&height=1080",
+      "titulo": "¡Mujeres echadas pa' lante! Cabify es el motor económico de las colombianas",
+      "resumen": "Aunque el mundo del volante sigue lleno de caballeros, las mujeres en Colombia están sacando la cara. Una encuesta reveló que el 79% de las damas que conducen con Cabify lo tienen como su entrada de p",
+      "imagen": "https://www.infobae.com/resizer/v2/VVHS3PUVZNFGBLCSSTOVBWCN2A.png?auth=9d507983f148b03c0ad2d004956165bfd5be31b7fa8f3f8baea1b29a757adf1d&smart=true&width=1920&height=1080",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/27/por-que-icloud-sigue-lleno-al-borrar-fotos-el-truco-de-respaldos-y-carpetas-ocultas/"
+      "link": "https://www.infobae.com/tecno/2026/11/28/el-79-de-mujeres-colombianas-en-cabify-tiene-a-la-plataforma-como-fuente-principal-de-ingresos/"
     },
     {
-      "titulo": "¡Instagram se puso las pilas! Ahora Muse te ayuda directo en el chat",
-      "resumen": "Meta integró su inteligencia artificial «Muse» directo en los mensajes de Instagram. Ahora no tienes que salirte de la app para pedir ayuda; Muse te arma el itinerario de viaje, te explica un post o h",
-      "imagen": "https://www.infobae.com/resizer/v2/KTEXB2F63ZCVRH5LPKEKUABTTU.JPG?auth=5e5c05ead759aa2fa9365bf15a26df1b4f06d0bfa35f629f721ea5f5393719a3&smart=true&width=4000&height=2250",
+      "titulo": "¡No más celular full! El truquito de Google Fotos para liberar espacio",
+      "resumen": "¿Tienes el teléfono que no le cabe ni un mensaje? Google Fotos te salva la vida. El truco es borrar del equipo las fotos y videos que ya tienen respaldo en la nube. Así liberas espacio sin perder tus ",
+      "imagen": "https://www.infobae.com/resizer/v2/Y7AH5PLTZJHT7CK7C3R4DF6OWY.JPG?auth=8eb27a6ece73179df191923c1e1af1d686a4807bb83e9e144d3d18df671121d7&smart=true&width=3969&height=2646",
       "fuente": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/11/27/meta-anade-su-ia-muse-a-los-mensajes-de-instagram-ayudara-a-hacer-compras-y-otras-rutinas/"
+      "link": "https://www.infobae.com/tecno/2026/11/28/como-liberar-espacio-en-un-celular-android-el-truco-de-google-fotos/"
     }
   ]
 }
